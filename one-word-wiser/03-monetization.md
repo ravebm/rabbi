@@ -8,11 +8,11 @@ This is the Already Home model (free preview → paid, ~2.2% conversion, 8–15 
 
 ## What makes it Evan's, not just another Hebrew word list
 
-The **meaning** beat of every evening comes from the rabbis. Not etymology — a *reading*. A Midrash that notices the gap in the verse. A Talmud story with a sage in a room. The way Rashi asks the question a Christian reader didn't know was there. This is what a pulpit rabbi does every Friday night and what a bestselling author of *Reading the Old Testament Through Jewish Eyes* has been doing for Christians for twenty years. HfC gives the word. Evan gives the word *the way two thousand years of rabbis read it*, then one thing to do with it before you sleep. That's the whole paid product, and nobody else in this lane can make it.
+The **meaning** beat of every evening comes from the rabbis. Not etymology — a *reading*. A Midrash that notices the gap in the verse. A Talmud story with a sage in a room. The way Rashi asks the question a Christian reader didn't know was there. This is what a pulpit rabbi does every Friday night and what the author of *What Every Christian Needs to Know About the Old Testament* has been doing for Christians for twenty years. The Old Testament is the lane. The Gospels are a door the word occasionally walks through — that's what "Genesis to the Gospels" promises, and once or twice a week keeps it honest. HfC gives the word. Evan gives the word *the way two thousand years of rabbis read it*, then one thing to do with it before you sleep. That's the whole paid product, and nobody else in this lane can make it.
 
 ## What free gets
 
-- **Every morning post, complete.** Word, meaning, application. 300–400 words. The Hebrew, the root picture, one verse, one line to carry, one question for the day — and a one-line pointer to where the word echoes in the Gospels.
+- **Every morning post, complete.** Word, meaning, application. 300–400 words. The Hebrew, the root picture, one verse, one line to carry, one question for the day. Hebrew Bible, the way a Christian reader has never been shown it.
 - **The evening line.** The evening email goes to everyone; free readers see the recall and one standalone sentence above the paywall. A real line to sleep on, every night, free.
 - **Saturday Havdalah** — the week's five words and their ten lines (five morning, five evening).
 - **Sunday** — *Your Verse* and *The Week Ahead*.

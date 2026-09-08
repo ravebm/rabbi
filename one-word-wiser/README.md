@@ -15,7 +15,7 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | | |
 |---|---|
 | **Cadence** | Morning post (6:00 am CT) + Evening post (7:00 pm CT), Monday–Friday. Saturday evening recap. Sunday: reader's verse + week ahead. |
-| **☀️ Morning — *Boker Tov*** | Free, always, complete. The word, its root-picture, one verse, the turn, one line to carry, a one-line Gospel pointer, and a door: the question tonight answers. 300–400 words. |
+| **☀️ Morning — *Boker Tov*** | Free, always, complete. The word, its root-picture, one verse, the turn, one line to carry, and a door: the question tonight answers. Hebrew Bible, always; a Gospel echo when the word has one. 300–400 words. |
 | **🌙 Evening — *Laila Tov*** | Paid. Word (two free lines above the gate) → Meaning (what the rabbis saw — a Midrash, a Talmud story, Rashi's question) → Application (one thing to do, one line to sleep on). 250–350 words, same shape every night. |
 | **Paid tier** | The evening, period. $7/mo · $60/yr ("sixteen cents a night") · Founding $180. 7-day free trial on. |
 | **Sections** | Two Substack sections — *Morning* and *Evening* — so readers can keep one and mute the other. This is the churn insurance the 2x/day cadence requires. |

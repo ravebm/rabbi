@@ -11,7 +11,7 @@ The Bible was not written in English.
 
 You know that. But most of us read it as if it were. And so we miss things. Not small things. The pictures inside the words.
 
-In Hebrew, *hope* is a rope. *Peace* means *whole*. The word Jesus used when he said "repent" — the very first word of his ministry — doesn't mean feel sorry. It means *come home*.
+In Hebrew, *hope* is a rope. *Peace* means *whole*. The word your Bible translates "repent" doesn't mean feel sorry. It means *come home*.
 
 I've spent twenty years teaching this to churches. One word at a time, in fellowship halls and sanctuaries, on Sunday mornings and Wednesday nights. It's the work that produced my books, and it's the work I love most.
 

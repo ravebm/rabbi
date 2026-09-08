@@ -53,8 +53,8 @@ The *aleph* — first letter, the number one, and silent: the letter that says n
 hebrew.substack.com proves the demand: twice-daily Hebrew word notes, tens of thousands of subscribers, $70/yr kit. Their moat is consistency, not credentials. Yours:
 
 1. **Authority.** A rabbi. Bestselling author (*What Every Christian Needs to Know About Passover*, *What Every Christian Needs to Know About the Jewishness of Jesus*, *Reading the Old Testament Through Jewish Eyes*). Two decades of speaking in churches. Readers of HfC are already the audience for your books — and vice versa.
-2. **The second layer.** HfC gives the word and the verse. You give the word, the verse, *and what Rashi / the Midrash / the Talmud / Heschel / Sacks saw in it*. That is a category of content only a rabbi can produce with a straight face.
-3. **The Jesus bridge, done from inside.** When you say "when Jesus said *repent*, his listeners heard *shuvu* — come home," it lands differently than when a Christian says it. You are the honest witness from the other side of the room.
+2. **The second layer.** HfC gives the word and the verse. You give the word, the verse, *and what Rashi / the Midrash / the Talmud / Heschel / Sacks saw in it*. That is a category of content only a rabbi can produce with a straight face — and it's the book Christians already bought from you: *What Every Christian Needs to Know About the Old Testament.*
+3. **The Jesus bridge, used sparingly.** The Old Testament is the lane; the Gospels are a door the word walks through once or twice a week (*abba*, *hosanna*, *shuvu*). When you say "when Jesus said *repent*, his listeners heard *shuvu* — come home," it lands differently than when a Christian says it — precisely because you don't say it every day.
 4. **A list.** You start where HfC is after years. The first 90 days are about converting warmth into habit, not about finding readers.
 5. **A working ad.** You already know the Facebook creative that converts. The funnel in `04` is built to receive it.
 
@@ -68,7 +68,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 - **One anchor per post.** Rashi, the Midrash, the Talmud, Heschel, Sacks, Maimonides. Told as a story, not cited as a footnote. Never a pile-up.
 - **Rhythm through repetition.** The word is the drumbeat. It should appear five to eight times in a morning post.
 - **Warm, never cute. Respectful, never preachy.** You are not converting anyone in either direction. You are a rabbi handing a Christian a key to their own Bible.
-- **Jesus is quoted accurately and warmly.** Gospel citations are real, checked, and given in a translation Christians actually read (ESV or NIV; pick one and stay with it — **DECIDE**). Never "the Christian Bible says." Say "Matthew," "Luke," "Jesus."
+- **The Hebrew Bible is home.** Most posts never leave it. When a Gospel echo earns its place, Jesus is quoted accurately and warmly, in a translation Christians actually read (ESV or NIV; pick one — **DECIDE**). Never "the Christian Bible says." Say "Matthew," "Luke," "Jesus."
 - **No hedging about theology.** Where Jews and Christians read a verse differently, name it in one sentence and move on: "Christians hear X here. The rabbis heard Y. Hold both for a moment." That honesty *is* the brand.
 - **One idea per post.** If the evening post wants two teachings, save one.
 - **Never salesy.** The paid line is a door, not a wall. Every free section is a complete gift. The words "unlock," "exclusive," "don't miss," and "limited" do not appear in this publication.

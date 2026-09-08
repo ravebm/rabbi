@@ -35,14 +35,13 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 5. **The turn.** Two to four short paragraphs: what changes when you see the Hebrew under the English. This is the insight. One idea.
 **Application**
 6. **One line to carry.** A single sentence, set off on its own, that fits on a phone lock screen. Italic. This is the shareable unit.
-7. **Where it echoes.** One line, a pointer not a teaching: "*Where it echoes:* Matthew 4:17 — the first word of Jesus's public ministry." This keeps the *Genesis to the Gospels* promise visible to free readers; the evening does the teaching.
-8. **Today's question.** One question for the day. Not homework — a lens. "Where, today, is something asking you to turn around?"
-9. **The door.** One sentence that names the question tonight answers: "Tonight: why the rabbis say the one who comes back stands higher than the one who never left." The morning is complete; it just leaves a question in the room. Then "— Rabbi Evan."
+7. **Today's question.** One question for the day. Not homework — a lens. "Where, today, is something asking you to turn around?"
+8. **The door.** One sentence that names the question tonight answers: "Tonight: why the rabbis say the one who comes back stands higher than the one who never left." The morning is complete; it just leaves a question in the room. Then "— Rabbi Evan."
 
 ### Rules
 - The word appears 5–8 times. It's the drumbeat.
 - No rabbinic sources in the morning. That's the evening's gift. Morning is text and picture only.
-- No Jesus in the morning beyond the one-line *Where it echoes* pointer. Morning is Hebrew Bible. This keeps the morning post something a Jewish reader can forward too, and it keeps the evening post with something to reveal.
+- Morning is Hebrew Bible. That's the lane: *What Every Christian Needs to Know About the Old Testament* is the credential. When a word has a famous Gospel echo (*abba*, *hosanna*, *shema*), one line — "*Where it echoes:* Mark 12:29" — is enough; most days, none. This keeps the morning post something a Jewish reader can forward too, and it keeps the evening post with something to reveal.
 - No paywall, no "upgrade," no button. A single line at the bottom of the email footer (Substack's default) is enough.
 
 ---
@@ -62,7 +61,7 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 `[PAYWALL]`
 
 **Meaning** *(what the rabbis saw)*
-3. **The reading.** 120–180 words. One rabbinic reading of the word — a Midrash noticing the gap in the verse, a Talmud story with a sage in a room, Rashi's question, the picture in the letters. Told as a scene, not cited. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps. When the word wants it, the reading ends in the Gospels — what the first listeners heard.
+3. **The reading.** 120–180 words. One rabbinic reading of the word — a Midrash noticing the gap in the verse, a Talmud story with a sage in a room, Rashi's question, the picture in the letters. Told as a scene, not cited. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps. The reading stays in the Hebrew Bible and the rabbis. Once or twice a week at most — when the word itself walks into a Gospel (*abba*, *hosanna*, *shuvu*) — it ends there, in what the first listeners heard. Week 9 is the deliberate Gospel week.
 
 **Application** *(one thing)*
 4. **The turn.** 40–60 words. From the scene to the reader's actual night. "You know the one."
@@ -73,7 +72,7 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 Optional: a two-minute phone recording — the word three times, the line to sleep on. Nothing else attached.
 
 ### Where the readings come from (a palette, not a schedule)
-Midrash (the gap in the text) · Talmud (a sage, a room, an argument) · Rashi (the question you didn't know was there) · the letters (their pictures — *bet* a house, *ayin* an eye) · the prayers Jesus would have prayed (Psalms, the Shema, the blessings) · the Gospels, heard in Hebrew. Vary across the week; never the same source two nights running.
+Midrash (the gap in the text) · Talmud (a sage, a room, an argument) · Rashi (the question you didn't know was there) · the letters (their pictures — *bet* a house, *ayin* an eye) · the Psalms and the prayer book · occasionally the Gospels, heard in Hebrew. Vary across the week; never the same source two nights running.
 
 ### Rules
 - The two lines above the gate are a gift, not a tease. No fragments, no "keep reading."

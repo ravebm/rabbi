@@ -1,6 +1,6 @@
 # Word Bank — First 12 Weeks
 
-Sixty words, five a week, themed to the calendar. Each entry: Hebrew · transliteration · gloss · root picture · Hebrew Bible verse (the morning) · rabbinic anchor (the evening) · Gospel echo (the evening). The anchors and echoes are starting points for the skill; Evan swaps freely.
+Sixty words, five a week, themed to the calendar. Each entry: Hebrew · transliteration · gloss · root picture · Hebrew Bible verse (the morning) · rabbinic anchor (the evening) · Gospel echo (optional — use once or twice a week when the word genuinely walks into a Gospel; Week 9 is the deliberate Gospel week). The anchors and echoes are starting points for the skill; Evan swaps freely.
 
 Calendar assumptions (verify against a 5787 calendar before scheduling): Rosh Hashanah eve Fri Sep 11 · Yom Kippur eve Sun Sep 20 · Sukkot eve Fri Sep 25 · Simchat Torah ~Oct 3–4 · Thanksgiving Nov 26 · Advent begins Nov 29 · Hanukkah eve Fri Dec 4.
 
