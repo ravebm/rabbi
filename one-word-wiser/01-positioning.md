@@ -28,6 +28,22 @@ Current: *One Hebrew word, one rabbinic teaching, and one wiser way to live.*
 
 Short form for the header / social bio: **Hebrew for Christians (and curious Jews), from a rabbi.**
 
+## The description (approved — use verbatim)
+
+For the Substack short description, the website, and the Facebook ad landing page:
+
+> The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic, morning and evening. No Hebrew required.
+
+Why it works: the first sentence is the hook and shows first on Substack's discover page; "Genesis to the Gospels" signals both testaments without naming Jesus; "No Hebrew required" removes the one objection that stops people subscribing. Don't add "discover," "wisdom," or "journey" to it.
+
+## The logo
+
+The *aleph* — first letter, the number one, and silent: the letter that says nothing and holds everything (that's a Week 1 or Week 4 post: "Why an aleph?"). Deep navy (#1B2A41) on white; the same navy the word cards use, so header, cards, and icon read as one thing.
+
+- **Avatar / favicon:** the small navy square with the cream aleph. The byline is unreadable at avatar size anyway.
+- **Header / cover / email masthead:** the full wordmark with "with Rabbi Evan Moffic."
+- Check the icon cut at 64px — the aleph's upper-right stroke is detached and can read as a floating *yud*; thicken the joint on the icon version only if it does.
+
 ## The positioning statement (internal — don't publish)
 
 > For Christians who love the Bible but read it in translation, *One Word Wiser* is the twice-daily letter from a rabbi that teaches one Hebrew word a day — with the rabbinic tradition behind it and the place Jesus used it — so that the verses you have read your whole life open up. Unlike *Hebrew for Christians*, it comes from a bestselling author and working rabbi who has spent twenty years teaching Judaism to churches, and it goes past vocabulary into what the sages saw in the word.
