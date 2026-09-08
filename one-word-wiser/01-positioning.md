@@ -32,9 +32,9 @@ Short form for the header / social bio: **Hebrew for Christians (and curious Jew
 
 For the Substack short description, the website, and the Facebook ad landing page:
 
-> The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic, morning and evening. No Hebrew required.
+> The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic. No Hebrew required.
 
-Why it works: the first sentence is the hook and shows first on Substack's discover page; "Genesis to the Gospels" signals both testaments without naming Jesus; "No Hebrew required" removes the one objection that stops people subscribing. Don't add "discover," "wisdom," or "journey" to it.
+Why it works: the first sentence is the hook and shows first on Substack's discover page; "Genesis to the Gospels" signals both testaments without naming Jesus; the morning/evening cadence is deliberately left out — readers find it on day one, and it belongs in the paid pitch, not the public line; "No Hebrew required" removes the one objection that stops people subscribing. Don't add "discover," "wisdom," or "journey" to it.
 
 ## The logo
 
