@@ -2,70 +2,64 @@
 
 ## The principle
 
-**Free must be genuinely worth reading every day, or the paid tier has nothing to stand on.** HfC's model (every post free, paid gets the "Kit") and Already Home's model (free preview, paid full) both work. We take the best of each: the *word* and the *teaching* are free; the *wiser way* is paid. The tagline already says so.
+**Morning is the gift. Evening is the ritual.** Both have the same three beats — **word, meaning, application** — and that's all. The morning is free and complete. The evening is paid, shorter, read in bed, and the same shape every night. The morning leaves one question in the room; the evening answers it.
+
+This is the Already Home model (free preview → paid, ~2.2% conversion, 8–15 paid/week) with a stronger engine: two touches a day, and the gate is a nightly ritual rather than a section of an article.
+
+## What makes it Evan's, not just another Hebrew word list
+
+The **meaning** beat of every evening comes from the rabbis. Not etymology — a *reading*. A Midrash that notices the gap in the verse. A Talmud story with a sage in a room. The way Rashi asks the question a Christian reader didn't know was there. This is what a pulpit rabbi does every Friday night and what a bestselling author of *Reading the Old Testament Through Jewish Eyes* has been doing for Christians for twenty years. HfC gives the word. Evan gives the word *the way two thousand years of rabbis read it*, then one thing to do with it before you sleep. That's the whole paid product, and nobody else in this lane can make it.
 
 ## What free gets
 
-- Every morning post, complete.
-- Every evening post through *Where Jesus Said It* — a full rabbinic teaching and a Gospel connection, daily.
-- Saturday recap, Sunday *Your Verse*, Sunday *Week Ahead*.
-- The *Seven Words Every Christian Should Know* PDF on signup (the lead magnet — see `04`).
-
-That's ~10 complete pieces a week for free. Nobody can call it a teaser.
+- **Every morning post, complete.** Word, meaning, application. 300–400 words. The Hebrew, the root picture, one verse, one line to carry, one question for the day — and a one-line pointer to where the word echoes in the Gospels.
+- **The evening line.** The evening email goes to everyone; free readers see the recall and one standalone sentence above the paywall. A real line to sleep on, every night, free.
+- **Saturday Havdalah** — the week's five words and their ten lines (five morning, five evening).
+- **Sunday** — *Your Verse* and *The Week Ahead*.
+- **Seven Words Every Christian Should Know** PDF on signup.
 
 ## What paid gets
 
-| Benefit | Cadence | Why it's worth paying for |
-|---|---|---|
-| **One Wiser Way** — the daily practice | Every evening, Mon–Fri | The thing readers actually change their lives with. Distinct from the teaching. |
-| **Audio** — Evan pronounces the word and reads the practice | Every evening | Hebrew is heard before it's read. Two minutes in your own ear at bedtime. Cheap to make, high perceived value. |
-| **Word cards** — daily card + Saturday five-card printable | Daily + weekly | Tangible. Goes on fridges, in Bibles, in Sunday school classrooms. Physical objects convert. |
-| **Full archive** | Always | Standard Substack; free readers get the last 30 days — **DECIDE** (recommendation: yes, archive-limit free after 90 days of relaunch; not before). |
-| **Ask the Rabbi** — monthly live Q&A | Monthly, Substack Live or Zoom | HfC runs a Thursday-night study group. Yours is monthly, an hour, recorded. The recording becomes a paid post. |
-| **Quarterly booklet** — the season's ~60 words as a designed PDF | Quarterly | Compilation of what already exists. "Sixty Hebrew Words for Advent" writes itself from the word bank. |
-| **First access + discounts on books** | As they come | You have a backlist. Paid readers are your launch team. |
+**🌙 *Laila Tov*, Monday through Friday.** What the rabbis saw in today's word, and one thing to do with it tonight. Ninety seconds. Same shape every night.
 
-No "community chat" as a headline benefit — it's a maintenance burden and nobody pays for it. Turn on Substack comments for paid only on evening posts (keeps them civil and gives paid a quiet perk).
+That's it. Plus the full archive (free readers see 30 days), and — only if it costs nothing to keep — a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes; it's what makes bedtime bedtime, and it's five voice memos on a Thursday.
+
+Not included, on purpose: word cards, booklets, community chat, tiers of benefits. A monthly *Ask the Rabbi* live can be added in month three if paid readers ask for it; don't promise it up front.
 
 ## Pricing
 
 | Plan | Price | Note |
 |---|---|---|
-| Monthly | **$7** | Below the $8 psychological line. Monthly exists for people who won't commit; expect 25% of paid here. |
-| Annual | **$60** | "About sixteen cents a day." HfC is $70/yr — undercutting by $10 while offering more (rabbinic layer, live Q&A) is the position. Substack shows annual as the default; keep it so. |
-| Founding | **$180** | Same as Already Home. Benefits: a signed book, name in the annual thank-you post, and one 20-minute call a year. Founders are ~3–5% of paid but ~10% of revenue. |
-| Free trial | **7 days** | On. It's on at Already Home and the trial→paid path shows in the dashboard (21 trials, 37 paid in the last 30 days). |
-| Group / gift | On | Churches buy in fives. Enable group subscriptions at 20% off. |
+| Monthly | **$7** | ~25% of paid |
+| Annual | **$60** | "About sixteen cents a night." HfC is $70. Annual is the default shown. |
+| Founding | **$180** | A signed book and Evan's thanks by name once a year. Nothing else. |
+| Free trial | **7 days** | On. Seven evenings is exactly enough to form the habit. |
 
-**DECIDE:** $60 vs $70 annual. $70 matches HfC and adds ~17% revenue per paid sub; $60 is the "more for less" story. I'd start at $60 and raise to $70 after the first 500 paid, grandfathering existing subscribers — that turns a price rise into a loyalty moment.
+**DECIDE:** $60 vs. $70. Start $60, raise to $70 at 500 paid, grandfather everyone.
 
 ## Revenue model (conservative)
 
-Inputs: rabbi.substack.com is "tens of thousands" of free subscribers (assume ~20k at relaunch; **replace with the real number**). Already Home converts 2.2% at one post a day; the Hebrew niche has a stronger felt need and two daily touches.
+Assume ~20k free at relaunch (**replace with the real number**). Already Home converts 2.2% with one gate a day; a nightly ritual gate should do better.
 
-| Milestone | Free | Paid rate | Paid | Blended $/paid/yr | ARR |
+| Milestone | Free | Paid rate | Paid | $/paid/yr | ARR |
 |---|---|---|---|---|---|
-| Relaunch + 90 days | 22,000 | 1.5% | 330 | $62 | ~$20k |
-| Month 6 | 30,000 | 2.5% | 750 | $64 | ~$48k |
-| Month 12 | 45,000 | 3.0% | 1,350 | $66 | ~$89k |
-| Month 24 | 80,000 | 3.5% | 2,800 | $68 | ~$190k |
+| Relaunch + 90 days | 22,000 | 1.8% | 400 | $62 | ~$25k |
+| Month 6 | 30,000 | 2.8% | 840 | $64 | ~$54k |
+| Month 12 | 45,000 | 3.3% | 1,500 | $66 | ~$99k |
+| Month 24 | 80,000 | 3.8% | 3,000 | $68 | ~$204k |
 
-Free growth assumes the Facebook ad at ~$1.50–2.50/subscriber and ~$1,500–3,000/month spend from month 2, plus organic. Payback on a $2 subscriber at 3% conversion and $64/yr is under 30 days of the paid subscriber's life — the ad pays for itself the moment it works, which you already know it does.
-
-Churn: Already Home lost 2.2% of free in the last month with a daily post. At two a day, expect 3% without sections and 2% with them. **Sections are not optional.**
+Churn: expect 2–3% of free monthly with two emails a day. **Sections are not optional** — free readers who mute *Evening* still get the morning gift and the Saturday taste of paid.
 
 ## What *not* to do
 
-- **No paywall on the morning post. Ever.** It's the growth engine, the forwardable unit, and the ad's landing promise.
-- **No urgency copy.** No "last chance," no countdowns, no "only for the next 48 hours." The only sale of the year is a quiet 20% off the week between Christmas and New Year, announced in one line.
-- **No mid-post upsells.** One paywall line, one footer. Substack's own button does the rest.
-- **No sponsorships or affiliate links** in the first year. Trust is the asset; renting it out is expensive.
-- **No dropping to one post a day when tired.** The pattern is the product. If a day must be missed, miss the evening, never the morning, and say so in one line the next morning.
+- **No paywall on the morning. Ever.**
+- **No urgency copy.** One quiet 20%-off week between Christmas and New Year, one line.
+- **No pitch inside the evening preview.** The free lines above the gate are a gift; Substack's own button does the asking.
+- **No sponsorships or affiliates** in year one.
+- **Never drop the evening when tired.** The ritual is the product.
 
 ## When to turn paid on
 
-Not on day one of the relaunch. The list is used to a different newsletter; earn the new habit first.
-
-- **Weeks 1–2:** all free, including *One Wiser Way*. Let readers experience the whole thing.
-- **Week 3:** the paywall goes in with a single Sunday-evening note: "Starting Monday, the last section of each evening post — the practice, the audio, the card — is for paid subscribers. Everything else stays free. It's $60 a year. Thank you for reading either way."
-- **Week 3–4:** founding-reader window: the first 100 annual subscribers get their name in the Week 6 thank-you post. Named, quiet, once.
+- **Weeks 1–2:** everything free, evenings included.
+- **Week 3:** the paywall goes on the evening with one Sunday-evening note: "Starting Monday, *Laila Tov* — the evening post — is for paid subscribers. Mornings stay free, always, and so do Saturday and Sunday. It's $60 a year, about sixteen cents a night. Thank you for reading either way."
+- **Weeks 3–4:** founding window; first 100 annual subscribers thanked by name in the Week 6 Saturday post.

@@ -21,7 +21,7 @@ Starting Monday, *One Word Wiser* becomes what its name says.
 
 **Every morning, one Hebrew word.** Its root. The picture inside it. One verse you've read your whole life that changes when you see the Hebrew under it. Two minutes. Free.
 
-**Every evening, what the rabbis saw in it.** Two thousand years of teachers reading that word — Rashi, the Midrash, the Talmud — and then the place Jesus used it. Because Jesus was a rabbi, and his listeners heard Hebrew where we hear English. Also free.
+**Every evening, what the rabbis saw in it.** Two thousand years of teachers reading that word — Rashi, the Midrash, the Talmud — and one thing to do with it before you sleep. Ninety seconds. The same shape every night.
 
 Saturday is Shabbat. One short recap of the week's five words. Sunday, *your* verse — you send me one, I show you the Hebrew underneath. Just reply to any email.
 
@@ -29,7 +29,7 @@ A few honest things:
 
 Two emails a day is more than you're used to from me. If you only want mornings, there's a switch. Go to your subscription settings and turn off *Evening*. You'll still get everything else, and I won't be offended.
 
-Everything I described above is free. In a few weeks, I'll add a small paid layer — the evening post's last section, a practice for that night, with audio and a printable card. About sixteen cents a day. I'll tell you plainly when it starts. Nothing free will become less.
+For the first two weeks, all of it is free. After that, the morning stays free — always — and the evening becomes the paid part. About sixteen cents a night. I'll tell you plainly when it starts. Nothing in the morning will become less.
 
 And if you're Jewish and reading this thinking, *he's writing for Christians now* — yes, mostly. But every morning post is Torah. You'll like it too.
 

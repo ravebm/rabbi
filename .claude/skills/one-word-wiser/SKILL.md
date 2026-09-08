@@ -16,27 +16,30 @@ Everything you need is in `one-word-wiser/`: `01-positioning.md` (voice rules, A
 
 ## Output contract
 
-Return each post as Substack-ready Markdown with this header block, then the body:
+Return each post as Substack-ready Markdown with this header block, then the body. Every post is **word → meaning → application** and nothing else:
 
 ```
-# [Day] [morning|evening] — [THE WORD|THE TEACHING] · *word*
+# [Day] [morning|evening] — [☀️ BOKER TOV|🌙 LAILA TOV] · *word*
 **Subject:** [per the subject-line system in 02]
 **Section:** Morning|Evening · **Paywall:** none | after "[section]" · **Send:** 6:00 am CT | 7:00 pm CT
-**Word card:** Hebrew / translit / gloss / verse ref / one line to carry
-**Notes:** (1) the one line to carry, plain text, for 9 am  (2) one-sentence value note for 1 pm
+**Notes:** (1) the one line to carry, plain text, for 9 am  (2) the evening line, plain text, for 9 pm
 ```
 
-### Morning post (250–350 words) — free
-Hebrew script large and centered → transliteration (stress marked) + gloss → "say it" line → root picture → **one** verse (English, translation named; then transliterated Hebrew with the word bolded) → the turn (2–4 short paragraphs, one idea) → *one line to carry* in italic on its own line → **Today's question** → one-sentence pointer to the evening → "— Rabbi Evan".
-No rabbinic sources. No Jesus beyond a passing mention. No paid language at all.
+### Morning post — ☀️ Boker Tov (300–400 words) — free
+Three beats: **word, meaning, application.**
+Hebrew script large and centered → transliteration (stress in CAPS) + gloss → "say it" line → root picture → **one** verse (English, translation named; then transliterated Hebrew with the word bolded) → the turn (2–4 short paragraphs, one idea) → *one line to carry* in italic on its own line → *Where it echoes:* one line pointing to the Gospel passage (a pointer, not a teaching) → **Today's question** → **the door**: one sentence naming the question tonight answers → "— Rabbi Evan".
+No rabbinic sources in the morning. No Jesus beyond the pointer. No paid language.
 
-### Evening post (400–550 words; ~300 above the gate)
-One-line recall → `---` → rabbinic teaching (150–200 words, one named anchor told as a scene, one memorable image) → `---` → **Where Jesus said it.** (100–150 words; quote the Gospel verse; show what Hebrew-hearing listeners heard; name the parallel plainly) → `---` → **The turn.** (2–3 sentences to the reader's actual evening, then one open, unresolved question, then one sentence that promises what's below without pitching) → `` `[PAYWALL]` `` → **One wiser way.** (the usable distinction first, then a practice doable tonight with a specific first step; 100–150 words) → blessing close (*Laila tov* / *Shalom* / "Tomorrow: *next word*") → "— Rabbi Evan" → `---` → **Audio script (≈2 min):** the word three times slowly, then the practice, with `[Pause]` markers.
-
-**Free-reader covenant:** the free section is complete — a real teaching and a real Gospel connection, never a fragment or a cliffhanger above the gate. The paid section is the practice, not "the rest."
+### Evening post — 🌙 Laila Tov (250–350 words) — paid
+Same three beats, same shape every night. No headers inside the post.
+**Word** (above the gate): one-line recall → *the evening line* — one sentence that stands alone and that a free reader can sleep on.
+`` `[PAYWALL]` ``
+**Meaning**: the reading — 120–180 words, one rabbinic reading of the word (Midrash noticing the gap, a Talmud story with a sage in a room, Rashi's question, the letters' pictures, a prayer Jesus would have prayed), told as a scene, source named in the text, one image the reader keeps; when the word wants it, end in the Gospels — what the first listeners heard.
+**Application**: the turn (40–60 words, to the reader's actual night, "you know the one") → one thing to do (one sentence, tonight or tomorrow morning) → *the line to sleep on* in italic → the blessing ("*Laila tov* — good night. Tomorrow: *next word*.") → "— Rabbi Evan" → optional `Audio (~1:30)` script: the word three times, the evening line, the one thing, the line to sleep on.
+The two lines above the gate are a gift, not a tease. One reading, one thing, one line. Never the same source two nights running.
 
 ### Saturday — HAVDALAH (200–300 words) — free
-One line on the theme → the five words (Hebrew · translit · gloss · one-sentence essence, each linked `[…](MORNING_POST_URL)`) → the five lines to carry in a row → the unchanging ask: *"If one of these words opened something for you this week, tell one person. A note from you reaches someone no ad ever could."* → "*Shavua tov* — a good week." Mention the referral program once a month here, one line.
+One line on the theme → the five words (Hebrew · translit · gloss · one-sentence essence, each linked `[…](MORNING_POST_URL)`) → the five lines to carry and the five lines to sleep on → the unchanging ask: *"If one of these words opened something for you this week, tell one person. A note from you reaches someone no ad ever could."* → "*Shavua tov* — a good week." Mention the referral program once a month here, one line.
 
 ### Sunday morning — YOUR VERSE (250–350 words) — free
 Open with first name + state and the verse they sent → morning-post anatomy keyed to the word the verse turns on → close: "Send me a verse. Just reply to this email."
@@ -45,7 +48,7 @@ Open with first name + state and the verse they sent → morning-post anatomy ke
 Why this theme now (calendar, season) → the five words, one sentence each, with the day → "Monday morning, 6:00. Say it once tonight: *…*" → "See you at sunrise."
 
 ### "Write the week"
-When asked for a whole week, produce all ten weekday posts in order (Mon AM, Mon PM, Tue AM, …), then Saturday and Sunday. Vary the evening anchors across the week (don't cite Rashi five days running), vary the blessing closes, and make sure the five *lines to carry* read well as a set — they'll appear together Saturday.
+When asked for a whole week, produce all ten weekday posts in order (Mon AM, Mon PM, Tue AM, …), then Saturday and Sunday. Vary the evening readings' sources across the week (never Rashi five nights running), vary the blessing closes, and make sure the five *lines to carry* and five *lines to sleep on* read well as sets — they appear together Saturday. Make sure each morning's door is answered by that evening's reading.
 
 ## Voice — non-negotiable
 - Short declaratives; fragments; paragraphs of 1–3 sentences.

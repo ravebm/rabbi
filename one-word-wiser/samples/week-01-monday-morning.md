@@ -1,8 +1,7 @@
-# Monday morning — THE WORD · *teshuvah*
+# Monday morning — ☀️ BOKER TOV · *teshuvah*
 
 **Subject:** ☀️ תְּשׁוּבָה · teshuvah · return
 **Section:** Morning · **Paywall:** none · **Send:** 6:00 am CT
-**Word card:** Hebrew תְּשׁוּבָה / *teshuvah* / return / Hosea 14:1 / "Repentance is a feeling. Return is a road."
 
 ---
 
@@ -37,8 +36,10 @@ That's the whole difference. Repentance asks: *how bad do I feel?* *Teshuvah* as
 
 *Repentance is a feeling. Return is a road.*
 
+*Where it echoes:* Matthew 4:17 — the first word of Jesus's public ministry. In his listeners' ears, it was this one.
+
 **Today's question:** Where, today, is something asking you to turn around? Not to feel worse about it. Just to face the other way.
 
-Tonight: what the rabbis said about the people who come back — and why the very first word of Jesus's ministry was this one.
+Tonight: why the rabbis say the one who comes back stands in a place the one who never left can't reach.
 
 — Rabbi Evan

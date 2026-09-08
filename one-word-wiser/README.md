@@ -15,12 +15,12 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | | |
 |---|---|
 | **Cadence** | Morning post (6:00 am CT) + Evening post (7:00 pm CT), Monday–Friday. Saturday evening recap. Sunday: reader's verse + week ahead. |
-| **Morning — "The Word"** | Free, always. The word, its root-picture, one verse, one insight, one line to carry. 250–350 words. |
-| **Evening — "The Teaching"** | Free through the rabbinic teaching and *Where Jesus Said It*. Paid from **One Wiser Way** (the practice) + audio + word card. 400–550 words. |
-| **Paid tier** | $7/mo · $60/yr ("about 16 cents a day") · Founding $180. 7-day free trial on. |
+| **☀️ Morning — *Boker Tov*** | Free, always, complete. The word, its root-picture, one verse, the turn, one line to carry, a one-line Gospel pointer, and a door: the question tonight answers. 300–400 words. |
+| **🌙 Evening — *Laila Tov*** | Paid. Word (two free lines above the gate) → Meaning (what the rabbis saw — a Midrash, a Talmud story, Rashi's question) → Application (one thing to do, one line to sleep on). 250–350 words, same shape every night. |
+| **Paid tier** | The evening, period. $7/mo · $60/yr ("sixteen cents a night") · Founding $180. 7-day free trial on. |
 | **Sections** | Two Substack sections — *Morning* and *Evening* — so readers can keep one and mute the other. This is the churn insurance the 2x/day cadence requires. |
 | **Growth engine** | Existing list (announcement + 2-week soft start) → Evan's proven Facebook ad → welcome sequence with the *Seven Words* lead magnet → "tell one person" line in every Saturday recap. |
-| **Differentiator** | HfC teaches a word. Evan teaches the word **plus 2,000 years of rabbis reading it**, then shows where Jesus — a rabbi — used it. Nobody else in this lane can do that credibly. |
+| **Differentiator** | HfC teaches a word. Evan teaches the word **the way two thousand years of rabbis read it** — Midrash, Talmud, Rashi — then one thing to do with it. A pulpit rabbi's move, made for Christians. Nobody else in this lane can do it. |
 
 ## Files
 

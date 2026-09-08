@@ -12,7 +12,7 @@ Here's what happens next:
 
 **Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse. Two minutes.
 
-**Tomorrow evening at 7:00** — what the rabbis saw in that word, and where Jesus used it.
+**Tomorrow evening at 7:00** — what the rabbis saw in that word, and one thing to do with it before you sleep.
 
 Saturday: a short recap of the week's five words. Sunday: a reader's verse, in Hebrew.
 
@@ -24,4 +24,4 @@ That's it. No grammar, no drills. One word, one verse, one rabbi.
 
 — Rabbi Evan
 
-*Paid subscribers ($60/yr) get the evening practice, audio, and printable cards. But there's no hurry, and there's no catch. Read for a while first.*
+*Mornings are free, always. The evening is for paid subscribers — $60 a year, about sixteen cents a night. But there's no hurry, and there's no catch. Read for a while first.*

@@ -37,7 +37,7 @@ Facebook ad
           → Day 14–21: first paywall exposure on an evening post that already fed them
 ```
 
-**Landing page:** Substack's default subscribe page with the cover image = the word card for *shalom* (Hebrew large, "peace means whole"). The card format *is* the ad creative — the ad and the landing page should look like the same thing.
+**Landing page:** Substack's default subscribe page with the logo as cover and the approved description from `01`. The ad creative should use the same navy, serif, and aleph so the ad and the landing page look like the same thing.
 
 **Ad copy variants** (headline / body) to test against the one you know works:
 
@@ -53,17 +53,17 @@ Target: interests in Bible study, Christian books, *The Chosen*, Max Lucado / Be
 
 Substack gives one welcome email. Make it do a lot: the *Seven Words* PDF, what to expect (morning/evening, the off switch), the "send me a verse" invitation, and the one-line paid note at the very bottom. See `samples/welcome-email.md`.
 
-**Seven Words Every Christian Should Know (the lead magnet):** a 7-page PDF, one word per page in the word-card design: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen*. Each page: Hebrew, transliteration, root picture, one verse, where Jesus used it, one line to carry. This is ~1,400 words of content that already lives in the word bank. Build it in Week 0; it's the most valuable single asset in the funnel because it's what the ad delivers.
+**Seven Words Every Christian Should Know (the lead magnet):** a 7-page PDF, one word per page, set in the logo's navy and serif: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen*. Each page: Hebrew, transliteration, root picture, one verse, where Jesus used it, one line to carry. This is ~1,400 words of content that already lives in the word bank. Build it in Week 0; it's the most valuable single asset in the funnel because it's what the ad delivers.
 
 ## The referral loop
 
 Three mechanisms, all quiet:
 
 1. **The Saturday line.** Every Havdalah post ends with the same sentence asking readers to tell one person. Ritual, not pitch.
-2. **The word card.** Every card has "rabbi.substack.com" in small type in the corner. Cards get screenshotted and posted in church Facebook groups. That's the organic engine.
+2. **The line to carry.** Every morning post has one italic sentence built to be screenshotted. They get posted in church Facebook groups. That's the organic engine.
 3. **Substack's own referral program** (Settings → Growth). Rewards: 3 referrals = one month paid; 10 = one year; 25 = a signed book. Mention it once a month, in the Saturday post.
 
-**Notes (Substack's social feed):** post the morning's *one line to carry* as a Note at ~9 am CT, plain text, no link. And the word card image as a Note at ~1 pm. Two Notes a day, both already written. Substack's algorithm currently rewards Hebrew script (it's visually distinct in the feed) — HfC's Notes show it.
+**Notes (Substack's social feed):** post the morning's *one line to carry* as a Note at ~9 am CT, plain text, no link. And the evening line as a Note at ~9 pm. Two Notes a day, both already written. Substack's algorithm currently rewards Hebrew script (it's visually distinct in the feed) — HfC's Notes show it.
 
 ## Cross-promotion
 

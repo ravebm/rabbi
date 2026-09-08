@@ -7,14 +7,14 @@ Twelve posts a week is the one thing that makes people stop. It doesn't have to.
 | Who | Does |
 |---|---|
 | **Evan** | Picks/edits the week's five words · reads and edits every draft (20–40 min/day) · records or approves audio · answers verse replies · hosts *Ask the Rabbi* · writes the Sunday *Your Verse* post when a reply moves him (otherwise the skill drafts it) |
-| **Claude (skill)** | Drafts every post from the word bank in the format and voice · generates subject lines, the one line to carry, Notes · drafts the Saturday recap and Sunday preview from the week's posts · produces the word-card spec and image prompt · scripts the audio |
-| **Tools** | ElevenLabs (audio from Evan's cloned voice) · fal.ai (word-card images; `fal_connect.py` in this repo is the starting point) · Substack scheduler |
+| **Claude (skill)** | Drafts every post from the word bank in the format and voice · subject lines, the lines to carry and to sleep on, Notes · drafts the Saturday recap and Sunday preview from the week's posts · scripts the optional audio |
+| **Tools** | Phone voice memos (optional audio) · Substack scheduler |
 
 ## The weekly rhythm
 
 **Sunday, 60–90 minutes (the one real session):**
 1. Open `word-bank.md`, confirm the week's five words. Swap any that don't feel right — the bank is a plan, not a contract.
-2. Run the skill: *"Write the week: Monday teshuvah, Tuesday shema, …"* It returns ten posts (5 morning, 5 evening) in Substack-ready Markdown, plus subject lines, Notes, card specs, and audio scripts.
+2. Run the skill: *"Write the week: Monday teshuvah, Tuesday shema, …"* It returns ten posts (5 morning, 5 evening) in Substack-ready Markdown, plus subject lines, Notes, and optional audio scripts.
 3. Read Monday's pair carefully and mark up in the voice you want. Feed the edits back: *"Tighten all the evenings the way I did Monday."* Regenerate.
 4. Paste into Substack, drop the paywall marker, schedule all ten. 6:00 am and 7:00 pm CT.
 
@@ -22,7 +22,7 @@ Twelve posts a week is the one thing that makes people stop. It doesn't have to.
 - Morning: glance at yesterday's numbers; reply to two or three reader replies (replies are the relationship — and they're future Sunday posts).
 - Evening: nothing. It's scheduled.
 
-**Thursday, 20 minutes:** record the week's audio in one sitting (five words × ~2 min), or approve the ElevenLabs renders. Upload to the evening posts.
+**Thursday, 15 minutes (optional):** record the week's five audio memos in one sitting — the word three times, the line to sleep on. Upload to the evening posts.
 
 **Saturday, 15 minutes:** skill drafts Havdalah from the week's five morning posts; Evan edits; schedule for 7 pm.
 
@@ -41,17 +41,9 @@ Two paths; **DECIDE**:
 - **Phone recording (recommended to start).** Voice memo, 2–3 minutes, no editing. The rawness is the point — it's a rabbi at bedtime, not a podcast. Upload as the post's audio in Substack.
 - **ElevenLabs clone.** The connector is available in this environment. Clone Evan's voice once from 10 minutes of clean speech; the skill's audio script is fed to `creative_generate_speech`; the render goes into the post. Hebrew pronunciation from a clone must be checked by ear for the first few weeks — the model will get *chet* and *ayin* wrong until it doesn't. Use the phone for the Hebrew word and the clone for the English, if the difference is audible.
 
-## Word cards (images)
+## Images
 
-Spec (the skill emits this per word):
-- 1080×1080, off-white ground (#F5F0E8), deep navy text (#1B2A41), one accent (burnt gold #B8860B) for the Hebrew.
-- Hebrew script, very large, centered upper third (a clean serif with real niqqud — David, Frank Ruehl, or SBL Hebrew).
-- Transliteration + gloss beneath, small caps.
-- The verse reference, then the *one line to carry* in italic in the lower third.
-- "rabbi.substack.com · One Word Wiser" in 8pt in the corner.
-- **No photographs, no AI illustration, no sunrise, no scrolls, no menorahs.** Typography only. It has to look like a well-set page, not a meme — that's the "respectable" in visual form, and typographic cards are what people actually print.
-
-Generate with a template (Figma/Canva, or a 40-line Pillow script in this repo — a good next task) rather than a diffusion model; diffusion models can't set Hebrew type. `fal_connect.py` stays for the occasional editorial image (the Sunday post, the quarterly booklet cover).
+None required. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
 
 ## Verse queue
 

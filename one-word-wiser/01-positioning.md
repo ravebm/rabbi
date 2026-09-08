@@ -38,7 +38,7 @@ Why it works: the first sentence is the hook and shows first on Substack's disco
 
 ## The logo
 
-The *aleph* — first letter, the number one, and silent: the letter that says nothing and holds everything (that's a Week 1 or Week 4 post: "Why an aleph?"). Deep navy (#1B2A41) on white; the same navy the word cards use, so header, cards, and icon read as one thing.
+The *aleph* — first letter, the number one, and silent: the letter that says nothing and holds everything (that's a Week 1 or Week 4 post: "Why an aleph?"). Deep navy (#1B2A41) on white. Use the same navy and serif for the *Seven Words* PDF so everything reads as one thing.
 
 - **Avatar / favicon:** the small navy square with the cream aleph. The byline is unreadable at avatar size anyway.
 - **Header / cover / email masthead:** the full wordmark with "with Rabbi Evan Moffic."
@@ -85,12 +85,12 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > **Every morning (free):** one Hebrew word — its root, the picture inside it, and one verse you've read your whole life that changes when you see it.
 >
-> **Every evening (free, with a paid ending):** what the rabbis saw in that word over two thousand years, where Jesus used it, and — for paid subscribers — one wiser way to live it before you sleep, with a two-minute audio and a printable word card.
+> **Every evening (paid):** what the rabbis saw in that word — a Midrash, a story from the Talmud, the question Rashi asked — and one thing to do with it before you sleep. Ninety seconds. The same shape every night.
 >
 > **Saturday:** Shabbat rest. One short recap of the week's five words.
 > **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath.
 >
-> Free is genuinely free. You'll get the word and the teaching every day without paying a cent. Paid — $60 a year, about sixteen cents a day — gets you the practice, the audio, the cards, the full archive, a monthly live *Ask the Rabbi*, and my thanks for making this possible.
+> Free is genuinely free. You'll get the morning word every day, complete, without paying a cent — and a line from each evening to sleep on. Paid — $60 a year, about sixteen cents a night — is the evening itself, and my thanks for making this possible.
 >
 > Whether you're Christian, Jewish, or simply curious: welcome. Send me a verse anytime. Just reply.
 
