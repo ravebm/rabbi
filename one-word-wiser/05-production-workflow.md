@@ -32,7 +32,7 @@ Total: ~4 hours a week of Evan's time for 12 posts. The pulpit voice comes from 
 
 ## The skill
 
-`.claude/skills/one-word-wiser/SKILL.md` — invoked by "write Tuesday's posts for *chesed*," "write the week," "draft Saturday's recap," "draft Sunday's verse post for Psalm 23." It knows the anatomy in `02`, the voice rules in `01`, the paywall placement in `03`, and it reads `word-bank.md` for the verse and Gospel pairings. See the skill file for the exact output contract.
+`skills/one-word-wiser/SKILL.md` — invoked by "write Tuesday's posts for *chesed*," "write the week," "draft Saturday's recap," "draft Sunday's verse post for Psalm 23." It knows the anatomy in `02`, the voice rules in `01`, the paywall placement in `03`, and it reads `word-bank.md` for the verse and Gospel pairings. See the skill file for the exact output contract.
 
 ## Audio
 

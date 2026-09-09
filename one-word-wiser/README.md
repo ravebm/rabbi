@@ -33,7 +33,13 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | `05-production-workflow.md` | How we actually run 12 posts a week without it eating Evan's life — batching, the skill, audio/images, weekly checklist, metrics |
 | `word-bank.md` | First 12 weeks, 60 words, themed to the calendar (Days of Awe → Hanukkah/Advent) |
 | `samples/` | Fully written examples: announcement post, welcome email, Week 1 Sunday preview, Monday morning + evening (*teshuvah*) |
-| `../.claude/skills/one-word-wiser/SKILL.md` | The skill: "write Tuesday's posts for *chesed*" → a complete morning + evening package in this format and voice |
+| `../skills/one-word-wiser/SKILL.md` | The skill: "write Tuesday's posts for *chesed*" → a complete morning + evening package in this format and voice |
+
+| `operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline, for any agent driving Substack |
+| `handoff-prompts.md` | The prompt to paste into Hermes, Codex, or Claude |
+| `brand/` | Logo files |
+
+All agents read `../AGENTS.md` first — that's what keeps Claude, Hermes, and Codex on the same page.
 
 ## How to use this
 

@@ -1,4 +1,6 @@
-# Instructions for Hermes — set up One Word Wiser on Substack
+# Operator brief — set up One Word Wiser on Substack
+
+*For any agent operating Substack on Evan's behalf (Hermes, Codex, Claude). Read `AGENTS.md` at the repository root before starting.*
 
 You are configuring an existing Substack publication for Rabbi Evan Moffic. The publication is **rabbi.substack.com** (name: *One Word Wiser*). Evan is logged in. This document is complete: every setting and every piece of copy you need is here. Do exactly what it says, in order, and nothing more. Where it says **paste**, paste the text verbatim — do not rewrite, shorten, or "improve" any copy.
 
@@ -24,7 +26,7 @@ A twice-daily Hebrew-word newsletter for Christians (and curious Jews). **Mornin
 - **Publication name:** `One Word Wiser`
 - **Short description / tagline** (the one-line description shown on the homepage, email header and Substack discover): paste exactly:
   > The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic. No Hebrew required.
-- **Logo:** Evan will supply two files. Use the **small navy square with the cream aleph** as the logo/avatar (it also becomes the favicon). Use the **full wordmark** ("One Word Wiser with Rabbi Evan Moffic") as the cover image / email header image if the theme supports a wide header image. If only one file is available, use the square.
+- **Logo:** the files are in `one-word-wiser/brand/` (`logo-square.png`, `wordmark.png`); if that folder is empty, Evan will supply them. Use the **small navy square with the cream aleph** as the logo/avatar (it also becomes the favicon). Use the **full wordmark** ("One Word Wiser with Rabbi Evan Moffic") as the cover image / email header image if the theme supports a wide header image. If only one file is available, use the square.
 - **Author name / byline:** `Rabbi Evan Moffic`
 - Leave the subdomain (`rabbi`) unchanged.
 
