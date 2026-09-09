@@ -33,12 +33,12 @@ For the first two weeks, all of it is free. After that, the morning stays free �
 
 And if you're Jewish and reading this thinking, *he's writing for Christians now* — yes, mostly. But every morning post is Torah. You'll like it too.
 
-This week is the Days of Awe. The ten days between Rosh Hashanah and Yom Kippur, when the whole Jewish year turns on one word.
+Friday at sundown, Rosh Hashanah begins — the head of the year. The Hebrew word for *year* means both *repeat* and *change.* Same three letters.
 
-Monday morning, that's the word.
+Friday morning, that's the word.
 
 See you at sunrise.
 
 — Rabbi Evan
 
-*P.S. — Say it with me now, so you're ready: תְּשׁוּבָה. Teh-shoo-VAH.*
+*P.S. — Say it with me now, so you're ready: שָׁנָה. Shah-NAH.*
