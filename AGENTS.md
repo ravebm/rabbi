@@ -1,6 +1,6 @@
 # AGENTS.md — read this first
 
-This repository is the single source of truth for Rabbi Evan Moffic's Substack **One Word Wiser** (rabbi.substack.com). Claude, Hermes, and Codex all work from these same files. If you are an agent, this file tells you where everything is and how to behave.
+This repository is the single source of truth for Rabbi Evan Moffic's Substack publications — **One Word Wiser** (rabbi.substack.com) and, as it migrates in, **Already Home** (alreadyhome.substack.com). Claude, Hermes, and Codex all work from these same files. If you are an agent, this file tells you where everything is and how to behave.
 
 ## The rule that keeps three agents in sync
 
@@ -26,6 +26,8 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack *
 | `one-word-wiser/operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline | Operators (Hermes/Codex/Claude driving Substack) |
 | `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent | Evan |
 | `skills/one-word-wiser/SKILL.md` | **The skill**: how to draft any post in the format and voice. Tool-neutral location. | Everyone. `.claude/skills/one-word-wiser` is a symlink to it. |
+| `already-home/audio/README.md` | How the daily Already Home meditation audio is made: voice ids and status, the daily process, the log | Everyone |
+| `skills/meditation-audio/SKILL.md` | **The skill**: turn a finished meditation into an MP3 in Evan's cloned voice | Claude (needs the ElevenLabs connector) |
 | `fal_connect.py` | fal.ai connectivity script (optional editorial images) | — |
 
 ## Roles
