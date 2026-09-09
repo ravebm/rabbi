@@ -6,6 +6,12 @@ Calendar assumptions (verify against a 5787 calendar before scheduling): Rosh Ha
 
 ---
 
+## Week 0 · Fri Sep 11 · THE LAUNCH — Rosh Hashanah
+
+| Day | Hebrew | Translit | Gloss | Root picture | Morning verse | Evening anchor | Gospel echo |
+|---|---|---|---|---|---|---|---|
+| Fri | שָׁנָה | shanah | year | *sh-n-h* — to repeat (*mishnah*, *sheni*) and to change (*shinui*) — one root | Deut 11:12 *mereshit hashanah v'ad acharit shanah* | The definite article that vanishes: "*the* year" → "*a* year" (Hasidic reading; often attributed to the Ketav Sofer) | — |
+
 ## Week 1 · Sep 14–18 · THE DAYS OF AWE
 *Why now:* the ten days between Rosh Hashanah and Yom Kippur. The whole Jewish year turns on the word *return*.
 

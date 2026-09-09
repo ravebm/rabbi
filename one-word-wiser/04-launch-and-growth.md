@@ -10,7 +10,7 @@ Timing note: the relaunch lands on the Days of Awe (Rosh Hashanah begins the eve
 
 | Week | Dates (2026) | What happens | Cadence |
 |---|---|---|---|
-| **0** | Sep 8–13 | **Announcement post** to the whole list (`samples/announcement-post.md`). Set up sections (*Morning*, *Evening*), update name/tagline/About/welcome email, build the *Seven Words* PDF, set the paywall to off. Sunday Sep 13: first *Week Ahead* post. | 2 posts |
+| **0** | Sep 8–13 | Thu Sep 10: **Announcement post** to the whole list. **Fri Sep 11 — LAUNCH on Rosh Hashanah:** morning + evening on *shanah* (year: repeat/change). Set up sections, name/tagline/About/welcome email, *Seven Words* PDF, paywall off. Sat: holiday, no post. Sun Sep 13 evening: first *Week Ahead*. | 4 posts |
 | **1** | Sep 14–20 | Full rhythm, all free. Theme: *The Days of Awe*. Morning + evening Mon–Fri, Havdalah Saturday, Your Verse + Week Ahead Sunday. Watch unsub rate daily. | 12 posts |
 | **2** | Sep 21–27 | Same. Theme: *Atonement* (Yom Kippur Monday). Wednesday: one-line "how's the pace?" question in the morning post; read the replies. Start the Facebook ad Thursday. | 12 |
 | **3** | Sep 28–Oct 4 | **Paywall on** (Sunday-evening note). Theme: *Shelter* (Sukkot). Founding window opens. | 12 |

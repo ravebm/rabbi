@@ -9,7 +9,7 @@
 
 Tonight begins the strangest week on the Jewish calendar.
 
-Rosh Hashanah is behind us. Yom Kippur is a week away. The rabbis call these the *Aseret Yemei Teshuvah* — the Ten Days of Return. Not a holiday. A hallway. Ten days when the whole tradition says: the door is open, walk back through it.
+Rosh Hashanah ends tonight. Yom Kippur is a week away. The rabbis call these the *Aseret Yemei Teshuvah* — the Ten Days of Return. Not a holiday. A hallway. Ten days when the whole tradition says: the door is open, walk back through it.
 
 If you've ever wondered what it feels like inside a synagogue right now, this week is your answer. Five words, one a morning, each one carrying a piece of the season.
 

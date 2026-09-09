@@ -6,7 +6,7 @@ You are configuring an existing Substack publication for Rabbi Evan Moffic. The 
 
 ## What this publication is (context only)
 
-A twice-daily Hebrew-word newsletter for Christians (and curious Jews). **Morning post** (6:00 am Central, Mon–Fri): one Hebrew word, free, complete. **Evening post** (7:00 pm Central, Mon–Fri): what the rabbis saw in that word and one thing to do with it — paid, with two free lines above the paywall. **Saturday** 7:00 pm: free recap. **Sunday** 6:00 am and 7:00 pm: free. The first two weeks are entirely free; the evening paywall turns on in week 3.
+A twice-daily Hebrew-word newsletter for Christians (and curious Jews). **Morning post** (6:00 am Central, Mon–Fri): one Hebrew word, free, complete. **Evening post** (7:00 pm Central, Mon–Fri): what the rabbis saw in that word and one thing to do with it — paid, with two free lines above the paywall. **Saturday** 7:00 pm: free recap. **Sunday** 6:00 am and 7:00 pm: free. The publication launches on Rosh Hashanah — Friday, September 11 — with a morning and evening post on the word *shanah*. The first two weeks are entirely free; the evening paywall turns on in week 3.
 
 ## Hard rules
 
@@ -161,6 +161,81 @@ See you at sunrise.
 
 *P.S. — Say it with me now, so you're ready: תְּשׁוּבָה. Teh-shoo-VAH.*
 
+### Post L1 — THE LAUNCH · Friday morning · schedule **Friday, September 11, 6:00 am**
+- Section: Morning
+- Title: `☀️ שָׁנָה · shanah · year`
+- Body (center the Hebrew word and the transliteration line if the editor allows):
+
+<div align="center">
+
+# שָׁנָה
+
+*shanah* (shah-NAH) — year
+
+</div>
+
+Say it once. *Shanah.* You've heard it before, even if you didn't know it. This weekend, every Jew you know will say it to someone: *Shanah tovah.* A good year.
+
+Tonight, at sundown, the Jewish year turns. Rosh Hashanah. Literally, "the head of the year."
+
+So let's start there. With the word for year.
+
+*Shanah* grows from three letters — *shin, nun, hey* — and those three letters mean *to repeat.* The word *mishnah*, the great collection of rabbinic teaching, means "repetition." The word *sheni* means "second." A *shanah* is the thing that comes around again. The same holidays. The same table. The same you.
+
+Here's what the dictionary won't tell you. Those same three letters also mean *to change.* *Shinui* is change. *L'shanot* is to alter something. Same root. Same word, really.
+
+Repeat. Change. Hebrew refuses to separate them.
+
+Here's the verse. It's Moses, describing the land Israel is about to enter:
+
+> **"The eyes of the LORD your God are always on it, from the beginning of the year to the end of the year."** — Deuteronomy 11:12 (my translation)
+> *Mereshit hashanah v'ad acharit shanah.*
+
+A year, this verse says, is something God watches all the way through. Not just at the turning. All of it.
+
+Which means the question a new year asks isn't *what will be different?* Everything comes back around. The question is: *inside the same, what will I change?*
+
+*A year is what repeats. A year is what changes. In Hebrew, that's one word.*
+
+**Today's question:** What in your life is about to come around again — and what will you do differently inside it?
+
+Tonight: why that verse begins with "*the* year" and ends with "*a* year" — and what the rabbis heard in the difference.
+
+— Rabbi Evan
+
+### Post L2 — THE LAUNCH · Friday evening · schedule **Friday, September 11, 7:00 pm**
+- Section: Evening
+- Title: `🌙 Laila Tov · shanah · the year that lost its "the"`
+- Body. Delete the line that says `[PAYWALL]` — no paywall during launch.
+
+This morning, *shanah.* Year. The word that means *repeat* and *change* at once.
+
+*Every year begins as "the year." The work is to keep it from ending as "a year."*
+
+`[PAYWALL]`
+
+Read the verse again, slowly, in Hebrew this time. *Mereshit* **ha**-*shanah* — from the beginning of *the* year. *V'ad acharit* *shanah* — to the end of *a* year.
+
+The little word *ha* — "the" — is there at the start. It's gone by the end.
+
+The Hasidic masters noticed. And they read it the way you'd read a diary.
+
+At the beginning, every year is *the* year. The one. This is the year I'll call my brother. The year I'll finally slow down. The year I'll stop pretending I'm fine. On the first night, the year has a definite article. It's *the* year.
+
+By the end, it's *a* year. One more. Another one gone. The article fell off somewhere around February.
+
+But look at what the verse actually says. *The eyes of the LORD are on it* — from the beginning to the end. The year didn't lose God's attention. It lost ours.
+
+That's the whole holiday, in one missing syllable.
+
+You know how this goes. You've had a *the*-year before. You may have had one this time last year. Tonight, before the new one starts, one small thing: write down one sentence — *This is the year I ______.* Just one. Then put it somewhere you'll find it in the spring, when the year has quietly become *a* year, and let it surprise you.
+
+*God's eyes are on the year at the end as much as at the beginning. Yours can be too.*
+
+*Shanah tovah* — a good year. Tomorrow is Shabbat and Rosh Hashanah, so no morning post. Sunday evening: the week ahead.
+
+— Rabbi Evan
+
 ### Post B — Sunday evening · schedule **Sunday, September 13, 7:00 pm**
 - Section: Morning
 - Title: `🌅 The week ahead: Five words for the Days of Awe`
@@ -294,9 +369,11 @@ When done, reply with this checklist, marking each item done / not done / done-w
 10. Recommendations on; referral program on with rewards
 11. Post A scheduled (date/time, section, audience = Everyone)
 12. Post B scheduled
-13. Post C scheduled
-14. Post D scheduled, `[PAYWALL]` line removed, audio block removed
-15. Publication timezone confirmed as America/Chicago
-16. Anything you could not find or had to approximate
+13. Post L1 scheduled (Friday 6:00 am)
+14. Post L2 scheduled (Friday 7:00 pm), `[PAYWALL]` line removed
+15. Post C scheduled
+16. Post D scheduled, `[PAYWALL]` line removed, audio block removed
+17. Publication timezone confirmed as America/Chicago
+18. Anything you could not find or had to approximate
 
 Do not mark anything done that you did not verify on screen.
