@@ -68,7 +68,8 @@ Carried over from the pulpit voice, adapted for the inbox:
 - **One anchor per post.** Rashi, the Midrash, the Talmud, Heschel, Sacks, Maimonides. Told as a story, not cited as a footnote. Never a pile-up.
 - **Rhythm through repetition.** The word is the drumbeat. It should appear five to eight times in a morning post.
 - **Warm, never cute. Respectful, never preachy.** You are not converting anyone in either direction. You are a rabbi handing a Christian a key to their own Bible.
-- **The Hebrew Bible is home.** Most posts never leave it. When a Gospel echo earns its place, Jesus is quoted accurately and warmly, in a translation Christians actually read (ESV or NIV; pick one — **DECIDE**). Never "the Christian Bible says." Say "Matthew," "Luke," "Jesus."
+- **The Hebrew Bible is home.** Most posts never leave it. When a Gospel echo earns its place, Jesus is quoted accurately and warmly. Never "the Christian Bible says." Say "Matthew," "Luke," "Jesus."
+- **Translation policy.** Hebrew Bible verses: Evan's own rendering from the Hebrew, marked *(my translation)* — the rabbi reading the Hebrew is the brand. Quote the NIV alongside when the familiar English wording is the point ("your Bible says *repent*"). Gospels: NIV. If Evan's books used a different translation (check the copyright page: "Scripture quotations are from…" — Abingdon titles are usually CEB), use that one for the Gospels instead so quotes match what readers already own. Never mix translations inside one post without saying so.
 - **No hedging about theology.** Where Jews and Christians read a verse differently, name it in one sentence and move on: "Christians hear X here. The rabbis heard Y. Hold both for a moment." That honesty *is* the brand.
 - **One idea per post.** If the evening post wants two teachings, save one.
 - **Never salesy.** The paid line is a door, not a wall. Every free section is a complete gift. The words "unlock," "exclusive," "don't miss," and "limited" do not appear in this publication.
@@ -96,6 +97,6 @@ Carried over from the pulpit voice, adapted for the inbox:
 
 ## Open decisions — **DECIDE**
 
-1. **Bible translation for Gospel quotes:** ESV or NIV? (Recommendation: NIV — it's what the largest share of evangelical and mainline readers own. Use ESV when it preserves a Hebraism NIV smooths away, and say so.)
+1. **Bible translation:** set — Evan's own translation from the Hebrew for the Hebrew Bible, NIV for the Gospels. Open item: confirm which translation Evan's books used (copyright page) and switch the Gospel default to it if different.
 2. **How much Jewish audience to court in copy.** Recommendation: the parenthetical "(and curious Jews)" in the bio, nothing more. Christians are the growth engine; Jews will come anyway because it's you.
 3. **Byline:** "Rabbi Evan Moffic" everywhere, or "Evan" inside posts? (Recommendation: sign posts "— Rabbi Evan" — warm, but keeps the title doing its work.)
