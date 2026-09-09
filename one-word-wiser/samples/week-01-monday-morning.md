@@ -25,7 +25,7 @@ Repentance, in English, is a feeling. It comes from a Latin word for penalty. It
 
 Here's the verse. It's the one the prophet Hosea gives Israel at the very end of his book, after fourteen chapters of heartbreak:
 
-> **"Return, Israel, to the LORD your God."** — Hosea 14:1 (NIV)
+> **"Return, Israel, to the LORD your God."** — Hosea 14:1 (14:2 in the Hebrew; my translation)
 > *Shuvah Yisrael ad Adonai Elohecha.*
 
 That first word — *shuvah* — is *teshuvah* in the imperative. Not *feel sorry, Israel.* Not *be ashamed, Israel.* Just: *turn around. Come home.*

@@ -11,8 +11,9 @@ Everything you need is in `one-word-wiser/`: `01-positioning.md` (voice rules, A
 
 1. **Read the samples.** `samples/week-01-monday-morning.md` and `samples/week-01-monday-evening.md` are the voice source of truth. Match their rhythm: short declaratives, fragments, direct address, one anchor, the word as drumbeat.
 2. **Find the word in `word-bank.md`.** Use its verse, anchor, and Gospel echo as the starting point. If Evan gives a word not in the bank, build the same row first (Hebrew with niqqud, transliteration with stress, gloss, root picture, Hebrew Bible verse, one rabbinic anchor, one Gospel passage) and show it to him above the drafts.
-3. **Verify every citation.** Chapter and verse for the Hebrew Bible (note when English and Hebrew numbering differ, e.g. Hosea 14:1/14:2). Tractate and page for the Talmud. When a Gospel is used, exact reference and wording in NIV (or ESV when it preserves a Hebraism — say which). Never put a source in Evan's mouth you aren't sure of; if a story is folklore or disputed, leave it out and flag it below the draft.
-4. **Check the Hebrew.** Root letters, niqqud on the headline word, transliteration consistent with the bank (*ch* for chet, *tz* for tzadi, no diacritics). Stress marked in the pronunciation guide with CAPS on the stressed syllable.
+3. **Verify every citation.** Chapter and verse for the Hebrew Bible (note when English and Hebrew numbering differ, e.g. Hosea 14:1/14:2). Tractate and page for the Talmud. When a Gospel is used, exact reference and NIV wording.
+4. **Translations.** Hebrew Bible: render the verse from the Hebrew yourself, plainly, and mark it *(my translation)*; quote NIV alongside only when the familiar English wording is the point. Gospels: NIV. Never mix translations in one post without saying so. (If `01-positioning.md` names a different translation for Evan's books, use that for the Gospels.) Never put a source in Evan's mouth you aren't sure of; if a story is folklore or disputed, leave it out and flag it below the draft.
+5. **Check the Hebrew.** Root letters, niqqud on the headline word, transliteration consistent with the bank (*ch* for chet, *tz* for tzadi, no diacritics). Stress marked in the pronunciation guide with CAPS on the stressed syllable.
 
 ## Output contract
 

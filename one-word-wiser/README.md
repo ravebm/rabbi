@@ -43,7 +43,7 @@ All agents read `../AGENTS.md` first — that's what keeps Claude, Hermes, and C
 
 ## How to use this
 
-1. Read `01` → `03` once and decide the three open questions flagged in each (they're marked **DECIDE**).
+1. Read `01` → `03` once and decide the open questions flagged in each (they're marked **DECIDE**). Translation policy is set in `01`: Evan's own rendering from the Hebrew for the Hebrew Bible, NIV for the Gospels.
 2. Approve or edit the samples in `samples/` — they set the voice for everything the skill generates after.
 3. Follow `04-launch-and-growth.md` week by week.
 4. Each Sunday, run the skill for the coming week's five words from `word-bank.md`, edit, schedule in Substack.
