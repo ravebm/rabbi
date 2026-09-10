@@ -20,7 +20,7 @@ The **meaning** beat of every evening is a *secret* — the *sod* — and it com
 
 ## What paid gets
 
-**🌙 The secret inside the word, Monday through Friday.** The hidden layer of today's word — the *sod* — and what it asks of you tonight. Ninety seconds. Same shape every night.
+**🌙 The secret inside the word, Monday through Friday.** The hidden layer of today's word — the *sod* — and one small thing to do with it before bed. Ninety seconds. Same shape every night.
 
 That's it. Plus the full archive (free readers see 30 days), and — only if it costs nothing to keep — a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes; it's what makes bedtime bedtime, and it's five voice memos on a Thursday.
 

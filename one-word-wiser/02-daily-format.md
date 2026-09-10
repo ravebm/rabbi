@@ -48,7 +48,7 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 
 ## EVENING — 🌙 "The Secret Inside the Word"
 
-**Job:** answer the question the morning left in the room with the word's hidden layer — the *sod* — and what it asks of the reader tonight. Word, meaning, application. Short, intimate, the same shape every night. Read in bed in ninety seconds. Paid.
+**Job:** answer the question the morning left in the room with the word's hidden layer — the *sod* — and one small thing for the reader to do with it before bed. Word, meaning, application. Short, intimate, the same shape every night. Read in bed in ninety seconds. Paid.
 
 **The sod test (every evening, non-negotiable in weeks 1–2):** the reading must (1) be *hidden* — something a lifelong Bible reader has never been shown: a gap in the verse, a vanished article, a root the translation buried, an enlarged letter, a numbering, a word used only of God; (2) be *grounded* — checkable in the text or a named rabbinic source; (3) *turn the plain meaning over* — after it, the morning's verse reads differently. A night that only summarizes or paraphrases does not ship. The first ten secrets are named in `word-bank.md`.
 **Length:** 250–350 words. Never more. If it wants to be longer, it's two evenings.

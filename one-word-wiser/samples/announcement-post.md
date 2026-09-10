@@ -21,7 +21,7 @@ Starting Monday, *One Word Wiser* becomes what its name says.
 
 **Every morning, one Hebrew word.** Its root. The picture inside it. One verse you've read your whole life that changes when you see the Hebrew under it. Two minutes. Free.
 
-**Every evening, the secret inside it.** The rabbis taught that every word of Scripture has a hidden layer — they called it *sod*, secret. That's the evening: the layer under the word, and what it asks of you before you sleep. Ninety seconds. The same shape every night.
+**Every evening, the secret inside it.** The rabbis taught that every word of Scripture has a hidden layer — they called it *sod*, secret. That's the evening: the layer under the word, and one small thing to do with it before bed. Ninety seconds. The same shape every night.
 
 Saturday is Shabbat. One short recap of the week's five words. Sunday, *your* verse — you send me one, I show you the Hebrew underneath. Just reply to any email.
 
