@@ -12,7 +12,7 @@ Here's what happens next:
 
 **Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse. Two minutes.
 
-**Tomorrow evening at 7:00** — the secret inside that word, and what it asks of you before you sleep.
+**Tomorrow evening at 7:00** — the secret inside that word, and one small thing to do with it before bed.
 
 Saturday: a short recap of the week's five words. Sunday: a reader's verse, in Hebrew.
 

@@ -89,7 +89,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > **Every morning (free):** one Hebrew word — its root, the picture inside it, and one verse you've read your whole life that changes when you see it.
 >
-> **Every evening (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the evening: the hidden layer — a gap in the verse, a root the translation buried, a reading that turns the plain meaning over — and what it asks of you before you sleep. Ninety seconds. The same shape every night.
+> **Every evening (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the evening: the hidden layer — a gap in the verse, a root the translation buried, a reading that turns the plain meaning over — and one small thing to do with it before bed. Ninety seconds. The same shape every night.
 >
 > **Saturday:** Shabbat rest. One short recap of the week's five words.
 > **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath.
