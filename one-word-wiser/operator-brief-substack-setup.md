@@ -113,6 +113,8 @@ Enable paid subscriptions with these plans. **Do not paywall any post yet** — 
 
 ## PART 2 — Posts to schedule
 
+Every post carries two images from the template at https://claude.ai/code/artifact/5bd876b1-3c39-4e8a-a135-6579f2d67c96 (or supplied by Evan as PNGs): the **Word card** as the first image in the body, and the **Line card** in place of the italic one-line sentence near the end. If the PNGs are not supplied, leave the italic line as text and note it in the report.
+
 Every post below: **Audience = Everyone (free). Section as noted. Send as email = yes. Also publish to web = yes.** Use the subject line as the post title unless a separate title is given. Keep all italics, bold, and line breaks. Where Hebrew script appears, paste it exactly — do not transliterate it or drop the vowel marks. Each post ends with `— Rabbi Evan` as its final line.
 
 Dates are 2026, Central time.
