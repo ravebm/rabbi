@@ -164,7 +164,22 @@ See you at sunrise.
 ### Post L1 — THE LAUNCH · Friday morning · schedule **Friday, September 11, 6:00 am**
 - Section: Morning
 - Title: `☀️ שָׁנָה · shanah · year`
-- Body (center the Hebrew word and the transliteration line if the editor allows):
+- Subtitle: `One Hebrew word, twice a day, starting now.`
+- Body (center the Hebrew word and the transliteration line if the editor allows). The opening section in bold is the introduction to the new format — keep it exactly as written, including the horizontal rule after it:
+
+**A word before the word.**
+
+For a while now, this newsletter has been a place where I share what I love: Jewish wisdom for anyone who wants it. That doesn't change. But starting today, it gets simpler. And, I think, deeper.
+
+Every morning, one Hebrew word. The language the Bible was written in. Not a grammar lesson — a door. Because when you see the picture inside a word, a verse you've read a hundred times opens. And so does something in you.
+
+Every evening, what the rabbis saw in that word across two thousand years, and one small thing to do with it before you sleep.
+
+That's all. One word, twice a day. Whether you're Christian or Jewish or simply hungry for something true, you're welcome here. My hope is plain: that you'll feel closer to God's word than you ever have. And a little closer to yourself.
+
+Tonight, the year turns. Let's begin.
+
+---
 
 <div align="center">
 
