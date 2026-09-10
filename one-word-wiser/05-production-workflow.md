@@ -16,7 +16,8 @@ Twelve posts a week is the one thing that makes people stop. It doesn't have to.
 1. Open `word-bank.md`, confirm the week's five words. Swap any that don't feel right — the bank is a plan, not a contract.
 2. Run the skill: *"Write the week: Monday teshuvah, Tuesday shema, …"* It returns ten posts (5 morning, 5 evening) in Substack-ready Markdown, plus subject lines, Notes, and optional audio scripts.
 3. Read Monday's pair carefully and mark up in the voice you want. Feed the edits back: *"Tighten all the evenings the way I did Monday."* Regenerate.
-4. Paste into Substack, drop the paywall marker, schedule all ten. 6:00 am and 7:00 pm CT.
+4. Claude renders the week's cards (`brand/cards/render.py`, four PNGs per day) and sends them.
+5. Paste into Substack, drop the Word card as the first image and the Line card in place of the italic line, drop the paywall marker, schedule all ten. 6:00 am and 7:00 pm CT.
 
 **Daily, 10–20 minutes:**
 - Morning: glance at yesterday's numbers; reply to two or three reader replies (replies are the relationship — and they're future Sunday posts).
@@ -43,7 +44,7 @@ Two paths; **DECIDE**:
 
 ## Images
 
-None required. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
+Four cards per weekday — Word and Line, day and night — rendered by `brand/cards/render.py` from the template sources in `brand/cards/`. See `brand/cards/README.md`. Nothing else. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
 
 ## Verse queue
 

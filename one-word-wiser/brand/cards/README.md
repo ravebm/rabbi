@@ -12,4 +12,13 @@ Substack can't carry custom fonts or colors inside a post, so the design lives i
 **Palette:** navy `#1B2A41` · off-white `#F6F3EC` · cream `#F1EDE3` · gold `#A8781C` (day) / `#C9A24A` (night).
 **Type:** Frank Ruehl Libre (Hebrew) · EB Garamond (everything else on the cards).
 
-The `.dc.html` files here are the sources the template is built from. Daily production: open the template, retype the Hebrew, transliteration, gloss, date, and line on the two cards for the day; export each as PNG; drop the Word card as the post's first image and the Line card where the italic line sits.
+The `.dc.html` files here are the sources the live template is built from. `render.py` produces the finished PNGs from the same design.
+
+**Daily production (the routine):** Claude runs
+
+```
+python3 one-word-wiser/brand/cards/render.py --date 2026-09-11 --hebrew "שָׁנָה" --translit shanah --gloss year \
+  --date-label "Friday, September 11" --line-day "…" --line-night "…"
+```
+
+and the four PNGs land in `one-word-wiser/posts/cards/`. Evan drops the Word card as the post's first image and the Line card where the italic line sits. (The live template can also export PNGs by hand, but its export may substitute fonts; the script always uses the real ones.)
