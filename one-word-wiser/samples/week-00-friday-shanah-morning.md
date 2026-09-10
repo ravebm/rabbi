@@ -1,10 +1,12 @@
 # Friday morning — ☀️ BOKER TOV · *shanah* — THE LAUNCH POST
 
-**Subject:** ☀️ שָׁנָה · shanah · year
+**Subject:** ☀️ Happy New Year
 **Subtitle:** One Hebrew word, twice a day, starting now.
 **Section:** Morning · **Paywall:** none · **Send:** Friday, September 11, 6:00 am CT
 
 ---
+
+Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
 **A word before the word.**
 

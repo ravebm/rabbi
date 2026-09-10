@@ -163,9 +163,11 @@ See you at sunrise.
 
 ### Post L1 — THE LAUNCH · Friday morning · schedule **Friday, September 11, 6:00 am**
 - Section: Morning
-- Title: `☀️ שָׁנָה · shanah · year`
+- Title: `☀️ Happy New Year`
 - Subtitle: `One Hebrew word, twice a day, starting now.`
 - Body (center the Hebrew word and the transliteration line if the editor allows). The opening section in bold is the introduction to the new format — keep it exactly as written, including the horizontal rule after it:
+
+Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
 **A word before the word.**
 
