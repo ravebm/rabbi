@@ -72,6 +72,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 - **Translation policy.** Hebrew Bible verses: Evan's own rendering from the Hebrew, marked *(my translation)* — the rabbi reading the Hebrew is the brand. Quote the NIV alongside when the familiar English wording is the point ("your Bible says *repent*"). Gospels: NIV. If Evan's books used a different translation (check the copyright page: "Scripture quotations are from…" — Abingdon titles are usually CEB), use that one for the Gospels instead so quotes match what readers already own. Never mix translations inside one post without saying so.
 - **No hedging about theology.** Where Jews and Christians read a verse differently, name it in one sentence and move on: "Christians hear X here. The rabbis heard Y. Hold both for a moment." That honesty *is* the brand.
 - **One idea per post.** If the evening post wants two teachings, save one.
+- **The letters: wonder, not numerology.** The register is Lawrence Kushner's *Book of Letters* and Daniel Lapin's *Buried Treasure* — each letter a shape with a story, each root a family of meanings, a Hebrew word as how God's language sees the thing. State the tradition's claims as the tradition's ("the rabbis said God created the world with these letters" — Berakhot 55a on Bezalel; Bereshit Rabbah on the *bet*), never as Evan's own fact-claims. No gematria offered as proof; letter-pictures offered as pictures. A letter's shape and story may be the evening's secret when it genuinely turns the word over.
 - **Never salesy.** The paid line is a door, not a wall. Every free section is a complete gift. The words "unlock," "exclusive," "don't miss," and "limited" do not appear in this publication.
 - **AI-smell list (strike on sight):** framework, journey, navigate, leverage, unlock, delve, tapestry, "here's the thing," "let's dive in," announced connections ("this brings us to"), stacked adjectives, three-beat escalations.
 
@@ -81,6 +82,8 @@ Carried over from the pulpit voice, adapted for the inbox:
 > *One Hebrew word, one rabbinic teaching, and one wiser way to live.*
 >
 > The Bible was not written in English. It was written in Hebrew — a language where "hope" is a rope, "repent" means "come home," and "peace" means "whole." Every translation, even the best, trades those pictures for approximations.
+>
+> And Hebrew isn't like other languages. The rabbis said God created the world with its letters. Every letter has a shape and a story — *bet* is a house, *ayin* is an eye — and every word grows from a three-letter root, so a Hebrew word doesn't just name a thing. It tells you how God's language sees it.
 >
 > I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish roots of the Bible to churches, and I've written several books about it, including *What Every Christian Needs to Know About the Jewishness of Jesus*. This newsletter is the most direct version of that work: one word, twice a day.
 >
