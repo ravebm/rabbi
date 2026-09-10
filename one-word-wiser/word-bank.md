@@ -12,6 +12,23 @@ Calendar assumptions (verify against a 5787 calendar before scheduling): Rosh Ha
 |---|---|---|---|---|---|---|---|
 | Fri | שָׁנָה | shanah | year | *sh-n-h* — to repeat (*mishnah*, *sheni*) and to change (*shinui*) — one root | Deut 11:12 *mereshit hashanah v'ad acharit shanah* | The definite article that vanishes: "*the* year" → "*a* year" (Hasidic reading; often attributed to the Ketav Sofer) | — |
 
+## The first ten secrets (weeks 1–2 — the paid promise must be extraordinary)
+
+Each evening in the first two weeks carries one of these. They are hidden, grounded, and turn the plain meaning over. Verify wording before use.
+
+| Word | The secret (*sod*) |
+|---|---|
+| **teshuvah** | Berakhot 34b: "where those who return stand, the perfectly righteous cannot stand." Then Shir HaShirim Rabbah 5:2 — open a needle's eye, God opens wagons. The one who left knows the road from both directions. |
+| **shema** | In every Torah scroll, the last letter of *shema* (ע) and the last letter of *echad* (ד) are written oversized. Together they spell **עד — *ed*, witness.** Every time you say the verse, the scroll says you're testifying. |
+| **selichah** | In the whole Hebrew Bible the verb *salach* is used **only of God** — no human ever "forgives" with this word. Forgiveness is a divine verb; humans do something else (*nasa*, to carry). What that means for the forgiveness you're asked to give. |
+| **chesed** | Sotah 14a: the Torah **begins** with *chesed* (God clothes Adam and Eve) and **ends** with *chesed* (God buries Moses). The entire Torah is bracketed by two acts of lovingkindness God does with His own hands. |
+| **chayim** | *Chayim* is plural. Like *mayim* (water) and *shamayim* (heaven), it has no singular — Hebrew treats life as a thing that can't be counted, only poured. "Inscribe us in the book of *lives*." |
+| **kippur** | *Kaphar* means to **cover**. The *kapporet* — the gold lid of the ark, the "mercy seat" — is the same word. Atonement in Hebrew isn't erasure; it's a cover placed over. And Mishnah Yoma 8:9: for wrongs between people, the Day of Covering covers nothing until the person you wronged does. |
+| **vidui** | The root *yadah* means both **to confess and to thank** (*todah*). Leah names her fourth son from it — *Yehudah*, "this time I will thank" (Gen 29:35). The tribe of Judah, and the word *Jew*, come from the root that means confessing and thanking at once. |
+| **tzom** | For the fast day itself, the rabbis chose as the reading Isaiah 58 — the chapter that says "*Is this the fast I choose?*" The tradition put the rebuke of fasting inside the fast. |
+| **yonah** | Jonah is read on Yom Kippur afternoon, and it is one of only two books in the Bible that end with a question (Nahum is the other): "*Should I not care about Nineveh?*" The book never records Jonah's answer. The reader is Jonah. |
+| **nefesh** | *Nefesh* — "soul" — originally means **throat**. "My *nefesh* thirsts for God" (Ps 42:2) is literally *my throat*. The soul, in Hebrew, is the part of you that gets thirsty. |
+
 ## Week 1 · Sep 14–18 · THE DAYS OF AWE
 *Why now:* the ten days between Rosh Hashanah and Yom Kippur. The whole Jewish year turns on the word *return*.
 

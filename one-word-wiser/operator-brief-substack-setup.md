@@ -6,7 +6,7 @@ You are configuring an existing Substack publication for Rabbi Evan Moffic. The 
 
 ## What this publication is (context only)
 
-A twice-daily Hebrew-word newsletter for Christians (and curious Jews). **Morning post** (6:00 am Central, Mon–Fri): one Hebrew word, free, complete. **Evening post** (7:00 pm Central, Mon–Fri): what the rabbis saw in that word and one thing to do with it — paid, with two free lines above the paywall. **Saturday** 7:00 pm: free recap. **Sunday** 6:00 am and 7:00 pm: free. The publication launches on Rosh Hashanah — Friday, September 11 — with a morning and evening post on the word *shanah*. The first two weeks are entirely free; the evening paywall turns on in week 3.
+A twice-daily Hebrew-word newsletter for Christians (and curious Jews). **Morning post** (6:00 am Central, Mon–Fri): one Hebrew word, free, complete. **Evening post** (7:00 pm Central, Mon–Fri): the secret inside that word — the layer the rabbis called *sod* — and what it asks of the reader; paid, with two free lines above the paywall. **Saturday** 7:00 pm: free recap. **Sunday** 6:00 am and 7:00 pm: free. The publication launches on Rosh Hashanah — Friday, September 11 — with a morning and evening post on the word *shanah*. The first two weeks are entirely free; the evening paywall turns on in week 3.
 
 ## Hard rules
 
@@ -42,12 +42,12 @@ I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish ro
 
 **Every morning (free):** one Hebrew word — its root, the picture inside it, and one verse you've read your whole life that changes when you see it.
 
-**Every evening (paid):** what the rabbis saw in that word — a Midrash, a story from the Talmud, the question Rashi asked — and one thing to do with it before you sleep. Ninety seconds. The same shape every night.
+**Every evening (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the evening: the hidden layer — a gap in the verse, a root the translation buried, a reading that turns the plain meaning over — and what it asks of you before you sleep. Ninety seconds. The same shape every night.
 
 **Saturday:** Shabbat rest. One short recap of the week's five words.
 **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath.
 
-Free is genuinely free. You'll get the morning word every day, complete, without paying a cent — and a line from each evening to sleep on. Paid — $60 a year, about sixteen cents a night — is the evening itself, and my thanks for making this possible.
+Free is genuinely free. You'll get the morning word every day, complete, without paying a cent — and a line from each evening to sleep on. Paid — $60 a year, about sixteen cents a night — is the secret, every evening, and my thanks for making this possible.
 
 Whether you're Christian, Jewish, or simply curious: welcome. Send me a verse anytime. Just reply.
 
@@ -70,7 +70,7 @@ Here's what happens next:
 
 **Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse. Two minutes.
 
-**Tomorrow evening at 7:00** — what the rabbis saw in that word, and one thing to do with it before you sleep.
+**Tomorrow evening at 7:00** — the secret inside that word, and what it asks of you before you sleep.
 
 Saturday: a short recap of the week's five words. Sunday: a reader's verse, in Hebrew.
 
@@ -93,7 +93,7 @@ Enable paid subscriptions with these plans. **Do not paywall any post yet** — 
 - **Group subscriptions:** on, 20% off for groups of 5+ (if the option exists)
 - **Subscriber benefits text** (shown on the subscribe page):
   - Free: `The morning word every weekday, complete. Saturday recap. Sunday: your verse.`
-  - Paid: `The evening post, Monday–Friday: what the rabbis saw in today's word, and one thing to do with it before you sleep.`
+  - Paid: `Every evening: the secret inside the word — the layer the rabbis called sod — and what it asks of you before you sleep.`
   - Founding: `A signed book from Rabbi Evan, and his thanks by name once a year.`
 
 ### 1.6 Community (Settings → Community)
@@ -141,7 +141,7 @@ Starting Monday, *One Word Wiser* becomes what its name says.
 
 **Every morning, one Hebrew word.** Its root. The picture inside it. One verse you've read your whole life that changes when you see the Hebrew under it. Two minutes. Free.
 
-**Every evening, what the rabbis saw in it.** Two thousand years of teachers reading that word — Rashi, the Midrash, the Talmud — and one thing to do with it before you sleep. Ninety seconds. The same shape every night.
+**Every evening, the secret inside it.** The rabbis taught that every word of Scripture has a hidden layer — they called it *sod*, secret. That's the evening: the layer under the word, and what it asks of you before you sleep. Ninety seconds. The same shape every night.
 
 Saturday is Shabbat. One short recap of the week's five words. Sunday, *your* verse — you send me one, I show you the Hebrew underneath. Just reply to any email.
 
@@ -177,7 +177,7 @@ For a while now, this newsletter has been a place where I share what I love: Jew
 
 Every morning, one Hebrew word. The language the Bible was written in. Not a grammar lesson — a door. Because when you see the picture inside a word, a verse you've read a hundred times opens. And so does something in you.
 
-Every evening, what the rabbis saw in that word across two thousand years, and one small thing to do with it before you sleep.
+Every evening, the secret inside the word — the layer the rabbis called *sod* — and what it asks of you before you sleep.
 
 That's all. One word, twice a day. Whether you're Christian or Jewish or simply hungry for something true, you're welcome here. My hope is plain: that you'll feel closer to God's word than you ever have. And a little closer to yourself.
 
@@ -224,7 +224,7 @@ Tonight: why that verse begins with "*the* year" and ends with "*a* year" — an
 
 ### Post L2 — THE LAUNCH · Friday evening · schedule **Friday, September 11, 7:00 pm**
 - Section: Evening
-- Title: `🌙 Laila Tov · shanah · the year that lost its "the"`
+- Title: `🌙 the secret inside shanah · the year that lost its "the"`
 - Body. Delete the line that says `[PAYWALL]` — no paywall during launch.
 
 This morning, *shanah.* Year. The word that means *repeat* and *change* at once.
@@ -278,7 +278,7 @@ If you've ever wondered what it feels like inside a synagogue right now, this we
 
 **Friday — חַיִּים · *chayim* · life.** Why the Hebrew word for life is plural, and why every Jewish prayer this week asks to be written in its book.
 
-Each morning: the word, its root, one verse. Each evening: what the rabbis saw in it, where Jesus said it, and one wiser way to carry it to bed.
+Each morning: the word, its root, one verse. Each evening: the secret inside it — the layer the rabbis called *sod* — and what it asks of you before you sleep.
 
 Monday morning, 6:00. Say it once tonight so it's in your mouth: *teh-shoo-VAH.*
 

@@ -86,12 +86,12 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > **Every morning (free):** one Hebrew word — its root, the picture inside it, and one verse you've read your whole life that changes when you see it.
 >
-> **Every evening (paid):** what the rabbis saw in that word — a Midrash, a story from the Talmud, the question Rashi asked — and one thing to do with it before you sleep. Ninety seconds. The same shape every night.
+> **Every evening (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the evening: the hidden layer — a gap in the verse, a root the translation buried, a reading that turns the plain meaning over — and what it asks of you before you sleep. Ninety seconds. The same shape every night.
 >
 > **Saturday:** Shabbat rest. One short recap of the week's five words.
 > **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath.
 >
-> Free is genuinely free. You'll get the morning word every day, complete, without paying a cent — and a line from each evening to sleep on. Paid — $60 a year, about sixteen cents a night — is the evening itself, and my thanks for making this possible.
+> Free is genuinely free. You'll get the morning word every day, complete, without paying a cent — and a line from each evening to sleep on. Paid — $60 a year, about sixteen cents a night — is the secret, every evening, and my thanks for making this possible.
 >
 > Whether you're Christian, Jewish, or simply curious: welcome. Send me a verse anytime. Just reply.
 

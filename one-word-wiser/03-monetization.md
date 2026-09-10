@@ -2,13 +2,13 @@
 
 ## The principle
 
-**Morning is the gift. Evening is the ritual.** Both have the same three beats — **word, meaning, application** — and that's all. The morning is free and complete. The evening is paid, shorter, read in bed, and the same shape every night. The morning leaves one question in the room; the evening answers it.
+**Morning is the plain meaning. Evening is the secret.** The rabbis' four layers (PaRDeS: *peshat* plain, *remez* hint, *drash* search, *sod* secret) give the split its name: the morning is *peshat*, free; the evening is *sod*, paid. Both have the same three beats — **word, meaning, application** — and that's all. The morning is free and complete. The evening is paid, shorter, read in bed, and the same shape every night. The morning leaves one question in the room; the evening answers it.
 
 This is the Already Home model (free preview → paid, ~2.2% conversion, 8–15 paid/week) with a stronger engine: two touches a day, and the gate is a nightly ritual rather than a section of an article.
 
 ## What makes it Evan's, not just another Hebrew word list
 
-The **meaning** beat of every evening comes from the rabbis. Not etymology — a *reading*. A Midrash that notices the gap in the verse. A Talmud story with a sage in a room. The way Rashi asks the question a Christian reader didn't know was there. This is what a pulpit rabbi does every Friday night and what the author of *What Every Christian Needs to Know About the Old Testament* has been doing for Christians for twenty years. The Old Testament is the lane. The Gospels are a door the word occasionally walks through — that's what "Genesis to the Gospels" promises, and once or twice a week keeps it honest. HfC gives the word. Evan gives the word *the way two thousand years of rabbis read it*, then one thing to do with it before you sleep. That's the whole paid product, and nobody else in this lane can make it.
+The **meaning** beat of every evening is a *secret* — the *sod* — and it comes from the rabbis. Not etymology — a *reading* that turns the plain meaning over. A Midrash that notices the gap in the verse. A Talmud story with a sage in a room. The way Rashi asks the question a Christian reader didn't know was there. This is what a pulpit rabbi does every Friday night and what the author of *What Every Christian Needs to Know About the Old Testament* has been doing for Christians for twenty years. The Old Testament is the lane. The Gospels are a door the word occasionally walks through — that's what "Genesis to the Gospels" promises, and once or twice a week keeps it honest. HfC gives the word. Evan gives the word *the way two thousand years of rabbis read it*, then one thing to do with it before you sleep. That's the whole paid product, and nobody else in this lane can make it.
 
 ## What free gets
 
@@ -20,7 +20,7 @@ The **meaning** beat of every evening comes from the rabbis. Not etymology — a
 
 ## What paid gets
 
-**🌙 *Laila Tov*, Monday through Friday.** What the rabbis saw in today's word, and one thing to do with it tonight. Ninety seconds. Same shape every night.
+**🌙 The secret inside the word, Monday through Friday.** The hidden layer of today's word — the *sod* — and what it asks of you tonight. Ninety seconds. Same shape every night.
 
 That's it. Plus the full archive (free readers see 30 days), and — only if it costs nothing to keep — a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes; it's what makes bedtime bedtime, and it's five voice memos on a Thursday.
 
