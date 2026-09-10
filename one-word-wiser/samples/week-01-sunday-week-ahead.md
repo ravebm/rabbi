@@ -23,7 +23,7 @@ If you've ever wondered what it feels like inside a synagogue right now, this we
 
 **Friday — חַיִּים · *chayim* · life.** Why the Hebrew word for life is plural, and why every Jewish prayer this week asks to be written in its book.
 
-Each morning: the word, its root, one verse. Each evening: what the rabbis saw in it, where Jesus said it, and one wiser way to carry it to bed.
+Each morning: the word, its root, one verse. Each evening: the secret inside it — the layer the rabbis called *sod* — and what it asks of you before you sleep.
 
 Monday morning, 6:00. Say it once tonight so it's in your mouth: *teh-shoo-VAH.*
 

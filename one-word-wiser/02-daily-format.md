@@ -46,11 +46,13 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 
 ---
 
-## EVENING — 🌙 *Laila Tov* — "The Ritual"
+## EVENING — 🌙 "The Secret Inside the Word"
 
-**Job:** answer the question the morning left in the room. Word, meaning, application. Short, intimate, the same shape every night. Read in bed in ninety seconds. Paid.
+**Job:** answer the question the morning left in the room with the word's hidden layer — the *sod* — and what it asks of the reader tonight. Word, meaning, application. Short, intimate, the same shape every night. Read in bed in ninety seconds. Paid.
+
+**The sod test (every evening, non-negotiable in weeks 1–2):** the reading must (1) be *hidden* — something a lifelong Bible reader has never been shown: a gap in the verse, a vanished article, a root the translation buried, an enlarged letter, a numbering, a word used only of God; (2) be *grounded* — checkable in the text or a named rabbinic source; (3) *turn the plain meaning over* — after it, the morning's verse reads differently. A night that only summarizes or paraphrases does not ship. The first ten secrets are named in `word-bank.md`.
 **Length:** 250–350 words. Never more. If it wants to be longer, it's two evenings.
-**Subject line:** `🌙 Laila Tov · teshuvah · [the door the morning opened]`
+**Subject line:** `🌙 the secret inside teshuvah · [the door the morning opened]`
 
 ### Anatomy (in order — never varies)
 
@@ -60,8 +62,8 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 
 `[PAYWALL]`
 
-**Meaning** *(what the rabbis saw)*
-3. **The reading.** 120–180 words. One rabbinic reading of the word — a Midrash noticing the gap in the verse, a Talmud story with a sage in a room, Rashi's question, the picture in the letters. Told as a scene, not cited. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps. The reading stays in the Hebrew Bible and the rabbis. Once or twice a week at most — when the word itself walks into a Gospel (*abba*, *hosanna*, *shuvu*) — it ends there, in what the first listeners heard. Week 9 is the deliberate Gospel week.
+**Meaning** *(the secret — the sod)*
+3. **The reading.** 120–180 words. One hidden layer of the word, passing the sod test above — a Midrash noticing the gap in the verse, a Talmud story with a sage in a room, Rashi's question, the picture in the letters. Told as a scene, not cited. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps. The reading stays in the Hebrew Bible and the rabbis. Once or twice a week at most — when the word itself walks into a Gospel (*abba*, *hosanna*, *shuvu*) — it ends there, in what the first listeners heard. Week 9 is the deliberate Gospel week.
 
 **Application** *(one thing)*
 4. **The turn.** 40–60 words. From the scene to the reader's actual night. "You know the one."
@@ -117,7 +119,7 @@ This post exists to make Monday morning's open rate higher. It's the trailer.
 | Post | Pattern | Example |
 |---|---|---|
 | Morning | `☀️ [Hebrew] · [translit] · [gloss]` | ☀️ חֶסֶד · chesed · loyal love |
-| Evening | `🌙 Laila Tov · [translit] · [hook]` | 🌙 Laila Tov · chesed · the word the Samaritan is made of |
+| Evening | `🌙 the secret inside [translit] · [hook]` | 🌙 the secret inside chesed · the word the Samaritan is made of |
 | Saturday | `🕯️ The week in five words: [theme]` | 🕯️ The week in five words: The Days of Awe |
 | Sunday AM | `📖 Your verse: [reference]` | 📖 Your verse: Psalm 23:1 |
 | Sunday PM | `🌅 The week ahead: [theme]` | 🌅 The week ahead: Beginnings |

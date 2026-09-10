@@ -1,6 +1,6 @@
 # Friday evening — 🌙 LAILA TOV · *shanah* — THE LAUNCH POST
 
-**Subject:** 🌙 Laila Tov · shanah · the year that lost its "the"
+**Subject:** 🌙 the secret inside shanah · the year that lost its "the"
 **Section:** Evening · **Paywall:** none during launch (marker kept for week 3 onward) · **Send:** Friday, September 11, 7:00 pm CT
 
 ---

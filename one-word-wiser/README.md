@@ -16,11 +16,11 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 |---|---|
 | **Cadence** | Morning post (6:00 am CT) + Evening post (7:00 pm CT), Monday–Friday. Saturday evening recap. Sunday: reader's verse + week ahead. |
 | **☀️ Morning — *Boker Tov*** | Free, always, complete. The word, its root-picture, one verse, the turn, one line to carry, and a door: the question tonight answers. Hebrew Bible, always; a Gospel echo when the word has one. 300–400 words. |
-| **🌙 Evening — *Laila Tov*** | Paid. Word (two free lines above the gate) → Meaning (what the rabbis saw — a Midrash, a Talmud story, Rashi's question) → Application (one thing to do, one line to sleep on). 250–350 words, same shape every night. |
+| **🌙 Evening — *the secret inside the word*** | Paid. Word (two free lines above the gate) → Meaning (the *sod* — the hidden layer: a gap, a buried root, an enlarged letter, a reading that turns the plain meaning over) → Application (what it asks of you tonight, one line to sleep on). 250–350 words, same shape every night. |
 | **Paid tier** | The evening, period. $7/mo · $60/yr ("sixteen cents a night") · Founding $180. 7-day free trial on. |
 | **Sections** | Two Substack sections — *Morning* and *Evening* — so readers can keep one and mute the other. This is the churn insurance the 2x/day cadence requires. |
 | **Growth engine** | Existing list (announcement + 2-week soft start) → Evan's proven Facebook ad → welcome sequence with the *Seven Words* lead magnet → "tell one person" line in every Saturday recap. |
-| **Differentiator** | HfC teaches a word. Evan teaches the word **the way two thousand years of rabbis read it** — Midrash, Talmud, Rashi — then one thing to do with it. A pulpit rabbi's move, made for Christians. Nobody else in this lane can do it. |
+| **Differentiator** | HfC teaches a word. Evan teaches the word's **secret** — the *sod*, the layer the rabbis kept — then what it asks of you. A pulpit rabbi's move, made for Christians. Nobody else in this lane can do it. |
 
 ## Files
 

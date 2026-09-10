@@ -1,6 +1,6 @@
 # Monday evening — 🌙 LAILA TOV · *teshuvah*
 
-**Subject:** 🌙 Laila Tov · teshuvah · where the one who came back stands
+**Subject:** 🌙 the secret inside teshuvah · where the one who came back stands
 **Section:** Evening · **Paywall:** after the evening line · **Send:** 7:00 pm CT
 
 ---

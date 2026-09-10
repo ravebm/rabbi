@@ -20,7 +20,7 @@ Everything you need is in `one-word-wiser/`: `01-positioning.md` (voice rules, A
 Return each post as Substack-ready Markdown with this header block, then the body. Every post is **word → meaning → application** and nothing else:
 
 ```
-# [Day] [morning|evening] — [☀️ BOKER TOV|🌙 LAILA TOV] · *word*
+# [Day] [morning|evening] — [☀️ BOKER TOV|🌙 THE SECRET INSIDE] · *word*
 **Subject:** [per the subject-line system in 02]
 **Section:** Morning|Evening · **Paywall:** none | after "[section]" · **Send:** 6:00 am CT | 7:00 pm CT
 **Notes:** (1) the one line to carry, plain text, for 9 am  (2) the evening line, plain text, for 9 pm
@@ -35,7 +35,7 @@ No rabbinic sources in the morning. Hebrew Bible only; when a word has a famous 
 Same three beats, same shape every night. No headers inside the post.
 **Word** (above the gate): one-line recall → *the evening line* — one sentence that stands alone and that a free reader can sleep on.
 `` `[PAYWALL]` ``
-**Meaning**: the reading — 120–180 words, one rabbinic reading of the word (Midrash noticing the gap, a Talmud story with a sage in a room, Rashi's question, the letters' pictures, a prayer Jesus would have prayed), told as a scene, source named in the text, one image the reader keeps. Stay in the Hebrew Bible and the rabbis; only when the word itself walks into a Gospel (*abba*, *hosanna*, *shuvu*) end there — once or twice a week at most, Week 9 excepted.
+**Meaning** — *the secret (sod)*: the reading — 120–180 words, one **hidden layer** of the word that passes the sod test in `02-daily-format.md`: hidden (a gap in the verse, a vanished article, a buried root, an enlarged letter, a word used only of God), grounded (checkable in the text or a named source), and turning the plain meaning over. Told as a scene, source named in the text, one image the reader keeps. For weeks 1–2 use the secret named in `word-bank.md` unless you have a better one — and if a night has no real secret, say so instead of shipping a paraphrase. Stay in the Hebrew Bible and the rabbis; only when the word itself walks into a Gospel (*abba*, *hosanna*, *shuvu*) end there — once or twice a week at most, Week 9 excepted.
 **Application**: the turn (40–60 words, to the reader's actual night, "you know the one") → one thing to do (one sentence, tonight or tomorrow morning) → *the line to sleep on* in italic → the blessing ("*Laila tov* — good night. Tomorrow: *next word*.") → "— Rabbi Evan" → optional `Audio (~1:30)` script: the word three times, the evening line, the one thing, the line to sleep on.
 The two lines above the gate are a gift, not a tease. One reading, one thing, one line. Never the same source two nights running.
 

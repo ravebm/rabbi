@@ -93,7 +93,7 @@ Enable paid subscriptions with these plans. **Do not paywall any post yet** — 
 - **Group subscriptions:** on, 20% off for groups of 5+ (if the option exists)
 - **Subscriber benefits text** (shown on the subscribe page):
   - Free: `The morning word every weekday, complete. Saturday recap. Sunday: your verse.`
-  - Paid: `The evening post, Monday–Friday: what the rabbis saw in today's word, and one thing to do with it before you sleep.`
+  - Paid: `Every evening: the secret inside the word — the layer the rabbis called sod — and what it asks of you before you sleep.`
   - Founding: `A signed book from Rabbi Evan, and his thanks by name once a year.`
 
 ### 1.6 Community (Settings → Community)
@@ -177,7 +177,7 @@ For a while now, this newsletter has been a place where I share what I love: Jew
 
 Every morning, one Hebrew word. The language the Bible was written in. Not a grammar lesson — a door. Because when you see the picture inside a word, a verse you've read a hundred times opens. And so does something in you.
 
-Every evening, what the rabbis saw in that word across two thousand years, and one small thing to do with it before you sleep.
+Every evening, the secret inside the word — the layer the rabbis called *sod* — and what it asks of you before you sleep.
 
 That's all. One word, twice a day. Whether you're Christian or Jewish or simply hungry for something true, you're welcome here. My hope is plain: that you'll feel closer to God's word than you ever have. And a little closer to yourself.
 
@@ -224,7 +224,7 @@ Tonight: why that verse begins with "*the* year" and ends with "*a* year" — an
 
 ### Post L2 — THE LAUNCH · Friday evening · schedule **Friday, September 11, 7:00 pm**
 - Section: Evening
-- Title: `🌙 Laila Tov · shanah · the year that lost its "the"`
+- Title: `🌙 the secret inside shanah · the year that lost its "the"`
 - Body. Delete the line that says `[PAYWALL]` — no paywall during launch.
 
 This morning, *shanah.* Year. The word that means *repeat* and *change* at once.
