@@ -62,5 +62,16 @@ When asked for a whole week, produce all ten weekday posts in order (Mon AM, Mon
 - AI-smell list, strike on sight: framework, journey, navigate, leverage, delve, tapestry, "here's the thing," "let's dive in," announced connections ("this brings us to"), stacked adjectives, three-beat escalations, meta-narration.
 - Sign "— Rabbi Evan".
 
+## Cards (every morning/evening pair)
+After the posts are approved, render the day's four image cards from the template sources:
+
+```
+python3 one-word-wiser/brand/cards/render.py --date YYYY-MM-DD --hebrew "<word with niqqud>" \
+  --translit <translit> --gloss "<gloss>" --date-label "<Weekday, Month D>" \
+  --line-day "<the morning's one line to carry>" --line-night "<the evening's one line to sleep on>"
+```
+
+Output lands in `one-word-wiser/posts/cards/` as `<date>-word-day.png`, `-line-day.png`, `-word-night.png`, `-line-night.png`. Look at the word-day PNG once (Read) to confirm the Hebrew rendered in Frank Ruehl and nothing is clipped; then send Evan all four (`SendUserFile`) and commit them. Requires Chromium and Pillow; if either is missing, say so rather than substituting a stock image. The Word card is the first image in the post; the Line card replaces the italic line near the end.
+
 ## After the draft
 Below the posts, in a short block for Evan: any citation you're less than certain of; any judgment call (a story left out, a translation choice); and one or two spots you'd tighten if he wants it shorter. Never make Evan find the AI-smell — remove it before presenting.
