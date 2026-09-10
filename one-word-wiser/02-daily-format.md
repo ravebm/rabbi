@@ -124,6 +124,10 @@ This post exists to make Monday morning's open rate higher. It's the trailer.
 
 The emoji are the visual section markers in a crowded inbox. Keep them constant. **DECIDE:** if you dislike emoji in subject lines, replace with `MORNING ·` / `EVENING ·` prefixes as HfC does. Emoji test better on mobile; the word prefixes look more "respectable" on desktop. Recommendation: emoji — your readers are on phones.
 
+## The visual template (two image cards)
+
+Substack posts render in one theme, so the design lives in two images placed between Substack's text — see `brand/cards/README.md` and the live template. **Word card** (1200×675) is the first image of every post: Hebrew large, transliteration, gloss, date. **Line card** (1200×420) sits where the italic line is — *one line to carry* in the morning, *one line to sleep on* at night. Day cards for the morning, night cards for the evening. Nothing else is decorated.
+
 ## Post-body template (Substack editor)
 
 Substack doesn't do templates, but the skill in `.claude/skills/one-word-wiser/` outputs each post already formatted in Substack-ready Markdown with the `[PAYWALL]` marker at the right spot. Paste, drop the paywall, schedule.
