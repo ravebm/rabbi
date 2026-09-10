@@ -57,6 +57,7 @@ When asked for a whole week, produce all ten weekday posts in order (Mon AM, Mon
 - Hebrew italicized and transliterated, glossed in the same breath, every time after the headline.
 - The word appears 5–8 times in a morning post.
 - One anchor per evening. Told as a story. Named in the text, not footnoted.
+- The letters: wonder, not numerology (see `01-positioning.md`). A letter's shape and story, a root's family of meanings, "how God's language sees the thing" — stated as the tradition's claims, sourced, never as proof by gematria.
 - Warm, never cute. Respectful of Christian readers, never preachy toward them, never apologetic about being a rabbi. Where Jews and Christians read a verse differently: one honest sentence, hold both, move on.
 - Never salesy. Banned: unlock, exclusive, don't miss, limited, last chance, upgrade (as a verb aimed at the reader).
 - AI-smell list, strike on sight: framework, journey, navigate, leverage, delve, tapestry, "here's the thing," "let's dive in," announced connections ("this brings us to"), stacked adjectives, three-beat escalations, meta-narration.

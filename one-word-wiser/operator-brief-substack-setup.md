@@ -38,6 +38,8 @@ Replace the entire existing About page with the following, verbatim:
 
 The Bible was not written in English. It was written in Hebrew — a language where "hope" is a rope, "repent" means "come home," and "peace" means "whole." Every translation, even the best, trades those pictures for approximations.
 
+And Hebrew isn't like other languages. The rabbis said God created the world with its letters. Every letter has a shape and a story — *bet* is a house, *ayin* is an eye — and every word grows from a three-letter root, so a Hebrew word doesn't just name a thing. It tells you how God's language sees it.
+
 I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish roots of the Bible to churches, and I've written several books about it, including *What Every Christian Needs to Know About the Jewishness of Jesus*. This newsletter is the most direct version of that work: one word, twice a day.
 
 **Every morning (free):** one Hebrew word — its root, the picture inside it, and one verse you've read your whole life that changes when you see it.
@@ -176,6 +178,8 @@ Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessin
 For a while now, this newsletter has been a place where I share what I love: Jewish wisdom for anyone who wants it. That doesn't change. But starting today, it gets simpler. And, I think, deeper.
 
 Every morning, one Hebrew word. The language the Bible was written in. Not a grammar lesson — a door. Because when you see the picture inside a word, a verse you've read a hundred times opens. And so does something in you.
+
+Hebrew isn't like other languages. The rabbis said God created the world with these letters — that before there was light, there was the word for it. Every letter has a shape and a story: *bet* is a house, *ayin* is an eye, *shin* looks like a flame. Every word grows from a three-letter root, so words that seem unrelated in English turn out to be family in Hebrew — *hope* and *rope*, *repent* and *return*, *year* and *change*. When you learn one Hebrew word, you don't learn a definition. You learn how God's language sees the thing.
 
 Every evening, the secret inside the word — the layer the rabbis called *sod* — and what it asks of you before you sleep.
 
