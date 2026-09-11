@@ -191,11 +191,15 @@ Tonight, the year turns. Let's begin.
 
 ---
 
-**How can a word mean both *change* and *repeat* at the same time?**
+Every year, you promise to change. To change something important. And every year, the same things come back.
 
-And what does that say about life?
+Hebrew has a word for exactly that.
 
-That's the surprise inside *shanah*, the Hebrew word for year. Its three letters — *shin, nun, hey* — give us *mishnah*, repetition, and *sheni*, second. The same three letters give us *shinui*, change. Rabbi Jonathan Sacks called it the paradox of time, held in a single word: "to change and to repeat."
+*Shanah.* The word for year.
+
+**How can one word mean both *change* and *repeat* at the same time?** And what does that say about life?
+
+Its three letters — *shin, nun, hey* — give us *mishnah*, repetition, and *sheni*, second. The same three letters give us *shinui*, change. Rabbi Jonathan Sacks called it the paradox of time, held in a single word: "to change and to repeat."
 
 Seasons repeat. But we change.
 
