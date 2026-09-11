@@ -173,7 +173,13 @@ See you at sunrise.
 
 Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
-A new year seemed like the right time for a new beginning here, too. Rabbi Jonathan Sacks, whom you'll meet often in these pages, said the genius of Judaism was to take eternal truths and translate them into time — "truth transposed into the calendar." So on the day the calendar turns, this newsletter turns with it. Over the years, the question you've asked me more than any other is about Hebrew: what a word really means, and what it opens up in the Bible. Starting today, that's what this is.
+A new year seemed like the right time for a new beginning here, too.
+
+Over the years, one question has reached me more than any other. Not about God, exactly. Not about faith. About a language — the one the Bible was written in.
+
+What does that word actually mean? What is that verse really saying? What am I missing because I'm reading it in English?
+
+More than you'd think. Starting today, that's what this is.
 
 If that isn't for you, please feel free to unsubscribe. No offense taken, and my warmest wishes for the year ahead.
 
