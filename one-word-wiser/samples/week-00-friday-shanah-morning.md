@@ -8,7 +8,7 @@
 
 Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
-A new year seemed like the right time for a new beginning here, too. Over the years, the question you've asked me more than any other is about Hebrew — what a word really means, and what it opens up in the Bible. So that's what this newsletter becomes today.
+A new year seemed like the right time for a new beginning here, too. Rabbi Jonathan Sacks, whom you'll meet often in these pages, said the genius of Judaism was to take eternal truths and translate them into time — "truth transposed into the calendar." So on the day the calendar turns, this newsletter turns with it. Over the years, the question you've asked me more than any other is about Hebrew: what a word really means, and what it opens up in the Bible. Starting today, that's what this is.
 
 If that isn't for you, please feel free to unsubscribe. No offense taken, and my warmest wishes for the year ahead.
 
@@ -44,6 +44,8 @@ So let's start there. With the word for year.
 
 Here's what the dictionary won't tell you. Those same three letters also mean *to change.* *Shinui* is change. *L'shanot* is to alter something. Same root. Same word, really.
 
+Rabbi Sacks put it in one sentence: "The Hebrew word for year, *shanah*, comes from a root that also means two apparent opposites: to change and to repeat. It embodies the paradox of time." The seasons come back. The holidays come back. And yet nothing is ever quite the same — sometimes, he wrote, the change is profound and irreversible.
+
 Repeat. Change. Hebrew refuses to separate them.
 
 Here's the verse. It's Moses, describing the land Israel is about to enter:
@@ -53,7 +55,7 @@ Here's the verse. It's Moses, describing the land Israel is about to enter:
 
 A year, this verse says, is something God watches all the way through. Not just at the turning. All of it.
 
-Which means the question a new year asks isn't *what will be different?* Everything comes back around. The question is: *inside the same, what will I change?*
+Which means the question a new year asks isn't *what will be different?* Everything comes back around. The question is: *inside the same, what will I change?* Sacks answered it with the boldest line in his introduction to the Rosh Hashanah prayer book: the very fact that we can act differently tomorrow than we did yesterday tells us we are free.
 
 *A year is what repeats. A year is what changes. In Hebrew, that's one word.*
 
