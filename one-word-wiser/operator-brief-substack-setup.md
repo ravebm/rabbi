@@ -94,9 +94,9 @@ Enable paid subscriptions with these plans. **Do not paywall any post yet** — 
 - **Free trial:** 7 days, on
 - **Group subscriptions:** on, 20% off for groups of 5+ (if the option exists)
 - **Subscriber benefits text** (shown on the subscribe page):
-  - Free: `The morning word every weekday, complete. Saturday recap. Sunday: your verse.`
-  - Paid: `Every evening: the secret inside the word — the layer the rabbis called sod — and one small thing to do with it before bed.`
-  - Founding: `A signed book from Rabbi Evan, and his thanks by name once a year.`
+  - Free: `One Hebrew word every morning. Free, always.`
+  - Paid: `The secret inside the word, every evening. About sixteen cents a night.`
+  - Founding: `A signed book, and my thanks by name.`
 
 ### 1.6 Community (Settings → Community)
 - Comments: **enabled**
