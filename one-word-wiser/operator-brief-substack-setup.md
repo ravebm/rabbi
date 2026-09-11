@@ -191,42 +191,33 @@ Tonight, the year turns. Let's begin.
 
 ---
 
-<div align="center">
+**How can a word mean both *change* and *repeat* at the same time?**
 
-# שָׁנָה
+And what does that say about life?
 
-*shanah* (shah-NAH) — year
+That's the surprise inside *shanah*, the Hebrew word for year. Its three letters — *shin, nun, hey* — give us *mishnah*, repetition, and *sheni*, second. The same three letters give us *shinui*, change. Rabbi Jonathan Sacks called it the paradox of time, held in a single word: "to change and to repeat."
 
-</div>
+Seasons repeat. But we change.
 
-Say it once. *Shanah.* You've heard it before, even if you didn't know it. This weekend, every Jew you know will say it to someone: *Shanah tovah.* A good year.
+Situations repeat. And we can change how we meet them.
 
-Tonight, at sundown, the Jewish year turns. Rosh Hashanah. Literally, "the head of the year."
+The conversation that always turns into an argument comes around again. This time, we listen a little longer.
 
-So let's start there. With the word for year.
+Someone we love makes the same mistake. We remember how often we've needed another chance ourselves.
 
-*Shanah* grows from three letters — *shin, nun, hey* — and those three letters mean *to repeat.* The word *mishnah*, the great collection of rabbinic teaching, means "repetition." The word *sheni* means "second." A *shanah* is the thing that comes around again. The same holidays. The same table. The same you.
+Sometimes the change is almost invisible. A softer answer. The courage to say the thing we've been holding back. But a relationship can turn on a moment like that.
 
-Here's what the dictionary won't tell you. Those same three letters also mean *to change.* *Shinui* is change. *L'shanot* is to alter something. Same root. Same word, really.
+We usually wait for life to change before we live differently. A new year asks us to begin the other way around.
 
-Rabbi Sacks put it in one sentence: "The Hebrew word for year, *shanah*, comes from a root that also means two apparent opposites: to change and to repeat. It embodies the paradox of time." The seasons come back. The holidays come back. And yet nothing is ever quite the same — sometimes, he wrote, the change is profound and irreversible.
+Moses said it about the land of Israel, and it's true of a year: "The eyes of the LORD your God are on it from the beginning of the year to the end of the year" (Deuteronomy 11:12). Not just at the turning. All of it — the ordinary mornings, the unfinished work, the people who need us.
 
-Repeat. Change. Hebrew refuses to separate them.
-
-Here's the verse. It's Moses, describing the land Israel is about to enter:
-
-> **"The eyes of the LORD your God are always on it, from the beginning of the year to the end of the year."** — Deuteronomy 11:12 (my translation)
-> *Mereshit hashanah v'ad acharit shanah.*
-
-A year, this verse says, is something God watches all the way through. Not just at the turning. All of it.
-
-Which means the question a new year asks isn't *what will be different?* Everything comes back around. The question is: *inside the same, what will I change?* Sacks answered it with the boldest line in his introduction to the Rosh Hashanah prayer book: the very fact that we can act differently tomorrow than we did yesterday tells us we are free.
+Much of this year will be familiar. We get to bring something new to it.
 
 *A year is what repeats. A year is what changes. In Hebrew, that's one word.*
 
-**Today's question:** What in your life is about to come around again — and what will you do differently inside it?
+**Today's question:** What's about to come around again — and what will you do differently inside it?
 
-Tonight: why that verse begins with "*the* year" and ends with "*a* year" — and what the rabbis heard in the difference.
+Tonight: the secret in that verse. It begins with "*the* year" and ends with "*a* year" — and the rabbis heard a whole life in the difference.
 
 — Rabbi Evan
 
