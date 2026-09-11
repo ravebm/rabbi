@@ -13,6 +13,20 @@ Evan is logged into Substack at **rabbi.substack.com**. Do exactly these steps, 
 - **Short description:** paste exactly:
   > The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic. No Hebrew required.
 
+## 1b. Simplify the dashboard and the benefits (Settings → Payments, then Settings → Emails)
+
+The publication used to be a different newsletter. Remove what's left of it so the subscribe page says only what we do now.
+
+- **Settings → Payments → Subscriber benefits.** Delete every existing line under Free, Paid, and Founding. Enter exactly these, one line each, nothing more:
+  - Free: `One Hebrew word every morning. Free, always.`
+  - Paid: `The secret inside the word, every evening. About sixteen cents a night.`
+  - Founding: `A signed book, and my thanks by name.`
+- **Plans:** monthly `$7`, annual `$60` (annual highlighted/default), founding `$180` named `Founding Reader`. Free trial: 7 days, on. Leave paid subscriptions **enabled** but do not paywall any post — the first two weeks are free; the evening paywall starts in week 3.
+- **Settings → Emails → Welcome email.** Replace subject and body with the welcome email in `one-word-wiser/samples/welcome-email.md` (subject `Your first seven words`). If the Seven Words PDF link doesn't exist yet, change "Your gift is attached:" to "Your gift is coming:" and leave the words unlinked; note it in the report.
+- **Settings → Basics → Subscribe page / "What readers get" text** (if the theme has one): paste the short description only. Remove any older paragraph.
+- **Sections:** if old sections exist from the previous newsletter, leave them (deleting can affect subscribers) but do not assign the new posts to them. Create `Morning` and `Evening` only if it takes under two minutes; otherwise skip — the full setup brief covers it.
+- Do **not** touch: pricing history, existing subscribers, past posts, the custom domain, or any payout/Stripe setting.
+
 ## 2. The About page (Settings → Basics → About page)
 
 Replace the whole page with the About text in `one-word-wiser/01-positioning.md` under "About page (ready to paste)" — everything inside the quoted block, without the `>` marks.
@@ -46,4 +60,4 @@ Replace the whole page with the About text in `one-word-wiser/01-positioning.md`
 
 ## Report
 
-1. Logo uploaded (which file) · 2. Cover uploaded (which file) · 3. Name and description set · 4. About page replaced · 5. Morning draft URL · 6. Evening draft URL · 7. Anything that didn't match this brief.
+1. Logo uploaded (which file) · 2. Cover uploaded (which file) · 3. Name and description set · 4. Benefits replaced with the three lines; old lines removed · 5. Plans and trial set · 6. Welcome email replaced · 7. About page replaced · 8. Morning draft URL · 9. Evening draft URL · 10. Anything that didn't match this brief.

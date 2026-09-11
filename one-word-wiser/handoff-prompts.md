@@ -11,7 +11,7 @@ All three agents work from the same repository: **github.com/ravebm/rabbi**. Giv
 
 ## Codex or Claude in Chrome — LAUNCH DAY (the short one)
 
-> Open my repository `ravebm/rabbi` (pull the latest). Read `AGENTS.md`, then follow `one-word-wiser/operator-brief-launch-day.md` exactly, top to bottom. I am logged into Substack at rabbi.substack.com. Upload the logo, set the name and description, replace the About page, and create the two Friday posts as drafts with their images — do not publish or schedule anything until I say "go". Paste all copy verbatim. When done, send me both draft links and the report at the end of the brief.
+> Open my repository `ravebm/rabbi` (pull the latest). Read `AGENTS.md`, then follow `one-word-wiser/operator-brief-launch-day.md` exactly, top to bottom. I am logged into Substack at rabbi.substack.com. Upload the logo, set the name and description, clear out the old benefits and welcome email and replace them with the new ones, replace the About page, and create the two Friday posts as drafts with their images — do not publish or schedule anything until I say "go". Paste all copy verbatim. When done, send me both draft links and the report at the end of the brief.
 
 ## Codex — operate Substack *or* write posts
 
