@@ -8,9 +8,11 @@
 
 Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
-**A word before the word.**
+A new year seemed like the right time for a new beginning here, too. Over the years, the question you've asked me more than any other is about Hebrew — what a word really means, and what it opens up in the Bible. So that's what this newsletter becomes today.
 
-For a while now, this newsletter has been a place where I share what I love: Jewish wisdom for anyone who wants it. That doesn't change. But starting today, it gets simpler. And, I think, deeper.
+If that isn't for you, please feel free to unsubscribe. No offense taken, and my warmest wishes for the year ahead.
+
+**A word before the word.**
 
 Every morning, one Hebrew word. The language the Bible was written in. Not a grammar lesson — a door. Because when you see the picture inside a word, a verse you've read a hundred times opens. And so does something in you.
 
