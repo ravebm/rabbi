@@ -1,4 +1,4 @@
-# Friday evening — 🌙 LAILA TOV · *shanah* — THE LAUNCH POST
+# Friday evening — 🌙 THE SECRET INSIDE · *shanah* — THE LAUNCH POST
 
 **Subject:** 🌙 the secret inside shanah · the year that lost its "the"
 **Section:** Evening · **Paywall:** none during launch (marker kept for week 3 onward) · **Send:** Friday, September 11, 7:00 pm CT
@@ -25,7 +25,11 @@ But look at what the verse actually says. *The eyes of the LORD are on it* — f
 
 That's the whole holiday, in one missing syllable.
 
-You know how this goes. You've had a *the*-year before. You may have had one this time last year. Tonight, before the new one starts, one small thing: write down one sentence — *This is the year I ______.* Just one. Then put it somewhere you'll find it in the spring, when the year has quietly become *a* year, and let it surprise you.
+Rabbi Sacks described what tonight is for better than anyone. Our life, he wrote, is the single greatest work of art we will ever make — and on Rosh Hashanah we step back from it like an artist stepping back from the canvas, seeing what needs changing for the painting to be complete.
+
+So step back. You know the one. The relationship, the habit, the silence you've been walking away from long enough that it has started to feel like the truth about you. It isn't. It's a brushstroke.
+
+Tonight, before the new year starts, one small thing: write down one sentence — *This is the year I ______.* Just one. Then put it somewhere you'll find it in the spring, when the year has quietly become *a* year, and let it surprise you.
 
 *God's eyes are on the year at the end as much as at the beginning. Yours can be too.*
 
@@ -35,4 +39,4 @@ You know how this goes. You've had a *the*-year before. You may have had one thi
 
 ---
 
-*Note for Evan: the "the year / a year" reading of Deut 11:12 is widely taught in Hasidic and Mussar circles; it is often attributed to the Ketav Sofer or the Chatam Sofer. I've left it as "the Hasidic masters" rather than name one — say the word if you want a name and are sure of it.*
+*Notes for Evan — sources: the "two apparent opposites" sentence is Sacks's, from his Rosh Hashanah messages (rabbisacks.org); "truth transposed into the calendar," "act differently tomorrow than we did yesterday," and the artist-and-canvas image are from his introduction to the Koren Rosh Hashanah Machzor (the Family Edition PDF in your Drive, "Rosh Hashanah in a Nutshell," 5781). The "the year / a year" reading of Deut 11:12 remains "the Hasidic masters"; it is usually credited to the Ketav Sofer.*
