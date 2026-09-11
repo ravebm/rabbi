@@ -8,6 +8,11 @@ All three agents work from the same repository: **github.com/ravebm/rabbi**. Giv
 
 > You have access to my repository `ravebm/rabbi` (pull the latest first). Read `AGENTS.md` at the root, then follow `one-word-wiser/operator-brief-substack-setup.md` exactly, start to finish. I am logged into Substack at rabbi.substack.com. Paste every piece of copy verbatim from the brief — do not rewrite anything. Do not publish, email, or change anything the brief does not list. When you finish, reply with the checklist at the end of the brief, and if anything in Substack's interface didn't match the brief, tell me which step rather than improvising. If you had to change anything in the repository (you shouldn't need to), commit it with a one-line message and push.
 
+
+## Codex or Claude in Chrome — LAUNCH DAY (the short one)
+
+> Open my repository `ravebm/rabbi` (pull the latest). Read `AGENTS.md`, then follow `one-word-wiser/operator-brief-launch-day.md` exactly, top to bottom. I am logged into Substack at rabbi.substack.com. Upload the logo, set the name and description, replace the About page, and create the two Friday posts as drafts with their images — do not publish or schedule anything until I say "go". Paste all copy verbatim. When done, send me both draft links and the report at the end of the brief.
+
 ## Codex — operate Substack *or* write posts
 
 Codex is best at working inside the repository. If your Codex setup can drive a browser, use the operator prompt above word for word (it's agent-agnostic). For writing, use this:
