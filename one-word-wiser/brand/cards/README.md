@@ -4,8 +4,8 @@ Substack can't carry custom fonts or colors inside a post, so the design lives i
 
 | Card | Where it goes | Size | Variants |
 |---|---|---|---|
-| **Word card** | The first image in every post — Hebrew word large, transliteration, gloss, date | 1200 × 675 | Day (morning) · Night (evening) |
-| **Line card** | Near the end — the day's one line (*to carry* / *to sleep on*) | 1200 × 420 | Day · Night |
+| **Word card** | The first image in every post — Hebrew word large, transliteration, gloss, date | 1200 × 675 | Day (used) · Night (spare) |
+| **Line card** | Two per post — Day at the line *to carry*, above the gate; Night at the line *to sleep on*, below it | 1200 × 420 | Day · Night |
 
 **Live template (edit and export PNGs):** https://claude.ai/code/artifact/5bd876b1-3c39-4e8a-a135-6579f2d67c96
 
@@ -21,4 +21,4 @@ python3 one-word-wiser/brand/cards/render.py --date 2026-09-11 --hebrew "שָׁ�
   --date-label "Friday, September 11" --line-day "…" --line-night "…"
 ```
 
-and the four PNGs land in `one-word-wiser/posts/cards/`. Evan drops the Word card as the post's first image and the Line card where the italic line sits. (The live template can also export PNGs by hand, but its export may substitute fonts; the script always uses the real ones.)
+and the four PNGs land in `one-word-wiser/posts/cards/`; three are used (word-day, line-day, line-night). Add `--day-label "Shabbat"` or `--day-label "Your Verse"` on the weekend. The Word card is the post's first image; the day Line card replaces the line to carry; the night Line card replaces the line to sleep on. (The live template can also export PNGs by hand, but its export may substitute fonts; the script always uses the real ones.)
