@@ -1,7 +1,9 @@
-# Friday evening — 🌙 THE SECRET INSIDE · *shanah* — THE LAUNCH POST
+# Saturday evening — 🌙 THE SECRET INSIDE · *shanah* — THE LAUNCH POST
+
+*Launch-day exception: the only evening post. From Sunday the secret runs inside the morning post.*
 
 **Subject:** 🌙 the secret inside shanah · the year that lost its "the"
-**Section:** Evening · **Paywall:** none during launch (marker kept for week 3 onward) · **Send:** Friday, September 11, 7:00 pm CT
+**Audience:** Everyone · **Paywall:** none (delete the marker) · **Send:** Saturday, September 12, 7:00 pm CT
 
 ---
 
@@ -29,11 +31,11 @@ Rabbi Sacks described what tonight is for better than anyone. Our life, he wrote
 
 So step back. You know the one. The relationship, the habit, the silence you've been walking away from long enough that it has started to feel like the truth about you. It isn't. It's a brushstroke.
 
-Tonight, before the new year starts, one small thing: write down one sentence — *This is the year I ______.* Just one. Then put it somewhere you'll find it in the spring, when the year has quietly become *a* year, and let it surprise you.
+Tonight, at the start of the new year, one small thing: write down one sentence — *This is the year I ______.* Just one. Then put it somewhere you'll find it in the spring, when the year has quietly become *a* year, and let it surprise you.
 
 *God's eyes are on the year at the end as much as at the beginning. Yours can be too.*
 
-*Shanah tovah* — a good year. Tomorrow is Shabbat and Rosh Hashanah, so no morning post. Sunday evening: the week ahead.
+*Shanah tovah* — a good year. Tomorrow morning at 6:00: the week ahead. And from then on, one word every morning.
 
 — Rabbi Evan
 
