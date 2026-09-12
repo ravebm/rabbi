@@ -10,13 +10,9 @@ Your gift is attached: **Seven Hebrew Words Every Christian Should Know.** Seven
 
 Here's what happens next:
 
-**Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse. Two minutes.
+**Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse, one question. Two minutes. Below the question: the secret inside the word, and one small thing to do with it.
 
-**Tomorrow evening at 7:00** — the secret inside that word, and one small thing to do with it before bed.
-
-Saturday: a short recap of the week's five words. Sunday: a reader's verse, in Hebrew.
-
-Two a day is a lot. If you want mornings only, [turn off Evening here](SUBSTACK_SECTION_SETTINGS_LINK). You'll still get everything free.
+Saturday: a word from the Torah portion every synagogue in the world is reading that morning, and the week's five words gathered. Sunday: a reader's verse, in Hebrew.
 
 One more thing. **Send me a verse.** Any verse — the one on your wall, the one you can't shake, the one that never made sense. Reply to this email. Every Sunday I take one and show the Hebrew underneath, and yours is in the queue the moment you send it.
 
@@ -24,4 +20,4 @@ That's it. No grammar, no drills. One word, one verse, one rabbi.
 
 — Rabbi Evan
 
-*Mornings are free, always. The evening is for paid subscribers — $60 a year, about sixteen cents a night. But there's no hurry, and there's no catch. Read for a while first.*
+*The word is free, always, and so are Saturday and Sunday. The secret below the question is for paid subscribers — $60 a year, about sixteen cents a day. But there's no hurry, and there's no catch. Read for a while first.*

@@ -1,3 +1,5 @@
+> **Superseded, September 11.** This was written for the twice-daily plan. If it went out on Thursday, September 10, do nothing: the daily model sends fewer emails than it promised, not more, and the launch post explains the shape. If it did not go out, do not send it; the launch post carries the introduction. Kept for the record.
+
 # Announcement post — Week 0 (to the whole existing list)
 
 **Subject:** One word, twice a day
