@@ -6,9 +6,9 @@ The welcome gift for every new subscriber. Seven pages, one word on each: *shalo
 
 | File | What it is |
 |---|---|
-| `seven-words.md` | The book's text. Starts as a template: the Hebrew, transliteration and gloss of each word are already correct; every `[[…]]` is a placeholder to write. The drafting brief is in `../handoff-prompts.md` under "draft the free book." |
+| `seven-words.md` | The book's text, drafted September 13. If it is ever redrafted, keep the `# HEBREW · translit · gloss` headers and follow the drafting brief in `../handoff-prompts.md` under "draft the free book." |
 | `build.py` | Turns `seven-words.md` into `seven-words.pdf` and two preview PNGs. Needs Python 3 and Google Chrome or Chromium, nothing else; the fonts are in `../brand/fonts`. It refuses to build while a placeholder remains, and stops if a page overflows. |
-| `seven-words.pdf`, `preview-cover.png`, `preview-word.png` | The built book. Committed once built so Evan can read it on GitHub. |
+| `seven-words.pdf`, `preview-cover.png`, `preview-word.png` | The built book, ten pages. Rebuild after any text change and commit all three. |
 | `preview/` | Every page as a PNG, from `build.py --all-previews`. For checking; not committed. |
 
 Build: `python3 one-word-wiser/book/build.py` (add `--chromium /path/to/chrome` if it can't find a browser).
@@ -21,7 +21,7 @@ Build: `python3 one-word-wiser/book/build.py` (add `--chromium /path/to/chrome` 
 
 Substack cannot attach a file to the welcome email, so the PDF is attached to a post on rabbi.substack.com that is published to the web only, never emailed, and the welcome email (`../samples/welcome-email.md`), which Substack sends to every new subscriber on its own, links the book's title to that post. Nothing else to run; every new signup gets it.
 
-Evan approves the book before it goes up: Codex drafts and builds it on a branch, Evan reads the PDF, then Codex puts it on Substack and wires the welcome email (the two prompts in `../handoff-prompts.md`).
+Evan approves the book before it goes up. It was drafted and built on the daily-model pull request (September 13); once he has read the PDF, the Codex prompt in `../handoff-prompts.md` puts it on Substack and wires the welcome email.
 
 ## The download post (paste verbatim)
 

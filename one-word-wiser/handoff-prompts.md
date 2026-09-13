@@ -6,7 +6,7 @@ All three agents work from the same repository: **github.com/ravebm/rabbi**. Giv
 
 ## Codex — upload a week's drafts to Substack (the weekly one)
 
-Use this every Sunday after you've approved the drafts, and this weekend for the launch. Fill in the file list. Codex needs a browser and you logged in at rabbi.substack.com.
+Every Sunday, once you say **approved**, the Sunday session hands you this prompt with the file list filled in; paste it into Codex. (For the launch weekend, fill it in from the list below.) Codex needs a browser and you logged in at rabbi.substack.com.
 
 > Open my repository `ravebm/rabbi` and pull the latest. Read `AGENTS.md` at the root, then `one-word-wiser/02-daily-format.md` (the section "The cards" and "Post-body template"). I am logged into Substack at rabbi.substack.com. Create each of the posts below as a **Substack draft**, exactly as written, and do not publish or send anything.
 >
@@ -93,7 +93,9 @@ Paste this into whichever tool you want to draft in. It stands on its own; the a
 >
 > **Output:** If you have the repository, write the text into `one-word-wiser/book/seven-words.md`, replacing each `[[…]]` placeholder and changing nothing else (the Hebrew, transliterations and glosses there are already correct); `one-word-wiser/book/build.py` makes the PDF. Otherwise: Markdown, one page per section, `---` between pages, so it can be dropped into Google Docs, Pages or Canva. For whoever lays it out: navy `#1B2A41` on off-white `#F6F3EC`, gold `#A8781C` for small caps and rules, EB Garamond for English, Frank Ruehl Libre for Hebrew, one word per page with a lot of air; this matches the newsletter's cards. Below the draft, list every citation you are less than certain of.
 
-## Codex — the free book, step 1 of 2: draft and build it (once)
+## Codex — redraft the free book (only if the text changes)
+
+The book is drafted and built (`one-word-wiser/book/seven-words.pdf`, September 13). Use this only if Evan wants the text changed; otherwise skip to the next prompt.
 
 > Open my repository `ravebm/rabbi` and pull the latest `main`. Read `AGENTS.md`, then `one-word-wiser/01-positioning.md` (the voice rules), then `one-word-wiser/book/README.md`, then the drafting brief in `one-word-wiser/handoff-prompts.md` under "draft the free book." Write the book into `one-word-wiser/book/seven-words.md`: replace every `[[…]]` placeholder following the brief, and change nothing else in that file (the Hebrew, transliterations and glosses are already correct). Verify every citation before you use it; if you are not certain of one, use another verse you are certain of.
 >
@@ -101,15 +103,21 @@ Paste this into whichever tool you want to draft in. It stands on its own; the a
 >
 > Commit `seven-words.md`, `seven-words.pdf`, `preview-cover.png` and `preview-word.png` (not the `preview/` folder) with the message "Seven Words book: draft and PDF", push to a branch named `book/seven-words`, and open a pull request against `main`. In the pull request description, list every citation you were less than certain of. Do not touch Substack. Stop there: Evan reads the PDF before it goes up.
 
-## Codex — the free book, step 2 of 2: put it on Substack and wire the welcome email (after Evan says go)
+## Codex — put the free book on Substack and wire the welcome email (once, after Evan has read the PDF)
 
-> Pull the latest `main` of `ravebm/rabbi` (the book's pull request is merged) and open `one-word-wiser/book/README.md`.
+> Pull the latest `main` of `ravebm/rabbi` (the pull request that carries the book is merged) and open `one-word-wiser/book/README.md`.
 >
 > On rabbi.substack.com, create a new post from "The download post" in that README: paste the title, subtitle and body verbatim. Where the body says to attach the PDF, use the editor's file attachment (the paperclip or "+" menu, then File) to attach `one-word-wiser/book/seven-words.pdf`. Audience: Everyone. Section: none. Set the post's URL slug to `seven-words` if the post settings allow. Publish it to the web only: in the publish step choose the option that does not send an email. If you cannot find a way to publish without emailing, stop and report; do not send the list an email. Copy the published post's URL.
 >
 > Then Settings → Emails → Welcome email. Subject: `Your first seven words`. Body: everything below the `---` in `one-word-wiser/samples/welcome-email.md`, entered as formatted text (bold and italics applied in the editor, no markdown symbols), with the book's title linked to the post URL; that link is what `SEVEN_WORDS_URL` stands for. Save it, open the preview, and confirm the link opens the post.
 >
 > Back in the repository, put the post URL in `one-word-wiser/book/README.md` under "Where it lives" in place of *not yet*, commit with the message "Seven Words book: live at <URL>", and push to `main`. Report the post URL, that it was published without an email, and that the welcome email now links to it. Change nothing else on Substack.
+
+## Sunday night — the week's document (automatic)
+
+A scheduled session runs every Sunday at 4:00 pm Central (3:00 pm once the clocks change) and does the Sunday session on its own: it drafts the coming week from `word-bank.md` with the skill, renders the cards, pushes a `posts/week-NN` branch as a draft pull request, puts all seven posts in one Google Doc shared to Evan, and reports the Doc and the pull request. Evan edits the Doc, then opens that session and says **approved** (or says what to change). The session reads the Doc back, applies every edit to the files, fixes anything that broke the format or the voice and says what it fixed, re-renders any card whose line changed, marks the pull request ready, and hands back the Codex upload prompt above, filled in. Evan pastes it into Codex, and the week is scheduled. That paste is the one step no agent here can do: Substack has no API.
+
+To change the hour, the day, or what the session does, ask Claude to update the routine ("One Word Wiser · Sunday week draft").
 
 ---
 

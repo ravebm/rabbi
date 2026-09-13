@@ -13,12 +13,11 @@ One post a day is the routine Evan already keeps for Already Home. Both publicat
 
 ## The weekly rhythm
 
-**Sunday, 60–90 minutes (the one real session):**
-1. Open `word-bank.md`, confirm the week's five weekday words and the Shabbat word. Swap any that don't feel right; the bank is a plan, not a contract. Check the ledger: a word runs once a year.
-2. Run the skill: *"Write the week."* It returns seven posts (Monday through Sunday) in Substack-ready Markdown, plus subject lines, Notes, and optional audio scripts. The Shabbat post carries the week's ten lines in its footer; the Sunday post carries next week's six words.
-3. Read Monday carefully and mark it up in the voice you want. Feed the edits back: *"Tighten the rest of the week the way I did Monday."* Regenerate.
-4. Claude renders the cards (`brand/cards/render.py`, three per post) and sends them.
-5. Hand the drafts to Codex to upload (or paste them yourself): the Word card as the first image, the day Line card at the line to carry, the night Line card at the line to sleep on, the paywall at the door (from week 3), schedule for 6:00 am CT.
+**Sunday (the one real session, and most of it is automatic):**
+1. At 4:00 pm Central a scheduled session drafts the coming week from `word-bank.md` with the skill ("write the week"): seven posts, Monday through Sunday, in Substack-ready Markdown with subject lines and Notes; cards rendered; ledger updated; pushed to a `posts/week-NN` branch as a draft pull request. It puts the whole week in one Google Doc shared to Evan and reports the links.
+2. Evan edits the Doc in his own words, Monday most carefully. Anything: cut, rewrite, swap a verse. Swap a word by editing `word-bank.md` any time before Sunday; the bank is a plan, not a contract, and a word runs once a year (the ledger).
+3. Evan opens that session and says **approved**, or says what to change. It reads the Doc back, applies every edit to the files, fixes anything that broke the format or the voice and says what it fixed, re-renders any card whose line changed, marks the pull request ready, and hands back the Codex upload prompt filled in.
+4. Evan pastes that prompt into Codex; Codex schedules the seven posts for 6:00 am Central with their cards. That paste is the one step no agent here can do: Substack has no API.
 
 **Daily, 10–15 minutes:**
 - Glance at yesterday's numbers; reply to two or three reader replies (replies are the relationship, and they're future Sunday posts).
@@ -28,7 +27,7 @@ One post a day is the routine Evan already keeps for Already Home. Both publicat
 
 **Friday, 10 minutes:** the Shabbat word. Tell Claude which word the sermon is on if it differs from the bank; the skill drafts the Shabbat post from it and the week's lines.
 
-Total: about three hours a week of Evan's time for seven posts. The pulpit voice comes from the edit pass, not the draft.
+Total: an hour or two a week of Evan's time for seven posts, almost all of it the edit pass. The pulpit voice comes from the edit pass, not the draft.
 
 ## The skill
 
