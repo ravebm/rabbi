@@ -31,7 +31,7 @@ Evan approves the book before it goes up. It was drafted and built on the daily-
 
 **Body:**
 
-> *Shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* You say some of them already. These seven pages show what each one means in Hebrew, where the Bible first says it, and where it turns up in the New Testament.
+> *Shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* You say some of them already. These seven pages show what each one means in Hebrew, where the Hebrew Bible first says it, and where it turns up in the New Testament.
 >
 > [attach `seven-words.pdf` here with the editor's file attachment]
 >

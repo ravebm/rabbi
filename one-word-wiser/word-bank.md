@@ -300,7 +300,7 @@ A root picture (hope is a rope, the soul is a throat) is a device, not a test. U
 | Wed | נַעֲשֶׂה וְנִשְׁמָע | na'aseh v'nishma | we will do and we will hear | doing before understanding | Exod 24:7 | Shabbat 88a: when Israel said "do" before "hear," a voice asked who told them the angels' secret. Two crowns for each of them | — |
 | Thu | שֹׁחַד | shochad | bribe | "a bribe blinds the clear-sighted" | Exod 23:8 | Ketubot 105b: *shochad* is *she-hu chad*, "he becomes one" with the giver. You cannot judge someone you have become | — |
 | Fri | חֲמוֹר | chamor | donkey | your enemy's donkey, fallen under its load | Exod 23:5 | Bava Metzia 32b: help the enemy's animal first, to bend the inclination. *Chamor* and *chomer*, matter, share letters; the body as the donkey you have to load rightly | Matt 5:44 |
-| **Shabbat Feb 6** · Mishpatim | תּוֹרָה | torah | teaching | not "law": from *yarah*, to aim, to point, to throw; *moreh* is a teacher, *horim* are parents | Exod 24:12; Ps 19:8 (19:7 English) | The word your Bible renders "law" is the archer's word for aiming. Avot 1:1. Ps 19: "the *torah* of the LORD is whole, restoring the soul." Law doesn't restore souls; teaching does | Matt 5:17 |
+| **Shabbat Feb 6** · Mishpatim | תּוֹרָה | torah | teaching | not "law": from *yarah*, to aim, to point, to throw; *moreh* is a teacher, *horim* are parents | Exod 24:12; Ps 19:8 (19:7 English) | The word the English Bible renders "law" is the archer's word for aiming. Avot 1:1. Ps 19: "the *torah* of the LORD is whole, restoring the soul." Law doesn't restore souls; teaching does | Matt 5:17 |
 
 ## Week 22 · Feb 8–14 · THE DWELLING — Terumah read Saturday; Ash Wednesday Feb 10
 

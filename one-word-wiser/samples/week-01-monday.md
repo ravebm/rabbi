@@ -17,7 +17,7 @@
 
 Say it once, out loud. *Teshuvah.* The stress lands on the last syllable, like a step landing on a doorstep.
 
-Your Bible translates this word "repentance." Put that down for a minute.
+The English word is "repentance." Put it down for a minute.
 
 *Teshuvah* grows from a three-letter root: *shuv.* To turn. To turn around. To come back. It's one of the most common verbs in the whole Hebrew Bible — it shows up over a thousand times — and almost every time it means something physical. A man turns back on the road. A river returns to its course. A wife comes home.
 

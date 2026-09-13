@@ -99,7 +99,7 @@ def blocks_html(blocks):
     out = []
     for kind, t in blocks:
         if kind == "p":
-            cls = ' class="sig"' if t.startswith("—") else ""
+            cls = ' class="sig"' if t.startswith("—") else (' class="fine"' if t.startswith("Scripture quotations") else "")
             out.append(f"<p{cls}>{inline(t)}</p>")
         elif kind == "quote":
             out.append(f"<blockquote>{inline(t)}</blockquote>")
@@ -172,6 +172,7 @@ body{font-family:"EB Garamond",Garamond,Georgia,serif;color:$navy;-webkit-print-
 .last-mid{position:absolute;left:1.15in;right:1.15in;top:3.6in;text-align:center;font-size:17pt;line-height:1.5}
 .last-mid p{margin:0 0 .22in}
 .last-mid p.sig{font-style:italic}
+.last-mid p.fine{font-size:8.5pt;line-height:1.4;opacity:.7;margin:.5in auto 0;max-width:4.6in}
 .last-mid .rule{width:1.2in;margin:.35in auto .2in}
 </style></head><body>$pages<script>
 for(const p of document.querySelectorAll('.page')){p.dataset.overflow=(p.scrollHeight>p.clientHeight+1)?'yes':'no'}
