@@ -62,4 +62,6 @@ Israel's national anthem is called *Hatikvah*. The Hope. Twenty-five centuries a
 
 Send me a verse. Any verse: the one on your wall, the one you can't shake, the one that never made sense. Just reply to this email.
 
+Tomorrow: *kippur*, atonement.
+
 — Rabbi Evan

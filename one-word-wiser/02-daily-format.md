@@ -87,7 +87,7 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 ## SUNDAY — 📖 Your Verse
 
-**Job:** a reader sends a verse, any verse, and Evan shows the Hebrew underneath. That is the whole post. No preview of the week, no trailer: the reader meets Monday's word on Monday.
+**Job:** a reader sends a verse, any verse, and Evan shows the Hebrew underneath. That is the whole post. No preview of the week: the reader meets Monday's word on Monday. The only pointer forward is the one-line "Tomorrow:" every post ends with.
 **Free, whole.** The secret runs open.
 **Length:** 400–550 words.
 **Subject line:** `📖 Your verse: Psalm 46:10`.
@@ -96,7 +96,7 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 1. Open with the reader's first name and state: "Linda in Ohio asked about Psalm 46:10…" Permission is implied by sending; the About page says so.
 2. The weekday anatomy, keyed to the word the verse turns on, with no gate.
 3. Close: "Send me a verse. Just reply to this email." Every reply is a future post and a relationship.
-4. Then "— Rabbi Evan." No footer.
+4. "Tomorrow: *word*, gloss." on its own line, the same one-line pointer every weekday post ends with. Then "— Rabbi Evan." No footer.
 
 ### Rules
 - Until reader verses arrive, Sunday is still *Your Verse*: Evan picks the verse, the one Christians ask a rabbi about most, and the post says so in one plain line at the top (`samples/week-01-sunday.md`). The subject line does not change.
