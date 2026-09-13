@@ -7,7 +7,7 @@ One post a day is the routine Evan already keeps for Already Home. Both publicat
 | Who | Does |
 |---|---|
 | **Evan** | Confirms the week's six words · reads and edits every draft (15–30 min/day) · picks the Shabbat word from his sermon · records or approves audio · answers verse replies · hosts *Ask the Rabbi* · writes the Sunday *Your Verse* post himself when a reply moves him (otherwise the skill drafts it) |
-| **Claude (skill)** | Drafts every post from the word bank in the format and voice · subject lines, the line to carry, the line to sleep on, the two Notes · the Shabbat footer and the Sunday week-ahead footer from the week's posts · scripts the optional audio · renders the cards · keeps the ledger |
+| **Claude (skill)** | Drafts every post from the word bank in the format and voice · subject lines, the line to carry, the line to sleep on, the two Notes · the Shabbat footer from the week's posts · scripts the optional audio · renders the cards · keeps the ledger |
 | **Codex / Hermes** | Uploads approved drafts to Substack as drafts with their cards (`handoff-prompts.md`) · runs the setup brief |
 | **Tools** | Phone voice memos (optional audio) · Substack scheduler |
 
@@ -47,7 +47,7 @@ Three cards per post: Word (day) at the top, Line (day) at the line to carry, Li
 
 ## Verse queue
 
-Keep `verse-queue.md` (create on first reply) with: date received, first name + state, verse, one-line note on what they asked. Sunday picks from the top. Reply to every sender within a week even if their verse won't run for a month ("yours is in the queue for October 18"). Until the queue has a verse, Sunday's post is the week ahead on its own.
+Keep `verse-queue.md` (create on first reply) with: date received, first name + state, verse, one-line note on what they asked. Sunday picks from the top. Reply to every sender within a week even if their verse won't run for a month ("yours is in the queue for October 18"). Until the queue has a verse, Evan picks one, the verse Christians ask a rabbi about most, and the post says so in a line.
 
 ## Metrics that matter (check Sundays)
 

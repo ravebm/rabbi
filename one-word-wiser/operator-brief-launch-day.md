@@ -56,14 +56,12 @@ Replace the whole page with the About text in `one-word-wiser/01-positioning.md`
 
 ## 5. Sunday's post (New post)
 
-- **Title:** `🌅 The week ahead: Five words for the Days of Awe`
-- **Body:** from `one-word-wiser/samples/week-01-sunday-week-ahead.md`, everything below the `---` line, from "# Five Words for the Days of Awe" to "— Rabbi Evan". No images.
-- **Settings:** audience **Everyone**; no section. Save as draft. Note the draft URL.
+Nothing to make here. Sunday is *Your Verse*; it is uploaded with the week's drafts (`handoff-prompts.md`).
 
 ## 6. Ready to share
 
-- Send Evan all three draft URLs and one screenshot of each draft's preview.
-- If Evan replies "go": publish the morning post now (it's already Saturday), **schedule** the evening post for **7:00 pm Central today**, and **schedule** Sunday's post for **6:00 am Central tomorrow**. Confirm the publication timezone is America/Chicago before scheduling. Send all as email, publish to web.
+- Send Evan both draft URLs and one screenshot of each draft's preview.
+- If Evan replies "go": publish the morning post now (it's already Saturday) and **schedule** the evening post for **7:00 pm Central today**. Confirm the publication timezone is America/Chicago before scheduling. Send all as email, publish to web.
 - Do nothing else. Do not run the rest of the setup brief today unless Evan asks. Monday onward is uploaded with the weekly Codex prompt in `handoff-prompts.md`.
 
 ## Report

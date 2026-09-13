@@ -16,7 +16,7 @@ And on Shabbat, the word from the portion every synagogue is reading that mornin
 
 - **Every weekday post's teaching, complete.** Word, meaning, application: the Hebrew, the picture, one verse, the turn, one line to carry, one question for the day, and the door that names what the secret answers. 300–400 words. Every morning.
 - **Shabbat, whole.** The portion's word with its secret open, plus the week's five words with their ten lines: the five to carry and the five to sleep on.
-- **Sunday, whole.** *Your Verse* with its secret open, plus the week ahead.
+- **Sunday, whole.** *Your Verse* with its secret open.
 - **Seven Words Every Christian Should Know** PDF on signup.
 
 A free reader gets two full secrets a week and ten lines. The product makes the pitch; the copy never has to.

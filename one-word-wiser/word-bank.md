@@ -20,7 +20,7 @@ One post a day, seven days a week. Six words a week: five weekday words on a the
 
 A root picture (hope is a rope, the soul is a throat) is a device, not a test. Use one when the word gives it honestly; never force an etymology to get one. The devices the secret can use, all of them the tradition's own and sourced: a gap in the verse · an article that vanishes · a root the translation buried · an enlarged or shrunken letter · a letter's shape and story · a word used only of God · a re-vowelling the rabbis read (*banim* / *bonim*, children / builders) · **a gematria the rabbis made** (*ahavah* and *echad* both 13; *yayin* and *sod* both 70) · a count or a numbering. Told as the tradition's play, sourced, with delight. Gematria is welcome as a reading; it is never offered as proof.
 
-**4. The set test.** The Sunday footer must say the week in one paragraph, one sentence per word, and read as a single thought. If it can't, the five aren't a set.
+**4. The set test.** The five weekday words must say the week in one paragraph, one sentence per word, and read as a single thought; they stand together in the Shabbat footer. If they can't, the five aren't a set.
 
 **5. The ledger.** A word runs once a year at most. The portion comes back every year; the word doesn't. Every portion holds five or more years of words, so year two of Bereshit week is *tzelem, ezer, hevel, shomer, chen*. Keep the ledger at the bottom of this file current.
 
@@ -54,7 +54,7 @@ A root picture (hope is a rope, the soul is a throat) is a device, not a test. U
 ---
 
 ## Week 0 · Sat Sep 12 – Sun Sep 13 · THE LAUNCH — Rosh Hashanah
-*Two posts on Saturday, the launch-day exception. Sunday: the week ahead. Then one a day.*
+*Two posts on Saturday, the launch-day exception. Sunday: Your Verse. Then one a day.*
 
 | Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
 |---|---|---|---|---|---|---|---|

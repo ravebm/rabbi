@@ -6,7 +6,7 @@ One post a day. 6:00 am Central, seven days a week. The same shape every day, so
 |---|---|---|
 | Mon–Fri | **☀️ The Word** · the word, its meaning, one line to carry, today's question; then **the secret inside the word** and one thing to do with it | The teaching is free, always. The secret is paid, from week 3 |
 | Saturday | **🕯️ Shabbat** · a word from the Torah portion every synagogue reads that morning, then the week in five words | Free, whole. Nothing is for sale on Shabbat |
-| Sunday | **📖 Your Verse** · a reader's verse, in Hebrew, then the week ahead | Free, whole |
+| Sunday | **📖 Your Verse** · a reader's verse, in Hebrew, whole | Free, whole |
 
 Seven posts a week. The old plan ran twelve, in five shapes, at two times of day. This one runs seven, in one shape, at one time. It is the Already Home model, which holds its readers every single morning: one post, free preview, paid depth, no days off. A habit has no weekends.
 
@@ -87,19 +87,19 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 ## SUNDAY — 📖 Your Verse
 
-**Job:** a reader sends a verse, any verse, and Evan shows the Hebrew underneath. Then the trailer for the week.
+**Job:** a reader sends a verse, any verse, and Evan shows the Hebrew underneath. That is the whole post. No preview of the week, no trailer: the reader meets Monday's word on Monday.
 **Free, whole.** The secret runs open.
-**Length:** 400–550 words, then the footer.
+**Length:** 400–550 words.
 **Subject line:** `📖 Your verse: Psalm 46:10`.
 
 ### Anatomy
 1. Open with the reader's first name and state: "Linda in Ohio asked about Psalm 46:10…" Permission is implied by sending; the About page says so.
 2. The weekday anatomy, keyed to the word the verse turns on, with no gate.
 3. Close: "Send me a verse. Just reply to this email." Every reply is a future post and a relationship.
-4. **The week ahead.** The theme and why now (the portion, the season, the holiday). The six words, Monday to Shabbat, one sentence each. "Tomorrow, 6:00: *teshuvah*. Say it once tonight so it's in your mouth: *teh-shoo-VAH.*" Then "— Rabbi Evan."
+4. Then "— Rabbi Evan." No footer.
 
 ### Rules
-- Until reader verses arrive, the week ahead stands alone as Sunday's post (`samples/week-01-sunday-week-ahead.md`), subject `🌅 The week ahead: [theme]`.
+- Until reader verses arrive, Sunday is still *Your Verse*: Evan picks the verse, the one Christians ask a rabbi about most, and the post says so in one plain line at the top (`samples/week-01-sunday.md`). The subject line does not change.
 - Keep the verse queue in `05-production-workflow.md`. Sunday picks from the top. Reply to every sender within a week even if their verse runs in a month.
 
 ---
@@ -111,7 +111,6 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 | Weekday | `☀️ [Hebrew] · [translit] · [gloss]` | ☀️ חֶסֶד · chesed · loyal love |
 | Shabbat | `🕯️ [Hebrew] · [translit] · [gloss]` | 🕯️ הַאֲזִינוּ · ha'azinu · give ear |
 | Sunday | `📖 Your verse: [reference]` | 📖 Your verse: Psalm 23:1 |
-| Sunday, before verses arrive | `🌅 The week ahead: [theme]` | 🌅 The week ahead: Five words for the Days of Awe |
 
 The emoji are the section markers in a crowded inbox. Keep them constant.
 

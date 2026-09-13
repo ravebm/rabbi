@@ -31,13 +31,13 @@ Use this every Sunday after you've approved the drafts, and this weekend for the
 
 > - `one-word-wiser/samples/week-00-friday-shanah-morning.md` — Saturday, September 12, 6:00 am
 > - `one-word-wiser/samples/week-00-friday-shanah-evening.md` — Saturday, September 12, 7:00 pm
-> - `one-word-wiser/samples/week-01-sunday-week-ahead.md` — Sunday, September 13, 6:00 am
 > - `one-word-wiser/samples/week-01-monday.md` — Monday, September 14, 6:00 am
 > - `one-word-wiser/samples/week-01-shabbat-haazinu.md` — Saturday, September 19, 6:00 am
+> - `one-word-wiser/samples/week-01-sunday.md` — Sunday, September 20, 6:00 am
 >
 > Schedule: yes
 
-Tuesday through Friday of week 1 and the following Sunday are produced by the skill ("write the week") and saved in `one-word-wiser/posts/` once you approve them; add them to the list the same way.
+Tuesday through Friday of week 1 are produced by the skill ("write the week") and saved in `one-word-wiser/posts/` once you approve them; add them to the list the same way.
 
 ## Hermes — set up Substack (once)
 

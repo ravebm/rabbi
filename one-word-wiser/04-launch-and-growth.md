@@ -10,8 +10,8 @@ Timing note: the relaunch lands on the Days of Awe (Rosh Hashanah begins the eve
 
 | Week | Dates (2026) | What happens | Cadence |
 |---|---|---|---|
-| **0** | Sep 8–13 | Thu Sep 10: **Announcement post** to the whole list (if it went out; if not, skip it, the launch post carries the introduction). **Sat Sep 12 — LAUNCH on Rosh Hashanah:** morning + evening on *shanah*, the one two-post day. Set up name/tagline/About/welcome email, *Seven Words* PDF, paywall off. Sun Sep 13, 6:00 am: first *Week Ahead*. | 3–4 posts |
-| **1** | Sep 14–20 | Full rhythm, all free. Theme: *The Days of Awe*. One post a day Mon–Fri; Shabbat word from Ha'azinu; Sunday *Week Ahead* (or *Your Verse* once a verse arrives). Watch unsub rate daily. | 7 posts |
+| **0** | Sep 8–13 | Thu Sep 10: **Announcement post** to the whole list (if it went out; if not, skip it, the launch post carries the introduction). **Sat Sep 12 — LAUNCH on Rosh Hashanah:** morning + evening on *shanah*, the one two-post day. Set up name/tagline/About/welcome email, *Seven Words* PDF, paywall off. Sun Sep 13, 6:00 am: first *Your Verse* (Evan's pick until a reader's arrives). | 3–4 posts |
+| **1** | Sep 14–20 | Full rhythm, all free. Theme: *The Days of Awe*. One post a day Mon–Fri; Shabbat word from Ha'azinu; Sunday *Your Verse* (Evan's pick until a reader's verse arrives). Watch unsub rate daily. | 7 posts |
 | **2** | Sep 21–27 | Same. Theme: *Atonement* (Yom Kippur Monday). Wednesday: one-line "how's the pace?" question in the post; read the replies. Start the Facebook ad Thursday. Sunday: the one-line note that the gate turns on tomorrow. | 7 |
 | **3** | Sep 28–Oct 4 | **Gate on** below the question, Mon–Fri. Theme: *Shelter* (Sukkot). Founding window opens. | 7 |
 | **4** | Oct 5–11 | Theme: *Beginnings* (Bereshit read Oct 10). This week is the ad's natural landing content — "the Bible's first word" is the hook. Scale ad spend if CPA holds. | 7 |

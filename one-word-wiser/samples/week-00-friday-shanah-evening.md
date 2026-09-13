@@ -35,7 +35,7 @@ Tonight, at the start of the new year, one small thing: write down one sentence 
 
 *God's eyes are on the year at the end as much as at the beginning. Yours can be too.*
 
-*Shanah tovah* — a good year. Tomorrow morning at 6:00: the week ahead. And from then on, one word every morning.
+*Shanah tovah* — a good year. Tomorrow morning at 6:00: a verse, and the Hebrew underneath it. And from then on, one word every morning.
 
 — Rabbi Evan
 

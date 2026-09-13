@@ -17,7 +17,7 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | **Cadence** | One post a day, 6:00 am CT, seven days a week. Same shape every day. |
 | **☀️ Mon–Fri — *The Word*** | Free half: the word, its picture, one verse, the turn, one line to carry, today's question. Then the door and the gate. Paid half: the secret inside the word (the *sod*: a gap, a buried root, an enlarged letter, a count the rabbis made), one thing to do with it, one line to sleep on. 500–650 words in all. |
 | **🕯️ Shabbat** | A word from the Torah portion every synagogue reads that morning, whole and free, then the week in five words and the "tell one person" line. |
-| **📖 Sunday — *Your Verse*** | A reader's verse, in Hebrew, whole and free, then the week ahead. |
+| **📖 Sunday — *Your Verse*** | A reader's verse, in Hebrew, whole and free. No preview of the week. |
 | **Paid tier** | The secret, Monday–Friday. $7/mo · $60/yr ("sixteen cents a day") · Founding $180. 7-day free trial on. Gate turns on in week 3. |
 | **The rubric** | The Torah portion is the spine of the week; a holiday, either calendar, overrides it; every word passes four of five tests (familiar, lost in English, teachable, a secret, sayable) and the secret is never the missing one. `word-bank.md` holds a full year. |
 | **Growth engine** | Existing list (announcement + 2-week soft start) → Evan's proven Facebook ad → welcome sequence with the *Seven Words* lead magnet → "tell one person" line in every Shabbat post. |
