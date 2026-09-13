@@ -1,23 +1,23 @@
-# Welcome email (Substack → Settings → Welcome email)
+# Welcome email (Substack → Settings → Emails → Welcome email)
 
 **Subject:** Your first seven words
+
+*(If the Seven Words book is not linked yet, use the subject `Welcome` and delete the second paragraph. Never promise the book before it exists.)*
 
 ---
 
 Welcome. I'm glad you're here.
 
-Your gift is attached: **Seven Hebrew Words Every Christian Should Know.** Seven pages, one word each — *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* Print them. Put one in your Bible. That's how this works.
+Start with this: **Seven Hebrew Words Every Christian Should Know.** Seven pages, one word on each. *Shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* You say some of them already. The pages show what each one means in Hebrew, where the Bible first says it, and where it turns up in the New Testament. Print them. Put one in your Bible.
 
-Here's what happens next:
+Tomorrow morning at 6:00, one Hebrew word arrives. Its meaning, one verse, one question. Two minutes to read. Then the day.
 
-**Tomorrow morning at 6:00** — one Hebrew word arrives. Its root, its picture, one verse, one question. Two minutes. Below the question: the secret inside the word, and one small thing to do with it.
+On Saturday the word comes from the Torah portion that every synagogue in the world is reading that morning. On Sunday I take a verse a reader sent and show the Hebrew underneath it.
 
-Saturday: a word from the Torah portion every synagogue in the world is reading that morning, and the week's five words gathered. Sunday: a reader's verse, in Hebrew.
+So send me one. The verse on your wall, the one you can't shake, the one that never made sense. Reply to this email. That's where Sundays come from.
 
-One more thing. **Send me a verse.** Any verse — the one on your wall, the one you can't shake, the one that never made sense. Reply to this email. Every Sunday I take one and show the Hebrew underneath, and yours is in the queue the moment you send it.
-
-That's it. No grammar, no drills. One word, one verse, one rabbi.
+That's all. One word a day.
 
 — Rabbi Evan
 
-*The word is free, always, and so are Saturday and Sunday. The secret below the question is for paid subscribers — $60 a year, about sixteen cents a day. But there's no hurry, and there's no catch. Read for a while first.*
+*The word, the verse and the question are free, every day. The secret below the question, Monday to Friday, is for paid subscribers.*

@@ -51,7 +51,7 @@ Target: interests in Bible study, Christian books, *The Chosen*, Max Lucado / Be
 
 Substack gives one welcome email. Make it do a lot: the *Seven Words* PDF, what to expect (one post every morning, the Shabbat word, the Sunday verse), the "send me a verse" invitation, and the one-line paid note at the very bottom. See `samples/welcome-email.md`.
 
-**Seven Words Every Christian Should Know (the lead magnet):** a 7-page PDF, one word per page, set in the logo's navy and serif: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen*. Each page: Hebrew, transliteration, root picture, one verse, where Jesus used it, one line to carry. This is ~1,400 words of content that already lives in the word bank. Build it in Week 0; it's the most valuable single asset in the funnel because it's what the ad delivers.
+**Seven Words Every Christian Should Know (the lead magnet):** a 7-page PDF, one word per page, set in the logo's navy and serif: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen*. Each page: Hebrew, transliteration, root picture, one verse, where Jesus used it, one line to carry. This is ~1,400 words of content that already lives in the word bank. Build it in Week 0; it's the most valuable single asset in the funnel because it's what the ad delivers. **Status, September 13: not yet drafted.** The prompt is in `handoff-prompts.md` ("draft the free book"). Until the book exists the welcome email does not mention it; both operator briefs say how.
 
 ## The referral loop
 

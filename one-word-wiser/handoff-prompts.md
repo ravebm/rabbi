@@ -55,6 +55,44 @@ Tuesday through Friday of week 1 and the following Sunday are produced by the sk
 
 > Open my repository `ravebm/rabbi` and pull the latest. Read `AGENTS.md` at the root, then `skills/one-word-wiser/SKILL.md`, then `one-word-wiser/samples/week-01-monday.md` and `week-01-shabbat-haazinu.md`. Using `one-word-wiser/word-bank.md`, draft [the week of … / Tuesday through Friday of week 1] in the skill's output contract: one post a day, the door and `[PAYWALL]` marker at the question, the secret below it. Save each post as `one-word-wiser/posts/YYYY-MM-DD.md`, commit with the message "Week N drafts: <words>", and push to a branch named `posts/week-NN`. Do not publish anything. Below the drafts, list any citation you are less than certain of.
 
+## Any agent — draft the free book, *Seven Hebrew Words Every Christian Should Know*
+
+Paste this into whichever tool you want to draft in. It stands on its own; the agent does not need the repository. Read the draft before anyone lays it out, and check every citation it lists as uncertain.
+
+> You are drafting a short free book for Rabbi Evan Moffic. It is the welcome gift for new subscribers to *One Word Wiser* (rabbi.substack.com), a newsletter that teaches Christians and curious Jews one Hebrew word a day. Evan is a rabbi handing Christians a key to their own Bible. He is not converting anyone in either direction.
+>
+> **Title:** *Seven Hebrew Words Every Christian Should Know*. **Author:** Rabbi Evan Moffic. **Length:** about 1,700 words. Ten pages: a cover, a short note from Evan, seven word pages, a last page.
+>
+> **The seven words, in this order:** *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.*
+>
+> **Every word page has these six parts, in this order, and nothing else:**
+>
+> 1. The word in Hebrew with vowels, large. Under it, the transliteration in italics and a one- or two-word English gloss. (שָׁלוֹם · *shalom* · peace, wholeness)
+> 2. **Say it.** One line: which syllable carries the stress, and how to make any sound English lacks (*chesed* starts in the throat, like the *ch* in Bach).
+> 3. **The picture.** Two to four sentences: what the root means in its plainest, most physical sense, and how the familiar meaning grows out of it. *Shalom* is from *shalem*, whole, complete, paid in full: peace is nothing missing. *Emunah* is from *aman*, firm, steady, the root of *amen*: faith is a verb of standing. Give a root picture only where the etymology is real; never force one.
+> 4. **One verse** from the Hebrew Bible where the word does its work. Quote it in Evan's own plain rendering from the Hebrew, marked *(my translation)*, with book, chapter and verse. Where the Hebrew and English verse numbers differ, give both. If you are not certain of a citation, choose another verse you are certain of.
+> 5. **Where you already say it.** One or two sentences on where this word lives in a Christian's week: a Gospel or New Testament verse that carries it (Jesus greeting the disciples with *shalom*, John 20:19; Habakkuk 2:4's *emunah* quoted in Romans 1:17), a hymn, a line of the liturgy. Cite chapter and verse. Say "Matthew," "John," "Jesus," never "the Christian Bible."
+> 6. **A line to carry.** One sentence, under fifteen words, in italics. Something a reader could keep for the day.
+>
+> Each word page is 180 to 220 words. The word itself should appear four or five times on its page.
+>
+> **The note from Evan** (page 2, under 120 words): why one Hebrew word is worth a page, first person, warm, no biography beyond "I'm a rabbi." **The last page** (under 80 words): one sentence that one word arrives every morning at rabbi.substack.com, and the invitation: "Send me a verse. Any verse. I'll show you the Hebrew underneath." No price, no "subscribe," no urgency.
+>
+> **Voice.** Short declaratives; fragments welcome. Direct address ("Say it with me."). Warm, never cute; respectful, never preachy. Hebrew always transliterated, italicized and glossed in the same breath. Where Jews and Christians read a verse differently, say so in one sentence and move on. Strike on sight: framework, journey, navigate, leverage, unlock, delve, tapestry, exclusive, "here's the thing," "let's dive in," announced connections ("this brings us to"), stacked adjectives, three-beat escalations.
+>
+> **What the book is not.** No grammar, no alphabet chart, no footnotes, no lists of every place the word occurs, no rabbinic sources, no gematria. The book is the free half of the teaching, complete on its own; the newsletter goes deeper each morning.
+>
+> **Suggested verses** (verify each; swap any you can't confirm):
+> - *shalom*: Numbers 6:26 (the priestly blessing ends in it); Isaiah 26:3 (*shalom shalom*). New Testament: John 20:19, 21, 26.
+> - *chesed*: Psalm 136 (the refrain *ki l'olam chasdo*); Micah 6:8; Lamentations 3:22. New Testament: Jesus quotes Hosea 6:6, "I desire *chesed*, not sacrifice," in Matthew 9:13 and 12:7; the English there says "mercy."
+> - *emunah*: Exodus 17:12 (Moses's hands were *emunah*, steady, until sunset); Habakkuk 2:4; Genesis 15:6. New Testament: Romans 1:17, Galatians 3:11 and Hebrews 10:38 all quote Habakkuk 2:4.
+> - *teshuvah*: Hosea 14:2 (14:1 in Christian Bibles), *Shuvah Yisrael*; Deuteronomy 30:2. New Testament: Mark 1:15 ("repent"); Luke 15:17–20, the son who came to himself and went home.
+> - *ruach*: Genesis 1:2; Ezekiel 37:9. New Testament: John 3:8, where "wind" and "Spirit" are one word, exactly as in Hebrew.
+> - *hallelujah*: Psalm 150:6; Psalm 146:1. New Testament: Revelation 19:1–6, the only place the New Testament says the word, and it says it in Hebrew.
+> - *amen*: Deuteronomy 27:15–26 (the people answer *amen* twelve times); Isaiah 65:16 ("the God of *amen*"). New Testament: John 1:51 and the "Amen, amen, I say to you" sayings (in the Hebrew Bible *amen* answers what was just said; Jesus opens with it); 2 Corinthians 1:20; Revelation 3:14.
+>
+> **Output:** Markdown, one page per section, `---` between pages, so it can be dropped into Google Docs, Pages or Canva. For whoever lays it out: navy `#1B2A41` on off-white `#F6F3EC`, gold `#A8781C` for small caps and rules, EB Garamond for English, Frank Ruehl Libre for Hebrew, one word per page with a lot of air; this matches the newsletter's cards. Below the draft, list every citation you are less than certain of.
+
 ---
 
 ## When you change something
