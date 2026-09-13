@@ -91,7 +91,25 @@ Paste this into whichever tool you want to draft in. It stands on its own; the a
 > - *hallelujah*: Psalm 150:6; Psalm 146:1. New Testament: Revelation 19:1–6, the only place the New Testament says the word, and it says it in Hebrew.
 > - *amen*: Deuteronomy 27:15–26 (the people answer *amen* twelve times); Isaiah 65:16 ("the God of *amen*"). New Testament: John 1:51 and the "Amen, amen, I say to you" sayings (in the Hebrew Bible *amen* answers what was just said; Jesus opens with it); 2 Corinthians 1:20; Revelation 3:14.
 >
-> **Output:** Markdown, one page per section, `---` between pages, so it can be dropped into Google Docs, Pages or Canva. For whoever lays it out: navy `#1B2A41` on off-white `#F6F3EC`, gold `#A8781C` for small caps and rules, EB Garamond for English, Frank Ruehl Libre for Hebrew, one word per page with a lot of air; this matches the newsletter's cards. Below the draft, list every citation you are less than certain of.
+> **Output:** If you have the repository, write the text into `one-word-wiser/book/seven-words.md`, replacing each `[[…]]` placeholder and changing nothing else (the Hebrew, transliterations and glosses there are already correct); `one-word-wiser/book/build.py` makes the PDF. Otherwise: Markdown, one page per section, `---` between pages, so it can be dropped into Google Docs, Pages or Canva. For whoever lays it out: navy `#1B2A41` on off-white `#F6F3EC`, gold `#A8781C` for small caps and rules, EB Garamond for English, Frank Ruehl Libre for Hebrew, one word per page with a lot of air; this matches the newsletter's cards. Below the draft, list every citation you are less than certain of.
+
+## Codex — the free book, step 1 of 2: draft and build it (once)
+
+> Open my repository `ravebm/rabbi` and pull the latest `main`. Read `AGENTS.md`, then `one-word-wiser/01-positioning.md` (the voice rules), then `one-word-wiser/book/README.md`, then the drafting brief in `one-word-wiser/handoff-prompts.md` under "draft the free book." Write the book into `one-word-wiser/book/seven-words.md`: replace every `[[…]]` placeholder following the brief, and change nothing else in that file (the Hebrew, transliterations and glosses are already correct). Verify every citation before you use it; if you are not certain of one, use another verse you are certain of.
+>
+> Then build it: `python3 one-word-wiser/book/build.py --all-previews`. It needs Python 3 and Google Chrome or Chromium (add `--chromium /path/to/chrome` if it cannot find one). If it reports a placeholder or an overflowing page, fix the text and run it again. Look at every image in `one-word-wiser/book/preview/`: ten pages, the Hebrew with its vowels, nothing cut off, the line to carry at the foot of each word page.
+>
+> Commit `seven-words.md`, `seven-words.pdf`, `preview-cover.png` and `preview-word.png` (not the `preview/` folder) with the message "Seven Words book: draft and PDF", push to a branch named `book/seven-words`, and open a pull request against `main`. In the pull request description, list every citation you were less than certain of. Do not touch Substack. Stop there: Evan reads the PDF before it goes up.
+
+## Codex — the free book, step 2 of 2: put it on Substack and wire the welcome email (after Evan says go)
+
+> Pull the latest `main` of `ravebm/rabbi` (the book's pull request is merged) and open `one-word-wiser/book/README.md`.
+>
+> On rabbi.substack.com, create a new post from "The download post" in that README: paste the title, subtitle and body verbatim. Where the body says to attach the PDF, use the editor's file attachment (the paperclip or "+" menu, then File) to attach `one-word-wiser/book/seven-words.pdf`. Audience: Everyone. Section: none. Set the post's URL slug to `seven-words` if the post settings allow. Publish it to the web only: in the publish step choose the option that does not send an email. If you cannot find a way to publish without emailing, stop and report; do not send the list an email. Copy the published post's URL.
+>
+> Then Settings → Emails → Welcome email. Subject: `Your first seven words`. Body: everything below the `---` in `one-word-wiser/samples/welcome-email.md`, entered as formatted text (bold and italics applied in the editor, no markdown symbols), with the book's title linked to the post URL; that link is what `SEVEN_WORDS_URL` stands for. Save it, open the preview, and confirm the link opens the post.
+>
+> Back in the repository, put the post URL in `one-word-wiser/book/README.md` under "Where it lives" in place of *not yet*, commit with the message "Seven Words book: live at <URL>", and push to `main`. Report the post URL, that it was published without an email, and that the welcome email now links to it. Change nothing else on Substack.
 
 ---
 

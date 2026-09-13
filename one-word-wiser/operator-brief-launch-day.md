@@ -24,7 +24,7 @@ The publication used to be a different newsletter. Remove what's left of it so t
   - Paid: `The secret inside the word, every weekday. About sixteen cents a day.`
   - Founding: `A signed book, and my thanks by name.`
 - **Plans:** monthly `$7`, annual `$60` (annual highlighted/default), founding `$180` named `Founding Reader`. Free trial: 7 days, on. Leave paid subscriptions **enabled** but do not paywall any post: the first two weeks are free; the gate starts September 28.
-- **Settings → Emails → Welcome email.** Replace subject and body with the welcome email in `one-word-wiser/samples/welcome-email.md` (subject `Your first seven words`). If the Seven Words book link doesn't exist yet, use the subject `Welcome`, delete the whole paragraph that begins "Start with this:", and note it in the report. Never promise the book before it exists.
+- **Settings → Emails → Welcome email.** Replace subject and body with the welcome email in `one-word-wiser/samples/welcome-email.md` (subject `Your first seven words`). Replace `SEVEN_WORDS_URL` with the book post's URL from `one-word-wiser/book/README.md` ("Where it lives"). If that URL still says *not yet*, use the subject `Welcome`, delete the whole paragraph that begins "Start with this:", and note it in the report. Never promise the book before it exists.
 - **Settings → Basics → Subscribe page / "What readers get" text** (if the theme has one): paste the short description only. Remove any older paragraph.
 - **Sections:** do not create any. If old sections exist from the previous newsletter, leave them and assign no post to them.
 - Do **not** touch: pricing history, existing subscribers, past posts, the custom domain, or any payout/Stripe setting.

@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+one-word-wiser/book/preview/

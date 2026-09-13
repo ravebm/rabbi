@@ -58,7 +58,7 @@ Do not create any sections. One email a day needs no off switch. If sections exi
 
 ### 1.4 Welcome email (Settings → Emails → Welcome email)
 - **Subject:** `Your first seven words`
-- **Body:** paste the body of `one-word-wiser/samples/welcome-email.md` (everything below the `---`). Link the words **Seven Hebrew Words Every Christian Should Know** to the URL Evan provides. If he has not provided one (the book is not drafted yet; the prompt is in `handoff-prompts.md`), use the subject `Welcome`, delete the whole paragraph that begins "Start with this:", and flag it in your report. Never promise the book before it exists.
+- **Body:** paste the body of `one-word-wiser/samples/welcome-email.md` (everything below the `---`). Replace `SEVEN_WORDS_URL` with the book post's URL from `one-word-wiser/book/README.md` ("Where it lives"), so the book's title is a link. If that URL still says *not yet*, use the subject `Welcome`, delete the whole paragraph that begins "Start with this:", and flag it in your report. Never promise the book before it exists.
 
 ### 1.5 Payments (Settings → Payments)
 Enable paid subscriptions with these plans. **Do not paywall any post yet** — plans exist so readers who want to pay can, but all content stays free for two weeks.
