@@ -122,6 +122,19 @@ The book is drafted and built (`one-word-wiser/book/seven-words.pdf`, September 
 >
 > Commit `seven-words.md`, `seven-words.pdf`, `preview-cover.png` and `preview-word.png` (not the `preview/` folder) with the message "Seven Words book: draft and PDF", push to a branch named `book/seven-words`, and open a pull request against `main`. In the pull request description, list every citation you were less than certain of. Do not touch Substack. Stop there: Evan reads the PDF before it goes up.
 
+## Codex — fix the welcome email now (one post a day)
+
+Run this today, on its own. The welcome email live on Substack still carries the September 12 two-post copy; the one-post copy in `samples/welcome-email.md` was written on September 12 but its upload was tied to the book step below, which never ran. Codex needs a browser and you logged in at rabbi.substack.com.
+
+> Open my repository `ravebm/rabbi` and pull the latest `main`. Read `AGENTS.md`. I am logged into Substack at rabbi.substack.com. Change exactly one thing: the welcome email.
+>
+> 1. Open `one-word-wiser/samples/welcome-email.md`. Then check `one-word-wiser/book/README.md` under "Where it lives". If it shows a real post URL, the subject is `Your first seven words` and the book paragraph stays, with the book's title linked to that URL. If it still says *not yet*, the subject is `Welcome` and you delete the paragraph that begins "Start with this:" entirely.
+> 2. Go to Settings → Emails → Welcome email. Replace the subject and the whole body with the text below the `---` line in that file, entered as formatted text: bold and italics applied in the editor, no markdown symbols, the same paragraph breaks. Nothing from the old email stays; in particular, no mention of an evening post, a second post, or two emails a day.
+> 3. Save. Open the preview and read it once from the top: one post a day at 6:00 am, Saturday from the Torah portion, Sunday a reader's verse, the paid note in italics at the end. If the book link is present, click it and confirm it opens the post.
+> 4. Change nothing else on Substack. Do not send a test email to the list, do not touch posts, sections, or the paywall.
+>
+> Reply with the subject line you saved, the first sentence of the saved body, and whether the book paragraph is in or out.
+
 ## Codex — put the free book on Substack and wire the welcome email (once, after Evan has read the PDF)
 
 > Pull the latest `main` of `ravebm/rabbi` (the pull request that carries the book is merged) and open `one-word-wiser/book/README.md`.
