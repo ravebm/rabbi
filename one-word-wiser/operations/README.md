@@ -61,3 +61,7 @@ Video is deferred. When Evan resumes it, start with **one weekly video on the mo
 ## Why this design
 
 Peter Yang's [June 3 tutorial on skills, evaluation and memory](https://creatoreconomy.so/p/full-tutorial-build-self-improving-claude-skills-in-20-min) distinguishes improving a current output through evaluation from improving future work through concise lessons. His [learning-by-solving-real-problems essay](https://creatoreconomy.so/p/the-fastest-way-to-learn-ai-is-to-solve-your-own-problems) supplies the practical learning approach. These are adapted principles, not a claim of autonomous self-improvement or a verbatim implementation of his software.
+
+## Audience research agents
+
+The shared [Audience Scout brief](../../operations/audience-research/README.md) and evidence template cover discovery for both publications, including Grok roles and a one-time pilot assignment. Proposed routine only; no bot or schedule is enabled by these documents.

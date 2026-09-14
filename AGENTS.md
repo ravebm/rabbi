@@ -15,6 +15,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 
 | Path | What it is | Who uses it |
 |---|---|---|
+| `operations/audience-research/README.md` | Proposed shared Grok scout and agent roles for both publications; ready research assignment | Researchers, chief of staff |
 | `one-word-wiser/README.md` | The one-page plan | Everyone — start here |
 | `one-word-wiser/01-positioning.md` | Name, description (approved, verbatim), About page, voice rules, logo notes | Everyone |
 | `one-word-wiser/02-daily-format.md` | Familiar structure, titles, and source standards | Writers |
