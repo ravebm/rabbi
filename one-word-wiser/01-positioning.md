@@ -92,7 +92,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > **Every morning at 6:00 (free):** one Hebrew word, its root, one verse with the Hebrew named under the English, and what changes when you see it. The teaching, whole.
 >
-> **The second half (paid):** the secret inside the word (the rabbis called the deepest of Scripture's four layers *sod*, secret), what God asks of us, and one small thing to do with it tonight.
+> **The second half (paid):** the secret inside the word (the Jewish sages called the deepest of Scripture's four layers *sod*, secret), told simply, and one line to sleep on.
 >
 > **Shabbat:** the word from the Torah portion every synagogue in the world is reading that morning, whole and free, and the week's five words gathered.
 > **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath. Whole and free.

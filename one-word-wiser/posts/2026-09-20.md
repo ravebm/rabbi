@@ -4,7 +4,7 @@
 
 **Subject:** 📖 Your verse: Jeremiah 29:11
 **Audience:** Everyone · **Paywall:** none (Sunday runs whole) · **Send:** 6:00 am CT
-**Cards:** word-day (label: Your Verse) at the top · line-day at the line to carry · line-night at the line to sleep on
+**Cards:** word-day (label: Your Verse) at the top · line-night at the line to sleep on (no line-day card: the line to carry is cut)
 **Notes:** (1) Hope, in Hebrew, is a rope. Hold your end. for 9 am  (2) The other end of the rope is tied somewhere you can't see. That's what makes it hope. for 9 pm
 
 ---
@@ -29,7 +29,7 @@ Here is the word underneath it.
 
 Say it once, out loud. *Tikvah.* The stress lands at the end, like the last pull on a knot.
 
-*Tikvah* grows from *kav*: a cord, a line. In the book of Joshua, when Rahab hangs a scarlet cord from her window so the spies can find her house again, the word for cord is *tikvah*. The same word. (Joshua 2:18)
+*Tikvah* comes from *kav*: a cord, a line. In the book of Joshua, when Rahab hangs a scarlet cord from her window so the spies can find her house again, the word for cord is *tikvah*. The same word. (Joshua 2:18)
 
 Hope, in Hebrew, is not a feeling. It's a rope. One end in your hand. The other end tied somewhere you can't see yet.
 
@@ -37,23 +37,21 @@ Now read the verse again, in the Hebrew, slowly. Two things change.
 
 First, there is no "prosper." The Hebrew says *machshevot shalom*, thoughts of *shalom*: wholeness, nothing missing.
 
-Second, every "you" in the verse is plural. *Aleichem. Lachem.* All of you. The whole chapter is a letter, sent from Jerusalem to a people who had just been marched off to Babylon, and the promise comes with a date on it: seventy years (verse 10). Build houses, the letter says. Plant gardens. Seek the *shalom* of the city you were carried into.
+Second, every "you" in the verse is plural. All of you. The whole chapter is a letter, sent from Jerusalem to a people who had just been marched off to Babylon, and the promise comes with a date on it: seventy years (verse 10). Build houses, the letter says. Plant gardens. Seek the *shalom* of the city you were carried into.
 
 It's easy to hear a personal promise here. The letter was to a whole people, being told to settle in and wait. Hold both. The rope is long enough.
 
-The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an *acharit*, an afterward, and a *tikvah*, a hope. Under "prosper" there is nothing; under "plans," *machshevot*, thoughts. The promise is quieter than the mug, and larger.
-
-*Hope, in Hebrew, is a rope. Hold your end.*
+The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an *acharit*, an afterward, and a *tikvah*, a hope. The promise is quieter than the mug, and larger.
 
 Now the secret inside the word.
 
-Rabbi Jonathan Sacks liked to say that optimism and hope are not the same thing. Optimism is the belief that things will get better. Hope is the belief that, together, we can make them better. Optimism is a mood. Hope is a rope, and a rope has two ends.
+Rabbi Jonathan Sacks, the late chief rabbi of Britain, liked to say that optimism and hope are not the same thing. Optimism is the belief that things will get better. Hope is the belief that, together, we can make them better. Optimism is a mood. Hope is a rope, and a rope has two ends.
 
 That's why the promise in Jeremiah is plural. A person can be optimistic alone. Nobody hopes alone. When the exiles built houses in Babylon and planted gardens, they weren't giving up on Jerusalem. They were holding their end. Seventy years later, somebody was still holding it, and the letter came true.
 
 Israel's national anthem is called *Hatikvah*. The Hope. Twenty-five centuries after the letter, the rope held.
 
-**One thing to do:** Say the verse out loud today with the "you" in the plural, to someone. *Plans to give us hope and a future.*
+So today, say the verse out loud with the "you" in the plural, to someone. *Plans to give us hope and a future.*
 
 *The other end of the rope is tied somewhere you can't see. That's what makes it hope.*
 

@@ -2,7 +2,7 @@
 
 ## The principle
 
-**The teaching is free. The second half is paid.** Every weekday post's main body is the scholarly, biblical part: the word, its root, one verse with the Hebrew named under the English, the turn, one line to carry. It is free, forever, and it is complete. Then one door, a hint at what the second half reveals that names a real human need and promises a deeper understanding of what God asks. Below it, paid: the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), what God asks of us, and one small thing to do tonight. People pay for the second half because it does both things the door promised: it meets a need, and it deepens what they know of God. Nothing above the gate is ever a fragment.
+**The teaching is free. The second half is paid.** Every weekday post's main body is the scholarly, biblical part: the word, its root, one verse with the Hebrew named under the English, the turn, one line to carry. It is free, forever, and it is complete. Then one door, a hint at what the second half reveals that names a real human need and promises a deeper understanding of what God asks. Below it, paid: the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), told simply, and one small thing to do tonight. People pay for the second half because it does both things the door promised: it meets a need, and it deepens what they know of God. Nothing above the gate is ever a fragment.
 
 This is the Already Home model exactly (free preview → paid depth, ~2.2% conversion, 8–15 paid a week), applied to a word a day. One email, one gate, seven mornings.
 
@@ -14,7 +14,7 @@ And on Shabbat, the word from the portion every synagogue is reading that mornin
 
 ## What free gets
 
-- **Every weekday post's teaching, complete.** The word, its root, one verse with the Hebrew named under the English, the turn, one line to carry, and the door. 300–400 words. Every morning.
+- **Every weekday post's teaching, complete.** The word, its root, one verse with the Hebrew named under the English, the turn, and the door. 250–350 words. Every morning.
 - **Shabbat, whole.** The portion's word with its secret open, plus the week's five words with their ten lines: the five to carry and the five to sleep on.
 - **Sunday, whole.** *Your Verse* with its secret open.
 - **Seven Words Every Christian Should Know** PDF on signup.
@@ -23,7 +23,7 @@ A free reader gets two full secrets a week and ten lines. The product makes the 
 
 ## What paid gets
 
-**The second half, Monday through Friday.** The secret inside the word (the *sod*, the hidden layer), what God asks of us, one small thing to do tonight, and one line to sleep on. 200–250 words below the door.
+**The second half, Monday through Friday.** The secret inside the word (the *sod*, the hidden layer), told simply, and one line to sleep on. 150–250 words below the door.
 
 That's it. Plus the full archive (free readers see 30 days), and, only if it costs nothing to keep, a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes, five voice memos on a Thursday.
 

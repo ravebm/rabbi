@@ -15,7 +15,7 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | | |
 |---|---|
 | **Cadence** | One post a day, 6:00 am CT, seven days a week. Same shape every day. |
-| **☀️ Mon–Fri — *The Word*** | Free, the main body: the word, its root, one verse with the Hebrew named under the English, the turn, one line to carry, then the door (a hint at the second half that names a real need and promises a deeper understanding of what God asks). Paid: the secret inside the word (the *sod*: a gap, a buried root, an enlarged letter, a count the rabbis made), what God asks of us, one thing to do tonight, one line to sleep on. 500–650 words in all. |
+| **☀️ Mon–Fri — *The Word*** | Free, the main body: the word, its root, one verse with the Hebrew named under the English, the turn, then the door (a hint at the second half that names a real need and promises a deeper understanding of what God asks). Paid: the secret inside the word (the *sod*: a gap, a buried root, an enlarged letter, a count the rabbis made), what God asks of us, one thing to do tonight, one line to sleep on. 500–650 words in all. |
 | **🕯️ Shabbat** | A word from the Torah portion every synagogue reads that morning, whole and free, then the week in five words and the "tell one person" line. |
 | **📖 Sunday — *Your Verse*** | A reader's verse, in Hebrew, whole and free. No preview of the week. |
 | **Paid tier** | The secret, Monday–Friday. $7/mo · $60/yr ("sixteen cents a day") · Founding $180. 7-day free trial on. Gate turns on in week 3. |

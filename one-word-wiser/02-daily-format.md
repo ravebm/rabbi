@@ -19,7 +19,7 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 ## THE WEEKDAY POST — ☀️ *Boker Tov*
 
 **Job:** teach one word so clearly a reader could explain it to a friend at lunch. The scholarly, biblical part is the main body of the post and it is free. Then one door: a hint at what the second half reveals, and it must do two things at once, name a real human need and promise a deeper understanding of what God actually asks of us. The second half delivers both. This readership is not Already Home's: they come for the Hebrew and the Bible; the need is answered through the text, never instead of it.
-**Length:** 500–650 words in all. Free half 300–400, paid half 200–250. Under two minutes.
+**Length:** 400–600 words in all. Free half 250–350, paid half 150–250. Under two minutes. Shorter is better.
 **Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return`. Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand.
 
 ### Anatomy (in order)
@@ -34,19 +34,18 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 3. **The picture, when there is one.** The root and what it shows: *shuv*, to turn around; a road, not a feeling. A root picture is a device, not a requirement; never force an etymology. When the word has no picture, go straight to the verse.
 4. **The verse.** One verse where the word lives, quoted from the NIV. Then one line naming the Hebrew under the English: "The word under 'return' is *shuvah*." Then the transliterated phrase with the word bolded. One verse, not three.
 5. **The turn.** Two to four short paragraphs: what changes when you see the Hebrew under the English. One idea. This is the teachable interpretation, and it is the part that matters most.
-6. **One line to carry.** A single sentence on its own line, italic, that fits on a phone lock screen. The shareable unit. *(Line card, day.)*
-7. **The door.** One or two sentences, italic lead-in, that hint at what the second half reveals, and do both jobs at once: name a real human need the reader recognizes, and promise a deeper understanding of what God asks. "*The secret inside teshuvah:* why the rabbis say the one who comes back stands in a place the one who never left can't reach, and what God is actually asking of you tonight, which is smaller than sorry." It should feel like a secret and an insight, never a pitch. No "keep reading," no "unlock." Substack's own button does the asking.
+6. **One line to carry, when it adds something.** A single italic sentence that fits on a phone lock screen. Cut it when it only repeats the body; the teaching then ends on its strongest plain sentence. The line still goes in the header's Notes line (the 9 am Note) and in Saturday's footer. *(Line card, day.)*
+7. **The door.** One short italic paragraph. State the surprising teaching in plain words and end on the question a reader would ask: "*But the Jewish sages said one fascinating thing about teshuvah. They said a person who has done teshuvah is more righteous than a person who never had to make teshuvah. So a person who has sinned is more righteous than someone who has not?*" It names something the reader wants to know about their own life and promises a deeper understanding of what God asks. A secret and an insight, never a pitch, never a formula. No "keep reading," no "unlock." Substack's own button does the asking.
 
 `[PAYWALL]` *(from week 3; in weeks 1–2 the marker is deleted and the whole post is free)*
 
 **Application (paid)**
-8. **The secret.** 120–180 words. One hidden layer of the word, the *sod*, passing the sod test below. Told as a scene, not cited: a Midrash noticing the gap in the verse, a sage in a room, Rashi's question, a letter's shape, a count the rabbis made. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps.
-9. **What God asks.** 40–80 words. The secret turned toward the reader's actual life and toward what God wants of us, in plain words: "Not that you feel worse. That you face the other way." "You know the one." This is where the need named at the door is met.
-10. **One thing to do.** One sentence. Tonight, or before bed. Offered, not assigned.
-11. **One line to sleep on.** A single sentence, italic, on its own line. *(Line card, night.)*
-12. **The close.** "Tomorrow: *shema*, hear." Then "— Rabbi Evan."
+8. **The secret.** 100–180 words. One hidden layer of the word, the *sod*, passing the sod test below. Told simply, as a scene: a sage noticing the gap in the verse, a letter's shape, a count the sages made. Named in plain words ("Here's the Talmud reference. A sage named Rabbi Abbahu says it almost in passing:"), the source explained the first time it appears (the Talmud, Rashi, Maimonides, a Midrash: a few words each, for a reader who has never heard the name). When there is a natural New Testament parallel, name it plainly ("one closely paralleling the parable of the prodigal son"), within the week's limit. One image the reader keeps. Say it once; no aphoristic restatement after the point lands.
+9. **One plain sentence of application, at most.** Only when there is a concrete one ("So today, one act of *chesed* for someone who can't repay it."). No "you know the one" paragraphs.
+10. **One line to sleep on.** A single italic sentence that carries the action: "You don't have to walk the whole road today. You only have to turn." *(Line card, night.)*
+11. **The close.** "Tomorrow: *shema*, hear." Then "— Rabbi Evan."
 
-There is no "Today's question." The teaching ends on the line to carry and the door.
+There is no "Today's question." The teaching ends on its strongest sentence, then the door.
 
 ### The sod test (every day, non-negotiable)
 The reading must be (1) **hidden**: something a lifelong Bible reader has never been shown; (2) **grounded**: checkable in the text or in a named rabbinic source; (3) **a turn**: after it, the morning's verse reads differently. A day that only summarizes or paraphrases does not ship. The bank names a secret for every word.
@@ -55,11 +54,12 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 ### Rules
 - The word appears five to eight times above the gate. It's the drumbeat.
-- The door does two jobs in one breath: a human need and a deeper understanding of what God asks. If it only teases, rewrite it. If it only teaches, rewrite it.
+- The door does two jobs in one breath: a human need and a deeper understanding of what God asks. If it only teases, rewrite it. If it only teaches, rewrite it. It is written plainly, a statement and a question, never a formula.
 - **No rabbinic sources above the gate.** The free half is text and picture only. That keeps it something a Jewish reader can forward, and it leaves the secret something to reveal.
 - The Hebrew Bible is the lane. When a word has a famous Gospel echo, one line ("*Other mentions:* Mark 12:29") is enough; most days, none. Once or twice a week the secret may end in a Gospel, when the word itself walks in. Week 9 is the deliberate Gospel week.
 - **The free-reader covenant.** The free half is a complete teaching: the word, its meaning, one verse, the turn, the line to carry. Never a fragment above the gate. The door hints; it never pitches.
-- The paid half answers the door twice over: the secret deepens what God asks, and "what God asks" lands it in the reader's life. Never a paraphrase of the free half.
+- The paid half answers the door's question, simply. Never a paraphrase of the free half.
+- Simple, short, and for a reader who knows nothing about Judaism. Explain each name the first time it appears (the Talmud, Rashi, Maimonides, a Midrash), in a few words. "The Jewish sages" when a teaching is introduced. Say a thing once.
 - One reading. One thing. One line. If there are two ideas, one waits.
 - Never the same source two days running. Vary Midrash, Talmud, Rashi, the letters, the prayer book across a week.
 - No headers inside the post. It's a voice, not an article.
@@ -75,7 +75,7 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 ### Anatomy
 1. **The portion, in one line.** "This morning, in every synagogue in the world, the reading is Ha'azinu, the last song of Moses. One word from it."
-2. **Then the weekday anatomy, with no gate and no door.** Word, say it, the picture if there is one, the verse, the turn, the line to carry, then the secret, what God asks, one thing, the line to sleep on. On Shabbat the whole arc runs open.
+2. **Then the weekday anatomy, with no gate and no door.** Word, say it, the picture if there is one, the verse, the turn, then the secret, at most one sentence of application, the line to sleep on. On Shabbat the whole arc runs open.
 3. **The week in five words.** The five weekday words: Hebrew · transliteration · gloss · the line to carry, each linked to its post. Then the five lines to sleep on, unlinked. This is the free reader's weekly taste of the paid half. Keep it to the lines; no commentary.
 4. **The ask.** One sentence, every Saturday, unchanging: *"If one of these words opened something for you this week, tell one person. A note from you reaches someone no ad ever could."*
 5. "*Shabbat shalom.*" Then "— Rabbi Evan."

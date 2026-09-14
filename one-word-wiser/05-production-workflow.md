@@ -42,7 +42,7 @@ Two paths; **DECIDE**:
 
 ## Images
 
-Three cards per post: Word (day) at the top, Line (day) at the line to carry, Line (night) at the line to sleep on, rendered by `brand/cards/render.py` from the template sources in `brand/cards/`. See `brand/cards/README.md`. Nothing else. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
+Three cards per post: Word (day) at the top, Line (day) at the line to carry when the post keeps that line, Line (night) at the line to sleep on, rendered by `brand/cards/render.py` from the template sources in `brand/cards/`. See `brand/cards/README.md`. Nothing else. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
 
 ## Verse queue
 
