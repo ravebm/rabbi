@@ -90,7 +90,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish roots of the Bible to churches, and I've written several books about it, including *What Every Christian Needs to Know About the Jewishness of Jesus*. This newsletter is the most direct version of that work: one word a day.
 >
-> **Every morning at 6:00 (free):** one Hebrew word — its root, the picture inside it, one verse you've read your whole life that changes when you see it, and one question for the day.
+> **Every morning at 6:00 (free):** one Hebrew word, the English word you've always read it as and what that word has cost you, one verse with the Hebrew named under the English, and one question for the day.
 >
 > **Below the question (paid):** the answer. The turn the Hebrew makes that the English can't, the secret inside the word (the rabbis called the deepest of Scripture's four layers *sod*, secret), and one small thing to do with it tonight. The second half of every weekday post.
 >
