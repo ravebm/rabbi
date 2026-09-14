@@ -4,11 +4,13 @@ Status checked September 14, 2026. Evan confirmed there were no existing project
 
 This setup uses file uploads and browser controls. Claude Design requested a separate GitHub connection; it was not granted. Neither tool has been connected to Codex through an API/MCP integration in this task. A git push does not refresh either workspace automatically.
 
+Later September 14 update: Evan reports that Magnific MCP is now connected. Treat the preceding paragraph as the earlier setup record. Its host/client has not yet been established here; this Codex task's callable tool inventory currently has no Magnific tools. Do not ask Evan to repeat setup by default. Inspect the existing connected client when executing a media task.
+
 ## Roles and source files
 
 - **Codex and Claude writing:** prepare and verify copy using `../../skills/one-word-wiser/SKILL.md`, preserve Evan’s edits, and maintain the reviewed sources in git.
 - **Claude Design:** refine reusable layout, typography, and spacing for the Rabbi’s Notes page or an explicitly requested brand asset. Use the approved copy and existing fonts; return editable source and exports to this repository.
-- **Magnific:** optionally refine an approved raster photograph or illustration when a task calls for one. It is not required for text-led daily letters or the vector-text study PDF. Keep Hebrew, vowel marks, titles, and quotations in a separate typeset layer; do not regenerate them as picture detail.
+- **Magnific:** produce and refine media for requested growth campaigns: images, video sequences, alternate formats, and reusable creative workflows. Its role extends beyond upscaling. Use the existing MCP connection in the client where it is available. Keep Hebrew, vowel marks, titles, and quotations in a separate typeset layer; do not regenerate them as picture detail. The daily letter can remain restrained while distribution assets use richer media.
 - **Evan:** reviews the teaching and design. A design approval does not itself authorize a Substack send.
 
 The daily default remains native text and a restrained divider. Evan’s request to incorporate design tools does not by itself specify illustrations in every letter.
@@ -32,5 +34,6 @@ Specify the source file, intended placement, output dimensions, and allowed chan
 
 ## Product documentation checked
 
+- [Magnific MCP](https://www.magnific.com/mcp), checked September 14: documents image, video, audio, vector and 3D generation, media editing, reusable Spaces workflows, and access to prior creations. Generation/transformation through MCP consumes credits; a connected account is not proof of a tested finished-video workflow. See [the growth pilot](../growth/2026-09-14-hyatt-growth-pilot.md).
 - [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs): supports design-system input, editable design work, and exports including PDF and HTML. These documented capabilities are not evidence of account access in this task.
 - [Magnific upscaling](https://docs.magnific.com/api-reference/image-upscaler-creative/image-upscaler): distinguishes creative enhancement that adds detail from precision-oriented upscaling. No API credentials or paid processing job were configured here.

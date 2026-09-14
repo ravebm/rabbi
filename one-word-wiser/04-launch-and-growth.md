@@ -14,6 +14,8 @@ The Seven Words book is drafted but not published. Do not include it as an avail
 
 ## Growth experiments, not commitments
 
+The [September 14 Hyatt growth pilot](growth/2026-09-14-hyatt-growth-pilot.md) turns one existing teaching into recording bullets, a Note, a video caption, and a production brief. It records the agent ownership Evan requested and a proposed first-week experiment. The copy is prepared for review; media and distribution have not run.
+
 - Test clear human titles tied to a real question, while keeping the Hebrew visible in the letter. Do not change titles based on same-day opens alone.
 - Invite readers to share a useful word with one person. Prepare Notes from good lines when requested; do not assume two automatic Notes a day are running or required.
 - Consider a restrained Already Home cross-mention and appropriate recommendations. Contacting another writer or emailing another list requires explicit authorization.
