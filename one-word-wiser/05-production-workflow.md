@@ -39,3 +39,7 @@ Treat prior Already Home patterns as hypotheses for this audience. The competito
 | Week of | Free | Paid | ARR | Open rate | Paid starts | Evidence / notes |
 |---|---|---|---|---|---|---|
 | 2026-09-07 | | | | | | Historical launch planning had not yet verified live delivery |
+
+## Quality, growth and tool learning
+
+Use [the operating system](operations/README.md) for the shared review loop, weekly growth review and one bounded tool experiment at a time. It complements the production sequence above. Video remains deferred until Evan resumes it.

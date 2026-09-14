@@ -79,15 +79,15 @@ Record the actual client, model when available, generation cost, asset path, and
 
 The destination is recorded as published in the repository snapshot. The public browser retrieval failed in this run; reopen it in the authenticated browser before distribution. No new delivery verification is claimed.
 
-## Proposed first-week trial
+## Deferred video trial — superseded timing
 
-Prepare three short teaching packages from strong letters, starting with this one. One review packet per teaching: sources, letter link, recording bullets, short-form copy, requested media, and an explicit production status. Evan approves the teaching and records; the production assistant returns the edit. Distribution requires the relevant current authorization.
+Evan's later September 14 direction defers video. When resumed, prepare one weekly video on the most popular word, selected with comparable metrics as described in `../operations/README.md`. The teshuvah assets above remain draft examples, not an approved choice or a request to record now. One review packet per teaching: sources, letter link, recording bullets, short-form copy, requested media, and an explicit production status. Evan approves the teaching and records; the production assistant returns the edit. Distribution requires the relevant current authorization.
 
 Measure at consistent 72-hour and seven-day windows: attributed visits/subscriptions where available, useful reader responses, email unsubscribes, mature paid starts, and actual preparation/review time. Missing attribution stays unavailable. Views alone do not establish growth. Choose the next week's format from observed results, not the number of assets generated.
 
 Paid hypothesis to assess separately: the proposed weekly Rabbi's Notes may make rabbinic expertise tangible for personal or group study. Prepare and test usefulness before making it a subscriber promise. The daily publication and current offer remain governed by the existing source documents.
 
-## Next execution dependencies
+## Dependencies when video resumes
 
 1. Confirm the connected Magnific client and test one bounded production request there.
 2. Evan reviews the recording bullets and supplies a recording if this format is selected.

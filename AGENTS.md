@@ -20,6 +20,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/02-daily-format.md` | Familiar structure, titles, and source standards | Writers |
 | `one-word-wiser/03-monetization.md` | Free/paid line, pricing, when paid turns on | Everyone |
 | `one-word-wiser/04-launch-and-growth.md` | Current launch state and proposed growth experiments | Operators |
+| `one-word-wiser/operations/README.md` | Whole-publication quality, growth and tool-learning loops; reusable cycle record | Everyone |
 | `one-word-wiser/05-production-workflow.md` | Weekly rhythm, who does what, metrics ledger | Everyone |
 | `one-word-wiser/word-bank.md` | The rubric and a full year of words: five a week plus a Shabbat word from the Torah portion, each with a verse and a proposed rabbinic reading; the ledger | Writers |
 | `one-word-wiser/samples/` | The voice standard. Read `week-01-monday.md` and `week-01-shabbat-haazinu.md` before writing anything | Writers |

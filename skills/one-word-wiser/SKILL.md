@@ -59,6 +59,10 @@ For “write the week,” draft all seven letters and vary questions, sources, e
 - Banned editorial habits: sales urgency, “unlock,” “exclusive,” “don’t miss,” “let’s dive in,” “journey,” “tapestry,” and repeated aphoristic restatements.
 - Sign “— Rabbi Evan” unless preserving a newer user-edited source.
 
+## Review and learning loop
+
+Apply [the review checks](references/evals.md) to the exact artifact. Read [reusable lessons](references/learning.md) before work; current instructions take precedence. Fix failures and recheck, with at most two revision passes before surfacing an unresolved issue. Keep human approval and actual phone preview distinct from text checks. For growth reviews and tool experiments, use `one-word-wiser/operations/README.md` and its cycle template.
+
 ## Before handing over
 
 Check source fidelity, Hebrew, the complete free teaching, the payoff to the title, and the phone layout. Keep source notes and uncertainties below the body for Evan, separate from the post. Preserve materially different user revisions. During upload, do not regenerate or improve approved copy. Save as a draft unless delivery is explicitly authorized. Commit and push the finished sources and instructions in this repository.

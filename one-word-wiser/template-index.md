@@ -4,6 +4,8 @@ Checked September 14, 2026. Read AGENTS.md and pull first. This index distinguis
 
 | Item | Canonical source | Status |
 |---|---|---|
+| Whole-publication operating loop | `operations/README.md`; `operations/cycle-template.md` | Implemented instructions and reusable record; first draft review recorded; no unattended jobs activated |
+| Draft evaluation and lessons | `../skills/one-word-wiser/references/evals.md`; `../skills/one-word-wiser/references/learning.md` | Shared pass/fail/pending checks; evidence-based lessons |
 | Daily letter structure | `02-daily-format.md`; `../skills/one-word-wiser/SKILL.md` | Current: word, meaning, reflection; clear human title; source checks; restrained dividers |
 | Current weekday working example | `posts/2026-09-15.md` | Revised draft, source checked; Evan review and Substack phone preview pending |
 | Saturday and Sunday structures | `02-daily-format.md`, Saturday/Sunday sections | Current; older full samples are reference drafts, not approved templates |
