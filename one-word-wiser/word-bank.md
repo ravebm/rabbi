@@ -12,6 +12,22 @@ Calendar assumptions (verify against a 5787 calendar before scheduling): Rosh Ha
 |---|---|---|---|---|---|---|---|
 | Fri | שָׁנָה | shanah | year | *sh-n-h* — to repeat (*mishnah*, *sheni*) and to change (*shinui*) — one root | Deut 11:12 *mereshit hashanah v'ad acharit shanah* | The definite article that vanishes: "*the* year" → "*a* year" (Hasidic reading; often attributed to the Ketav Sofer) | — |
 
+## The fixed openings (weeks 1–2)
+
+| Word | In English | In Hebrew |
+|---|---|---|
+| shanah | *year.* | *shanah* — what repeats, and what changes. |
+| teshuvah | *repent.* | *teshuvah* — come home. |
+| shema | *hear, O Israel.* | *shema* — hear so that you do. There's no separate word for obey. |
+| selichah | *forgiveness.* | *selichah* — a word the Bible uses only of God. |
+| chesed | *kindness.* | *chesed* — love that keeps showing up. |
+| chayim | *life.* | *chayim* — plural. Life can't be counted, only poured. |
+| kippur | *atonement.* | *kippur* — a cover placed over, not an erasing. |
+| vidui | *confession.* | *vidui* — the same root as *thank you.* |
+| tzom | *fast.* | *tzom* — a mouth closed so something else can open. |
+| yonah | *Jonah.* | *yonah* — a dove. The prophet who flew the wrong way. |
+| nefesh | *soul.* | *nefesh* — throat. The part of you that gets thirsty. |
+
 ## The first ten secrets (weeks 1–2 — the paid promise must be extraordinary)
 
 Each evening in the first two weeks carries one of these. They are hidden, grounded, and turn the plain meaning over. Verify wording before use.

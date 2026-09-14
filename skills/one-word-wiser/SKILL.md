@@ -28,6 +28,7 @@ Return each post as Substack-ready Markdown with this header block, then the bod
 
 ### Morning post — ☀️ Boker Tov (300–400 words) — free
 Three beats: **word, meaning, application.**
+**Fixed opening, first thing, every morning:** two lines — `**In English:** *<the translated word>.*` / `**In Hebrew:** *<translit>* — <the picture, 5–10 words>.` Never "your Bible" or "the Christian Bible"; a translation versus the original. Then the Word card.
 Hebrew script large and centered → transliteration (stress in CAPS) + gloss → "say it" line → root picture → **one** verse (English, translation named; then transliterated Hebrew with the word bolded) → the turn (2–4 short paragraphs, one idea) → *one line to carry* in italic on its own line → **Today's question** → **the door**: one sentence naming the question tonight answers → "— Rabbi Evan".
 No rabbinic sources in the morning. Hebrew Bible only; when a word has a famous Gospel echo, one line ("*Where it echoes:* Mark 12:29") is enough — most mornings, none. No paid language.
 
