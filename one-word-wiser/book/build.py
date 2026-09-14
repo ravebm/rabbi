@@ -43,6 +43,7 @@ def find_browser(explicit=None):
 def inline(s):
     s = html.escape(s, quote=False)
     s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', s)
+    s = re.sub(r"\*\*\*(.+?)\*\*([^*]*?)\*", r"<em><strong>\1</strong>\2</em>", s)  # ***word** rest*: bold inside italic
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", s)
     return s

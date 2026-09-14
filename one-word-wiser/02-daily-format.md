@@ -32,7 +32,7 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 
 **Meaning**
 3. **The picture, when there is one.** Name the root and what it shows: *shuv*, to turn around; a road, not a feeling. A root picture is a device, not a requirement. Use it when the word gives it honestly; never force an etymology to get one. When the word has no picture, go straight to the verse.
-4. **The verse.** One verse where the word lives. Evan's own rendering from the Hebrew, marked *(my translation)*; the NIV alongside only when the familiar English wording is the point. Then the Hebrew phrase in transliteration with the word bolded. One verse, not three.
+4. **The verse.** One verse where the word lives, quoted from the NIV. Then one line naming the Hebrew under the English: "The word under 'return' is *shuvah*." Then the Hebrew phrase in transliteration with the word bolded. One verse, not three.
 5. **The turn.** Two to four short paragraphs: what changes when you see the Hebrew under the English. One idea. This is the teachable interpretation, and it is the part that matters most.
 
 **Application, free**
