@@ -45,8 +45,6 @@ The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an 
 
 *Hope, in Hebrew, is a rope. Hold your end.*
 
-**Today's question:** What are you holding the end of, without being able to see where it's tied?
-
 Now the secret inside the word.
 
 Rabbi Jonathan Sacks liked to say that optimism and hope are not the same thing. Optimism is the belief that things will get better. Hope is the belief that, together, we can make them better. Optimism is a mood. Hope is a rope, and a rope has two ends.

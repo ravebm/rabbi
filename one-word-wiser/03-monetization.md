@@ -2,7 +2,7 @@
 
 ## The principle
 
-**The need is free. The answer is paid.** The beginning of every weekday post names a real need the reader is already carrying, through the word: the English word they know and the ache under it, one verse with the Hebrew named under the English, one line to carry, one question they actually hold. That half is a complete gift of recognition, and it is free, forever. Below the question is the answer: the turn the Hebrew makes that the English can't, the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), and one small thing to do tonight. That is what people pay for, the same way they do on Already Home: not information, relief. Nothing above the gate is ever a fragment, and nothing above it is ever the relief.
+**The teaching is free. The second half is paid.** Every weekday post's main body is the scholarly, biblical part: the word, its root, one verse with the Hebrew named under the English, the turn, one line to carry. It is free, forever, and it is complete. Then one door, a hint at what the second half reveals that names a real human need and promises a deeper understanding of what God asks. Below it, paid: the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), what God asks of us, and one small thing to do tonight. People pay for the second half because it does both things the door promised: it meets a need, and it deepens what they know of God. Nothing above the gate is ever a fragment.
 
 This is the Already Home model exactly (free preview → paid depth, ~2.2% conversion, 8–15 paid a week), applied to a word a day. One email, one gate, seven mornings.
 
@@ -14,7 +14,7 @@ And on Shabbat, the word from the portion every synagogue is reading that mornin
 
 ## What free gets
 
-- **Every weekday post's first half, complete.** The word, the English word and the ache under it, one verse with the Hebrew named under the English, one line to carry, today's question, and the gate bridge that names where the answer leads. 250–350 words. Every morning.
+- **Every weekday post's teaching, complete.** The word, its root, one verse with the Hebrew named under the English, the turn, one line to carry, and the door. 300–400 words. Every morning.
 - **Shabbat, whole.** The portion's word with its secret open, plus the week's five words with their ten lines: the five to carry and the five to sleep on.
 - **Sunday, whole.** *Your Verse* with its secret open.
 - **Seven Words Every Christian Should Know** PDF on signup.
@@ -23,7 +23,7 @@ A free reader gets two full secrets a week and ten lines. The product makes the 
 
 ## What paid gets
 
-**The answer, Monday through Friday.** The turn the Hebrew makes, the secret inside the word (the *sod*, the hidden layer), the payoff, one small thing to do tonight, and one line to sleep on. 250–300 words below the question.
+**The second half, Monday through Friday.** The secret inside the word (the *sod*, the hidden layer), what God asks of us, one small thing to do tonight, and one line to sleep on. 200–250 words below the door.
 
 That's it. Plus the full archive (free readers see 30 days), and, only if it costs nothing to keep, a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes, five voice memos on a Thursday.
 
@@ -58,12 +58,12 @@ Churn: one email a day is the cadence Already Home's readers already keep; expec
 - **No gate above the question. Ever.** The word, the verse, the line, and the question are free, forever.
 - **Never gate Shabbat or Sunday.** Nothing is for sale on Shabbat.
 - **No urgency copy.** One quiet 20%-off week between Christmas and New Year, one line.
-- **No pitch above the gate.** The gate bridge names where the answer leads, never what it is; Substack's own button does the asking.
+- **No pitch above the gate.** The door hints, a secret and an insight; Substack's own button does the asking.
 - **No sponsorships or affiliates** in year one.
 - **Never skip the secret when tired.** The secret is the product.
 
 ## When to turn paid on
 
 - **Weeks 1–2 (Sep 12–27):** everything free, secrets included. The `[PAYWALL]` marker is deleted from every post.
-- **Week 3:** from Monday, September 28, the gate goes on below the question, with one note at the end of Sunday, September 27's post: "Starting tomorrow, the second half of each weekday post, the secret inside the word, is for paid subscribers. The word, the verse, the line and the question stay free, always, and so do Shabbat and Sunday, whole. It's $60 a year, about sixteen cents a day. Thank you for reading either way."
+- **Week 3:** from Monday, September 28, the gate goes on at the door, with one note at the end of Sunday, September 27's post: "Starting tomorrow, the second half of each weekday post, the secret inside the word, is for paid subscribers. The word, the verse, the meaning and the line to carry stay free, always, and so do Shabbat and Sunday, whole. It's $60 a year, about sixteen cents a day. Thank you for reading either way."
 - **Weeks 3–4:** founding window; the first 100 annual subscribers thanked by name in the Week 6 Shabbat post.

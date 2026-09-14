@@ -40,7 +40,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 ## Non-negotiables (all agents)
 
 - One post a day, 6:00 am Central, seven days a week. The Shabbat word comes from the Torah portion.
-- The need is free, forever: the word, the verse, the line to carry, and today's question, a complete gift of recognition. The answer is paid: the turn, the secret, one thing to do. Never a fragment above the gate, never the relief above it. Never gate Shabbat or Sunday.
+- The teaching is free, forever: the word, the verse, the meaning, and the line to carry, the main body of the post. The second half is paid: the secret inside the word, what God asks of us, one thing to do. The door between them hints at both a real human need and a deeper understanding of what God asks; it never pitches. Never a fragment above the gate. Never gate Shabbat or Sunday.
 - Every post is **word → meaning → application**. Nothing else.
 - The Hebrew Bible is the lane. Gospel echoes once or twice a week at most, only when the word walks in on its own.
 - Voice rules in `01-positioning.md` are not suggestions. Banned words are banned.

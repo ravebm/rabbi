@@ -38,8 +38,6 @@ That's what this Shabbat is. On the Jewish calendar it's called *Shabbat Shuvah*
 
 *The sky was asked to listen before you were, and it's still listening.*
 
-**Today's question:** What did you say this week that you'd want something lasting to have heard?
-
 Now the secret inside the word. It's about where a person is standing.
 
 The rabbis noticed that Moses is not the only prophet who calls heaven and earth to listen. Isaiah does it too, in the first line of his book: "Hear me, you heavens! Listen, earth!" (Isaiah 1:2). Same two verbs. Reversed; the NIV keeps the swap. Moses says *give ear* to the heavens and *hear* to the earth; Isaiah says *hear* to the heavens and *give ear* to the earth.
