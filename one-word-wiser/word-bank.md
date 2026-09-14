@@ -34,7 +34,7 @@ These are earlier In English / In Hebrew opening ideas. Recheck each against `02
 |---|---|---|
 | shanah | *year.* | *shanah* — what repeats, and what changes. |
 | teshuvah | *repent.* | *teshuvah* — come home. |
-| shema | *hear, O Israel.* | *shema* — hear so that you do. There's no separate word for obey. |
+| shema | *hear, O Israel.* | *shema* — listen, take heed. The same verb can also mean obey; context determines the sense. |
 | selichah | *forgiveness.* | *selichah* — a word the Bible uses only of God. |
 | chesed | *kindness.* | *chesed* — love that keeps showing up. |
 | chayim | *life.* | *chayim* — plural. Life can't be counted, only poured. |
@@ -86,7 +86,7 @@ These are earlier In English / In Hebrew opening ideas. Recheck each against `02
 | Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תְּשׁוּבָה | teshuvah | return | *shuv*: turn around; a road home, not a penalty | Hosea 14:2 (14:1 English) *Shuvah Yisrael* | Berakhot 34b: where those who return stand, the perfectly righteous cannot stand. Shir HaShirim Rabbah 5:2: a needle's eye → wagons | Matt 4:17 "repent" = *shuvu*; Luke 15 the son "came to himself" |
-| Tue | שְׁמַע | shema | hear | to hear is to do; the verse Jesus called first | Deut 6:4 | The enlarged *ayin* of *shema* and *dalet* of *echad* spell **עד**, *ed*, witness: every time you say it, the scroll says you're testifying. Rashi on 6:5: both inclinations | Mark 12:29 |
+| Tue | שְׁמַע | shema | hear | listening can call for a response; the verse Jesus called first | Deut 6:4 | Baal HaTurim on 6:4 reads the enlarged *ayin* and *dalet* as **עד**, *ed*, witness. This is a later interpretation, not the lexical meaning of *shema*. Rashi on 6:5: both inclinations (alternate source lead) | Mark 12:29 |
 | Wed | סְלִיחָה | selichah | forgiveness | *salach* is used only of God in the Bible; humans *carry* (*nasa*) | Ps 130:4 "with You is forgiveness" | A divine verb. What it means for the forgiveness you're asked to give. Maimonides, Laws of Repentance 2:10, on forgiving the one who asks | Matt 6:12 "forgive us our debts": Aramaic *chova*, debt and sin one word |
 | Thu | חֶסֶד | chesed | loyal love | not mercy, not kindness: love that keeps showing up | Ps 136 refrain *ki l'olam chasdo* | Sotah 14a: the Torah begins with *chesed* (God clothes Adam and Eve) and ends with it (God buries Moses) | Luke 10:37 the lawyer's own word for the Samaritan |
 | Fri | חַיִּים | chayim | life | plural, like *mayim* and *shamayim*: life can't be counted, only poured | Deut 30:19 "choose life" | "Inscribe us in the book of *lives*." The plural is a fact of the language; the prayer-book petition is verified; the Heschel line the old bank cited is not, leave it out | John 10:10 |
