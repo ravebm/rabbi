@@ -27,6 +27,8 @@ Evan’s September 14 correction retires “secret” as the paid product and �
 
 ## Source files
 
+For template readiness and the Claude Design/Magnific handoff, start with [the template index](template-index.md). Source files being present does not imply an external app is connected or a draft is approved.
+
 | File | Purpose |
 |---|---|
 | `01-positioning.md` | Audience, public description, voice, sources |

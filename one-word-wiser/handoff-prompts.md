@@ -24,6 +24,10 @@ The September 14 teshuvah post is already published as **You Can Still Come Home
 
 > Read `one-word-wiser/study-companion/README.md` and the sample. Develop [specific feedback] into a revised local sample. Verify source context and keep it one useful page. Do not advertise it as a paid benefit or set up a recurring workflow until I adopt it.
 
+## Work with Claude Design and Magnific
+
+> Use one-word-wiser/template-index.md to identify the current source, then follow one-word-wiser/brand/design-handoff.md for [named asset or template]. Inspect the existing design project before creating another. Preserve the approved text and Hebrew, return editable source and exports to git, and identify what has actually been verified. Prepare a review candidate; do not publish or change the paid offer.
+
 ## Publish the book, only after separate approval
 
 Read `book/README.md`, verify Evan approved the current PDF, and use an explicit task that states whether the post is web-only or emailed. After an authorized publication, record its verified URL. Adding a book link to the welcome is a separate specified change; the current welcome body has no placeholder or book promise.

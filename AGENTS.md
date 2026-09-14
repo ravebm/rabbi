@@ -29,6 +29,8 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/study-companion/README.md` | Proposed weekly study page; local prototype, not an adopted paid benefit | Everyone |
 | `one-word-wiser/substack-audit-2026-09-14.md` | Latest consistency corrections and remaining product decisions | Everyone |
 | `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent, including the Codex prompt that uploads drafts to Substack | Evan |
+| `one-word-wiser/template-index.md` | Template readiness, current sources, and remaining checks | Everyone |
+| `one-word-wiser/brand/design-handoff.md` | Claude Design and Magnific roles, project handoff, and export checks | Designers, Operators |
 | `one-word-wiser/book/README.md` | The free book, *Seven Hebrew Words*: the text, the script that builds the PDF, the download-post copy, and where it lives once it is on Substack | Codex (draft, build, upload); Evan approves |
 | `skills/one-word-wiser/SKILL.md` | **The skill**: how to draft any post in the format and voice. Tool-neutral location. | Everyone. `.claude/skills/one-word-wiser` is a symlink to it. |
 | `already-home/audio/README.md` | How the daily Already Home meditation audio is made: voice ids and status, the daily process, the log | Everyone |

@@ -1,3 +1,5 @@
+> Historical working sample, not an approved current template. Follow `../02-daily-format.md` for the current Saturday structure. Recheck calendar and source claims, remove obsolete card/Notes conventions, and revise before use. The references to every synagogue and congregation must not be carried forward as universal claims.
+
 # Saturday, September 19 — 🕯️ SHABBAT · *ha'azinu*
 
 **Subject:** 🕯️ הַאֲזִינוּ · ha'azinu · give ear

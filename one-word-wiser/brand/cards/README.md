@@ -1,24 +1,14 @@
-# Post cards — the visual template
+# Optional post cards
 
-Substack can't carry custom fonts or colors inside a post, so the design lives in two image cards placed between Substack's native text. Everything else is Substack's own serif, a divider, and a blockquote for the verse.
+The current daily format uses native Substack text, visible Hebrew, and a restrained typographic divider. Cards are optional: use only the assets specified in the current approved draft. The older three-card routine is retired. Do not restore the removed line-day card or generate illustrations just to fill a template.
 
-| Card | Where it goes | Size | Variants |
-|---|---|---|---|
-| **Word card** | The first image in every post — Hebrew word large, transliteration, gloss, date | 1200 × 675 | Day (used) · Night (spare) |
-| **Line card** | Two per post — Day at the line *to carry*, above the gate; Night at the line *to sleep on*, below it | 1200 × 420 | Day · Night |
+| Source | Size | Use |
+|---|---|---|
+| WordCardDay.dc.html / WordCardNight.dc.html | 1200 x 675 | Optional Hebrew word card; avoid duplicating the same Hebrew block in the body |
+| LineCardDay.dc.html / LineCardNight.dc.html | 1200 x 420 | Legacy line-card designs; include only if the approved copy explicitly requests one |
 
-**Live template (edit and export PNGs):** https://claude.ai/code/artifact/5bd876b1-3c39-4e8a-a135-6579f2d67c96
+Historical Claude artifact: https://claude.ai/code/artifact/5bd876b1-3c39-4e8a-a135-6579f2d67c96 . Access and current contents have not been verified in this audit. The local HTML files and renderer are available sources; do not infer that this artifact is the new Claude Design workspace.
 
-**Palette:** navy `#1B2A41` · off-white `#F6F3EC` · cream `#F1EDE3` · gold `#A8781C` (day) / `#C9A24A` (night).
-**Type:** Frank Ruehl Libre (Hebrew) · EB Garamond (everything else on the cards).
+Palette: navy #1B2A41, off-white #F6F3EC, cream #F1EDE3, with restrained gold #A8781C or #C9A24A when the approved design uses it. Fonts: Frank Ruhl Libre for Hebrew and EB Garamond for English.
 
-The `.dc.html` files here are the sources the live template is built from. `render.py` produces the finished PNGs from the same design.
-
-**Daily production (the routine):** Claude runs
-
-```
-python3 one-word-wiser/brand/cards/render.py --date 2026-09-11 --hebrew "שָׁנָה" --translit shanah --gloss year \
-  --date-label "Friday, September 11" --line-day "…" --line-night "…"
-```
-
-and the four PNGs land in `one-word-wiser/posts/cards/`; three are used (word-day, line-day, line-night). Add `--day-label "Shabbat"` or `--day-label "Your Verse"` on the weekend. The Word card is the post's first image; the day Line card replaces the line to carry; the night Line card replaces the line to sleep on. (The live template can also export PNGs by hand, but its export may substitute fonts; the script always uses the real ones.)
+`render.py` is the legacy four-output renderer. It still takes line-day and line-night arguments and emits all four variants; generating files never means all variants belong in a post. Use it only for a specified card request and inspect Hebrew, fonts, and clipping. For the new design workflow, follow `../design-handoff.md` and `../../template-index.md`.

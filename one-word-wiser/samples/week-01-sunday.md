@@ -1,3 +1,5 @@
+> Historical working sample, not an approved current template. Follow `../02-daily-format.md` for the current Sunday structure. Recheck Hebrew and source claims, verify the actual reader-verse queue, and remove obsolete card/Notes conventions before use. Do not copy first-person circumstances without Evan’s confirmation.
+
 # Sunday, September 20 — 📖 YOUR VERSE · *tikvah*
 
 *Runs when the verse queue is empty: Evan picks the verse and says so in the first line. If a reader's verse has arrived by Saturday, draft from that one instead and keep this for a Sunday with an empty queue.*
