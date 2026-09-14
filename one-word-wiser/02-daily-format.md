@@ -20,7 +20,7 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 
 **Job:** teach one word so clearly a reader could explain it to a friend at lunch. The scholarly, biblical part is the main body of the post and it is free. Then one door: a hint at what the second half reveals, and it must do two things at once, name a real human need and promise a deeper understanding of what God actually asks of us. The second half delivers both. This readership is not Already Home's: they come for the Hebrew and the Bible; the need is answered through the text, never instead of it.
 **Length:** 400–600 words in all. Free half 250–350, paid half 150–250. Under two minutes. Shorter is better.
-**Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return`. Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand.
+**Subject line:** a simple English title that makes sense immediately, such as `You Can Still Come Home`. Evan chose this direction on September 14. Keep the Hebrew script, transliteration, and gloss together in the subtitle when specified: `תְּשׁוּבָה · teshuvah · return`. Preserve already prepared or specifically approved titles during upload; do not silently retitle other posts.
 
 ### The fixed opening (every weekday post, first thing)
 
@@ -121,11 +121,11 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 | Post | Pattern | Example |
 |---|---|---|
-| Weekday | `☀️ [Hebrew] · [translit] · [gloss]` | ☀️ חֶסֶד · chesed · loyal love |
+| Weekday | `[Simple English title]`, with `[Hebrew] · [translit] · [gloss]` beneath when specified | You Can Still Come Home / תְּשׁוּבָה · teshuvah · return |
 | Shabbat | `🕯️ [Hebrew] · [translit] · [gloss]` | 🕯️ הַאֲזִינוּ · ha'azinu · give ear |
 | Sunday | `📖 Your verse: [reference]` | 📖 Your verse: Psalm 23:1 |
 
-The emoji are the section markers in a crowded inbox. Keep them constant.
+Preserve emoji in the Shabbat and Sunday patterns. For every title, simplicity and immediate clarity come first; follow the title guidance in `skills/one-word-wiser/references/substack-readability.md`. The older weekday word-only pattern remains in previously prepared posts; a new preference does not authorize silently changing those posts.
 
 ## Subheadings and dividers (every post)
 

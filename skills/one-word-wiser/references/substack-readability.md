@@ -2,6 +2,16 @@
 
 Evan's explicit direction, September 13, 2026, from his edits to the September 14 Substack draft: use several subheadings, make the copy easy to read on Substack, and use **Let It Change Your Life** as the heading for the application section every time. His final correction replaces the proposed small illustrations with an elegant divider, optionally using a Hebrew letter. Apply this to future One Word Wiser posts, including Shabbat and Sunday. This is a presentation standard, not permission to publish or change other posts.
 
+## Titles: clear on the first reading
+
+Evan's explicit correction, September 14, 2026: “simple clear is always better.” He chose **You Can Still Come Home** over longer comparisons and abstract titles about “real change.” The saved draft pairs that title with **תְּשׁוּבָה · teshuvah · return** as its subtitle.
+
+- Give title selection real editorial attention, but make simplicity and immediate understanding the first criteria. Use familiar words, a natural spoken rhythm, and a clear human meaning that the post delivers.
+- A reader should understand the invitation on the first reading. If the title needs an explanation, simplify the title. Do not make readers work through a theological comparison or a clever paradox before they feel its relevance.
+- Avoid abstract placeholders such as “change” when a plain, concrete phrase carries the idea better. Adding “real” or other emphasis does not by itself sharpen an abstract title.
+- Treat **You Can Still Come Home** as the clarity benchmark, not a formula to repeat. Its word “still” supplies feeling without complicating the sentence. Do not keep making a chosen simple title more elaborate in pursuit of a stronger hook.
+- Preserve the selected title and subtitle exactly during transfer. Keep the Hebrew, transliteration, and meaning in the subtitle when specified, with the Word card still at the top. Leave a subtitle empty when the current instruction calls for that.
+
 ## Writing and layout
 
 - Use native Substack heading styles. Usually three to five short H2 subheadings are enough for a weekday post; adjust to the actual changes in thought. The heading should tell the reader what matters or raise an honest question the next paragraphs answer. Avoid vague teasers and a heading above every paragraph.
