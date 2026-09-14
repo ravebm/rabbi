@@ -5,6 +5,7 @@
 **Subject:** 📖 Your verse: Jeremiah 29:11
 **Audience:** Everyone · **Paywall:** none (Sunday runs whole) · **Send:** 6:00 am CT
 **Cards:** word-day (label: Your Verse) at the top · line-night at the line to sleep on (no line-day card: the line to carry is cut)
+**Dividers:** centered — ת — after "The promise is quieter than the mug, and larger." and before "Send me a verse." · native text, with tav bold · no added illustrations
 **Notes:** (1) Hope, in Hebrew, is a rope. Hold your end. for 9 am  (2) The other end of the rope is tied somewhere you can't see. That's what makes it hope. for 9 pm
 
 ---
@@ -12,6 +13,8 @@
 # Your verse: Jeremiah 29:11
 
 Nobody has sent me a verse yet. So this first Sunday, I picked the one I'm asked about most.
+
+## One Key Verse
 
 You know it. It's on the mug, the graduation card, the wall of the guest room:
 
@@ -29,9 +32,13 @@ Here is the word underneath it.
 
 Say it once, out loud. *Tikvah.* The stress lands at the end, like the last pull on a knot.
 
+## Hope Is a Rope
+
 *Tikvah* comes from *kav*: a cord, a line. In the book of Joshua, when Rahab hangs a scarlet cord from her window so the spies can find her house again, the word for cord is *tikvah*. The same word. (Joshua 2:18)
 
 Hope, in Hebrew, is not a feeling. It's a rope. One end in your hand. The other end tied somewhere you can't see yet.
+
+## Two Things Change
 
 Now read the verse again, in the Hebrew, slowly. Two things change.
 
@@ -42,6 +49,10 @@ Second, every "you" in the verse is plural. All of you. The whole chapter is a l
 It's easy to hear a personal promise here. The letter was to a whole people, being told to settle in and wait. Hold both. The rope is long enough.
 
 The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an *acharit*, an afterward, and a *tikvah*, a hope. The promise is quieter than the mug, and larger.
+
+<p style="text-align: center">— <strong>ת</strong> —</p>
+
+## Let It Change Your Life
 
 Now the secret inside the word.
 
@@ -54,6 +65,8 @@ Israel's national anthem is called *Hatikvah*. The Hope. Twenty-five centuries a
 So today, say the verse out loud with the "you" in the plural, to someone. *Plans to give us hope and a future.*
 
 *The other end of the rope is tied somewhere you can't see. That's what makes it hope.*
+
+<p style="text-align: center">— <strong>ת</strong> —</p>
 
 Send me a verse. Any verse: the one on your wall, the one you can't shake, the one that never made sense. Just reply to this email.
 

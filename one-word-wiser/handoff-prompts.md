@@ -43,22 +43,19 @@ Tuesday through Friday of week 1 are produced by the skill ("write the week") an
 
 ## Codex — post one day (the daily one)
 
-For a single post, tonight's or tomorrow's. Codex needs a browser and you logged in at rabbi.substack.com. Filled in below for Monday, September 14; for another day change the file name, the title, the send time and the two card names.
+For a single post. Codex needs a browser and you logged in at rabbi.substack.com. Filled in below for Monday, September 14, whose draft Codex already built and polished on September 13 (draft 215587061) but did not schedule; for another day, change the draft link (or say "create it from the file"), the file name, the title, the send time and the two card names. Prepared posts carry native H2 subheadings, the **Let It Change Your Life** section and centered Hebrew-letter dividers; Codex keeps them as native elements.
 
-> Open my repository `ravebm/rabbi`, check out the branch `claude/gifted-bohr-leaujh`, and pull the latest. Read `AGENTS.md` at the root. I am logged into Substack at rabbi.substack.com. Put ONE post on Substack, exactly as written. Do not publish or send it yourself; schedule it.
+> Open my repository `ravebm/rabbi`, check out the branch `claude/gifted-bohr-leaujh`, and pull the latest. Read `AGENTS.md` and `skills/one-word-wiser/references/substack-readability.md`. I am logged into Substack at rabbi.substack.com. Schedule ONE existing draft. Do not create a second post.
 >
-> The file: `one-word-wiser/posts/2026-09-14.md`. Send: Monday, September 14, 2026, 6:00 am, America/Chicago.
+> The draft: https://rabbi.substack.com/publish/post/215587061, titled `☀️ תְּשׁוּבָה · teshuvah · return`. The file it must match: `one-word-wiser/posts/2026-09-14.md`. Send: Monday, September 14, 2026, 6:00 am, America/Chicago.
 >
-> 1. **First, look for an existing post.** Open the dashboard's Drafts and Scheduled lists. If there is already a draft or scheduled post titled `☀️ תְּשׁוּבָה · teshuvah · return`, or any post scheduled for Monday, September 14 at 6:00 am, open that one and replace its body with the text from the file instead of creating a second post. When you finish there must be exactly one post scheduled for that time.
-> 2. **Title** = the file's `**Subject:**` line without the word "Subject": `☀️ תְּשׁוּבָה · teshuvah · return`. Leave the subtitle empty.
-> 3. **Body** = everything in the file below the first `---` line, ending at `— Rabbi Evan`. Do not paste the header block (Subject, Audience, Cards, Notes) and do not paste the "Notes for Evan" block at the end. Keep every bold, italic, blockquote and paragraph break. Paste the Hebrew exactly, with its vowel marks.
-> 4. The body starts with a large Hebrew word and a transliteration line inside `<div align="center">`; delete those lines. The Word card carries them.
-> 5. **Images**, from `one-word-wiser/posts/cards/`: put `2026-09-14-word-day.png` at the very top of the body. Put `2026-09-14-line-night.png` in place of the italic line *You don't have to walk the whole road today. You only have to turn.* (delete that text line and put the image where it was). Do not use the line-day card; this post has no separate line to carry.
-> 6. **Paywall:** delete the line that says `[PAYWALL]`. Nothing in this post is paid.
-> 7. **Settings:** audience Everyone. No section. Send as email: yes. Publish to web: yes. Schedule for Monday, September 14, 2026, 6:00 am, America/Chicago.
-> 8. Do not change any other Substack setting, do not touch other posts, do not send test emails.
+> 1. Open the draft. Check its body against the file (everything below the file's first `---` line, ending at `— Rabbi Evan`): the four H2 subheadings, the two centered — ת — dividers, the short paragraphs, the italic lines, the blockquoted verse with its Hebrew vowel marks. If the draft has newer edits by Evan, keep them; never restore wording he removed. Do not paste the header block or the "Notes for Evan" block.
+> 2. **Cards**, from `one-word-wiser/posts/cards/`: `2026-09-14-word-day.png` at the very top of the body; `2026-09-14-line-night.png` in place of the italic line *You don't have to walk the whole road today. You only have to turn.* No line-day card. If both are already in place, leave them.
+> 3. There is no paywall in this post. Make sure no paywall divider is in the body.
+> 4. **Settings:** audience **Everyone** (the publish dialog defaults to Paid; change it and confirm it stays after the dialog closes). No section. Send as email: yes. Publish to web: yes. Schedule for Monday, September 14, 2026, 6:00 am, America/Chicago.
+> 5. Reload and confirm: the post shows as scheduled for that time, audience Everyone, and there is exactly one post scheduled for it. Do not change any other setting, do not touch other posts, do not send test emails.
 >
-> When done, reply with: the post title, its URL, the scheduled time as Substack shows it, whether both images are in place, and whether you replaced an existing post or created a new one. If any screen didn't match these instructions, tell me which step rather than improvising.
+> Reply with: the scheduled time as Substack shows it, the audience as shown after the reload, and whether both images are in place. If any screen doesn't match these instructions, tell me which step rather than improvising.
 
 ## Hermes — set up Substack (once)
 
