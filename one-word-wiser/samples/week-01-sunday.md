@@ -1,0 +1,75 @@
+# Sunday, September 20 — 📖 YOUR VERSE · *tikvah*
+
+*Runs when the verse queue is empty: Evan picks the verse and says so in the first line. If a reader's verse has arrived by Saturday, draft from that one instead and keep this for a Sunday with an empty queue.*
+
+**Subject:** 📖 Your verse: Jeremiah 29:11
+**Audience:** Everyone · **Paywall:** none (Sunday runs whole) · **Send:** 6:00 am CT
+**Cards:** word-day (label: Your Verse) at the top · line-night at the line to sleep on (no line-day card: the line to carry is cut)
+**Dividers:** centered — ת — after "The promise is quieter than the mug, and larger." and before "Send me a verse." · native text, with tav bold · no added illustrations
+**Notes:** (1) Hope, in Hebrew, is a rope. Hold your end. for 9 am  (2) The other end of the rope is tied somewhere you can't see. That's what makes it hope. for 9 pm
+
+---
+
+# Your verse: Jeremiah 29:11
+
+Nobody has sent me a verse yet. So this first Sunday, I picked the one I'm asked about most.
+
+## One Key Verse
+
+You know it. It's on the mug, the graduation card, the wall of the guest room:
+
+> **"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."** — Jeremiah 29:11 (NIV)
+
+Here is the word underneath it.
+
+<div align="center">
+
+# תִּקְוָה
+
+*tikvah* (teek-VAH) — hope
+
+</div>
+
+Say it once, out loud. *Tikvah.* The stress lands at the end, like the last pull on a knot.
+
+## Hope Is a Rope
+
+*Tikvah* comes from *kav*: a cord, a line. In the book of Joshua, when Rahab hangs a scarlet cord from her window so the spies can find her house again, the word for cord is *tikvah*. The same word. (Joshua 2:18)
+
+Hope, in Hebrew, is not a feeling. It's a rope. One end in your hand. The other end tied somewhere you can't see yet.
+
+## Two Things Change
+
+Now read the verse again, in the Hebrew, slowly. Two things change.
+
+First, there is no "prosper." The Hebrew says *machshevot shalom*, thoughts of *shalom*: wholeness, nothing missing.
+
+Second, every "you" in the verse is plural. All of you. The whole chapter is a letter, sent from Jerusalem to a people who had just been marched off to Babylon, and the promise comes with a date on it: seventy years (verse 10). Build houses, the letter says. Plant gardens. Seek the *shalom* of the city you were carried into.
+
+It's easy to hear a personal promise here. The letter was to a whole people, being told to settle in and wait. Hold both. The rope is long enough.
+
+The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an *acharit*, an afterward, and a *tikvah*, a hope. The promise is quieter than the mug, and larger.
+
+<p style="text-align: center">— <strong>ת</strong> —</p>
+
+## Let It Change Your Life
+
+Now the secret inside the word.
+
+Rabbi Jonathan Sacks, the late chief rabbi of Britain, liked to say that optimism and hope are not the same thing. Optimism is the belief that things will get better. Hope is the belief that, together, we can make them better. Optimism is a mood. Hope is a rope, and a rope has two ends.
+
+That's why the promise in Jeremiah is plural. A person can be optimistic alone. Nobody hopes alone. When the exiles built houses in Babylon and planted gardens, they weren't giving up on Jerusalem. They were holding their end. Seventy years later, somebody was still holding it, and the letter came true.
+
+Israel's national anthem is called *Hatikvah*. The Hope. Twenty-five centuries after the letter, the rope held.
+
+So today, say the verse out loud with the "you" in the plural, to someone. *Plans to give us hope and a future.*
+
+*The other end of the rope is tied somewhere you can't see. That's what makes it hope.*
+
+<p style="text-align: center">— <strong>ת</strong> —</p>
+
+Send me a verse. Any verse: the one on your wall, the one you can't shake, the one that never made sense. Just reply to this email.
+
+Tomorrow: *kippur*, atonement.
+
+— Rabbi Evan

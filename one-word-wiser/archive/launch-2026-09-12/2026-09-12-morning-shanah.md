@@ -1,12 +1,14 @@
-# Friday morning — ☀️ BOKER TOV · *shanah* — THE LAUNCH POST
+# Saturday morning — ☀️ BOKER TOV · *shanah* — THE LAUNCH POST
+
+*Launch-day exception: two posts on Saturday, September 12 (this one at 6:00 am, the secret at 7:00 pm). From Sunday, one post a day at 6:00 am.*
 
 **Subject:** ☀️ Happy New Year
-**Subtitle:** One Hebrew word, twice a day, starting now.
-**Section:** Morning · **Paywall:** none · **Send:** Friday, September 11, 6:00 am CT
+**Subtitle:** One Hebrew word a day, starting now.
+**Audience:** Everyone · **Paywall:** none · **Send:** Saturday, September 12, 6:00 am CT
 
 ---
 
-Tonight begins the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
+Last night began the Jewish New Year, Rosh Hashanah. May it be filled with blessings.
 
 A new year seemed like the right time for a new beginning here, too.
 
@@ -24,11 +26,11 @@ Every morning, one Hebrew word. The language the Bible was written in. Not a gra
 
 Hebrew isn't like other languages. The rabbis said God created the world with these letters — that before there was light, there was the word for it. Every letter has a shape and a story: *bet* is a house, *ayin* is an eye, *shin* looks like a flame. Every word grows from a three-letter root, so words that seem unrelated in English turn out to be family in Hebrew — *hope* and *rope*, *repent* and *return*, *year* and *change*. When you learn one Hebrew word, you don't learn a definition. You learn how God's language sees the thing.
 
-Every evening, the secret inside the word — the layer the rabbis called *sod* — and one small thing to do with it before bed.
+Below every word, the secret inside it — the layer the rabbis called *sod* — and one small thing to do with it before bed. On Shabbat, a word from the Torah portion being read in synagogue that morning. On Sunday, a verse you send me.
 
-That's all. One word, twice a day. Whether you're Christian or Jewish or simply hungry for something true, you're welcome here. My hope is plain: that you'll feel closer to God's word than you ever have. And a little closer to yourself.
+That's all. One word a day. Whether you're Christian or Jewish or simply hungry for something true, you're welcome here. My hope is plain: that you'll feel closer to God's word than you ever have. And a little closer to yourself.
 
-Tonight, the year turns. Let's begin.
+The year has turned. Let's begin.
 
 ---
 

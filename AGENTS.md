@@ -21,10 +21,13 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/03-monetization.md` | Free/paid line, pricing, when paid turns on | Everyone |
 | `one-word-wiser/04-launch-and-growth.md` | Six-week transition, ad funnel, welcome sequence | Operators |
 | `one-word-wiser/05-production-workflow.md` | Weekly rhythm, who does what, metrics ledger | Everyone |
-| `one-word-wiser/word-bank.md` | 12 weeks / 60 words with verses and rabbinic anchors | Writers |
-| `one-word-wiser/samples/` | The voice standard. Read the Monday morning and evening samples before writing anything | Writers |
+| `one-word-wiser/word-bank.md` | The rubric and a full year of words: five a week plus a Shabbat word from the Torah portion, each with verse and secret; the ledger | Writers |
+| `one-word-wiser/samples/` | The voice standard. Read `week-01-monday.md` and `week-01-shabbat-haazinu.md` before writing anything | Writers |
+| `one-word-wiser/posts/` | The dated drafts, one file a day, cards in `posts/cards/` | Writers, Operators |
+| `one-word-wiser/archive/` | Retired files kept for the record (the two-post launch day). Never draft from these | — |
 | `one-word-wiser/operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline | Operators (Hermes/Codex/Claude driving Substack) |
-| `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent | Evan |
+| `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent, including the Codex prompt that uploads drafts to Substack | Evan |
+| `one-word-wiser/book/README.md` | The free book, *Seven Hebrew Words*: the text, the script that builds the PDF, the download-post copy, and where it lives once it is on Substack | Codex (draft, build, upload); Evan approves |
 | `skills/one-word-wiser/SKILL.md` | **The skill**: how to draft any post in the format and voice. Tool-neutral location. | Everyone. `.claude/skills/one-word-wiser` is a symlink to it. |
 | `already-home/audio/README.md` | How the daily Already Home meditation audio is made: voice ids and status, the daily process, the log | Everyone |
 | `skills/meditation-audio/SKILL.md` | **The skill**: turn a finished meditation into an MP3 in Evan's cloned voice | Claude (needs the ElevenLabs connector) |
@@ -34,12 +37,15 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 
 - **Writer** (any agent asked for posts): follow `skills/one-word-wiser/SKILL.md` exactly. Output Substack-ready Markdown. Never publish — Evan approves every post.
 - **Operator** (any agent driving Substack's UI): follow `one-word-wiser/operator-brief-substack-setup.md` exactly. Paste copy verbatim. Change nothing not listed. Report back with the checklist at the end of the brief.
+- **Readable posts:** writers and operators also read `skills/one-word-wiser/references/substack-readability.md`. Evan's September 13 direction calls for short subheadings, elegant typographic dividers, and the recurring application heading **Let It Change Your Life** across One Word Wiser posts. Apply the current task's scope: editorial polish when authorized; prepared copy preserved during upload; draft-only unless delivery is explicitly authorized.
 - **Evan** decides everything marked **DECIDE** in the docs. Agents do not resolve those on their own; they use the stated defaults and flag it.
 
 ## Non-negotiables (all agents)
 
-- Morning posts are free, forever. Never paywall one.
+- One post a day, 6:00 am Central, seven days a week. The Shabbat word comes from the Torah portion.
+- The teaching is free, forever: the word, the verse, the meaning, the main body of the post. The second half is paid: the secret inside the word, told simply, and one line to sleep on. The door between them hints at both a real human need and a deeper understanding of what God asks; it never pitches. Never a fragment above the gate. Never gate Shabbat or Sunday.
 - Every post is **word → meaning → application**. Nothing else.
+- Every post opens with the two fixed lines, **In English:** / **In Hebrew:**, and the Hebrew line must be a correction with stakes, never a dictionary gloss (`02-daily-format.md`, "The fixed opening"). Never "your Bible" or "the Christian Bible."
 - The Hebrew Bible is the lane. Gospel echoes once or twice a week at most, only when the word walks in on its own.
 - Voice rules in `01-positioning.md` are not suggestions. Banned words are banned.
 - Verify every citation (book/chapter/verse, tractate/page). Never put an unverified source in Evan's mouth.
