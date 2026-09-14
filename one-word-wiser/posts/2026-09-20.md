@@ -39,7 +39,7 @@ First, there is no "prosper." The Hebrew says *machshevot shalom*, thoughts of *
 
 Second, every "you" in the verse is plural. *Aleichem. Lachem.* All of you. The whole chapter is a letter, sent from Jerusalem to a people who had just been marched off to Babylon, and the promise comes with a date on it: seventy years (verse 10). Build houses, the letter says. Plant gardens. Seek the *shalom* of the city you were carried into.
 
-Christians hear a personal promise here. The rabbis heard a nation being told to settle in and wait. Hold both. The rope is long enough.
+It's easy to hear a personal promise here. The letter was to a whole people, being told to settle in and wait. Hold both. The rope is long enough.
 
 The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an *acharit*, an afterward, and a *tikvah*, a hope. Under "prosper" there is nothing; under "plans," *machshevot*, thoughts. The promise is quieter than the mug, and larger.
 

@@ -57,7 +57,7 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 ### Rules
 - The word appears five to eight times above the gate. It's the drumbeat.
 - **No rabbinic sources above the gate.** The free half is text and picture only. That keeps it something a Jewish reader can forward, and it leaves the secret something to reveal.
-- The Hebrew Bible is the lane. When a word has a famous Gospel echo, one line ("*Where it echoes:* Mark 12:29") is enough; most days, none. Once or twice a week the secret may end in a Gospel, when the word itself walks in. Week 9 is the deliberate Gospel week.
+- The Hebrew Bible is the lane. When a word has a famous Gospel echo, one line ("*Other mentions:* Mark 12:29") is enough; most days, none. Once or twice a week the secret may end in a Gospel, when the word itself walks in. Week 9 is the deliberate Gospel week.
 - The door is a gift, not a tease. No fragments, no "keep reading." Substack's own button does the asking.
 - One reading. One thing. One line. If there are two ideas, one waits.
 - Never the same source two days running. Vary Midrash, Talmud, Rashi, the letters, the prayer book across a week.
