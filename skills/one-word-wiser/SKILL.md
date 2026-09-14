@@ -1,6 +1,6 @@
 ---
 name: one-word-wiser
-description: Draft posts for Rabbi Evan Moffic's Substack "One Word Wiser" (rabbi.substack.com) — the daily Hebrew-word newsletter for Christians and curious Jews, one post every morning. Use whenever Evan asks to write a day's post, "the week," "Tuesday's post for chesed," Saturday's Shabbat post from the Torah portion, or a Sunday "Your Verse" post from a reader's verse; or when he names a Hebrew word and asks for the post. Reads one-word-wiser/word-bank.md for the week's words and their secrets and follows one-word-wiser/01-positioning.md (voice) and 02-daily-format.md (anatomy). Not for Already Home (Ram Dass) or pulpit sermons — those have their own skills.
+description: Draft, revise, or format Rabbi Evan Moffic's One Word Wiser Substack posts, including weekday Hebrew words, Shabbat posts, Sunday Your Verse posts, and a full week. Preserve his edits and prepare readable Substack copy with short paragraphs, subheadings, and restrained dividers. Not for Already Home or pulpit sermons.
 ---
 
 # One Word Wiser — post production
@@ -8,6 +8,8 @@ description: Draft posts for Rabbi Evan Moffic's Substack "One Word Wiser" (rabb
 Everything you need is in `one-word-wiser/`: `01-positioning.md` (voice rules, About copy), `02-daily-format.md` (exact anatomy of the three post types), `03-monetization.md` (where the gate goes and why), `word-bank.md` (the rubric, the calendar, and every week's six words with verse and secret), and `samples/` (the voice standard). One post a day, 6:00 am Central, seven days a week.
 
 ## Before drafting
+
+For drafting, revision, or Substack layout, read [the readability standard](references/substack-readability.md). Evan's latest draft edits override older sample wording. Use the recurring application heading **Let It Change Your Life**, short native subheadings, and restrained typographic dividers across all post types. A small centered Hebrew letter can be used in the divider. These presentation choices do not change the free/paid boundary or grant delivery permission.
 
 1. **Read the samples.** `samples/week-01-monday.md` is the voice source of truth for a weekday post; `samples/week-01-shabbat-haazinu.md` for a Shabbat post; `samples/week-01-sunday.md` for a Sunday post. Match their rhythm: short declaratives, fragments, direct address, one anchor, the word as drumbeat.
 2. **Find the week in `word-bank.md`.** Use its verse and secret as the starting point. If Evan gives a word not in the bank, run it through the five tests at the top of the bank (familiar, lost in English, teachable, a secret, sayable; four of five, and the secret is never the missing one), build the same row (Hebrew with niqqud, transliteration with stress, gloss, device, Hebrew Bible verse, the secret, optional Gospel echo), check the ledger at the bottom of the bank so the word hasn't run in the past year, and show the row to him above the draft.
@@ -24,6 +26,7 @@ Return each post as Substack-ready Markdown with this header block, then the bod
 **Subject:** [per the subject-line system in 02]
 **Audience:** Everyone · **Paywall:** at the door (weekdays, from week 3) | none · **Send:** 6:00 am CT
 **Cards:** word-day at the top · line-day at the line to carry · line-night at the line to sleep on
+**Dividers:** [placement and treatment; a centered Hebrew letter or plain rule at a natural pause]
 **Notes:** (1) the line to carry, plain text, for 9 am  (2) the line to sleep on, plain text, for 9 pm
 ```
 
@@ -68,7 +71,7 @@ python3 one-word-wiser/brand/cards/render.py --date YYYY-MM-DD --hebrew "<word w
   [--day-label "Shabbat" | "Your Verse"]
 ```
 
-Output lands in `one-word-wiser/posts/cards/` as `<date>-word-day.png`, `-line-day.png`, `-line-night.png` (and a spare `-word-night.png`). Look at the word-day PNG once (Read) to confirm the Hebrew rendered in Frank Ruehl and nothing is clipped; then send Evan the three (`SendUserFile`) and commit them. Requires Chromium and Pillow; if either is missing, say so rather than substituting a stock image.
+Output lands in `one-word-wiser/posts/cards/` as `<date>-word-day.png`, `-line-day.png`, `-line-night.png` (and a spare `-word-night.png`). Inspect the word-day PNG to confirm the Hebrew rendered in Frank Ruehl and nothing is clipped; show Evan the cards actually used and commit them. Do not place a line-day card if the separate line to carry was cut. Requires Chromium and Pillow; if either is missing, say so rather than substituting a stock image. The body uses restrained typographic dividers; do not add decorative illustrations by default.
 
 ## After the draft
 Below the post, in a short block for Evan: any citation you're less than certain of; any judgment call (a story left out, a translation choice, a play marked as later rather than classical); and one or two spots you'd tighten if he wants it shorter. Never make Evan find the AI-smell; remove it before presenting.

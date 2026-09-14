@@ -6,6 +6,8 @@ All three agents work from the same repository: **github.com/ravebm/rabbi**. Giv
 
 ## Codex — upload a week's drafts to Substack (the weekly one)
 
+Current presentation standard, added September 13, 2026: prepared posts include short native subheadings and restrained typographic dividers. Preserve the headings, including **Let It Change Your Life**, and the centered Hebrew-letter dividers or plain rules at their marked positions. Follow `skills/one-word-wiser/references/substack-readability.md` and confirm the saved layout on a phone. Do not add decorative illustrations by default. Preserve any newer edits Evan has made in the target draft. The single-post scheduling prompt below records an earlier authorization; for draft-only work, stop at the saved draft.
+
 Every Sunday, once you say **approved**, the Sunday session hands you this prompt with the file list filled in; paste it into Codex. (For the launch weekend, fill it in from the list below.) Codex needs a browser and you logged in at rabbi.substack.com.
 
 > Open my repository `ravebm/rabbi` and pull the latest. Read `AGENTS.md` at the root, then `one-word-wiser/02-daily-format.md` (the section "The cards" and "Post-body template"). I am logged into Substack at rabbi.substack.com. Create each of the posts below as a **Substack draft**, exactly as written, and do not publish or send anything.

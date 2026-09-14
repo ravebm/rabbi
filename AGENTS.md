@@ -35,6 +35,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 
 - **Writer** (any agent asked for posts): follow `skills/one-word-wiser/SKILL.md` exactly. Output Substack-ready Markdown. Never publish — Evan approves every post.
 - **Operator** (any agent driving Substack's UI): follow `one-word-wiser/operator-brief-substack-setup.md` exactly. Paste copy verbatim. Change nothing not listed. Report back with the checklist at the end of the brief.
+- **Readable posts:** writers and operators also read `skills/one-word-wiser/references/substack-readability.md`. Evan's September 13 direction calls for short subheadings, elegant typographic dividers, and the recurring application heading **Let It Change Your Life** across One Word Wiser posts. Apply the current task's scope: editorial polish when authorized; prepared copy preserved during upload; draft-only unless delivery is explicitly authorized.
 - **Evan** decides everything marked **DECIDE** in the docs. Agents do not resolve those on their own; they use the stated defaults and flag it.
 
 ## Non-negotiables (all agents)

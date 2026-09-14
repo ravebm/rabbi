@@ -115,9 +115,13 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 The emoji are the section markers in a crowded inbox. Keep them constant.
 
-## The cards (three per post)
+## Subheadings and dividers (every post)
 
-Substack renders one theme, so the design lives in image cards placed between Substack's text (see `brand/cards/README.md`). **Word card, day** (1200×675) is the first image of every post: Hebrew large, transliteration, gloss, date. **Line card, day** (1200×420) sits where the line to carry is. **Line card, night** sits where the line to sleep on is, below the gate: the post turns to night where the secret begins. `render.py` still produces the word-night card; it is spare. On Shabbat and Sunday the day label reads `Shabbat` or `Your Verse`.
+Evan's September 13 editorial direction applies across weekdays, Shabbat, and Sunday: several short native subheadings, elegant typographic dividers, and easy phone reading. Follow the [Substack readability standard](../skills/one-word-wiser/references/substack-readability.md). The application section is always headed **Let It Change Your Life**. Other headings grow from the day's idea; **One Key Verse** can label the anchor verse. Usually three to five headings and one or two restrained dividers give enough pauses without fragmenting the teaching. A divider can use a small centered Hebrew letter. Keep paragraphs short and preserve Evan's latest edits. Do not add decorative illustrations by default.
+
+## The cards (use those named in the post)
+
+Substack renders one theme, so the design lives in image cards placed between Substack's text (see `brand/cards/README.md`). **Word card, day** (1200×675) is the first image of every post: Hebrew large, transliteration, gloss, date. **Line card, day** (1200×420) replaces a separate line to carry only when the post has one; omit it otherwise. **Line card, night** replaces the line to sleep on, below the gate when a gate applies. `render.py` still produces the word-night card; it is spare. On Shabbat and Sunday the day label reads `Shabbat` or `Your Verse`.
 
 ## Notes
 
@@ -125,4 +129,4 @@ Two a day, both already written: the line to carry at 9:00 am, the line to sleep
 
 ## Post-body template
 
-The skill in `skills/one-word-wiser/` outputs each post already formatted in Substack-ready Markdown with the `[PAYWALL]` marker at the door. Paste, drop the three cards, drop the paywall (from week 3), schedule for 6:00 am.
+The skill in `skills/one-word-wiser/` outputs Substack-ready Markdown with native heading levels, the recurring **Let It Change Your Life** section, restrained dividers, and card placements. Paste the body, insert only the listed cards, and verify the saved layout on mobile. Remove the `[PAYWALL]` marker in launch weeks 1–2; from week 3, replace it with the native paywall divider where specified. Save as a draft unless the current task explicitly authorizes scheduling or publishing.
