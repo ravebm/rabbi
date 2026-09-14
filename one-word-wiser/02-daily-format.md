@@ -31,6 +31,8 @@ Two lines, same shape every day, before anything else — the newsletter's promi
 
 Rules: the English line is the word as the reader knows it from translation (one word, occasionally a short phrase); the Hebrew line is the transliterated word, an em-dash, and the picture in five to ten words. No "your Bible," no "the Christian Bible" — a translation versus the original, never them versus us. It must work for every word; if a day's Hebrew line takes more than ten words, the word isn't ready.
 
+**The standard:** the reader should feel it was *essential* to know — that the verse they've read a hundred times can't be understood without this. "Here's what you think it means; here's what it actually says." Not a definition, a correction with stakes. "*teshuvah* — return" is a definition; "*teshuvah* — come home" is the correction. Every morning, the second kind.
+
 ### Anatomy (in order) — word, meaning, application
 
 **Word**
