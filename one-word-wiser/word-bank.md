@@ -1,6 +1,6 @@
 # Word Bank — 5787 (September 12, 2026 → Simchat Torah, October 24, 2027)
 
-One post a day, seven days a week. Six words a week: five weekday words on a theme, and on Shabbat a word from the Torah portion every synagogue reads that morning. Sunday is the reader's verse, so it has no row here. Each entry: Hebrew · transliteration · gloss · root picture · Hebrew Bible verse · the secret (the *sod* for the paid half) · Gospel echo (optional; use once or twice a week at most, only when the word walks in on its own). Entries are starting points for the skill. Evan swaps freely. **Verify every citation and every niqqud before a word runs**; the bank is a plan, not a proof.
+One post a day, seven days a week. Six words a week: five weekday words on a theme, and on Shabbat a word from the Torah portion every synagogue reads that morning. Sunday is the reader's verse, so it has no row here. Each entry: Hebrew · transliteration · gloss · root picture · Hebrew Bible verse · a proposed rabbinic reading · Gospel echo (optional; use once or twice a week at most, only when the word walks in on its own). Entries are starting points for the skill. Evan swaps freely. **Verify every citation and every niqqud before a word runs**; the bank is a plan, not a proof.
 
 ## The rubric — how a week gets its words
 
@@ -8,17 +8,17 @@ One post a day, seven days a week. Six words a week: five weekday words on a the
 
 **2. The override: holidays, both calendars.** When a week holds Rosh Hashanah, Yom Kippur, Sukkot, Hanukkah, Purim, Passover, Shavuot, Tisha B'Av, or Advent, Christmas, Lent, Holy Week, Easter, Pentecost, the holiday sets the theme. About fifteen weeks a year. The Shabbat word still comes from that Shabbat's reading.
 
-**3. Five tests for any word.** Four of five to run, and the secret is never the missing one.
+**3. Five tests for any word.** Use these to choose an accessible, worthwhile teaching. Grounded sources and accurate Hebrew are required; a hidden meaning is not.
 
 | Test | It passes when |
 |---|---|
 | **Familiar** | It sits in a verse the reader has already read: Genesis, the Psalms, Isaiah, the Shema, the Hebrew under a line of Jesus. |
 | **Lost in English** | The translation hides something nameable. "Repentance" hides the road, "mercy" hides the loyalty, "law" hides the teaching. |
 | **Teachable** | It carries one interpretation a reader could re-teach at lunch: one idea, one verse, one sentence. Not a definition. |
-| **A secret** | A checkable rabbinic reading turns the plain sense over. Hidden, grounded, and after it the verse reads differently. This is the paid half. |
+| **Rabbinic reading** | A checkable interpretation or discussion helps the reader understand the passage or a human question. It need not be hidden or surprising. |
 | **Sayable** | A Christian mouth gets it on the first try. *Shema*, *chesed*, *todah*. Not *hishtachavah*. |
 
-A root picture (hope is a rope, the soul is a throat) is a device, not a test. Use one when the word gives it honestly; never force an etymology to get one. The devices the secret can use, all of them the tradition's own and sourced: a gap in the verse · an article that vanishes · a root the translation buried · an enlarged or shrunken letter · a letter's shape and story · a word used only of God · a re-vowelling the rabbis read (*banim* / *bonim*, children / builders) · **a gematria the rabbis made** (*ahavah* and *echad* both 13; *yayin* and *sod* both 70) · a count or a numbering. Told as the tradition's play, sourced, with delight. Gematria is welcome as a reading; it is never offered as proof.
+A root picture (hope is a rope, the soul is a throat) is a device, not a test. Use one when the word gives it honestly; never force an etymology to get one. Possible devices for a rabbinic reading, all of them the tradition's own and sourced: a gap in the verse · an article that vanishes · a root the translation buried · an enlarged or shrunken letter · a letter's shape and story · a word used only of God · a re-vowelling the rabbis read (*banim* / *bonim*, children / builders) · **a gematria the rabbis made** (*ahavah* and *echad* both 13; *yayin* and *sod* both 70) · a count or a numbering. Told as the tradition's play, sourced, with delight. Gematria is welcome as a reading; it is never offered as proof.
 
 **4. The set test.** The five weekday words must say the week in one paragraph, one sentence per word, and read as a single thought; they stand together in the Shabbat footer. If they can't, the five aren't a set.
 
@@ -26,9 +26,9 @@ A root picture (hope is a rope, the soul is a throat) is a device, not a test. U
 
 **The Shabbat word.** Chosen by the sermon: the word Evan is preaching on that morning. It is never one of the week's five. When the portion's own name is a great word (*lech lecha*, *vayera*, *shemot*, *bo*), it is usually the Shabbat word. On a festival Shabbat the word comes from the festival reading.
 
-## The fixed openings (weeks 1–2)
+## Draft opening ideas (weeks 1–2)
 
-Every post opens with two lines, per `02-daily-format.md`: the word as the translation gives it, then the Hebrew as a correction with stakes. These are the first two weeks; after that the writer makes one for each word the same way.
+These are earlier In English / In Hebrew opening ideas. Recheck each against `02-daily-format.md` and the actual source. Do not treat a poetic application as the lexical meaning, or assume the English is wrong. Use the opening when it helps; Evan’s newer copy prevails.
 
 | Word | In English | In Hebrew |
 |---|---|---|
@@ -76,14 +76,14 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 0 · Sat Sep 12 – Sun Sep 13 · THE LAUNCH — Rosh Hashanah
 *Launch day, Saturday September 12, ran two posts, the one exception. From Sunday September 13: one a day.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Sat (Rosh Hashanah I, Gen 21) | שָׁנָה | shanah | year | *sh-n-h*: to repeat (*mishnah*, *sheni*) and to change (*shinui*), one root | Deut 11:12 *mereshit hashanah v'ad acharit shanah* | The article that vanishes: "*the* year" at the start, "*a* year" at the end (Hasidic; usually credited to the Ketav Sofer). Sacks: the year as a canvas the artist steps back from | — |
 
 ## Week 1 · Sep 14–20 · THE DAYS OF AWE
 *Why now:* the ten days between Rosh Hashanah and Yom Kippur. The whole Jewish year turns on the word *return*. Holiday override; the Shabbat is Shabbat Shuvah, whose haftarah is Monday's verse.
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תְּשׁוּבָה | teshuvah | return | *shuv*: turn around; a road home, not a penalty | Hosea 14:2 (14:1 English) *Shuvah Yisrael* | Berakhot 34b: where those who return stand, the perfectly righteous cannot stand. Shir HaShirim Rabbah 5:2: a needle's eye → wagons | Matt 4:17 "repent" = *shuvu*; Luke 15 the son "came to himself" |
 | Tue | שְׁמַע | shema | hear | to hear is to do; the verse Jesus called first | Deut 6:4 | The enlarged *ayin* of *shema* and *dalet* of *echad* spell **עד**, *ed*, witness: every time you say it, the scroll says you're testifying. Rashi on 6:5: both inclinations | Mark 12:29 |
@@ -95,7 +95,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 2 · Sep 21–27 · ATONEMENT — Yom Kippur Monday, Sukkot begins Friday night
 *Sunday Sep 27 carries the one-line note that the gate turns on Monday.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon (Yom Kippur) | כִּפּוּר | kippur | atonement | *kaphar*, to cover; the ark's gold lid is the *kapporet* | Lev 16:30 | Atonement is a cover placed over, not an erasure. Mishnah Yoma 8:9: for wrongs between people, the day covers nothing until the person you wronged does | Matt 5:23–24 leave the gift, go be reconciled |
 | Tue | וִדּוּי | vidui | confession | *yadah*: to confess and to thank (*todah*), one root | Lev 5:5; Ps 32:5 | Leah names Judah from it, "this time I will thank" (Gen 29:35): the tribe, and the word *Jew*, come from the root that confesses and thanks at once. The alphabetical *Ashamnu* | Luke 18:13 the tax collector |
@@ -107,7 +107,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 3 · Sep 28 – Oct 4 · SHELTER — Sukkot; Shemini Atzeret Saturday; Simchat Torah Sunday
 *The gate turns on Monday Sep 28.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | סֻכָּה | sukkah | booth / shelter | a roof you can see stars through | Lev 23:42; Ps 27:5 "hide me in His *sukkah*" | Sukkah 2a: the roof must be temporary; the fragile house is the holy one | John 7:37–38, Jesus at Sukkot on the water-drawing day |
 | Tue | שִׂמְחָה | simchah | joy | commanded joy: *v'samachta b'chagecha* | Deut 16:14; Neh 8:10 | *Zman simchateinu*, "the season of our joy": joy as obligation, not mood | John 15:11 |
@@ -119,7 +119,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 4 · Oct 5–11 · BEGINNINGS — Bereshit read Saturday
 *Why now:* the Torah cycle restarts. "The Bible's first word" is the ad's natural landing content.
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | בְּרֵאשִׁית | bereshit | in the beginning | *rosh*, head: "in a head." The Bible opens with a *bet*, not an *alef* | Gen 1:1 | Rashi's first comment: why does the Torah begin here and not with the first commandment? Bereshit Rabbah 1:10: the *bet* is closed on three sides and open forward | John 1:1, John writing Genesis 1 in Greek |
 | Tue | בָּרָא | bara | create | a verb with only God as its subject; humans can't do it | Gen 1:1; Ps 51:12 (51:10 English) "create in me a clean heart" | Nachmanides on 1:1: *bara* is something from nothing. Ps 51 asks for a *bara*: a new creation, not a repair | 2 Cor 5:17 |
@@ -131,7 +131,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 5 · Oct 12–18 · THE FLOOD — Noach read Saturday
 *The old bank's "Image" week (*tzelem, ezer, hevel, shomer*) waits for year two of Bereshit.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | צַדִּיק | tzaddik | righteous | *tz-d-k*: straight, what is due; Noah is the first person the Bible calls it | Gen 6:9 "righteous in his generations" | Sanhedrin 108a, Rashi on 6:9: "in his generations" is either praise (in a better age, more so) or a limit (only by comparison). The rabbis kept both readings. Righteousness is measured inside your own time | — |
 | Tue | תֵּבָה | teivah | ark | a box, a chest; the same word is Moses's basket (Exod 2:3) and nothing else | Gen 6:14; 7:1 "come into the *teivah*" | Two arks: one saves the world, one saves the child who will save Israel. The Baal Shem Tov on 7:1: *teivah* is also "word" in later Hebrew; come into the word you pray | — |
@@ -142,7 +142,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 6 · Oct 19–25 · COVENANT — Lech Lecha read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | בְּרִית | brit | covenant | you don't make a covenant, you *cut* one (*karat brit*) | Gen 15:18 | Genesis 15: the pieces, the smoking torch, and only God passes between them. Jer 34:18 explains the rite. A covenant one party walks through alone | Luke 22:20 |
 | Tue | אֱמוּנָה | emunah | faith / steadiness | *amen*: firm, held; faith is a verb of standing | Gen 15:6 "he trusted the LORD" | Exod 17:12: Moses's hands were *emunah*, steady, until sunset. Faith is hands held up. Hab 2:4 | Rom 4:3 quotes Gen 15:6 |
@@ -153,7 +153,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 7 · Oct 26 – Nov 1 · PRAYER — Vayera read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תְּפִלָּה | tefillah | prayer | *palal*, to judge; the reflexive means to judge oneself | 1 Sam 1:12 (Hannah); Ps 102:1 | Berakhot 31a: Hannah's silent prayer is the model for the *Amidah*. Prayer is self-examination before it is petition | Matt 6:6 the closed door |
 | Tue | בָּרוּךְ | baruch | blessed | the first word of every Jewish blessing; a passive: we declare God blessed | Ps 118:26 | The formula *Baruch atah*: "You," second person, then third person. Intimacy, then awe | Matt 21:9 quotes Ps 118:26 |
@@ -165,7 +165,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 8 · Nov 2–8 · THE WELL — Chayei Sarah read Saturday
 *A life measured after it ends; a wife chosen by kindness. The old "Wisdom" words move to Shavuot week.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | גֵּר וְתוֹשָׁב | ger v'toshav | stranger and resident | two words for one man buying one grave | Gen 23:4 | Bereshit Rabbah 58:6: "If you treat me as a stranger, I'll act as a resident, and buy; if as a resident, as a stranger, and ask." Abraham holds both. The first land Israel owns is a grave | 1 Pet 2:11 "strangers and sojourners" |
 | Tue | עֶבֶד | eved | servant | servant, slave, and worshiper: one word | Gen 24:2; Isa 42:1 | Genesis 24 never names the servant. Rashi and Bereshit Rabbah: he set himself aside for the errand. *Avodah* is both labor and worship | Matt 20:26–28 |
@@ -175,9 +175,9 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 | **Shabbat Nov 7** · Chayei Sarah | חַיֵּי שָׂרָה | chayei Sarah | the life of Sarah | a portion named "her life" that opens with her death | Gen 23:1 | Rashi on 23:1: "the years of Sarah's life," said twice, all of them equally good. Bereshit Rabbah 58:2 on Kohelet 1:5: before one sun sets, another rises; Rebekah is born. A life is measured after | — |
 
 ## Week 9 · Nov 9–15 · WORDS JESUS USED — Toldot read Saturday
-*The one editorial override of the year: eight weeks in, the audience is ready for the direct bridge. This week the verse is Hebrew Bible and the secret ends in a Gospel.*
+*The one editorial override of the year: eight weeks in, the audience is ready for the direct bridge. This week the verse is Hebrew Bible and the reflection ends in a Gospel.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אַבָּא | abba | father | the Aramaic family word; not "daddy," grown sons used it too | Ps 103:13; Isa 63:16 | Ta'anit 23b: Chanina ben Dosa and Choni the circle-drawer spoke to God as *abba*; Galilean piety a generation before Jesus | Mark 14:36; Rom 8:15 |
 | Tue | הוֹשִׁיעָה נָּא | hoshia na | save, please | a plea that turned into a cheer | Ps 118:25 | *Hoshana Rabbah*, the seventh day of Sukkot: willows beaten, the *hoshanot* circled. The crowd on Palm Sunday is quoting the Hallel | Matt 21:9 |
@@ -189,7 +189,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 10 · Nov 16–22 · GRATITUDE — Vayetze read Saturday; Thanksgiving the Thursday after
 *Leah names Judah "this time I will thank" inside this week's portion (Gen 29:35).*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תּוֹדָה | todah | thanks / thank-offering | the root of confession: to thank is to admit | Ps 100:4; Lev 7:12 | Vayikra Rabbah 9:7: in the age to come every offering ceases except the *todah*. The only sacrifice that survives is thanks | Luke 17:16 the one who came back |
 | Tue | מוֹדֶה אֲנִי | modeh ani | I thank | the first words a Jew says on waking, before the feet touch the floor | Lam 3:22–23 "new every morning" | The prayer-book *Modeh Ani*: the word order puts "thank" before "I." Gratitude precedes the self | — |
@@ -201,7 +201,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 11 · Nov 23–29 · PEACE — Vayishlach read Saturday; Thanksgiving Thursday; Advent begins Sunday
 *Jacob arrives *shalem*, whole, inside this week's portion (Gen 33:18).*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | שָׁלוֹם | shalom | peace / wholeness | *shalem*: whole, complete, paid in full; peace is nothing missing | Num 6:26; Isa 9:5 (9:6 English) *Sar Shalom* | Mishnah Uktzin 3:12, the last words of the whole Mishnah: "there is no vessel that holds blessing but peace." The priestly blessing ends in it because nothing else can hold the rest | John 14:27; Luke 2:14 |
 | Tue | שָׁלֵם | shalem | whole | Jerusalem is *Yeru-shalem*, the city of wholeness | Gen 33:18 "Jacob arrived *shalem*"; 1 Kings 8:61 | Shabbat 33b, Rashi on 33:18: whole in body, in money, in Torah, after the wrestling. Wholeness is what's left after the limp | Matt 5:48 "be perfect" is *shalem*, whole, not flawless |
@@ -212,7 +212,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 12 · Nov 30 – Dec 6 · LIGHT — Vayeshev read Saturday; Advent; Hanukkah begins Friday night
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אוֹר | or | light | made before the sun; light with no source | Gen 1:3; Isa 9:1 (9:2 English) | Chagigah 12a: the first light was hidden away for the righteous, the *or haganuz*. Some of it, the Hasidic masters say, is hidden in Torah | John 8:12, said at Sukkot by the Temple lamps; Matt 5:14 "you are" |
 | Tue | נֵר | ner | lamp | one step's worth of light | Ps 119:105; Prov 20:27 "the soul is the lamp of the LORD" | Prov 20:27 read in the prayer book: the human soul as God's lamp, the light He sees by. The *ner tamid* | Matt 5:15 |
@@ -223,7 +223,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 13 · Dec 7–13 · DREAMS — Miketz read Saturday, the last day of Hanukkah
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | חֲלוֹם | chalom | dream | Joseph, the dreamer whose dreams came true | Gen 37:5; 41:1 | Berakhot 55b: a dream uninterpreted is a letter unopened, and all dreams follow the mouth that interprets them | Matt 1:20; 2:13, the other Joseph's dreams |
 | Tue | רָעָב | ra'av | famine | the hunger that brings a family back together | Gen 41:27; Amos 8:11 | Amos 8:11: "not a famine of bread, but of hearing the words of the LORD." Bereshit Rabbah 91:1: the famine was the road home | — |
@@ -234,7 +234,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 14 · Dec 14–20 · DRAWING NEAR — Vayigash read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | עָרֵב | arev | guarantor | one who mixes his fate with another's; *erev*, evening, is the mixing of light and dark | Gen 44:32 "your servant became surety for the boy" | Shevuot 39a: *kol Yisrael arevim zeh bazeh*, all Israel are guarantors for one another, the same word Judah uses. Responsibility in Hebrew is a co-signature | — |
 | Tue | אֲנִי | ani | I | two words undo twenty years: "I am Joseph" | Gen 45:3; Isa 43:10 *ani hu* | Bereshit Rabbah 93:10: the brothers could not answer him. Rabbi Elazar wept: if a brother's reckoning is so, what will God's be? | — |
@@ -246,7 +246,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 15 · Dec 21–27 · THE BLESSING OF CHILDREN — Vayechi read Saturday; Christmas Friday
 *Holiday override. Jacob blesses his sons and grandsons; the Friday-night blessing over children comes from this portion.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | גּוֹאֵל | goel | redeemer | a kinsman with a duty, not a buyer with a price | Gen 48:16 "the angel who redeemed me"; Job 19:25 | Lev 25:25 and Ruth 4: redemption in Hebrew is a family obligation. The Redeemer is a relative. Bereshit Rabbah 97 on 48:16 | Luke 1:68 |
 | Tue | יָד | yad | hand | Jacob crosses his hands over the boys | Gen 48:14 | Rashi on 48:14: "he made his hands wise." The younger blessed first, again, as with Isaac and Ephraim. Blessing does not follow birth order | — |
@@ -257,7 +257,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 16 · Dec 28 – Jan 3 · NAMES — Shemot read Saturday; New Year's Day Friday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | יִרְאָה | yirah | awe / fear | fear and awe are one word; the Hebrew won't let you choose | Exod 1:17 "the midwives feared God"; Prov 1:7 | The first people in Exodus to fear God are two midwives who said no to a king. Berakhot 33b: everything is in Heaven's hands except the fear of Heaven | Luke 5:8 |
 | Tue | סְנֶה | sneh | thornbush | the lowest bush, on fire, not consumed | Exod 3:2 | Shemot Rabbah 2:5: why a thornbush? "I am with him in trouble" (Ps 91:15). *Sneh* and *Sinai* share their letters | — |
@@ -268,7 +268,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 17 · Jan 4–10 · THE HARD HEART — Va'era read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אוֹת | ot | sign / letter | a miracle and a letter of the alphabet are the same word | Exod 7:3; Gen 9:12; Exod 31:13 | The rainbow, the Sabbath, the tefillin on your arm: all *otot*. Every letter is a sign and every sign is a letter. Deut 6:8 | — |
 | Tue | דָּם | dam | blood | *adam* is an *alef* and *dam*: a human is blood with a breath | Exod 7:17; Lev 17:11 | Shemot Rabbah 9:9: the Nile turned to blood because Egypt worshiped it. Exod 12:12: the plagues are judgments on gods, not on rivers | — |
@@ -279,7 +279,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 18 · Jan 11–17 · GO — Bo read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | חֹשֶׁךְ | choshech | darkness | a darkness that can be felt | Exod 10:21; Gen 1:2 | Shemot Rabbah 14:3: no one saw his brother, and no one rose from his place. The plague was not blindness; it was not seeing each other | — |
 | Tue | חֹדֶשׁ | chodesh | month / new moon | from *chadash*, new; the first commandment to the nation is to own its calendar | Exod 12:2 | Rashi's first comment on Genesis says the Torah could have begun with this verse. Week 4 comes back. Shemot Rabbah 15:26: Israel counts by the moon, which wanes and returns | — |
@@ -290,7 +290,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 19 · Jan 18–24 · THE SONG — Beshalach read Saturday: Shabbat Shirah and Tu BiShvat on the same day
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | שִׁירָה | shirah | song | the Song of the Sea, written in the scroll as brickwork | Exod 15:1 | Sanhedrin 91b: *az yashir* is future tense, "then he *will* sing." The rabbis read the resurrection into a verb. Mechilta on the brick pattern | — |
 | Tue | יָם | yam | sea | the sea that saw and fled | Exod 14:21; Ps 114:3 | Sotah 37a: Nachshon walked in to his nose before it split. Mechilta: what did the sea see? Joseph's coffin. The man who fled from sin made the sea flee | — |
@@ -302,7 +302,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 20 · Jan 25–31 · THE TEN WORDS — Yitro read Saturday
 *Not "commandments": the Hebrew is *aseret hadevarim*, the ten words (Exod 34:28).*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | דָּבָר | davar | word / thing | in Hebrew a word and a thing are one word | Exod 20:1 "God spoke all these *devarim*" | Makkot 23b–24a: *Torah* counts 611; add the two words Israel heard from God's own mouth and you have 613. A gematria the Talmud made | — |
 | Tue | אָנֹכִי | anochi | I | the Ten begin with "I," not with "you shall" | Exod 20:2 | Shabbat 105a reads *anochi* as an acronym: *ana nafshi ketavit yehavit*, "I Myself wrote and gave it." God put Himself in the first word | — |
@@ -313,7 +313,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 21 · Feb 1–7 · JUSTICE — Mishpatim read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | מִשְׁפָּט | mishpat | justice / judgment | what Micah asks first | Exod 21:1; Micah 6:8 | Rashi on 21:1 "*and* these": the *vav* ties the civil laws to Sinai. The law of the ox is as holy as the Ten Words | — |
 | Tue | עַיִן | ayin | eye | "an eye for an eye"; the same word is a spring, the eye of the earth | Exod 21:24 | Bava Kamma 83b–84a: the rabbis read it as compensation from the start, never mutilation. The verse Christians quote most against the Old Testament was never read that way inside it | Matt 5:38 |
@@ -324,7 +324,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 22 · Feb 8–14 · THE DWELLING — Terumah read Saturday; Ash Wednesday Feb 10
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תְּרוּמָה | terumah | offering / lifting | *rum*, to lift; an offering raises the giver | Exod 25:2 | Rashi on 25:2: "*take* for Me," not "give." The Midrash Tanchuma: with the offering you take Me. The one who gives is the one who receives | — |
 | Tue | מִשְׁכָּן | mishkan | dwelling | *shachan*, to dwell; *Shekhinah* is the Presence that dwells | Exod 25:8 "that I may dwell among them" | The verse says "in *them*," not "in it." Alshich, Malbim, and the Hasidic masters: the sanctuary is each person. John's Greek for "dwelt among us" is this word, "tabernacled" | John 1:14 |
@@ -335,7 +335,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 23 · Feb 15–21 · THE PRIEST — Tetzaveh read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | כֹּהֵן | kohen | priest | a minister, a servant: David's sons are called *kohanim* (2 Sam 8:18) | Exod 28:1; 19:6 "a kingdom of priests" | Rashi on 2 Sam 8:18: *kohen* means one who serves. The priest is a servant with a job, and Exod 19:6 gives the job to everyone | 1 Pet 2:9 |
 | Tue | חֹשֶׁן | choshen | breastplate | twelve stones carried over the heart | Exod 28:29 | Zevachim 88b: the breastplate atones for errors of judgment. The leader carries the names on his heart, not in his hands | — |
@@ -346,7 +346,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 24 · Feb 22–28 · THE CALF AND THE FACE — Ki Tisa read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | עֵגֶל | egel | calf | the golden calf, forty days after Sinai | Exod 32:4 | Avodah Zarah 4b: Israel was not truly fit for that sin; it happened to teach the many the road of return. Even the calf became a lesson in *teshuvah* | — |
 | Tue | רַחוּם | rachum | compassionate | from *rechem*, womb: compassion is womb-love | Exod 34:6; Ps 103:8 | Rosh Hashanah 17b: God wrapped Himself like a prayer leader and showed Moses the thirteen attributes: "whenever they sin, let them do this before Me." Mercy has a liturgy | — |
@@ -357,7 +357,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 25 · Mar 1–7 · THE GATHERING — Vayakhel read Saturday (Shabbat Shekalim)
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | קָהָל | kahal | assembly | the Greek Bible's word for it is *ekklesia*, the word the Church took | Exod 35:1; Deut 4:10 | The same crowd "gathered" against Aaron for the calf (32:1) and is gathered here for the sanctuary. A crowd is neutral; what it's for is the question | Matt 16:18 |
 | Tue | חָכְמָה | chochmah | wisdom | the artisan's skill before it is the sage's | Exod 35:31; Prov 9:10 | Berakhot 55a: Bezalel knew how to combine the letters with which heaven and earth were made. Wisdom in the Bible first belongs to hands. Avot 4:1 | — |
@@ -368,7 +368,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 26 · Mar 8–14 · THE ACCOUNTING — Pekudei read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | חֶשְׁבּוֹן | cheshbon | account / reckoning | Moses opens the books | Exod 38:21; Avot 3:1 | Shemot Rabbah 51:6: people whispered that Moses had grown rich, so he gave an accounting down to the hooks. The *cheshbon hanefesh*, the soul's audit, borrows the word | — |
 | Tue | בֶּגֶד | beged | garment | the same letters as *bagad*, to betray: clothing covers, and can lie | Exod 39:1; Gen 27:15 | Zevachim 88b: each priestly garment atones for something, the tunic for bloodshed, the turban for arrogance. What you wear can carry, or betray | — |
@@ -379,7 +379,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 27 · Mar 15–21 · THE OFFERING — Vayikra read Saturday (Shabbat Zachor); Palm Sunday Mar 21
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | קָרְבָּן | korban | offering | from *karov*, near: an offering is a drawing-near, not a payment | Lev 1:2 | Rashi on 1:2, from Vayikra Rabbah 2:7: why "*adam*" brings an offering? As Adam offered nothing stolen, so must you. Leviticus is the book of getting close | — |
 | Tue | עֹלָה | olah | burnt offering / ascent | "that which goes up"; *aliyah* is the same root | Lev 1:3 | Vayikra Rabbah 7:3: the *olah* atones for thoughts of the heart. The offering given entirely, with nothing kept back, is for what no one saw | — |
@@ -391,7 +391,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 28 · Mar 22–28 · HIDDEN — Tzav read Saturday (Shabbat Parah); Purim Tuesday; Holy Week; Easter Sunday
 *Holiday override, two calendars at once. Esther never names God. Christians spend this week at the Passion.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אֶסְתֵּר | Esther | hidden | *satar*, to hide; the one book that never names God is named "hidden" | Esther 2:7; Deut 31:18 | Chullin 139b: where is Esther in the Torah? "I will surely hide (*haster astir*) My face." Hiddenness is the book's whole theology | — |
 | Tue (Purim) | פּוּר | pur | lot | a holiday named for a dice roll | Esther 9:26; Lev 16:8 | Tikkunei Zohar 21: Yom Kippur is *Yom Ki-Purim*, a day like Purim. Two lots: the one cast on the goats and the one cast by Haman. Chance and providence share a word | — |
@@ -402,7 +402,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 29 · Mar 29 – Apr 4 · THE EIGHTH DAY — Shemini read Saturday (Shabbat HaChodesh)
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | דֹּם | dom | be silent | "and Aaron was silent" | Lev 10:3; Ps 37:7 | Zevachim 115b: Aaron was rewarded for his silence; the next word from God comes to him alone (10:8). Some griefs have one right answer | — |
 | Tue | זָר | zar | strange | "strange fire, which He had not commanded" | Lev 10:1 | Eruvin 63a, Vayikra Rabbah 12:1: the rabbis offer four readings of what was strange, and the Torah names none. Zeal without instruction | — |
@@ -413,7 +413,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 30 · Apr 5–11 · SKIN — Tazria read Saturday; Nisan begins Thursday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | צָרַעַת | tzara'at | the affliction | not leprosy; the skin showing what the mouth did | Lev 13:2; Num 12:10 | Arachin 15b–16a: *metzora* is *motzi shem ra*, one who spreads a bad name. Miriam. Jesus's "show yourself to the priest" is Leviticus 13–14 | Luke 5:14 |
 | Tue | זֶרַע | zera | seed | "when a woman brings forth seed" | Lev 12:2; Gen 3:15; 22:18 | Niddah 31a on 12:2. Gen 3:15 in one honest sentence: Christians read a first gospel, the rabbis read enmity with the snake. Hold both | — |
@@ -424,7 +424,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 31 · Apr 12–18 · THE OUTSIDER — Metzora read Saturday (Shabbat HaGadol)
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | צִפּוֹר | tzipor | bird | two birds: one slaughtered, one set free | Lev 14:4–7 | Rashi on 14:4, from Arachin 16b: birds chatter, and so did he. One dies, one flies. Healing is what you let go | — |
 | Tue | אֵזוֹב | ezov | hyssop | "purge me with hyssop"; the lowest plant, bound to the cedar | Lev 14:4; Ps 51:9 (51:7 English); Exod 12:22 | Tanchuma Metzora 3, Rashi: the cedar is pride, the hyssop humility. Lower yourself like the hyssop and you are healed | John 19:29 |
@@ -436,7 +436,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 32 · Apr 19–25 · PASSOVER — seders Wednesday and Thursday nights; Shabbat Apr 24 is Chol HaMoed (Exod 33:12–34:26; Song of Songs read)
 *Holiday override. The week Christians think they know best.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | פֶּסַח | pesach | passover | *pasach*: to skip, to limp, and to shield (Isa 31:5) | Exod 12:13, 27 | Mechilta on 12:13 "I will see the blood": He sees the deed on the door, not the blood. Isa 31:5 uses the same verb for a bird covering her nest. Passing over is hovering over | Luke 22:15 |
 | Tue | מַצָּה | matzah | unleavened bread | bread that didn't have time; "the bread of affliction" and the bread of haste | Exod 12:39; Deut 16:3 | The Haggadah calls it both poor bread and free bread. *Matzah* and *chametz* differ by one stroke of the pen, *hey* and *chet*; the Hasidic reading of the gap between them | Luke 22:19 |
@@ -448,7 +448,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 33 · Apr 26 – May 2 · AFTER — Acharei Mot read Saturday; Passover ends Thursday
 *The portion of Yom Kippur, read in spring.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אַחֲרֵי | acharei | after | "after the death of the two sons of Aaron" | Lev 16:1 | Rashi on 16:1, from Sifra: like a doctor who says "don't eat what killed the last patient." The whole day of atonement is introduced by a grief | — |
 | Tue | עֲזָאזֵל | azazel | the scapegoat | one goat for the LORD, one sent away, chosen by lot | Lev 16:8–10 | Yoma 67b: the rabbis argue whether it is a place, a cliff, or a name; the Torah never explains. Two identical goats, one word decides. The word "scapegoat" is Tyndale's English | Heb 9 (rarely) |
@@ -460,7 +460,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 34 · May 3–9 · HOLY — Kedoshim read Saturday; Yom HaShoah Tuesday
 *Leviticus 19: the chapter Jesus quoted for the second commandment.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | רֵעַ | rea | neighbor / friend | "love your neighbor as yourself" | Lev 19:18 | Sifra on 19:18, Rabbi Akiva: "this is the great principle of the Torah." Ben Azzai answered with Gen 5:1, "the generations of Adam," as the greater one. A two-thousand-year argument about which verse comes first | Mark 12:31 |
 | Tue | כָּמוֹךָ | kamocha | as yourself | the verse's hardest word is the last one | Lev 19:18, 34 | Nachmanides on 19:18: you cannot love another as your own self; the verse means: want for him what you want for yourself, with no jealousy. The stranger gets the same word (19:34) | Matt 22:39 |
@@ -471,7 +471,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 35 · May 10–16 · SAY — Emor read Saturday; Yom HaAtzmaut Wednesday; Pentecost Sunday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | עֹמֶר | omer | sheaf / the count | fifty days counted from Passover to Shavuot | Lev 23:15–16 | Menachot 65b–66a: count the days, not the weeks only. The Sfat Emet: a person who counts days makes each one count. We are inside the count this week | Acts 2:1 (Pentecost is Greek for "fiftieth") |
 | Tue | קָצִיר | katzir | harvest | "when you reap the harvest, leave the corner" | Lev 23:22; Ruth 2:3 | The verse about the poor sits in the middle of the festival calendar, between Shavuot and Rosh Hashanah. Rashi on 23:22: giving to the poor is counted as building the Temple | Matt 9:37 |
@@ -482,7 +482,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 36 · May 17–23 · THE JUBILEE — Behar read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | יוֹבֵל | yovel | jubilee | a ram's horn, and the year it announces; "jubilee" is this word in Latin dress | Lev 25:10; Isa 61:1–2 | Isa 61's "year of the LORD's favor" is the jubilee. Rosh Hashanah 8b: the year begins on Yom Kippur, with a blast. Liberty is proclaimed, not seized | Luke 4:18–19 |
 | Tue | דְּרוֹר | dror | liberty / a sparrow | "proclaim liberty throughout the land"; the same word is a free bird | Lev 25:10; Ps 84:4 | Rosh Hashanah 9b: *dror* is one who dwells (*dar*) wherever he wishes. The verse is on the Liberty Bell; the bird is in Psalm 84, nesting by the altar | — |
@@ -493,7 +493,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 37 · May 24–30 · IF YOU WALK — Bechukotai read Saturday; Lag BaOmer Tuesday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | חֹק | chok | statute | a law without a stated reason; *chakak*, to engrave | Lev 26:3; Ps 119:5 | Rashi on 26:3: "if you walk in My statutes" means to labor in Torah, not just to keep it. Yoma 67b lists the *chukim* the nations mock and says: I engraved them, you may not question | — |
 | Tue | הָלַךְ | halach | walk | "if you walk"; *halachah*, Jewish law, is the word for walking | Lev 26:3; Micah 6:8 | Halachah is not "law"; it is a way of walking. Lev 26:12 "I will walk among you." Rashi: like a king strolling in his garden with his gardener | — |
@@ -504,7 +504,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 38 · May 31 – Jun 6 · THE WILDERNESS — Bamidbar read Saturday, the Shabbat before Shavuot
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | מִדְבָּר | midbar | wilderness | the letters of *davar*, word, and *medaber*, speaking: the wilderness is where God talks | Num 1:1; Hos 2:16 (2:14 English) | Bamidbar Rabbah 1:7: the Torah was given in a place nobody owns, so nobody could claim it. Hosea: "I will lead her into the wilderness and speak to her heart" | Matt 4:1 |
 | Tue | דֶּגֶל | degel | banner | each tribe under its own flag, around one tent | Num 2:2; Song 2:4 "his banner over me is love" | Bamidbar Rabbah 2:3: Israel saw the angels camped under banners at Sinai and wanted the same. Twelve flags, one center. Unity is not sameness | — |
@@ -516,7 +516,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 39 · Jun 7–13 · THE GIVING — Shavuot Friday and Saturday (Shabbat Jun 12 is Shavuot II; Ruth read)
 *Holiday override. The old Wisdom words land here, in the week of the giving of the Torah.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | בִּינָה | binah | understanding | *bein*, between: to understand is to see the space between things | Prov 4:7; 1 Kings 3:9 | Solomon asked for "a hearing heart" and was given *binah*. Niddah 45b: *binah* was given to women in greater measure. Understanding is a between | Luke 24:45 |
 | Tue | דַּעַת | da'at | knowledge | the verb of Genesis 4:1, "Adam knew Eve": knowledge is intimate | Prov 1:7; Hos 4:6; Gen 4:1 | Berakhot 33a: the blessing for *da'at* comes first in the weekday prayer, because without knowledge there is no distinguishing. Knowledge in Hebrew is not information; it's contact | John 17:3 |
@@ -528,7 +528,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 40 · Jun 14–20 · THE BLESSING — Naso read Saturday
 *The priestly blessing lives here: three lines of three, five, and seven words.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | יְבָרֶכְךָ | yevarechecha | may He bless you | the first word of the blessing every church has heard | Num 6:24 | Sifrei, Rashi on 6:24: "bless you" with property, "keep you" so that no one takes it. A blessing without keeping is a gift left on a doorstep. The lines grow: three words, five, seven | Luke 24:50 |
 | Tue | יָאֵר | ya'er | may He shine | the light of a face is favor | Num 6:25; Ps 4:7 (4:6 English) | Bamidbar Rabbah 11:6: the light of the face is the light of Torah, or of the Presence. To be smiled at by God is the second line of the blessing | — |
@@ -539,7 +539,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 41 · Jun 21–27 · WHEN YOU KINDLE — Beha'alotcha read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | רְפָא | refa | heal | the shortest prayer in the Bible: five words, for Miriam | Num 12:13 *El na refa na lah*; Jer 17:14 | Berakhot 34a: Moses prayed five words. The rabbis learn from it that a short prayer in an urgent place is a full prayer. "Heal us and we will be healed" | Luke 17:13 |
 | Tue | נָא | na | please | the shortest prayer says please twice | Num 12:13; Berakhot 9a | Berakhot 9a: *na* is only ever the language of request, and God Himself says it (Exod 11:2, Week 18). A prayer of five words spends two of them on manners | — |
@@ -550,7 +550,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 42 · Jun 28 – Jul 4 · SEND — Shelach read Saturday; Independence Day Sunday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | תּוּר | tur | scout / explore | the verb opens the portion (send men to scout) and closes it (do not scout after your heart) | Num 13:2; 15:39 | The spies' verb becomes the Shema's warning, in the same portion. Rashi on 15:39: the eye sees, the heart craves, the body does | — |
 | Tue | חָגָב | chagav | grasshopper | "we were like grasshoppers in our own eyes, and so we were in theirs" | Num 13:33 | Bamidbar Rabbah 16:11, Rashi: "how do you know how you seemed to them?" The order of the verse is the whole teaching: in our eyes first | — |
@@ -561,7 +561,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 43 · Jul 5–11 · THE REBEL — Korach read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | מַחֲלֹקֶת | machloket | dispute | an argument for heaven's sake endures; one that isn't, doesn't | Num 16:1; Avot 5:17 | Avot 5:17 names the bad argument "Korach and his company," not "Korach and Moses." They were fighting each other for the spoils. The good argument has two sides; the bad one has one | — |
 | Tue | וַיִּקַּח | vayikach | and he took | "Korach took," and the verse never says what | Num 16:1 | Rashi on 16:1, Sanhedrin 110a: he took himself to one side; he took a bad bargain. A verb with no object is the portrait of a man | — |
@@ -572,7 +572,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 44 · Jul 12–18 · THE DONKEY THAT SPOKE — Chukat–Balak read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | פָּרָה | parah | cow | the red heifer, the law Solomon gave up on | Num 19:2 | Yoma 14a, Bamidbar Rabbah 19:3: it purifies the impure and makes the pure impure. Solomon: "I said I would be wise, and it was far from me" (Eccl 7:23). A limit built into the law | — |
 | Tue | סֶלַע | sela | rock | Moses was told to speak to it and struck it | Num 20:8–11 | Rashi on 20:12: had he spoken, Israel would have said: if a rock obeys a word, how much more should we. Forty years of leading ended on one blow instead of one sentence | — |
@@ -583,7 +583,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 45 · Jul 19–25 · ZEAL AND THE DAUGHTERS — Pinchas read Saturday; the fast of 17 Tammuz Thursday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | קִנְאָה | kin'ah | zeal / jealousy | God's own word for Himself at Sinai (Exod 20:5) | Num 25:11 | Sanhedrin 82a: had Pinchas asked the court first, they would have told him no. A law the rabbis "do not teach." Zeal is rewarded with a covenant of peace, in one verse | — |
 | Tue | בְּרִית שָׁלוֹם | brit shalom | covenant of peace | the *vav* of *shalom* in this verse is written broken | Num 25:12 | Kiddushin 66b: the *vav* is cracked in every scroll. A peace given to a man of violence is a broken peace. The letter carries the reservation | — |
@@ -594,7 +594,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 46 · Jul 26 – Aug 1 · VOWS AND JOURNEYS — Matot–Masei read Saturday; the Three Weeks
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | נֶדֶר | neder | vow | Kol Nidre's word; "he shall not profane his word" | Num 30:3 (30:2 English) | Nedarim 22a: one who vows is as if he built a private altar. The rabbis discourage vows and kept a whole tractate on them. Your word is a thing that can be profaned | Matt 5:33–37 |
 | Tue | מִקְלָט | miklat | refuge | cities for the one who killed without meaning to | Num 35:11 | Makkot 10b: at every fork in the road a sign read "*miklat, miklat*." The Torah builds a place for the person who did harm by accident, and posts directions | — |
@@ -605,7 +605,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 47 · Aug 2–8 · WORDS — Devarim read Saturday (Shabbat Chazon)
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אֵיכָה | eichah | how | Moses's "how can I bear you alone"; Lamentations' first word; Isaiah's "how" in this Shabbat's haftarah | Deut 1:12; Lam 1:1; Isa 1:21 | Eichah Rabbah 1:1: three said *eichah*, Moses in glory, Isaiah in decline, Jeremiah in ruin. And *eichah* is *ayeka*, "where are you?" (Gen 3:9), with the vowels changed. The first question God asked | — |
 | Tue | בֵּאֵר | be'er | explain / a well | "Moses began to explain this Torah"; the same letters dig a well | Deut 1:5 | Rashi on 1:5: in seventy languages. To explain is to dig. A Torah you draw from | — |
@@ -617,7 +617,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 48 · Aug 9–15 · COMFORT — Va'etchanan read Saturday (Shabbat Nachamu); Tisha B'Av Thursday
 *Holiday override. The Shema and the Ten Words, repeated, are in this portion.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | חֻרְבָּן | churban | destruction | the word for the fall of both Temples | Jer 52:12–13 | Yoma 9b: why was the second Temple destroyed? Baseless hatred. Gittin 55b–56a: it started with a wrong dinner invitation, Kamtza and Bar Kamtza | — |
 | Tue | בָּכָה | bachah | weep | "Rachel weeping for her children" | Jer 31:15; Ps 137:1 | Eichah Rabbah, Petichta 24: the patriarchs plead and are refused; Rachel weeps and God relents. Matthew hears Bethlehem in the verse; Jeremiah hears exile. Hold both | Matt 2:18 |
@@ -629,18 +629,18 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 49 · Aug 16–22 · BECAUSE — Ekev read Saturday; Tu B'Av Wednesday
 *The launch verse, Deut 11:12, is read this Shabbat: eleven months after it opened the newsletter.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | שֶׁבַע | sheva | seven | the seven species; to swear, *nishba*, is to "seven yourself" | Deut 8:8; Gen 21:31 | Be'er Sheva is the well of seven and the well of the oath. Rashi on Gen 21:31. A promise in Hebrew binds you sevenfold | — |
 | Tue | רִמּוֹן | rimon | pomegranate | on the priest's hem beside the bells (Week 23) | Deut 8:8; Song 4:3 | Berakhot 57a: "even the empty ones among you are as full of good deeds as a pomegranate is of seeds." The 613-seed count is a folk tradition; say so | — |
-| Wed (Tu B'Av) | רֵאשִׁית | reshit | beginning | "from the beginning of the year to the end of the year" | Deut 11:12 | Week 0's secret returns in its own portion: *the* year at the start, *a* year at the end, and God's eyes on both. Tell the readers they've been reading since that morning | — |
+| Wed (Tu B'Av) | רֵאשִׁית | reshit | beginning | "from the beginning of the year to the end of the year" | Deut 11:12 | Week 0's reading returns in its own portion: *the* year at the start, *a* year at the end, and God's eyes on both. Tell the readers they've been reading since that morning | — |
 | Thu | שָׁכַח | shachach | forget | "beware lest you forget," three times in one chapter | Deut 8:11, 14, 19 | Rashi on 8:11, Sifrei: forgetting begins with fullness, "you eat and are satisfied and your heart is lifted up." The sin that comfort commits | — |
 | Fri | דָּבַק | davak | cling | "to Him you shall cling"; the verb of Gen 2:24 | Deut 10:20; 11:22; Gen 2:24 | Sotah 14a, Ketubot 111b: how can you cling to a consuming fire? Cling to His ways: clothe the naked, visit the sick, bury the dead. Week 1's *chesed* comes back as the answer | — |
 | **Shabbat Aug 21** · Ekev | עֵקֶב | ekev | because / heel | Jacob is *Yaakov*, the heel-holder | Deut 7:12; Gen 25:26 | Rashi on 7:12, from Tanchuma: the commandments a person tramples with his heel, the light ones. Ps 49:6 "the sin of my heels." Reward comes on the heels of small things | — |
 
 ## Week 50 · Aug 23–29 · SEE — Re'eh read Saturday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | מָקוֹם | makom | place | "the place the LORD will choose," never named; *HaMakom* is a name of God | Deut 12:5 | Bereshit Rabbah 68:9: why is God called "the Place"? He is the place of the world; the world is not His place. Deuteronomy never names Jerusalem | — |
 | Tue | קְלָלָה | klalah | curse | *kal*, light: to curse is to make light of | Deut 11:26; Exod 22:27 | Week 20's *kabed*, honor as weight, has its opposite. Ibn Ezra on 11:26: "see," singular, to each one; "before you," plural, to all | — |
@@ -651,18 +651,18 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 51 · Aug 30 – Sep 5 · JUSTICE, JUSTICE — Shoftim read Saturday; Elul begins Friday
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | צֶדֶק | tzedek | justice | "justice, justice you shall pursue"; *tzedakah*, the word for charity, is this word | Deut 16:20 | Sanhedrin 32b: once for judgment, once for compromise. Bachya: pursue justice by just means. In Hebrew, giving to the poor is not kindness; it's what is owed | — |
 | Tue | שׁוֹפֵט | shofet | judge | "judges in all your gates" | Deut 16:18 | The Sfat Emet, a Hasidic reading: your gates are your eyes, ears and mouth. Appoint a judge at each one. Present it as Hasidic | — |
 | Wed | מֶלֶךְ | melech | king | the king must write his own scroll and carry it | Deut 17:14–20 | Sanhedrin 20b: was asking for a king a sin or a command? Both opinions stand. The scroll is "so that his heart not be lifted above his brothers" (17:20) | — |
 | Thu | נָבִיא | navi | prophet | "a prophet like me the LORD will raise up" | Deut 18:15, 22 | One honest sentence: Christians read 18:15 as Jesus (Acts 3:22); the rabbis read the line of prophets, Joshua first. 18:22: the test is whether the word comes true. Sifrei | Acts 3:22 |
-| Fri | עֵד | ed | witness | two witnesses to convict; the Shema's two big letters spell this word | Deut 19:15; 6:4 | Week 1's secret from the other side: a case needs two witnesses, and the *ayin* and *dalet* of the Shema make you one, twice a day | — |
+| Fri | עֵד | ed | witness | two witnesses to convict; the Shema's two big letters spell this word | Deut 19:15; 6:4 | Week 1's reading from the other side: a case needs two witnesses, and the *ayin* and *dalet* of the Shema make you one, twice a day | — |
 | **Shabbat Sep 4** · Shoftim | שֹׁפְטִים | shoftim | judges | "you shall appoint for yourself" | Deut 16:18 | Rashi on 16:18: for yourself, first. Before judging anyone, set a judge over your own gates. The portion of Elul's first Shabbat | — |
 
 ## Week 52 · Sep 6–12 · WHEN YOU GO OUT — Ki Tetze read Saturday; Elul; one year since the launch on Sep 12
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אֲבֵדָה | avedah | lost thing | "you shall surely return it"; the verb is *teshuvah*'s | Deut 22:1–3 | The Hasidic reading (the Sfat Emet): in Elul you are the lost object, and the one commanded to return it. Returning a lost thing and returning yourself are one verb | Luke 15:4 |
 | Tue | קֵן | ken | nest | send the mother away before taking the young | Deut 22:6–7 | Berakhot 33b: whoever prays "Your mercy reaches the bird's nest" is silenced; the commands are decrees, not sentiment. Devarim Rabbah 6:1 says mercy anyway. The argument is the teaching | — |
@@ -673,7 +673,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 53 · Sep 13–19 · WHEN YOU COME IN — Ki Tavo read Saturday; Selichot begin Saturday night
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | בִּכּוּרִים | bikkurim | first fruits | a basket, a procession, and a script | Deut 26:1–11 | Mishnah Bikkurim 3:7: the one who couldn't read had the words read to him, so at last everyone had them read, and no one was shamed. Gratitude with a script, so no one is left out | — |
 | Tue | אֲרַמִּי | arami | Aramean | "my father was a wandering Aramean," or "an Aramean tried to destroy my father" | Deut 26:5 | Rashi, from Sifrei: Laban. Ibn Ezra: Jacob. The Haggadah chose Rashi. One verse, two fathers, and a family that reads it aloud every year either way | — |
@@ -684,7 +684,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 
 ## Week 54 · Sep 20–26 · STANDING — Nitzavim–Vayelech read Saturday; the last Shabbat of 5787
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | כֻּלְּכֶם | kulchem | all of you | "your heads, your elders, your woodcutter and your water-drawer" | Deut 29:9–14 (29:10–15 English) | Tanchuma Nitzavim 1: all are named so all are equal in it. And 29:14: the covenant is with "the one who is not here today," every generation after. That's you | — |
 | Tue | נִסְתָּרוֹת | nistarot | the hidden things | eleven dots over the words "to us and to our children" | Deut 29:28 (29:29 English) | Sanhedrin 43b: the dots. Israel was not held for hidden sins until they crossed the Jordan. A verse with a question mark written into the scroll. Week 28's root | — |
@@ -696,7 +696,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 55 · Sep 27 – Oct 3 · ROSH HASHANAH 5788 — Saturday and Sunday Oct 2–3
 *Holiday override. One year on.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | זִכָּרוֹן | zikaron | remembrance | the Torah calls the day "a remembrance of the blast" | Lev 23:24 | Rosh Hashanah 16a: three books are opened. The Torah never calls it judgment day; it calls it remembrance. To be remembered is the whole prayer | — |
 | Tue | תְּרוּעָה | teruah | the blast | "a day of *teruah*"; "happy the people that knows it" | Num 29:1; Ps 89:16 (89:15 English) | Rosh Hashanah 33b–34a: is the *teruah* a sob or a groan? The rabbis could not decide, so we blow both. The shofar cries in two ways because grief does | — |
@@ -708,18 +708,18 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 56 · Oct 4–10 · RETURN, AGAIN — Ha'azinu read Saturday (Shabbat Shuvah)
 *Year two of the Days of Awe. New words; the one repeat is deliberate.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | אַשְׁרֵי | ashrei | happy / fortunate | the Psalms' first word; the Beatitudes' word, not *baruch* | Ps 1:1; 84:5 (84:4 English) | Berakhot 4b: say Psalm 145 three times a day and you are a child of the world to come. Humans are *ashrei*; God is *baruch* (Week 7) | Matt 5:3 |
 | Tue | אָבִינוּ מַלְכֵּנוּ | Avinu Malkeinu | our Father, our King | the prayer of the Ten Days | Isa 63:16; Ta'anit 25b | Ta'anit 25b: Rabbi Akiva's five words brought rain when twenty-four blessings hadn't. The prayer began as a rain prayer. "Our Father" in two traditions, name it warmly | Matt 6:9 |
 | Wed | חֵטְא | chet | sin | *chata*, to miss the mark; slingers who "do not miss" (Judg 20:16) | Ps 51:6 (51:4 English); Judg 20:16 | Yoma 36b: three words in the confession, *chet, avon, pesha*: the miss, the twist, the rebellion. The least moral word for sin is an archer's | — |
 | Thu | שַׁעַר | sha'ar | gate | Neilah: the gates closing at sunset | Ps 118:19–20; 24:7 | Berakhot 32b: the gates of prayer are sometimes shut; the gates of tears never. The last service of Yom Kippur is named for a door | — |
-| Fri | תְּשׁוּבָה | teshuvah | return | the word that started this, one year on | Hos 14:2; Deut 30:2 | Year two's secret, Yoma 86b, Resh Lakish: great is *teshuvah*, for it turns deliberate wrongs into merits. Not erased. Converted | — |
+| Fri | תְּשׁוּבָה | teshuvah | return | the word that started this, one year on | Hos 14:2; Deut 30:2 | Year two's reading, Yoma 86b, Resh Lakish: great is *teshuvah*, for it turns deliberate wrongs into merits. Not erased. Converted | — |
 | **Shabbat Oct 9** · Ha'azinu (Shabbat Shuvah) | צוּר | tzur | rock | "the Rock, His work is perfect" | Deut 32:4; Ps 18:3 (18:2 English) | Sifrei on 32:4: *tzur* as *tzayar*, the artist: He formed you. Christians hear 1 Cor 10:4; the rabbis hear the Rock of Ages of *Ma'oz Tzur*. Hold both | 1 Cor 10:4 |
 
 ## Week 57 · Oct 11–17 · THE DAY AND THE FOUR SPECIES — Yom Kippur Monday; Sukkot begins Friday night; Shabbat Oct 16 is Sukkot I
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon (Yom Kippur) | מְחִילָה | mechilah | pardon | *machal*, to waive a debt; the human word for forgiving | Yoma 85b; Num 14:20 | Mishnah Yoma 8:9 again, from the other side: *mechilah* is what a person gives, a debt released. Week 1 said humans do something other than *salach*. This is the something | Matt 18:27 |
 | Tue | אֶתְרוֹג | etrog | citron | "the fruit of a beautiful tree" | Lev 23:40 | Sukkah 35a: *hadar* means "that dwells (*dar*) on its tree from year to year." Vayikra Rabbah 30:12: taste and smell, learning and deeds, the one that has both | — |
@@ -731,7 +731,7 @@ Every post opens with two lines, per `02-daily-format.md`: the word as the trans
 ## Week 58 · Oct 18–24 · THE END AND THE BEGINNING — Shemini Atzeret Saturday (Kohelet read); Simchat Torah Sunday Oct 24
 *The bank ends here. The next Shabbat, Oct 30, 2027, is Bereshit again: year two begins with the ledger's second row of words.*
 
-| Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
+| Day | Hebrew | Translit | Gloss | Device | Verse | Rabbinic reading | Gospel echo |
 |---|---|---|---|---|---|---|---|
 | Mon | קֹהֶלֶת | Kohelet | Ecclesiastes | "the assembler"; a book that argues with itself | Eccl 1:1, 12 | Shabbat 30b: the sages wanted to hide Ecclesiastes because it contradicts itself, and kept it because it begins and ends in Torah. A book that argues with itself is scripture | — |
 | Tue | הֶבֶל | hevel | breath / vapor | Abel's name; "vanity of vanities" | Eccl 1:2; Gen 4:2 | Kohelet Rabbah 1:2: not "meaningless" but "fleeting," breath on a cold day. Seven *hevels* in the verse for the seven breaths of a life. The old bank's word, kept for the end | James 4:14 |

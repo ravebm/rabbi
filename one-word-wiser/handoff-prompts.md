@@ -1,168 +1,29 @@
-# Handoff prompts — paste one of these into the agent
+# One Word Wiser handoff prompts
 
-All three agents work from the same repository: **github.com/ravebm/rabbi**. Give each one repo access (a clone, a connected GitHub account, or an upload of the folder), then paste the matching prompt. Every prompt starts with "read `AGENTS.md`," which is what keeps them in sync: if you change a skill or a doc in any one of them and it's committed, the others see it on their next pull.
+These are templates for Evan to use, not standing authorizations. Always begin with: “Open ravebm/rabbi, check out the requested branch, pull the latest, and read AGENTS.md.” Preserve Evan’s current instructions over older examples.
 
----
+## Draft a letter
 
-## Codex — the first thing to paste in every session
+> Read the One Word Wiser skill and current positioning/format. Draft [date and word] using the word bank and verified sources. Give it a clear human title, useful Hebrew teaching, and a fuller rabbinic reflection. Use a few content-specific headings and restrained dividers. No “secret” offer or fixed application slogan. Save the dated Markdown, with source notes for me below the body. Commit and push. Do not publish or send it.
 
-Codex reads `AGENTS.md` on its own when it opens the repository, but this line makes sure it starts from the current `main` and not from a stale clone:
+## Upload approved copy as a draft
 
-> Open my repository `ravebm/rabbi`, check out `main`, and pull the latest. Read `AGENTS.md` at the root before doing anything else; it is the single source of truth for this project, shared with Claude, and it tells you where every file is and the rules every agent follows. If anything I ask conflicts with it, tell me before acting. Then: [what you want done].
+> On rabbi.substack.com, inspect Drafts and Scheduled for the same title or date first. Update the matching post rather than making a duplicate. Use [file], preserving any newer edits I made in Substack. Title and subtitle come from the header. Paste only the reader-facing body below the first separator; retain all formatting and Hebrew vowel marks. Place only the specified cards and dividers. All launch letters through September 27 are free. Save as a draft, open the preview, and check it on a phone. Do not publish, schedule, or send a test email. Reply with the draft URL and anything that did not match.
 
-## Codex — set the welcome email (now, before the book exists)
+## Schedule an approved draft
 
-The free book is not on Substack yet (`one-word-wiser/book/README.md` says *not yet*), so the welcome email goes up without the book paragraph. When the book is up, use the prompt further down to wire it in.
+> Schedule [existing draft URL] for [exact date/time], America/Chicago. Confirm it still matches the approved [file/current draft]. Verify audience [Everyone or paid], no section unless specified, email delivery, and web publication. Check for a duplicate at that time and keep exactly one. Do not publish immediately or send a test email. Report the title, URL, and scheduled time as shown by Substack.
 
-> Open my repository `ravebm/rabbi`, check out `main`, and pull the latest. Read `AGENTS.md`. I am logged into Substack at rabbi.substack.com. Set the welcome email, and nothing else.
->
-> Go to Settings → Emails → Welcome email. Subject: `Welcome`. Body: everything below the `---` in `one-word-wiser/samples/welcome-email.md`, with one change: delete the whole paragraph that begins "Start with this:", because the book is not published yet. Enter it as formatted text: bold and italics applied in the editor, no markdown symbols, paragraph breaks kept, the last italic line kept in italics, and `— Rabbi Evan` as the sign-off. Save it, open the preview, and confirm it reads cleanly on a phone.
->
-> Do not send a test email to the list, do not change any other setting, do not touch any post. Reply with the subject as saved and the first and last lines of the body as saved.
+The September 14 teshuvah post is already published as **You Can Still Come Home**. Do not reuse the old September 14 scheduling prompt or overwrite it from an old source.
 
-## Codex — upload a week's drafts to Substack (the weekly one)
+## Update welcome or About copy
 
-Current presentation standard, added September 13, 2026: prepared posts include short native subheadings and restrained typographic dividers. Preserve the headings, including **Let It Change Your Life**, and the centered Hebrew-letter dividers or plain rules at their marked positions. Follow `skills/one-word-wiser/references/substack-readability.md` and confirm the saved layout on a phone. Do not add decorative illustrations by default. Preserve any newer edits Evan has made in the target draft. The single-post scheduling prompt below records an earlier authorization; for draft-only work, stop at the saved draft.
+> Change only [named surface] using its current source in `one-word-wiser/samples/`. Apply actual bold/italic/link formatting in the editor. Preserve paragraph breaks. Reopen after saving and inspect the preview. Do not send a test email, modify another setting, or promise the unpublished book or proposed study companion.
 
-Every Sunday, once you say **approved**, the Sunday session hands you this prompt with the file list filled in; paste it into Codex. (For the launch weekend, fill it in from the list below.) Codex needs a browser and you logged in at rabbi.substack.com.
+## Review the study-companion proposal
 
-> Open my repository `ravebm/rabbi` and pull the latest. Read `AGENTS.md` at the root, then `one-word-wiser/02-daily-format.md` (the section "The cards" and "Post-body template"). I am logged into Substack at rabbi.substack.com. Create each of the posts below as a **Substack draft**, exactly as written, and do not publish or send anything.
->
-> For each file:
-> 1. **Title** = the `**Subject:**` line of the file, without the word "Subject". Leave the subtitle empty unless the file has a `**Subtitle:**` line.
-> 2. **Body** = everything below the `---` line, ending at `— Rabbi Evan`. Do not paste the header block (Subject, Audience, Cards, Notes) and do not paste any "Notes for Evan" or "Audio" block at the end. Keep every bold, italic, blockquote and line break. Paste Hebrew script exactly, with its vowel marks.
-> 3. The body begins with two short lines, `**In English:** …` and `**In Hebrew:** …` (on Shabbat they follow the portion line; on Sunday, the verse). Keep them exactly, bold labels and italics included; they are the first text under the title. If the next block is a large Hebrew word and a transliteration line inside `<div align="center">`, delete those lines; the Word card carries them. Center nothing else.
-> 4. **Images:** upload the PNGs named in the file's `**Cards:**` line from `one-word-wiser/posts/cards/`. The `word-day` card goes at the very top of the body. The `line-day` card replaces the italic sentence marked as the line to carry (delete that text line and put the image where it was). The `line-night` card replaces the italic line to sleep on, the same way. If a card file is missing, leave the italic line as text and note it in your report.
-> 5. **Paywall:** where the body says `[PAYWALL]`, delete that line. (From September 28 onward, insert Substack's paywall divider at that spot instead of deleting it; the file's `**Paywall:**` line will say which.)
-> 6. **Settings:** audience Everyone. Do not assign a section. Send as email: yes. Publish to web: yes. Schedule for the date and time in the file's `**Send:**` line, America/Chicago, only if I say "schedule" below; otherwise save as an unscheduled draft.
-> 7. Do not change any other Substack setting, do not touch other posts, do not send test emails.
->
-> The files, in order:
-> - `[path]` — `[date, time]`
-> - …
->
-> Schedule: [yes / no]
->
-> When done, reply with one line per post: title, draft URL, scheduled time (or "draft"), and whether every card was placed. If any screen didn't match these instructions, tell me which step rather than improvising.
+> Read `one-word-wiser/study-companion/README.md` and the sample. Develop [specific feedback] into a revised local sample. Verify source context and keep it one useful page. Do not advertise it as a paid benefit or set up a recurring workflow until I adopt it.
 
-**This week, filled in** (Monday's draft already exists on Substack; use the daily prompt below for it, and this one for Tuesday through Sunday):
+## Publish the book, only after separate approval
 
-> - `one-word-wiser/posts/2026-09-15.md` — Tuesday, September 15, 6:00 am
-> - `one-word-wiser/posts/2026-09-16.md` — Wednesday, September 16, 6:00 am
-> - `one-word-wiser/posts/2026-09-17.md` — Thursday, September 17, 6:00 am
-> - `one-word-wiser/posts/2026-09-18.md` — Friday, September 18, 6:00 am
-> - `one-word-wiser/posts/2026-09-19.md` — Saturday, September 19, 6:00 am
-> - `one-word-wiser/posts/2026-09-20.md` — Sunday, September 20, 6:00 am
->
-> Schedule: yes
-
-Every week after this, the Sunday session writes the seven files into `one-word-wiser/posts/` and hands you this list filled in.
-
-## Codex — post one day (the daily one)
-
-For a single post. Codex needs a browser and you logged in at rabbi.substack.com. Filled in below for Monday, September 14, whose draft Codex already built and polished on September 13 (draft 215587061) but did not schedule; for another day, change the draft link (or say "create it from the file"), the file name, the title, the send time and the two card names. Prepared posts carry native H2 subheadings, the **Let It Change Your Life** section and centered Hebrew-letter dividers; Codex keeps them as native elements.
-
-> Open my repository `ravebm/rabbi`, pull the latest on `main`. Read `AGENTS.md` and `skills/one-word-wiser/references/substack-readability.md`. I am logged into Substack at rabbi.substack.com. Schedule ONE existing draft. Do not create a second post.
->
-> The draft: https://rabbi.substack.com/publish/post/215587061, titled `☀️ תְּשׁוּבָה · teshuvah · return`. The file it must match: `one-word-wiser/posts/2026-09-14.md`. Send: Monday, September 14, 2026, 6:00 am, America/Chicago.
->
-> 1. Open the draft. Check its body against the file (everything below the file's first `---` line, ending at `— Rabbi Evan`): the two opening lines `**In English:** *repent.*` and `**In Hebrew:** *teshuvah* — come home.` as the first text under the title (add them if the draft doesn't have them yet, above the Word card), the four H2 subheadings, the two centered — ת — dividers, the short paragraphs, the italic lines, the blockquoted verse with its Hebrew vowel marks. If the draft has newer edits by Evan, keep them; never restore wording he removed. Do not paste the header block or the "Notes for Evan" block.
-> 2. **Cards**, from `one-word-wiser/posts/cards/`: `2026-09-14-word-day.png` at the very top of the body; `2026-09-14-line-night.png` in place of the italic line *You don't have to walk the whole road today. You only have to turn.* No line-day card. If both are already in place, leave them.
-> 3. There is no paywall in this post. Make sure no paywall divider is in the body.
-> 4. **Settings:** audience **Everyone** (the publish dialog defaults to Paid; change it and confirm it stays after the dialog closes). No section. Send as email: yes. Publish to web: yes. Schedule for Monday, September 14, 2026, 6:00 am, America/Chicago.
-> 5. Reload and confirm: the post shows as scheduled for that time, audience Everyone, and there is exactly one post scheduled for it. Do not change any other setting, do not touch other posts, do not send test emails.
->
-> Reply with: the scheduled time as Substack shows it, the audience as shown after the reload, and whether both images are in place. If any screen doesn't match these instructions, tell me which step rather than improvising.
-
-## Hermes — set up Substack (once)
-
-> You have access to my repository `ravebm/rabbi` (pull the latest first). Read `AGENTS.md` at the root, then follow `one-word-wiser/operator-brief-substack-setup.md` exactly, start to finish. I am logged into Substack at rabbi.substack.com. Paste every piece of copy verbatim from the brief and the files it points to; do not rewrite anything. Do not publish, email, or change anything the brief does not list. When you finish, reply with the checklist at the end of the brief, and if anything in Substack's interface didn't match the brief, tell me which step rather than improvising. If you had to change anything in the repository (you shouldn't need to), commit it with a one-line message and push.
-
-## Launch day (done)
-
-Launch day, Saturday, September 12, has run. The brief and the two posts it used are archived in `one-word-wiser/archive/launch-2026-09-12/`. There is no launch prompt to paste anymore.
-
-## Claude — write, edit, or update the system
-
-> Pull `ravebm/rabbi`, read `AGENTS.md`, and [write Tuesday's post for *shema* / write the week / draft Saturday from the portion / update the skill so that … ]. Commit and push whatever you change so Hermes and Codex see it.
-
-## Codex — write posts
-
-> Open my repository `ravebm/rabbi` and pull the latest. Read `AGENTS.md` at the root, then `skills/one-word-wiser/SKILL.md`, then `one-word-wiser/samples/week-01-monday.md` and `week-01-shabbat-haazinu.md`. Using `one-word-wiser/word-bank.md`, draft [the week of … / Tuesday through Friday of week 1] in the skill's output contract: one post a day, the door and `[PAYWALL]` marker at the question, the secret below it. Save each post as `one-word-wiser/posts/YYYY-MM-DD.md`, commit with the message "Week N drafts: <words>", and push to a branch named `posts/week-NN`. Do not publish anything. Below the drafts, list any citation you are less than certain of.
-
-## Any agent — draft the free book, *Seven Hebrew Words Every Christian Should Know*
-
-Paste this into whichever tool you want to draft in. It stands on its own; the agent does not need the repository. Read the draft before anyone lays it out, and check every citation it lists as uncertain.
-
-> You are drafting a short free book for Rabbi Evan Moffic. It is the welcome gift for new subscribers to *One Word Wiser* (rabbi.substack.com), a newsletter that teaches Christians and curious Jews one Hebrew word a day. Evan is a rabbi handing Christians a key to their own Bible. He is not converting anyone in either direction.
->
-> **Title:** *Seven Hebrew Words Every Christian Should Know*. **Author:** Rabbi Evan Moffic. **Length:** about 1,700 words. Ten pages: a cover, a short note from Evan, seven word pages, a last page.
->
-> **The seven words, in this order:** *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.*
->
-> **Every word page has these six parts, in this order, and nothing else:**
->
-> 1. The word in Hebrew with vowels, large. Under it, the transliteration in italics and a one- or two-word English gloss. (שָׁלוֹם · *shalom* · peace, wholeness)
-> 2. **Say it.** One line: which syllable carries the stress, and how to make any sound English lacks (*chesed* starts in the throat, like the *ch* in Bach).
-> 3. **The picture.** Two to four sentences: what the root means in its plainest, most physical sense, and how the familiar meaning grows out of it. *Shalom* is from *shalem*, whole, complete, paid in full: peace is nothing missing. *Emunah* is from *aman*, firm, steady, the root of *amen*: faith is a verb of standing. Give a root picture only where the etymology is real; never force one.
-> 4. **One verse** from the Hebrew Bible where the word does its work. Quote the NIV, with book, chapter and verse, then one sentence naming the Hebrew word under the English ("The word under 'peace' is *shalom*."). Where the Hebrew and English verse numbers differ, give both. If you are not certain of a citation, choose another verse you are certain of.
-> 5. **Other mentions.** One or two sentences on where this word turns up in the New Testament, a hymn, or the liturgy: a Gospel or New Testament verse that carries it (Jesus greeting the disciples with *shalom*, John 20:19; Habakkuk 2:4's *emunah* quoted in Romans 1:17), a hymn, a line of the liturgy. Cite chapter and verse. Say "Matthew," "John," "Jesus," never "the Christian Bible."
-> 6. **A line to carry.** One sentence, under fifteen words, in italics. Something a reader could keep for the day.
->
-> Each word page is 180 to 220 words. The word itself should appear four or five times on its page.
->
-> **The note from Evan** (page 2, under 120 words): why one Hebrew word is worth a page, first person, warm, no biography beyond "I'm a rabbi." **The last page** (under 80 words): one sentence that one word arrives every morning at rabbi.substack.com, and the invitation: "Send me a verse. Any verse. I'll show you the Hebrew underneath." No price, no "subscribe," no urgency.
->
-> **Voice.** "Hebrew Bible" and "New Testament" are the two names, every time; never "Old Testament," "the Greek Bible," or "your Bible" (the reader and the writer share the book; say "the English" when the point is the wording). No us and them: never sort the reader and the writer into two groups ("a Jew says," "your church"); describe the practice, not the people. Short declaratives; fragments welcome. Direct address ("Say it with me."). Warm, never cute; respectful, never preachy. Hebrew always transliterated, italicized and glossed in the same breath. Where Jews and Christians read a verse differently, say so in one sentence and move on. Strike on sight: framework, journey, navigate, leverage, unlock, delve, tapestry, exclusive, "here's the thing," "let's dive in," announced connections ("this brings us to"), stacked adjectives, three-beat escalations.
->
-> **What the book is not.** No grammar, no alphabet chart, no footnotes, no lists of every place the word occurs, no rabbinic sources, no gematria. The book is the free half of the teaching, complete on its own; the newsletter goes deeper each morning.
->
-> **Suggested verses** (verify each; swap any you can't confirm):
-> - *shalom*: Numbers 6:26 (the priestly blessing ends in it); Isaiah 26:3 (*shalom shalom*). New Testament: John 20:19, 21, 26.
-> - *chesed*: Psalm 136 (the refrain *ki l'olam chasdo*); Micah 6:8; Lamentations 3:22. New Testament: Jesus quotes Hosea 6:6, "I desire *chesed*, not sacrifice," in Matthew 9:13 and 12:7; the English there says "mercy."
-> - *emunah*: Exodus 17:12 (Moses's hands were *emunah*, steady, until sunset); Habakkuk 2:4; Genesis 15:6. New Testament: Romans 1:17, Galatians 3:11 and Hebrews 10:38 all quote Habakkuk 2:4.
-> - *teshuvah*: Hosea 14:2 (14:1 in Christian Bibles), *Shuvah Yisrael*; Deuteronomy 30:2. New Testament: Mark 1:15 ("repent"); Luke 15:17–20, the son who came to himself and went home.
-> - *ruach*: Genesis 1:2; Ezekiel 37:9. New Testament: John 3:8, where "wind" and "Spirit" are one word, exactly as in Hebrew.
-> - *hallelujah*: Psalm 150:6; Psalm 146:1. New Testament: Revelation 19:1–6, the only place the New Testament says the word, and it says it in Hebrew.
-> - *amen*: Deuteronomy 27:15–26 (the people answer *amen* twelve times); Isaiah 65:16 ("the God of *amen*"). New Testament: John 1:51 and the "Amen, amen, I say to you" sayings (in the Hebrew Bible *amen* answers what was just said; Jesus opens with it); 2 Corinthians 1:20; Revelation 3:14.
->
-> **Output:** If you have the repository, write the text into `one-word-wiser/book/seven-words.md`, replacing each `[[…]]` placeholder and changing nothing else (the Hebrew, transliterations and glosses there are already correct); `one-word-wiser/book/build.py` makes the PDF. Otherwise: Markdown, one page per section, `---` between pages, so it can be dropped into Google Docs, Pages or Canva. For whoever lays it out: navy `#1B2A41` on off-white `#F6F3EC`, gold `#A8781C` for small caps and rules, EB Garamond for English, Frank Ruehl Libre for Hebrew, one word per page with a lot of air; this matches the newsletter's cards. Below the draft, list every citation you are less than certain of.
-
-## Codex — redraft the free book (only if the text changes)
-
-The book is drafted and built (`one-word-wiser/book/seven-words.pdf`, September 13). Use this only if Evan wants the text changed; otherwise skip to the next prompt.
-
-> Open my repository `ravebm/rabbi` and pull the latest `main`. Read `AGENTS.md`, then `one-word-wiser/01-positioning.md` (the voice rules), then `one-word-wiser/book/README.md`, then the drafting brief in `one-word-wiser/handoff-prompts.md` under "draft the free book." Write the book into `one-word-wiser/book/seven-words.md`: replace every `[[…]]` placeholder following the brief, and change nothing else in that file (the Hebrew, transliterations and glosses are already correct). Verify every citation before you use it; if you are not certain of one, use another verse you are certain of.
->
-> Then build it: `python3 one-word-wiser/book/build.py --all-previews`. It needs Python 3 and Google Chrome or Chromium (add `--chromium /path/to/chrome` if it cannot find one). If it reports a placeholder or an overflowing page, fix the text and run it again. Look at every image in `one-word-wiser/book/preview/`: ten pages, the Hebrew with its vowels, nothing cut off, the line to carry at the foot of each word page.
->
-> Commit `seven-words.md`, `seven-words.pdf`, `preview-cover.png` and `preview-word.png` (not the `preview/` folder) with the message "Seven Words book: draft and PDF", push to a branch named `book/seven-words`, and open a pull request against `main`. In the pull request description, list every citation you were less than certain of. Do not touch Substack. Stop there: Evan reads the PDF before it goes up.
-
-## Codex — put the free book on Substack and wire the welcome email (once, after Evan has read the PDF)
-
-> Pull the latest `main` of `ravebm/rabbi` (the pull request that carries the book is merged) and open `one-word-wiser/book/README.md`.
->
-> On rabbi.substack.com, create a new post from "The download post" in that README: paste the title, subtitle and body verbatim. Where the body says to attach the PDF, use the editor's file attachment (the paperclip or "+" menu, then File) to attach `one-word-wiser/book/seven-words.pdf`. Audience: Everyone. Section: none. Set the post's URL slug to `seven-words` if the post settings allow. Publish it to the web only: in the publish step choose the option that does not send an email. If you cannot find a way to publish without emailing, stop and report; do not send the list an email. Copy the published post's URL.
->
-> Then Settings → Emails → Welcome email. Subject: `Your first seven words`. Body: everything below the `---` in `one-word-wiser/samples/welcome-email.md`, entered as formatted text (bold and italics applied in the editor, no markdown symbols), with the book's title linked to the post URL; that link is what `SEVEN_WORDS_URL` stands for. Save it, open the preview, and confirm the link opens the post.
->
-> Back in the repository, put the post URL in `one-word-wiser/book/README.md` under "Where it lives" in place of *not yet*, commit with the message "Seven Words book: live at <URL>", and push to `main`. Report the post URL, that it was published without an email, and that the welcome email now links to it. Change nothing else on Substack.
-
-## The two lanes: Evan writes in Drive, Claude runs the machinery
-
-**Evan's lane is one Google Drive folder, *One Word Wiser*.** Every draft Claude makes lands there as a Google Doc: the book, each week's seven posts (Sunday at 4:00 pm Central), anything else he asks for. He edits in Docs, whenever, in his own words. Every Doc starts with a line that says `Status: draft`. When a document is ready, he changes that line to `Status: approved`. If he wants Claude to do something to it first, he writes it under a line that says `Notes for Claude:`.
-
-**Claude's lane is the repository and everything downstream.** Every morning at 6:00 Central a check reads the folder. An approved Doc is carried into the repo (the book rebuilt as a PDF; a week's posts formatted, cards rendered, pull request marked ready), then moved to the folder's *Done* subfolder with the date in its title, and Evan gets a one-line push notification. For a week, the check also leaves a Doc in the folder, *Codex prompt · week of …*, holding the upload prompt above, filled in; Evan pastes it into Codex and the week is scheduled. Notes are handled the same way: a new version of the Doc appears in the folder, the old one goes to Done. Strategy, setup, the welcome email, the book on Substack: ask Claude in the session, any time.
-
-The one step no agent here can do is the Substack upload itself (Substack has no API); that is the Codex paste. The two routines are named "One Word Wiser · Sunday week draft" and "One Word Wiser · Drive inbox"; ask Claude to change their hours or what they do.
-
----
-
-## When you change something
-
-Make the change in any one agent, and make sure it ends in a commit to the repo. That's it. The other two agents pull before they work, so they inherit it. If an agent ever seems to be working from an old version, tell it: "pull the latest and re-read `AGENTS.md`."
-
-## One-time setup
-
-1. Give Hermes and Codex access to the repository.
-2. Upload the two logo files to `one-word-wiser/brand/` (any agent can do this if you give it the files) so the operator brief can point to them.
+Read `book/README.md`, verify Evan approved the current PDF, and use an explicit task that states whether the post is web-only or emailed. After an authorized publication, record its verified URL. Adding a book link to the welcome is a separate specified change; the current welcome body has no placeholder or book promise.

@@ -1,67 +1,37 @@
-# 05 · Production Workflow — seven posts a week without it eating Evan's life
+# 05 · Production Workflow
 
-One post a day is the routine Evan already keeps for Already Home. Both publications get edited in the same morning sitting. Only the voice needs Evan; the structure is produced.
+## What needs Evan
 
-## Division of labor
+Choosing what the passage means for these readers, weighing Jewish sources, and shaping the final pastoral voice. Automation prepares material; it does not establish rabbinic authority or invent an interpretation for him.
 
-| Who | Does |
-|---|---|
-| **Evan** | Confirms the week's six words · reads and edits every draft (15–30 min/day) · picks the Shabbat word from his sermon · records or approves audio · answers verse replies · hosts *Ask the Rabbi* · writes the Sunday *Your Verse* post himself when a reply moves him (otherwise the skill drafts it) |
-| **Claude (skill)** | Drafts every post from the word bank in the format and voice · subject lines, the line to carry, the line to sleep on, the two Notes · the Shabbat footer from the week's posts · scripts the optional audio · renders the cards · keeps the ledger |
-| **Codex / Hermes** | Uploads approved drafts to Substack as drafts with their cards (`handoff-prompts.md`) · runs the setup brief |
-| **Tools** | Phone voice memos (optional audio) · Substack scheduler |
+## What the tools can prepare
 
-## The weekly rhythm
+1. Select candidate words and source leads from `word-bank.md` for the week Evan requests.
+2. Retrieve and verify the actual passages. Distinguish quotations, translations, paraphrases, and interpretations. Record unresolved issues for Evan.
+3. Draft the letters with `skills/one-word-wiser/SKILL.md`, including clear title options and optional source-specific subheadings.
+4. Prepare only specified cards and restrained dividers. Save source files in `posts/`.
+5. Evan reviews and edits. Preserve materially different earlier revisions.
+6. Upload approved copy into an existing matching Substack draft. Schedule only when the current task authorizes it; verify exact date/time, audience, and delivery.
+7. Commit and push the current copy and ledger. Keep a distinction between drafted, approved, scheduled, and published.
 
-**Sunday (the one real session, and most of it is automatic):**
-1. At 4:00 pm Central a scheduled session drafts the coming week from `word-bank.md` with the skill ("write the week"): seven posts, Monday through Sunday, in Substack-ready Markdown with subject lines and Notes; cards rendered; ledger updated; pushed to a `posts/week-NN` branch as a draft pull request. It puts the whole week in one Google Doc in Evan's Drive folder *One Word Wiser* and sends him a push notification.
-2. Evan edits the Doc in his own words, Monday most carefully. Anything: cut, rewrite, swap a verse. Swap a word by editing `word-bank.md` any time before Sunday; the bank is a plan, not a contract, and a word runs once a year (the ledger).
-3. When he's done, he changes the Doc's first line to **Status: approved** (or tells the session). The daily 6:00 am check carries the week into the repo: every edit applied, anything that broke the format or the voice fixed and noted, cards re-rendered, pull request marked ready, the Doc moved to *Done*, and a Doc *Codex prompt · week of …* left in the folder with the upload prompt filled in. He gets a push notification.
-4. Evan pastes that prompt into Codex; Codex schedules the seven posts for 6:00 am Central with their cards. That paste is the one step no agent here can do: Substack has no API.
+The earlier guides describe Sunday and daily Drive automations. Their live status was not verified in this task; verify it before relying on them. This manual does not create, enable, or authorize a recurring job. A file’s “approved” line is not by itself permission to publish or email.
 
-**Daily, 10–15 minutes:**
-- Glance at yesterday's numbers; reply to two or three reader replies (replies are the relationship, and they're future Sunday posts).
-- The post is already scheduled. Nothing else.
+## Optional study companion
 
-**Thursday, 15 minutes (optional):** record the week's audio memos in one sitting: the word three times, the line to carry, the one thing, the line to sleep on. Upload to the posts.
+The proposed weekly page in `study-companion/README.md` can reuse source work from an existing letter. The local builder demonstrates consistent formatting. Evan’s review determines source selection, interpretation, usefulness, and final copy. Do not promise a turnaround time or daily output before a pilot shows the real burden.
 
-**Friday, 10 minutes:** the Shabbat word. Tell Claude which word the sermon is on if it differs from the bank; the skill drafts the Shabbat post from it and the week's lines.
+## Audio and images
 
-Total: an hour or two a week of Evan's time for seven posts, almost all of it the edit pass. The pulpit voice comes from the edit pass, not the draft.
+Audio is an optional future decision, not a current paid benefit. A voice clone requires current authorization and Hebrew pronunciation review. Use only assets specified in the approved draft. Decorative illustrations are not the default; native dividers are enough.
 
-## The skill
+## Reader verse queue
 
-`skills/one-word-wiser/SKILL.md`, invoked by "write Tuesday's post for *chesed*," "write the week," "draft Saturday from the portion," "draft Sunday's verse post for Psalm 23." It knows the anatomy in `02`, the voice rules in `01`, the gate in `03`, and it reads `word-bank.md` for the week's words, verses, secrets, and the five tests for any new word. See the skill file for the exact output contract.
+Keep a minimal verse queue when needed: date, verse, question, and permission status. Do not put private pastoral details or identifying reader data in shared/public git. Do not contact a reader unless Evan authorizes sending. A submitted verse can inspire an anonymous teaching; naming the correspondent requires permission.
 
-## Audio
+## Weekly measurement
 
-Two paths; **DECIDE**:
+Read dated aggregate results from the relevant Substack publication. Track net free growth, paid starts attributed to mature posts, cancellations, and retention. Treat prior Already Home patterns as hypotheses for this audience. Record whether proposed study materials are actually used; do not infer willingness to pay from downloads alone.
 
-- **Phone recording (recommended to start).** Voice memo, 2–3 minutes, no editing. The rawness is the point: it's a rabbi, not a podcast. Upload as the post's audio in Substack.
-- **ElevenLabs clone.** The connector is available in this environment. Clone Evan's voice once from 10 minutes of clean speech; the skill's audio script is fed to `creative_generate_speech`; the render goes into the post. Hebrew pronunciation from a clone must be checked by ear for the first few weeks; the model will get *chet* and *ayin* wrong until it doesn't. Use the phone for the Hebrew word and the clone for the English, if the difference is audible.
-
-## Images
-
-Three cards per post: Word (day) at the top, Line (day) at the line to carry when the post keeps that line, Line (night) at the line to sleep on, rendered by `brand/cards/render.py` from the template sources in `brand/cards/`. See `brand/cards/README.md`. Nothing else. Substack's default post image is the publication logo. The one exception is the *Seven Words* PDF (set in the logo's navy and serif). `fal_connect.py` stays for the occasional editorial image if Evan wants one.
-
-## Verse queue
-
-Keep `verse-queue.md` (create on first reply) with: date received, first name + state, verse, one-line note on what they asked. Sunday picks from the top. Reply to every sender within a week even if their verse won't run for a month ("yours is in the queue for October 18"). Until the queue has a verse, Evan picks one, the verse Christians ask a rabbi about most, and the post says so in a line.
-
-## Metrics that matter (check Sundays)
-
-From the Substack dashboard (the MCP connector can pull these once it's pointed at rabbi.substack.com; today it's pointed at Already Home):
-
-1. **Open rate, 7-day average.** The health of the habit. Target > 40%.
-2. **Free growth net of unsubs.** Target +1% / week from organic; ad cohort on top.
-3. **Paid conversions / week** and **which posts converted them.** After a month you'll know which *kind* of secret converts (at Already Home: the ones that answer a burning, timestamped ache, not soothing ones). Do more of those.
-4. **Reply count.** Replies → Sunday posts → replies. This is the flywheel HfC built with "The Verses You Asked For."
-5. **Ad CPA and 60-day paid conversion of the ad cohort.** The two numbers that decide spend.
-
-Keep a one-line-per-week ledger at the bottom of this file:
-
-## Ledger
-
-| Week of | Free | Paid | ARR | Open rate | Read-to-end | Paid/wk | Notes |
-|---|---|---|---|---|---|---|---|
-| 2026-09-07 | | | | | | | Week 0 — launch Saturday Sep 12, two posts; one a day from Sunday |
+| Week of | Free | Paid | ARR | Open rate | Paid starts | Evidence / notes |
+|---|---|---|---|---|---|---|
+| 2026-09-07 | | | | | | Historical launch planning had not yet verified live delivery |

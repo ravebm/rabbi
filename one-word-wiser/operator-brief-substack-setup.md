@@ -1,115 +1,47 @@
-# Operator brief — set up One Word Wiser on Substack
+# Operator brief — One Word Wiser
 
-*For any agent operating Substack on Evan's behalf (Hermes, Codex, Claude). Read `AGENTS.md` at the repository root before starting.*
+Read `AGENTS.md` first and pull the latest. Operate rabbi.substack.com only within the current task. This file describes the current copy and intended editorial experience; it is not standing authorization to change all settings or send content.
 
-You are configuring an existing Substack publication for Rabbi Evan Moffic. The publication is **rabbi.substack.com** (name: *One Word Wiser*). Evan is logged in. This document is complete: every setting and every piece of copy you need is here. Do exactly what it says, in order, and nothing more. Where it says **paste**, paste the text verbatim — do not rewrite, shorten, or "improve" any copy.
+Evan’s September 14 direction simplifies the product. One morning email, an accurate Hebrew teaching, and a fuller rabbinic reflection. No “secret” offer or fixed “Let It Change Your Life” heading. The study companion remains a proposal.
 
-## What this publication is (context only)
+## Current copy
 
-A daily Hebrew-word newsletter for Christians (and curious Jews). **One post a day, 6:00 am Central, seven days a week.** Monday–Friday: one Hebrew word, its meaning, one line to carry, one question, free and complete; then, below the question, the secret inside the word (the layer the rabbis called *sod*) and one small thing to do with it, paid from week 3. **Saturday:** a word from the Torah portion read in synagogue that morning, plus the week's five words, free and whole. **Sunday:** a reader's verse, free and whole. The publication launched on Rosh Hashanah, Saturday, September 12, with a morning and evening post on the word *shanah*, the one two-post day. The first two weeks are entirely free; the gate turns on September 28.
+| Surface | Source or exact value |
+|---|---|
+| Publication name | One Word Wiser |
+| Short description | The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic. No Hebrew required. |
+| About page | `samples/about-page.md`, all of it, formatted |
+| Free/imported welcome | Subject **Welcome**; body below `---` in `samples/welcome-email.md` |
+| Paid welcome | Subject **Welcome**; body below `---` in `samples/welcome-paid-email.md` |
+| Founding welcome | Currently inherits the paid welcome; verify before assuming |
+| Free benefit | One Hebrew word and its meaning in Scripture, every morning. Free, always. |
+| Paid benefit | The full weekday reflections on Hebrew, Jewish wisdom, and everyday life. |
+| Founding benefit | A signed book, and my thanks by name. |
+| From name | Rabbi Evan | One Word Wiser |
+| Introduction | One Word Wiser is a daily letter from Rabbi Evan Moffic about Hebrew, the Bible, and Jewish wisdom. Each morning, one Hebrew word opens a passage and a question about everyday life. For Christians, Jews, and anyone curious. No Hebrew required. |
 
-## Hard rules
+No book link belongs in the welcome until the book is approved and published. Its current status is in `book/README.md`. No weekly study sheet is promised yet. When the launch period ends, update dated launch copy only as part of an authorized delivery/product decision.
 
-- Do not publish or email anything that is not in this document.
-- Do not change anything not listed here. Do not delete or edit any existing posts.
-- Do not turn on the paywall for any post in this document — every post below is **Everyone (free)**.
-- Do not send test emails to the list.
-- Timezone for every schedule is **America/Chicago (Central)**. Confirm the publication's timezone setting matches before scheduling.
-- If any step's UI differs from what's described, find the equivalent setting; if you cannot, stop and report which step, rather than guessing.
-- When finished, report back using the checklist at the end.
+## Navigation and preserved settings
 
----
+Morning and Evening navigation links are hidden. Their historical sections and posts are preserved. New daily posts belong to the main publication, with no section, unless Evan says otherwise. Do not create additional sections.
 
-## PART 1 — Publication settings
+Prices are $7/month, $60/year, and $180 founding. The 7-day paywall trial is on. The group setting currently shows minimum 2 and no configured discount; an older proposed 5-person/20% group offer was not implemented. Do not create that discount from an old brief.
 
-### 1.1 Basics (Settings → Basics)
-- **Publication name:** `One Word Wiser`
-- **Short description / tagline** (the one-line description shown on the homepage, email header and Substack discover): paste exactly:
-  > The Bible wasn't written in English. One Hebrew word a day, and the verses it opens — Genesis to the Gospels. From Rabbi Evan Moffic. No Hebrew required.
-- **Logo:** the files are in `one-word-wiser/brand/` (`logo-square.png`, `wordmark.png`); if that folder is empty, Evan will supply them. Use the **small navy square with the cream aleph** as the logo/avatar (it also becomes the favicon). Use the **full wordmark** ("One Word Wiser with Rabbi Evan Moffic") as the cover image / email header image if the theme supports a wide header image. If only one file is available, use the square.
-- **Author name / byline:** `Rabbi Evan Moffic`
-- Leave the subdomain (`rabbi`) unchanged.
+Replies are allowed from Everyone and route to the publication owner when the forwarding field is empty. Existing comments, referral settings, discounts, and the historical podcast are not changed by copy cleanup. The old setup brief’s proposed reward counts, live events, and paid-only comments are not evidence of current settings or authority to alter them.
 
-### 1.2 About page (Settings → Basics → About page, or the "About" page editor)
-Replace the entire existing About page with the following, verbatim:
+## Editing and delivery
 
-**One Word Wiser**
-*One Hebrew word, one rabbinic teaching, and one wiser way to live.*
+- Read the exact target draft or post first. Preserve Evan’s newer edits. Search for an existing matching post before creating anything.
+- Keep native formatting, paragraphs, Hebrew vowel marks, approved title/subtitle, and only specified images. Read `skills/one-word-wiser/references/substack-readability.md`.
+- Do not paste metadata, source notes, internal instructions, or draft review flags into the body.
+- All launch letters are free through September 27, 2026. Remove the `[PAYWALL]` marker during launch. Future paywalls follow the approved current task, never an automatic date assumption during the rethink.
+- Save draft-only unless the task explicitly authorizes scheduling or publishing. When scheduling, verify America/Chicago and the exact date/time on screen, plus audience, email/web delivery, and no section. Report any UI mismatch.
+- A narrow correction to an already published web post must preserve its existing delivery settings and must not resend it. The September 14 consistency task authorized only the current heading and launch-promise corrections; it does not authorize future archive rewrites.
+- Never send a test email to the list. Never change prices, billing, security, or account access while fixing editorial copy.
 
-The Bible was not written in English. It was written in Hebrew — a language where "hope" is a rope, "repent" means "come home," and "peace" means "whole." Every translation, even the best, trades those pictures for approximations.
+## Verify and report
 
-And Hebrew isn't like other languages. The rabbis said God created the world with its letters. Every letter has a shape and a story — *bet* is a house, *ayin* is an eye — and every word grows from a three-letter root, so a Hebrew word doesn't just name a thing. It tells you how God's language sees it.
+Reopen a saved setting or inspect its public result. A click or “Saving…” state alone is not proof. Check mobile layout for changed formatted copy. Preserve dynamic subscription/checkout links in system templates. Record what changed, what was verified, any remaining inconsistency, and any proposal not adopted. Commit and push the source update.
 
-I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish roots of the Bible to churches, and I've written several books about it, including *What Every Christian Needs to Know About the Jewishness of Jesus*. This newsletter is the most direct version of that work: one word a day.
-
-**Every morning at 6:00 (free):** one Hebrew word, its root, one verse with the Hebrew named under the English, and what changes when you see it. The teaching, whole.
-
-**The second half (paid):** the secret inside the word (the Jewish sages called the deepest of Scripture's four layers *sod*, secret), told simply, and one line to sleep on.
-
-**Shabbat:** the word from the Torah portion every synagogue in the world is reading that morning, whole and free, and the week's five words gathered.
-**Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath. Whole and free.
-
-Free is genuinely free. You'll get the word every morning, complete, without paying a cent, and the whole post on Shabbat and Sunday. Paid — $60 a year, about sixteen cents a day — is the secret, every weekday, and my thanks for making this possible.
-
-Whether you're Christian, Jewish, or simply curious: welcome. Send me a verse anytime. Just reply.
-
-### 1.3 Sections (Settings → Sections)
-Do not create any sections. One email a day needs no off switch. If sections exist from the previous newsletter, leave them and assign no new post to them.
-
-### 1.4 Welcome email (Settings → Emails → Welcome email)
-- **Subject:** `Your first seven words`
-- **Body:** paste the body of `one-word-wiser/samples/welcome-email.md` (everything below the `---`). Replace `SEVEN_WORDS_URL` with the book post's URL from `one-word-wiser/book/README.md` ("Where it lives"), so the book's title is a link. If that URL still says *not yet*, use the subject `Welcome`, delete the whole paragraph that begins "Start with this:", and flag it in your report. Never promise the book before it exists.
-
-### 1.5 Payments (Settings → Payments)
-Enable paid subscriptions with these plans. **Do not paywall any post yet** — plans exist so readers who want to pay can, but all content stays free for two weeks.
-- **Monthly:** `$7`
-- **Annual:** `$60` (make annual the default/highlighted plan)
-- **Founding:** `$180` — plan name `Founding Reader`
-- **Free trial:** 7 days, on
-- **Group subscriptions:** on, 20% off for groups of 5+ (if the option exists)
-- **Subscriber benefits text** (shown on the subscribe page):
-  - Free: `One Hebrew word every morning, complete. Free, always.`
-  - Paid: `The secret inside the word, every weekday. About sixteen cents a day.`
-  - Founding: `A signed book, and my thanks by name.`
-
-### 1.6 Community (Settings → Community)
-- Comments: **enabled**
-- Who can comment: **paid subscribers** (if the option is per-post rather than global, leave the default and note it)
-- Default comment sort: best first
-
-### 1.7 Emails (Settings → Emails)
-- Forward replies to Evan's inbox: **on** (readers are invited to reply with verses).
-- Email "from" name: `Rabbi Evan Moffic`
-
-### 1.8 Growth (Settings → Growth features)
-- Recommendations: **on** (do not add any recommended publications yet).
-- Subscriber referral program: **on**, with these rewards: 3 referrals → 1 month paid; 10 referrals → 1 year paid; 25 referrals → a signed book (enter as a custom reward if custom rewards are supported; otherwise use the closest available and note it).
-
----
-
-## PART 2 — Posts
-
-Posts are created from the files in the repository with the weekly Codex prompt in `one-word-wiser/handoff-prompts.md` ("Codex — upload a week's drafts to Substack"), which says exactly how to place the title, the body, the three cards and the paywall marker. Do not draft posts yourself. Every post: **Audience = Everyone. No section. Send as email = yes. Publish to web = yes. 6:00 am Central** (the launch evening post on September 12 is the one exception, 7:00 pm). The first two weeks are free: delete the `[PAYWALL]` line. From September 28, insert Substack's paywall divider where the line is.
-
-Every post's body begins with two short lines, `**In English:** …` and `**In Hebrew:** …`, before the Word card. They are part of the copy; paste them exactly.
-
-The announcement post that used to be Post A is superseded; do not create or send it. Launch day's two-post brief is archived in `one-word-wiser/archive/launch-2026-09-12/`.
-
-## PART 3 — Report back
-
-When done, reply with this checklist, marking each item done / not done / done-with-difference (and what the difference was):
-
-1. Name and tagline set
-2. Logo and cover set (which file went where)
-3. About page replaced
-4. No sections created; old sections left unassigned
-5. Welcome email subject and body set; PDF link status
-6. Payment plans $7 / $60 / $180 set, annual default, 7-day trial on, group discount status
-7. Benefits text set
-8. Comments: enabled, paid-only status
-9. Reply forwarding on; from-name set
-10. Recommendations on; referral program on with rewards
-11. Publication timezone confirmed as America/Chicago
-12. Anything you could not find or had to approximate
-
-Do not mark anything done that you did not verify on screen.
+The latest audit is `substack-audit-2026-09-14.md`.

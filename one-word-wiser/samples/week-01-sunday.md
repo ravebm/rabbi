@@ -52,9 +52,7 @@ The Hebrew under the last line: *latet lachem acharit v'tikvah*. To give you an 
 
 <p style="text-align: center">— <strong>ת</strong> —</p>
 
-## Let It Change Your Life
-
-Now the secret inside the word.
+## Hope Takes Work
 
 Rabbi Jonathan Sacks, the late chief rabbi of Britain, liked to say that optimism and hope are not the same thing. Optimism is the belief that things will get better. Hope is the belief that, together, we can make them better. Optimism is a mood. Hope is a rope, and a rope has two ends.
 

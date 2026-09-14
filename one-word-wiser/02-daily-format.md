@@ -1,144 +1,46 @@
 # 02 · The Daily Format
 
-One post a day. 6:00 am Central, seven days a week. The same shape every day, so the reader can feel the beats coming.
+One post each morning at 6:00 America/Chicago. The reader recognizes the experience: a Hebrew word, a passage understood more clearly, and a rabbi’s reflection on something that matters in life. The idea and emotional movement can vary.
 
-| Day | The post at 6:00 am CT | Free / paid |
-|---|---|---|
-| Mon–Fri | **☀️ The Word** · the word, its root, one verse, the turn, then the door; below it **the secret inside the word**, told simply, and one line to sleep on | The teaching is free, always. The second half is paid, from week 3 |
-| Saturday | **🕯️ Shabbat** · a word from the Torah portion every synagogue reads that morning, then the week in five words | Free, whole. Nothing is for sale on Shabbat |
-| Sunday | **📖 Your Verse** · a reader's verse, in Hebrew, whole | Free, whole |
+## Weekday letter
 
-Seven posts a week. The old plan ran twelve, in five shapes, at two times of day. This one runs seven, in one shape, at one time. It is the Already Home model, which holds its readers every single morning: one post, free preview, paid depth, no days off. A habit has no weekends.
+Aim for roughly 400–600 words when the material needs it. Do not pad a short teaching. Give free readers a complete explanation, usually 250–350 words. The fuller reflection can continue below a weekday paywall once the launch period ends.
 
-**Why one post, not two.** The morning used to teach and leave a question in the room; the evening answered it thirteen hours later. Now the door is the gate. The free reader gets the whole teaching and the door; the paid reader gets the secret and what God asks in the same breath. Nothing was lost but the wait.
+1. **A clear title.** Start with the reader’s actual question or hope. “You Can Still Come Home” is Evan’s chosen example. The body must fulfill the title plainly.
+2. **The word.** Hebrew with vowel marks, transliteration, pronunciation, and a simple gloss. Keep the familiar In English / In Hebrew opening when useful. The Hebrew should add something accurate, not imply every English translation is wrong. A root’s meaning, a contextual meaning, and a later rabbinic interpretation are different things.
+3. **One passage.** Quote the needed verse from the NIV. Identify the Hebrew word actually used; a related verb in a verse is not the same form as the newsletter’s noun. Note differences in Hebrew/English verse numbering.
+4. **A useful teaching.** Explain one thing readers can understand and remember. Rabbinic sources are welcome here. A free reader should get some of Evan’s voice and judgment, not merely a dictionary entry.
+5. **A natural transition.** Turn toward a concrete human question arising from the passage. Do not manufacture suspense or require a question mark. The free teaching should already be complete.
+6. **The fuller reflection.** One grounded rabbinic reading, story, or discussion, in plain language. Show what it has to say about an actual human difficulty. Give the application the space it needs without repeating the same point. An unexpected interpretation is welcome; a hidden meaning is not mandatory.
+7. **A quiet ending.** One thought or question worth keeping. A closing line card is optional and must be specified in the approved draft. “Tomorrow: …” is optional. Sign “— Rabbi Evan” unless preserving a newer user-edited source.
 
-**Why 6:00 am.** It's read on the phone before the day starts. That's where the habit lives.
+## The paid boundary
 
----
+All launch letters are free in full through September 27, 2026. Delete `[PAYWALL]` during that period. The existing plan places a weekday divider from September 28; confirm the current task and any newer product decision before scheduling. On paid weekdays, place the divider after a complete free teaching and before the fuller reflection. Never gate Saturday or Sunday. A heading does not dictate the gate position.
 
-## THE WEEKDAY POST — ☀️ *Boker Tov*
+A weekly study companion is under review, described in `study-companion/README.md`. Do not advertise or automatically attach it as a subscription benefit yet.
 
-**Job:** teach one word so clearly a reader could explain it to a friend at lunch. The scholarly, biblical part is the main body of the post and it is free. Then one door: a hint at what the second half reveals, and it must do two things at once, name a real human need and promise a deeper understanding of what God actually asks of us. The second half delivers both. This readership is not Already Home's: they come for the Hebrew and the Bible; the need is answered through the text, never instead of it.
-**Length:** 400–600 words in all. Free half 250–350, paid half 150–250. Under two minutes. Shorter is better.
-**Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return`. Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand.
+## Saturday
 
-### The fixed opening (every weekday post, first thing)
+Choose a word from the week’s Torah reading, checking the relevant calendar and festival reading. Do not assume every synagogue worldwide reads the same portion. The full teaching and reflection are free. A brief gathering of the week’s words and links may follow when useful. Invite the reader to share a word with someone, without adding several competing requests.
 
-Two lines, same shape every day, before anything else — the newsletter's promise in a form readers come to expect the way *Already Home* readers expect the quote:
+## Sunday
 
-> **In English:** *repent.*
-> **In Hebrew:** *teshuvah* — come home.
+Teach a reader’s verse. Until readers submit one, Evan chooses and says so. Do not invent a reader or identify someone merely because they emailed; use a name or location only with permission. End with the invitation to reply with a verse. The whole letter is free.
 
-Rules: the English line is the word as the reader knows it from translation (one word, occasionally a short phrase); the Hebrew line is the transliterated word, an em-dash, and the picture in five to ten words. No "your Bible," no "the Christian Bible" — a translation versus the original, never them versus us. It must work for every word; if a day's Hebrew line takes more than ten words, the word isn't ready. Shabbat and Sunday carry the same two lines, keyed to the portion's word or the verse's word: on Shabbat they follow the one-line portion opener; on Sunday they follow the reader's verse, right before the Word card.
+## Titles and presentation
 
-**The standard:** the reader should feel it was *essential* to know — that the verse they've read a hundred times can't be understood without this. "Here's what you think it means; here's what it actually says." Not a definition, a correction with stakes. "*teshuvah* — return" is a definition; "*teshuvah* — come home" is the correction. Every day, the second kind. The bank names an opening for every word in weeks 1–2; after that the writer makes one the same way.
+- Human titles are preferred when they make the promise clearer. Word-only titles remain available for a straightforward lesson. Avoid abstract, melodramatic, or clever wording that takes effort to decode.
+- Hebrew can appear in a subtitle if specified; otherwise leave the subtitle empty. Always preserve the latest approved title and subtitle.
+- Use a few short, native Substack subheadings at actual changes in thought. “One Key Verse” is an optional recurring label. Other headings come from the day’s idea. There is no compulsory application heading.
+- Short paragraphs, deliberate bold/italic emphasis, distinct quotations, and one or two restrained dividers. A small centered Hebrew letter may serve as an ornament. No decorative illustrations by default.
+- Preserve cards explicitly listed in the approved post. Do not automatically manufacture three cards or a separate line to carry. Do not duplicate Hebrew text already carried by the Word card.
+- Follow `../skills/one-word-wiser/references/substack-readability.md` and check the saved layout on a phone.
 
-### Anatomy (in order) — word, meaning, application
+## Source standard
 
-**Word**
-0. **The fixed opening** (above). Then the Word card.
-1. **The word, alone.** Hebrew script, large, centered. Under it: transliteration with the stress marked, and the plain gloss.
-   > תְּשׁוּבָה
-   > *teshuvah* (teh-shoo-VAH) — return
-2. **Say it.** One line inviting the reader to pronounce it. The mouth learns before the mind.
+Check the Hebrew, the citation, and what the source actually claims. Attribute disagreements. A later interpretation is not necessarily the lexical meaning or the view of Jesus’s contemporaries. Gematria and letter stories may appear as accurately attributed interpretations, never as linguistic proof. Save uncertainties for Evan below the draft; do not publish them as verified teaching.
 
-**Meaning (free, the main body)**
-3. **The picture, when there is one.** The root and what it shows: *shuv*, to turn around; a road, not a feeling. A root picture is a device, not a requirement; never force an etymology. When the word has no picture, go straight to the verse.
-4. **The verse.** One verse where the word lives, quoted from the NIV. Then one line naming the Hebrew under the English: "The word under 'return' is *shuvah*." Then the transliterated phrase with the word bolded. One verse, not three.
-5. **The turn.** Two to four short paragraphs: what changes when you see the Hebrew under the English. One idea. This is the teachable interpretation, and it is the part that matters most.
-6. **One line to carry, when it adds something.** A single italic sentence that fits on a phone lock screen. Cut it when it only repeats the body; the teaching then ends on its strongest plain sentence. The line still goes in the header's Notes line (the 9 am Note) and in Saturday's footer. *(Line card, day.)*
-7. **The door.** One short italic paragraph. State the surprising teaching in plain words and end on the question a reader would ask: "*But the Jewish sages said one fascinating thing about teshuvah. They said a person who has done teshuvah is more righteous than a person who never had to make teshuvah. So a person who has sinned is more righteous than someone who has not?*" It names something the reader wants to know about their own life and promises a deeper understanding of what God asks. A secret and an insight, never a pitch, never a formula. No "keep reading," no "unlock." Substack's own button does the asking.
+## Delivery
 
-`[PAYWALL]` *(from week 3; in weeks 1–2 the marker is deleted and the whole post is free)*
-
-**Application (paid)**
-8. **The secret.** 100–180 words. One hidden layer of the word, the *sod*, passing the sod test below. Told simply, as a scene: a sage noticing the gap in the verse, a letter's shape, a count the sages made. Named in plain words ("Here's the Talmud reference. A sage named Rabbi Abbahu says it almost in passing:"), the source explained the first time it appears (the Talmud, Rashi, Maimonides, a Midrash: a few words each, for a reader who has never heard the name). When there is a natural New Testament parallel, name it plainly ("one closely paralleling the parable of the prodigal son"), within the week's limit. One image the reader keeps. Say it once; no aphoristic restatement after the point lands.
-9. **One plain sentence of application, at most.** Only when there is a concrete one ("So today, one act of *chesed* for someone who can't repay it."). No "you know the one" paragraphs.
-10. **One line to sleep on.** A single italic sentence that carries the action: "You don't have to walk the whole road today. You only have to turn." *(Line card, night.)*
-11. **The close.** "Tomorrow: *shema*, hear." Then "— Rabbi Evan."
-
-There is no "Today's question." The teaching ends on its strongest sentence, then the door.
-
-### The sod test (every day, non-negotiable)
-The reading must be (1) **hidden**: something a lifelong Bible reader has never been shown; (2) **grounded**: checkable in the text or in a named rabbinic source; (3) **a turn**: after it, the morning's verse reads differently. A day that only summarizes or paraphrases does not ship. The bank names a secret for every word.
-
-**Devices the secret can use**, all of them the tradition's own and sourced: a gap in the verse · an article that vanishes · a root the translation buried · an enlarged, shrunken, broken or dotted letter · a letter's shape and story · a word used only of God · a re-vowelling the rabbis read (*banim* / *bonim*) · a gematria the rabbis made (*sulam* and *Sinai*, both 130) · an acronym they read (*mizbeach*: pardon, merit, blessing, life) · a count or a numbering. Gematria and letter-play are welcome as readings and are never offered as proof. Told as the tradition's play, with delight.
-
-### Rules
-- The word appears five to eight times above the gate. It's the drumbeat.
-- The door does two jobs in one breath: a human need and a deeper understanding of what God asks. If it only teases, rewrite it. If it only teaches, rewrite it. It is written plainly, a statement and a question, never a formula.
-- **No rabbinic sources above the gate.** The free half is text and picture only. That keeps it something a Jewish reader can forward, and it leaves the secret something to reveal.
-- The Hebrew Bible is the lane. When a word has a famous Gospel echo, one line ("*Other mentions:* Mark 12:29") is enough; most days, none. Once or twice a week the secret may end in a Gospel, when the word itself walks in. Week 9 is the deliberate Gospel week.
-- **The free-reader covenant.** The free half is a complete teaching: the word, its meaning, one verse, the turn, the line to carry. Never a fragment above the gate. The door hints; it never pitches.
-- The paid half answers the door's question, simply. Never a paraphrase of the free half.
-- Simple, short, and for a reader who knows nothing about Judaism. Explain each name the first time it appears (the Talmud, Rashi, Maimonides, a Midrash), in a few words. "The Jewish sages" when a teaching is introduced. Say a thing once.
-- One reading. One thing. One line. If there are two ideas, one waits.
-- Never the same source two days running. Vary Midrash, Talmud, Rashi, the letters, the prayer book across a week.
-- No headers inside the post. It's a voice, not an article.
-
----
-
-## SATURDAY — 🕯️ Shabbat: the word from the portion
-
-**Job:** a live window into what every synagogue in the world is reading that morning, in the one voice that can open it for a Christian reader. Then gather the week.
-**Free, whole, no gate.** The secret runs open. Nothing is for sale on Shabbat.
-**Length:** 450–550 words, then the footer.
-**Subject line:** `🕯️ הַאֲזִינוּ · ha'azinu · give ear`. The candle marks Shabbat.
-
-### Anatomy
-1. **The portion, in one line.** "This morning, in every synagogue in the world, the reading is Ha'azinu, the last song of Moses. One word from it."
-2. **Then the weekday anatomy, with no gate and no door.** Word, say it, the picture if there is one, the verse, the turn, then the secret, at most one sentence of application, the line to sleep on. On Shabbat the whole arc runs open.
-3. **The week in five words.** The five weekday words: Hebrew · transliteration · gloss · the line to carry, each linked to its post. Then the five lines to sleep on, unlinked. This is the free reader's weekly taste of the paid half. Keep it to the lines; no commentary.
-4. **The ask.** One sentence, every Saturday, unchanging: *"If one of these words opened something for you this week, tell one person. A note from you reaches someone no ad ever could."*
-5. "*Shabbat shalom.*" Then "— Rabbi Evan."
-
-### Rules
-- The Shabbat word is chosen by the sermon: the word Evan is preaching on that morning. It is never one of the week's five. When the portion's name is a great word (*lech lecha*, *shemot*, *bo*), it is usually the word. On a festival Shabbat the word comes from the festival reading. The bank names one for every Shabbat.
-- Mention Substack's referral program here once a month, one line, nowhere else.
-
----
-
-## SUNDAY — 📖 Your Verse
-
-**Job:** a reader sends a verse, any verse, and Evan shows the Hebrew underneath. That is the whole post. No preview of the week: the reader meets Monday's word on Monday. The only pointer forward is the one-line "Tomorrow:" every post ends with.
-**Free, whole.** The secret runs open.
-**Length:** 400–550 words.
-**Subject line:** `📖 Your verse: Psalm 46:10`.
-
-### Anatomy
-1. Open with the reader's first name and state: "Linda in Ohio asked about Psalm 46:10…" Permission is implied by sending; the About page says so.
-2. The weekday anatomy, keyed to the word the verse turns on, with no gate and no door: the secret and what God asks run open.
-3. Close: "Send me a verse. Just reply to this email." Every reply is a future post and a relationship.
-4. "Tomorrow: *word*, gloss." on its own line, the same one-line pointer every weekday post ends with. Then "— Rabbi Evan." No footer.
-
-### Rules
-- Until reader verses arrive, Sunday is still *Your Verse*: Evan picks the verse, the one Christians ask a rabbi about most, and the post says so in one plain line at the top (`samples/week-01-sunday.md`). The subject line does not change.
-- Keep the verse queue in `05-production-workflow.md`. Sunday picks from the top. Reply to every sender within a week even if their verse runs in a month.
-
----
-
-## Subject-line system
-
-| Post | Pattern | Example |
-|---|---|---|
-| Weekday | `☀️ [Hebrew] · [translit] · [gloss]` | ☀️ חֶסֶד · chesed · loyal love |
-| Shabbat | `🕯️ [Hebrew] · [translit] · [gloss]` | 🕯️ הַאֲזִינוּ · ha'azinu · give ear |
-| Sunday | `📖 Your verse: [reference]` | 📖 Your verse: Psalm 23:1 |
-
-The emoji are the section markers in a crowded inbox. Keep them constant.
-
-## Subheadings and dividers (every post)
-
-Evan's September 13 editorial direction applies across weekdays, Shabbat, and Sunday: several short native subheadings, elegant typographic dividers, and easy phone reading. Follow the [Substack readability standard](../skills/one-word-wiser/references/substack-readability.md). The application section is always headed **Let It Change Your Life**. Other headings grow from the day's idea; **One Key Verse** can label the anchor verse. Usually three to five headings and one or two restrained dividers give enough pauses without fragmenting the teaching. A divider can use a small centered Hebrew letter. Keep paragraphs short and preserve Evan's latest edits. Do not add decorative illustrations by default.
-
-## The cards (use those named in the post)
-
-Substack renders one theme, so the design lives in image cards placed between Substack's text (see `brand/cards/README.md`). **Word card, day** (1200×675) is the first image of every post: Hebrew large, transliteration, gloss, date. **Line card, day** (1200×420) replaces a separate line to carry only when the post has one; omit it otherwise. **Line card, night** replaces the line to sleep on, below the gate when a gate applies. `render.py` still produces the word-night card; it is spare. On Shabbat and Sunday the day label reads `Shabbat` or `Your Verse`.
-
-## Notes
-
-Two a day, both already written: the line to carry at 9:00 am, the line to sleep on at 9:00 pm. Plain text, Hebrew script in the line if it has any, no link.
-
-## Post-body template
-
-The skill in `skills/one-word-wiser/` outputs Substack-ready Markdown with native heading levels, the recurring **Let It Change Your Life** section, restrained dividers, and card placements. Paste the body, insert only the listed cards, and verify the saved layout on mobile. Remove the `[PAYWALL]` marker in launch weeks 1–2; from week 3, replace it with the native paywall divider where specified. Save as a draft unless the current task explicitly authorizes scheduling or publishing.
+Prepare one post, not separate morning/evening letters. Save as a draft unless the current task authorizes delivery. Posting Notes, emailing, scheduling, and publishing each require the current task’s authority. A production plan is not a scheduler.

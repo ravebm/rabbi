@@ -1,6 +1,6 @@
 # The free book: *Seven Hebrew Words Every Christian Should Know*
 
-The welcome gift for every new subscriber. Seven pages, one word on each: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* It is the free half of the teaching only (the picture, one verse, where a Christian already says the word, a line to carry); the secrets stay in the newsletter. The plan is in `../04-launch-and-growth.md`.
+A proposed welcome gift, not yet published or promised to subscribers. Seven pages, one word on each: *shalom, chesed, emunah, teshuvah, ruach, hallelujah, amen.* It is the free half of the teaching only (the picture, one verse, where a Christian already says the word, a line to carry); the fuller weekday reflections stay in the newsletter. The plan is in `../04-launch-and-growth.md`.
 
 ## Files
 

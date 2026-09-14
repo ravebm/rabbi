@@ -1,15 +1,15 @@
 # Readable One Word Wiser posts
 
-Evan's explicit direction, September 13, 2026, from his edits to the September 14 Substack draft: use several subheadings, make the copy easy to read on Substack, and use **Let It Change Your Life** as the heading for the application section every time. His final correction replaces the proposed small illustrations with an elegant divider, optionally using a Hebrew letter. Apply this to future One Word Wiser posts, including Shabbat and Sunday. This is a presentation standard, not permission to publish or change other posts.
+Evan’s September 14, 2026 correction: use an elegant, familiar format with short subheadings and restrained dividers. He rejected “Let It Change Your Life” as melodramatic. No fixed replacement slogan is required. His earlier correction also replaced decorative illustrations with an elegant divider, optionally using a Hebrew letter. Apply to future posts within the current task’s scope; this is not delivery authority.
 
 ## Writing and layout
 
-- Use native Substack heading styles. Usually three to five short H2 subheadings are enough for a weekday post; adjust to the actual changes in thought. The heading should tell the reader what matters or raise an honest question the next paragraphs answer. Avoid vague teasers and a heading above every paragraph.
-- Keep **Let It Change Your Life** exactly, including capitalization, before the section that turns the teaching toward the reader's life. In Monday's example it introduces the surprising rabbinic teaching. It does not itself determine a paywall position.
+- Use native Substack heading styles. Usually two to four short H2 subheadings are enough for a weekday post; adjust to the actual changes in thought. The heading should tell the reader what matters or raise an honest question the next paragraphs answer. Avoid vague teasers and a heading above every paragraph.
+- Let each heading name the actual thought. “Learning to Return” is the corrected heading in the September 14 web post, an example rather than a recurring label. Headings do not determine paywall placement.
 - **One Key Verse** is a useful recurring label for the main verse. Other headings should come from that day's word. Monday's other headings, **A Road Back** and **You Already Belong**, are examples rather than mandatory labels for every post.
 - Keep paragraphs short, usually one to three sentences and one thought. Split a long paragraph at the change in thought. Retain Evan's direct address, concrete images, fragments, and deliberate emphasis. Improve readability without adding slogans, sales language, or a second explanation of the same idea.
 - Introduce unfamiliar Jewish sources in a few plain words. Keep quotations distinct from Evan's interpretation, even when both use God's voice. Clean up spelling, punctuation, and obvious grammatical slips in an authorized polish; never restore wording Evan removed just because it remains in git.
-- Preserve the title, empty subtitle when specified, Hebrew vowel marks, main Word card, and closing line card. Do not add a line-day card when there is no separate line to carry.
+- Preserve the latest approved title, subtitle, Hebrew vowel marks, and any specified cards. Cards removed by Evan stay removed. Do not add a line-day card when there is no separate line to carry.
 
 ## Restrained dividers
 
