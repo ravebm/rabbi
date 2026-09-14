@@ -113,11 +113,13 @@ The book is drafted and built (`one-word-wiser/book/seven-words.pdf`, September 
 >
 > Back in the repository, put the post URL in `one-word-wiser/book/README.md` under "Where it lives" in place of *not yet*, commit with the message "Seven Words book: live at <URL>", and push to `main`. Report the post URL, that it was published without an email, and that the welcome email now links to it. Change nothing else on Substack.
 
-## Sunday night — the week's document (automatic)
+## The two lanes: Evan writes in Drive, Claude runs the machinery
 
-A scheduled session runs every Sunday at 4:00 pm Central (3:00 pm once the clocks change) and does the Sunday session on its own: it drafts the coming week from `word-bank.md` with the skill, renders the cards, pushes a `posts/week-NN` branch as a draft pull request, puts all seven posts in one Google Doc shared to Evan, and reports the Doc and the pull request. Evan edits the Doc, then opens that session and says **approved** (or says what to change). The session reads the Doc back, applies every edit to the files, fixes anything that broke the format or the voice and says what it fixed, re-renders any card whose line changed, marks the pull request ready, and hands back the Codex upload prompt above, filled in. Evan pastes it into Codex, and the week is scheduled. That paste is the one step no agent here can do: Substack has no API.
+**Evan's lane is one Google Drive folder, *One Word Wiser*.** Every draft Claude makes lands there as a Google Doc: the book, each week's seven posts (Sunday at 4:00 pm Central), anything else he asks for. He edits in Docs, whenever, in his own words. Every Doc starts with a line that says `Status: draft`. When a document is ready, he changes that line to `Status: approved`. If he wants Claude to do something to it first, he writes it under a line that says `Notes for Claude:`.
 
-To change the hour, the day, or what the session does, ask Claude to update the routine ("One Word Wiser · Sunday week draft").
+**Claude's lane is the repository and everything downstream.** Every morning at 6:00 Central a check reads the folder. An approved Doc is carried into the repo (the book rebuilt as a PDF; a week's posts formatted, cards rendered, pull request marked ready), then moved to the folder's *Done* subfolder with the date in its title, and Evan gets a one-line push notification. For a week, the check also leaves a Doc in the folder, *Codex prompt · week of …*, holding the upload prompt above, filled in; Evan pastes it into Codex and the week is scheduled. Notes are handled the same way: a new version of the Doc appears in the folder, the old one goes to Done. Strategy, setup, the welcome email, the book on Substack: ask Claude in the session, any time.
+
+The one step no agent here can do is the Substack upload itself (Substack has no API); that is the Codex paste. The two routines are named "One Word Wiser · Sunday week draft" and "One Word Wiser · Drive inbox"; ask Claude to change their hours or what they do.
 
 ---
 

@@ -21,7 +21,7 @@ Build: `python3 one-word-wiser/book/build.py` (add `--chromium /path/to/chrome` 
 
 Substack cannot attach a file to the welcome email, so the PDF is attached to a post on rabbi.substack.com that is published to the web only, never emailed, and the welcome email (`../samples/welcome-email.md`), which Substack sends to every new subscriber on its own, links the book's title to that post. Nothing else to run; every new signup gets it.
 
-Evan approves the book before it goes up. It was drafted and built on the daily-model pull request (September 13); once he has read the PDF, the Codex prompt in `../handoff-prompts.md` puts it on Substack and wires the welcome email.
+Evan approves the book before it goes up. He edits the text in the Google Doc *Seven Hebrew Words (the book)* in Drive › *One Word Wiser*; when its first line says `Status: approved`, the daily check carries the edits into `seven-words.md`, rebuilds the PDF and commits it. Then the Codex prompt in `../handoff-prompts.md` puts it on Substack and wires the welcome email.
 
 ## The download post (paste verbatim)
 

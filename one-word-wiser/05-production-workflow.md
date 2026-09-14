@@ -14,9 +14,9 @@ One post a day is the routine Evan already keeps for Already Home. Both publicat
 ## The weekly rhythm
 
 **Sunday (the one real session, and most of it is automatic):**
-1. At 4:00 pm Central a scheduled session drafts the coming week from `word-bank.md` with the skill ("write the week"): seven posts, Monday through Sunday, in Substack-ready Markdown with subject lines and Notes; cards rendered; ledger updated; pushed to a `posts/week-NN` branch as a draft pull request. It puts the whole week in one Google Doc shared to Evan and reports the links.
+1. At 4:00 pm Central a scheduled session drafts the coming week from `word-bank.md` with the skill ("write the week"): seven posts, Monday through Sunday, in Substack-ready Markdown with subject lines and Notes; cards rendered; ledger updated; pushed to a `posts/week-NN` branch as a draft pull request. It puts the whole week in one Google Doc in Evan's Drive folder *One Word Wiser* and sends him a push notification.
 2. Evan edits the Doc in his own words, Monday most carefully. Anything: cut, rewrite, swap a verse. Swap a word by editing `word-bank.md` any time before Sunday; the bank is a plan, not a contract, and a word runs once a year (the ledger).
-3. Evan opens that session and says **approved**, or says what to change. It reads the Doc back, applies every edit to the files, fixes anything that broke the format or the voice and says what it fixed, re-renders any card whose line changed, marks the pull request ready, and hands back the Codex upload prompt filled in.
+3. When he's done, he changes the Doc's first line to **Status: approved** (or tells the session). The daily 6:00 am check carries the week into the repo: every edit applied, anything that broke the format or the voice fixed and noted, cards re-rendered, pull request marked ready, the Doc moved to *Done*, and a Doc *Codex prompt · week of …* left in the folder with the upload prompt filled in. He gets a push notification.
 4. Evan pastes that prompt into Codex; Codex schedules the seven posts for 6:00 am Central with their cards. That paste is the one step no agent here can do: Substack has no API.
 
 **Daily, 10–15 minutes:**
