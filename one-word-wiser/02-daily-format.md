@@ -22,9 +22,19 @@ Twelve posts a week. hebrew.substack.com runs fourteen. The Saturday and Sunday 
 **Length:** 300–400 words. Read time under 90 seconds.
 **Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return` — Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand. It's what makes the inbox stop.
 
+### The fixed opening (every morning, first thing)
+
+Two lines, same shape every day, before anything else — the newsletter's promise in a form readers come to expect the way *Already Home* readers expect the quote:
+
+> **In English:** *repent.*
+> **In Hebrew:** *teshuvah* — come home.
+
+Rules: the English line is the word as the reader knows it from translation (one word, occasionally a short phrase); the Hebrew line is the transliterated word, an em-dash, and the picture in five to ten words. No "your Bible," no "the Christian Bible" — a translation versus the original, never them versus us. It must work for every word; if a day's Hebrew line takes more than ten words, the word isn't ready.
+
 ### Anatomy (in order) — word, meaning, application
 
 **Word**
+0. **The fixed opening** (above). Then the Word card.
 1. **The word, alone.** Hebrew script, large, centered. Under it: transliteration with stress marked, and the plain gloss.
    > תְּשׁוּבָה
    > *teshuvah* (teh-shoo-VAH) — return

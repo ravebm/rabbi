@@ -197,6 +197,9 @@ Tonight, the year turns. Let's begin.
 
 ---
 
+**In English:** *year.*
+**In Hebrew:** *shanah* — what repeats, and what changes.
+
 Every year, you promise to change. To change something important. And every year, the same things come back.
 
 Hebrew has a word for exactly that.
