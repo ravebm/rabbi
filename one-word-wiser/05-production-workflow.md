@@ -8,7 +8,7 @@ Choosing what the passage means for these readers, weighing Jewish sources, and 
 
 1. Select candidate words and source leads from `word-bank.md` for the week Evan requests.
 2. Retrieve and verify the actual passages. Distinguish quotations, translations, paraphrases, and interpretations. Record unresolved issues for Evan.
-3. Draft the letters with `skills/one-word-wiser/SKILL.md`, including clear title options and optional source-specific subheadings.
+3. Draft the letters with `skills/one-word-wiser/SKILL.md`, including clear title options and optional source-specific subheadings. Review each draft against the daily quality standard in `02-daily-format.md` before Evan’s review. In the internal notes, state the takeaway, identify the source support, and flag any unresolved editorial or factual issue; do not paste those notes into the newsletter.
 4. Prepare only specified cards and restrained dividers. Save source files in `posts/`.
 5. Evan reviews and edits. Preserve materially different earlier revisions.
 6. Upload approved copy into an existing matching Substack draft. Schedule only when the current task authorizes it; verify exact date/time, audience, and delivery.
@@ -30,7 +30,11 @@ Keep a minimal verse queue when needed: date, verse, question, and permission st
 
 ## Weekly measurement
 
-Read dated aggregate results from the relevant Substack publication. Track net free growth, paid starts attributed to mature posts, cancellations, and retention. Treat prior Already Home patterns as hypotheses for this audience. Record whether proposed study materials are actually used; do not infer willingness to pay from downloads alone.
+Read dated aggregate results from the relevant Substack publication. Evaluate three separate outcomes: readers continuing to welcome the letters, new readers subscribing, and readers choosing and keeping paid subscriptions. Track gross and net free growth, gross and net paid growth, mature post-attributed paid starts, email unsubscribes, paid cancellations, and retention. These measures answer different questions; a high open rate does not establish growth or paid demand.
+
+For individual posts, use consistent observation windows, such as 72 hours and seven days, and compare similar audiences and delivery types. If delivered-email counts are available, compare unsubscribes per delivered email as well as raw counts. Mark missing data as unavailable, never zero. Look for repeated patterns across several letters before changing the format; no daily cadence will suit every reader. Launch posts sent free in full cannot establish the conversion effect of a later paywall.
+
+Treat prior Already Home patterns as hypotheses for this audience. The competitor’s public offer demonstrates a product proposition, not its paid subscriber count or the conversions One Word Wiser will receive. Record whether proposed study materials are actually used; do not infer willingness to pay from downloads alone. Keep aggregate evidence dated and private reader information out of shared git.
 
 | Week of | Free | Paid | ARR | Open rate | Paid starts | Evidence / notes |
 |---|---|---|---|---|---|---|
