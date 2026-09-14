@@ -3,6 +3,7 @@
 import argparse
 import json
 from pathlib import Path
+from urllib.parse import urlsplit
 from xml.sax.saxutils import escape
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
@@ -22,6 +23,15 @@ RULE = HexColor('#D5D9DC')
 
 def build(source, output):
     data = json.loads(source.read_text())
+    resource = data.get('further_reading')
+    required = ('author', 'title', 'url', 'note', 'verified_on')
+    if not isinstance(resource, dict) or any(
+            not isinstance(resource.get(key), str) or not resource[key].strip()
+            for key in required):
+        raise ValueError('Add one verified further_reading resource with author, title, URL, note, and verification date')
+    destination = urlsplit(resource['url'])
+    if destination.scheme not in ('https', 'http') or not destination.netloc:
+        raise ValueError('Further reading requires a direct HTTP(S) URL')
     for name, filename in [('Garamond', 'EBGaramond[wght].ttf'),
                            ('GaramondItalic', 'EBGaramond-Italic[wght].ttf'),
                            ('Hebrew', 'FrankRuhlLibre[wght].ttf')]:
@@ -80,6 +90,12 @@ def build(source, output):
         para(str(number)+'. '+escape(question), space=5)
     y -= 2
     para(escape(data['closing']), size=12, leading=15, font='GaramondItalic', space=7)
+
+    y -= 5
+    label('Further reading')
+    resource_link = '<a href="'+escape(resource['url'], {'"': '&quot;'})+'" color="#1B2A41"><u>'+escape(resource['title'])+'</u></a>'
+    para(escape(resource['author'])+': '+resource_link, space=3)
+    para(escape(resource['note']), space=7)
 
     if y < 86:
         raise ValueError(f'Content overflows reserved footer: y={y:.1f}')

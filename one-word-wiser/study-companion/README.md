@@ -6,7 +6,15 @@ One weekly page a reader can use alone or bring to Bible study. It draws from a 
 
 ## The reader’s experience
 
-One passage, the Hebrew that matters, two brief rabbinic observations, and two questions. Plain language and a quiet page. The content can vary while the experience stays recognizable. No worksheets with tasks to complete, multi-part kits, or claims of guaranteed personal transformation.
+One passage, the Hebrew that matters, two brief rabbinic observations, two questions, and one further-reading link. Plain language and a quiet page. The content can vary while the experience stays recognizable. No worksheets with tasks to complete, multi-part kits, or claims of guaranteed personal transformation.
+
+## Further reading
+
+Evan’s September 14 direction: each Rabbi’s Notes page includes one relevant piece of writing by Rabbi Evan Moffic or Rabbi Jonathan Sacks. Place it under **Further reading**, after the closing thought and above the source references. Give the author, a linked title, and one short sentence explaining how it deepens this teaching.
+
+Choose the strongest fit. Look for an existing piece by Evan first when it develops the subject; use Sacks when his piece offers the more useful continuation. Prefer a freely readable essay, published post, or excerpt with a direct link. Read the actual piece and verify the title, author, destination, and relevance. Label a purchase or subscription requirement if that is the only suitable resource. Never link an unpublished draft as though readers can access it. If no suitable piece is verified, flag the missing resource for Evan before handoff instead of inventing a link or filling the slot with an unrelated recommendation.
+
+Keep this to one resource, separate from the primary-source citations. It is an optional next read for the reader, not another assignment or a standing sales pitch. Store its title, author, URL, and explanation in the `further_reading` object in the source JSON, with the verification date. The builder requires this object and places it consistently on the page.
 
 Working public description, only if Evan adopts it: **A weekly Bible study prepared by a rabbi, ready to read or discuss.** “The Rabbi’s Notes” is a working name, not an approved brand change.
 
@@ -46,3 +54,5 @@ Dependencies: ReportLab with `uharfbuzz` for the Hebrew vowel marks. Uses the ex
 ## Source notes
 
 The sample uses Hosea 14:1 NIV (Hebrew 14:2), Berakhot 34b:22–23, and Maimonides’ Mishneh Torah, Repentance 2:9. The rabbinic material is paraphrased. Rabbi Abbahu’s statement is presented as one side of a Talmudic disagreement. The Hosea verb is distinguished from the later noun teshuvah; “coming home” is identified as interpretation. Maimonides’ text was checked in the bilingual Moznaim/Chayenu excerpt hosted by TheYeshiva.net, page 6. The source links are embedded in the PDF.
+
+Further reading: Rabbi Jonathan Sacks, [Transforming the Story](https://rabbisacks.org/covenant-conversation/vayechi/transforming-the-story/). The full essay on the official Rabbi Sacks Legacy site was read and its access checked September 14, 2026. It discusses Joseph, his brothers, and repentance as a change in the meaning of the past through changed choices. The PDF’s brief description is a paraphrase, not a quotation.
