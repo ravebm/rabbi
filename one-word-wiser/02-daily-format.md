@@ -4,7 +4,7 @@ One post a day. 6:00 am Central, seven days a week. The same shape every day, so
 
 | Day | The post at 6:00 am CT | Free / paid |
 |---|---|---|
-| Mon–Fri | **☀️ The Word** · the word, its root, one verse, the turn, one line to carry, then the door; below it **the secret inside the word** and what God asks of us | The teaching is free, always. The second half is paid, from week 3 |
+| Mon–Fri | **☀️ The Word** · the word, its root, one verse, the turn, then the door; below it **the secret inside the word**, told simply, and one line to sleep on | The teaching is free, always. The second half is paid, from week 3 |
 | Saturday | **🕯️ Shabbat** · a word from the Torah portion every synagogue reads that morning, then the week in five words | Free, whole. Nothing is for sale on Shabbat |
 | Sunday | **📖 Your Verse** · a reader's verse, in Hebrew, whole | Free, whole |
 

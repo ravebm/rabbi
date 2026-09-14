@@ -44,7 +44,7 @@ I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish ro
 
 **Every morning at 6:00 (free):** one Hebrew word — its root, the picture inside it, one verse you've read your whole life that changes when you see it, and one question for the day.
 
-**Below the question (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the second half: the hidden layer — a gap in the verse, a root the translation buried, a letter written large, a count the rabbis made — and one small thing to do with it today. Ninety seconds. The same shape every day.
+**Below the door (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the second half: the hidden layer — a gap in the verse, a root the translation buried, a letter written large, a count the rabbis made — and one small thing to do with it today. Ninety seconds. The same shape every day.
 
 **Shabbat:** the word from the Torah portion every synagogue in the world is reading that morning, whole and free, and the week's five words gathered.
 **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath. Whole and free.

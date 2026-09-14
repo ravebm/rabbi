@@ -2,7 +2,7 @@
 
 ## The principle
 
-**The teaching is free. The second half is paid.** Every weekday post's main body is the scholarly, biblical part: the word, its root, one verse with the Hebrew named under the English, the turn, one line to carry. It is free, forever, and it is complete. Then one door, a hint at what the second half reveals that names a real human need and promises a deeper understanding of what God asks. Below it, paid: the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), told simply, and one small thing to do tonight. People pay for the second half because it does both things the door promised: it meets a need, and it deepens what they know of God. Nothing above the gate is ever a fragment.
+**The teaching is free. The second half is paid.** Every weekday post's main body is the scholarly, biblical part: the word, its root, one verse with the Hebrew named under the English, the turn. It is free, forever, and it is complete. Then one door, a hint at what the second half reveals that names a real human need and promises a deeper understanding of what God asks. Below it, paid: the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), told simply, and one small thing to do tonight. People pay for the second half because it does both things the door promised: it meets a need, and it deepens what they know of God. Nothing above the gate is ever a fragment.
 
 This is the Already Home model exactly (free preview → paid depth, ~2.2% conversion, 8–15 paid a week), applied to a word a day. One email, one gate, seven mornings.
 
