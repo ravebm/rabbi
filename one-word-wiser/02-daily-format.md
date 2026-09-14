@@ -4,7 +4,7 @@ One post a day. 6:00 am Central, seven days a week. The same shape every day, so
 
 | Day | The post at 6:00 am CT | Free / paid |
 |---|---|---|
-| Mon–Fri | **☀️ The Word** · the word, its meaning, one line to carry, today's question; then **the secret inside the word** and one thing to do with it | The teaching is free, always. The secret is paid, from week 3 |
+| Mon–Fri | **☀️ The Word** · the word, the need it names, one verse, one line to carry, today's question; then **the answer**: the turn, the secret inside the word, one thing to do | The need is free, always. The answer is paid, from week 3 |
 | Saturday | **🕯️ Shabbat** · a word from the Torah portion every synagogue reads that morning, then the week in five words | Free, whole. Nothing is for sale on Shabbat |
 | Sunday | **📖 Your Verse** · a reader's verse, in Hebrew, whole | Free, whole |
 
@@ -18,8 +18,8 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 
 ## THE WEEKDAY POST — ☀️ *Boker Tov*
 
-**Job:** teach one word so clearly a reader could explain it to a friend at lunch, ask one question, then open the secret. Word → meaning → application, twice: once free, once paid.
-**Length:** 500–650 words in all. Free half 300–400, paid half 200–250. Under two minutes.
+**Job:** the beginning names a real need the reader is already carrying, through the word; the second half answers it. The free half is recognition, complete and unhurried, ending on a question the reader actually holds. The paid half is the answer: the turn, the secret, one thing to do. This is the Already Home model, and it is what converts: a private, consequential ache above the gate, the relief below it, never a fragment.
+**Length:** 500–650 words in all. Free half 250–350, paid half 250–300. Under two minutes.
 **Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return`. Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand.
 
 ### Anatomy (in order)
@@ -30,24 +30,22 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
    > *teshuvah* (teh-shoo-VAH) — return
 2. **Say it.** One line inviting the reader to pronounce it. The mouth learns before the mind.
 
-**Meaning**
-3. **The picture, when there is one.** Name the root and what it shows: *shuv*, to turn around; a road, not a feeling. A root picture is a device, not a requirement. Use it when the word gives it honestly; never force an etymology to get one. When the word has no picture, go straight to the verse.
-4. **The verse.** One verse where the word lives, quoted from the NIV. Then one line naming the Hebrew under the English: "The word under 'return' is *shuvah*." Then the Hebrew phrase in transliteration with the word bolded. One verse, not three.
-5. **The turn.** Two to four short paragraphs: what changes when you see the Hebrew under the English. One idea. This is the teachable interpretation, and it is the part that matters most.
-
-**Application, free**
-6. **One line to carry.** A single sentence on its own line, italic, that fits on a phone lock screen. The shareable unit. *(Line card, day.)*
-7. **Today's question.** A lens for the day, not homework. "Where, today, is something asking you to turn around?"
-8. **The door.** One sentence naming what the secret answers: "*The secret inside teshuvah:* why the rabbis say the one who comes back stands where the one who never left can't." The free half is complete here. It just leaves a question in the room.
+**The need (free)**
+3. **The English word, and the ache under it.** Name the English word the reader knows ("repentance," "mercy," "obey") and what it has cost them: a scene they will recognize ("Do you ever…"), the cost in the body or a relationship, and the shame taken off ("that isn't weakness; it's the word"). Short lines, air around them. The need must be real, private and timestamped: something the reader would like to stop feeling tonight.
+4. **The verse.** One verse where the word lives, quoted from the NIV. Then one line naming the Hebrew under the English: "The word under 'return' is *shuvah*." Then the transliterated phrase with the word bolded. Let the verse sharpen the need ("notice what it doesn't say"), not resolve it.
+5. **One line to carry.** A single sentence on its own line, italic, that fits on a phone lock screen: the recognition, said cleanly. *(Line card, day.)*
+6. **Today's question.** The question the reader is actually holding, unresolved. Not homework. "What have you been sorry about for so long that the sorrow has started to feel like the truth about you?"
+7. **The gate bridge.** One or two sentences, no comfort: the Hebrew asks for something other than what the reader has been doing; it is smaller; and the tradition says where it leads. Name the outcome, never the method. "Here is what the Hebrew asks for instead. It's smaller than what you've been doing. And the rabbis say the person who does it ends up standing somewhere the ones who never left cannot stand."
 
 `[PAYWALL]` *(from week 3; in weeks 1–2 the marker is deleted and the whole post is free)*
 
-**The secret**
-9. **The reading.** 120–180 words. One hidden layer of the word, the *sod*, passing the sod test below. Told as a scene, not cited: a Midrash noticing the gap in the verse, a sage in a room, Rashi's question, a letter's shape, a count the rabbis made. Named in the text ("The Talmud, in Berakhot…"). One image the reader keeps.
-10. **The turn.** 40–60 words. From the scene to the reader's actual day. "You know the one."
-11. **One thing to do.** One sentence. Today, or before bed. Not a practice plan.
+**The answer (paid)**
+8. **The turn, first.** The answer in one breath, before anything else: the distinction the Hebrew makes that the English can't. "*Teshuvah* is not a feeling. It's a direction." Then the root and its plain pictures, two to four short paragraphs. Exactly one bolded line in the body of the post, here.
+9. **The secret.** 100–160 words. The tradition's evidence that the turn is real: one hidden layer of the word, passing the sod test below, told as a scene and named in the text ("The Talmud, in Berakhot…"). One image the reader keeps.
+10. **The payoff.** 40–60 words. From the scene to the reader's actual day. "You know the one."
+11. **One thing to do.** One sentence. Tonight, or before bed. Offered, not assigned.
 12. **One line to sleep on.** A single sentence, italic, on its own line. *(Line card, night.)*
-13. **The close.** "Tomorrow: *shema*, hear." Then "— Rabbi Evan."
+13. **The close.** "Tomorrow: *shema*, hear." Then "— Rabbi Evan." An open ending beats a lesson.
 
 ### The sod test (every day, non-negotiable)
 The reading must be (1) **hidden**: something a lifelong Bible reader has never been shown; (2) **grounded**: checkable in the text or in a named rabbinic source; (3) **a turn**: after it, the morning's verse reads differently. A day that only summarizes or paraphrases does not ship. The bank names a secret for every word.
@@ -58,7 +56,8 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 - The word appears five to eight times above the gate. It's the drumbeat.
 - **No rabbinic sources above the gate.** The free half is text and picture only. That keeps it something a Jewish reader can forward, and it leaves the secret something to reveal.
 - The Hebrew Bible is the lane. When a word has a famous Gospel echo, one line ("*Other mentions:* Mark 12:29") is enough; most days, none. Once or twice a week the secret may end in a Gospel, when the word itself walks in. Week 9 is the deliberate Gospel week.
-- The door is a gift, not a tease. No fragments, no "keep reading." Substack's own button does the asking.
+- **The free-reader covenant.** The free half is a complete gift of recognition: never a fragment, never the relief above the gate, and no comfort above the gate either. The gate lands on a question the reader holds, and the bridge names where the answer leads, not what it is. No "keep reading," no "unlock." Substack's own button does the asking.
+- The paid reader should feel held and surprised, never taught: no numbered practices, no "here is how it works," one invitation at most.
 - One reading. One thing. One line. If there are two ideas, one waits.
 - Never the same source two days running. Vary Midrash, Talmud, Rashi, the letters, the prayer book across a week.
 - No headers inside the post. It's a voice, not an article.
@@ -74,7 +73,7 @@ The reading must be (1) **hidden**: something a lifelong Bible reader has never 
 
 ### Anatomy
 1. **The portion, in one line.** "This morning, in every synagogue in the world, the reading is Ha'azinu, the last song of Moses. One word from it."
-2. **Then the weekday anatomy, beats 1–13, with no gate.** Word, say it, the picture if there is one, the verse, the turn, the line to carry, the question, the secret, the turn, one thing, the line to sleep on.
+2. **Then the weekday anatomy, beats 1–13, with no gate.** The need, the verse, the line to carry, the question, then the answer: the turn, the secret, the payoff, one thing, the line to sleep on. On Shabbat the whole arc runs open.
 3. **The week in five words.** The five weekday words: Hebrew · transliteration · gloss · the line to carry, each linked to its post. Then the five lines to sleep on, unlinked. This is the free reader's weekly taste of the paid half. Keep it to the lines; no commentary.
 4. **The ask.** One sentence, every Saturday, unchanging: *"If one of these words opened something for you this week, tell one person. A note from you reaches someone no ad ever could."*
 5. "*Shabbat shalom.*" Then "— Rabbi Evan."

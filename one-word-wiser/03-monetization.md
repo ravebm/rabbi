@@ -2,7 +2,7 @@
 
 ## The principle
 
-**The teaching is the plain meaning. The secret is paid.** The rabbis' four layers (PaRDeS: *peshat* plain, *remez* hint, *drash* search, *sod* secret) give the split its name: the top of the post is *peshat*, free; the bottom is *sod*, paid. Both halves have the same three beats, **word, meaning, application**, and that's all. The free half is complete: the word, its meaning, one line to carry, today's question. The question is the gate. Below it, the secret and one thing to do with it.
+**The need is free. The answer is paid.** The beginning of every weekday post names a real need the reader is already carrying, through the word: the English word they know and the ache under it, one verse with the Hebrew named under the English, one line to carry, one question they actually hold. That half is a complete gift of recognition, and it is free, forever. Below the question is the answer: the turn the Hebrew makes that the English can't, the secret inside the word (the deepest of the rabbis' four layers of Scripture, the *sod*), and one small thing to do tonight. That is what people pay for, the same way they do on Already Home: not information, relief. Nothing above the gate is ever a fragment, and nothing above it is ever the relief.
 
 This is the Already Home model exactly (free preview → paid depth, ~2.2% conversion, 8–15 paid a week), applied to a word a day. One email, one gate, seven mornings.
 
@@ -14,7 +14,7 @@ And on Shabbat, the word from the portion every synagogue is reading that mornin
 
 ## What free gets
 
-- **Every weekday post's teaching, complete.** Word, meaning, application: the Hebrew, the picture, one verse, the turn, one line to carry, one question for the day, and the door that names what the secret answers. 300–400 words. Every morning.
+- **Every weekday post's first half, complete.** The word, the English word and the ache under it, one verse with the Hebrew named under the English, one line to carry, today's question, and the gate bridge that names where the answer leads. 250–350 words. Every morning.
 - **Shabbat, whole.** The portion's word with its secret open, plus the week's five words with their ten lines: the five to carry and the five to sleep on.
 - **Sunday, whole.** *Your Verse* with its secret open.
 - **Seven Words Every Christian Should Know** PDF on signup.
@@ -23,7 +23,7 @@ A free reader gets two full secrets a week and ten lines. The product makes the 
 
 ## What paid gets
 
-**The secret inside the word, Monday through Friday.** The hidden layer of today's word, the *sod*, and one small thing to do with it, and one line to sleep on. 200–250 words below the question. Same shape every day.
+**The answer, Monday through Friday.** The turn the Hebrew makes, the secret inside the word (the *sod*, the hidden layer), the payoff, one small thing to do tonight, and one line to sleep on. 250–300 words below the question.
 
 That's it. Plus the full archive (free readers see 30 days), and, only if it costs nothing to keep, a two-minute audio of Evan saying the word and the line, recorded on a phone. **DECIDE:** audio yes/no. Recommendation: yes, five voice memos on a Thursday.
 
@@ -58,7 +58,7 @@ Churn: one email a day is the cadence Already Home's readers already keep; expec
 - **No gate above the question. Ever.** The word, the verse, the line, and the question are free, forever.
 - **Never gate Shabbat or Sunday.** Nothing is for sale on Shabbat.
 - **No urgency copy.** One quiet 20%-off week between Christmas and New Year, one line.
-- **No pitch above the gate.** The door is a gift; Substack's own button does the asking.
+- **No pitch above the gate.** The gate bridge names where the answer leads, never what it is; Substack's own button does the asking.
 - **No sponsorships or affiliates** in year one.
 - **Never skip the secret when tired.** The secret is the product.
 

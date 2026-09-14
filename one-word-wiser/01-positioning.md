@@ -92,7 +92,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 >
 > **Every morning at 6:00 (free):** one Hebrew word — its root, the picture inside it, one verse you've read your whole life that changes when you see it, and one question for the day.
 >
-> **Below the question (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the second half: the hidden layer — a gap in the verse, a root the translation buried, a letter written large, a count the rabbis made — and one small thing to do with it today. Ninety seconds. The same shape every day.
+> **Below the question (paid):** the answer. The turn the Hebrew makes that the English can't, the secret inside the word (the rabbis called the deepest of Scripture's four layers *sod*, secret), and one small thing to do with it tonight. The second half of every weekday post.
 >
 > **Shabbat:** the word from the Torah portion every synagogue in the world is reading that morning, whole and free, and the week's five words gathered.
 > **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath. Whole and free.
