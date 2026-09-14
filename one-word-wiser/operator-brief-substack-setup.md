@@ -42,9 +42,9 @@ And Hebrew isn't like other languages. The rabbis said God created the world wit
 
 I'm Rabbi Evan Moffic. I've spent twenty years teaching Hebrew and the Jewish roots of the Bible to churches, and I've written several books about it, including *What Every Christian Needs to Know About the Jewishness of Jesus*. This newsletter is the most direct version of that work: one word a day.
 
-**Every morning at 6:00 (free):** one Hebrew word — its root, the picture inside it, one verse you've read your whole life that changes when you see it, and one question for the day.
+**Every morning at 6:00 (free):** one Hebrew word, its root, one verse with the Hebrew named under the English, and what changes when you see it. The teaching, whole.
 
-**Below the door (paid):** the secret inside the word. The rabbis taught that every word of Scripture has four layers, and they called the deepest one *sod* — secret. That's the second half: the hidden layer — a gap in the verse, a root the translation buried, a letter written large, a count the rabbis made — and one small thing to do with it today. Ninety seconds. The same shape every day.
+**The second half (paid):** the secret inside the word (the Jewish sages called the deepest of Scripture's four layers *sod*, secret), told simply, and one line to sleep on.
 
 **Shabbat:** the word from the Torah portion every synagogue in the world is reading that morning, whole and free, and the week's five words gathered.
 **Sunday:** *Your Verse* — you send me a verse, I show you the Hebrew underneath. Whole and free.
@@ -91,7 +91,9 @@ Enable paid subscriptions with these plans. **Do not paywall any post yet** — 
 
 Posts are created from the files in the repository with the weekly Codex prompt in `one-word-wiser/handoff-prompts.md` ("Codex — upload a week's drafts to Substack"), which says exactly how to place the title, the body, the three cards and the paywall marker. Do not draft posts yourself. Every post: **Audience = Everyone. No section. Send as email = yes. Publish to web = yes. 6:00 am Central** (the launch evening post on September 12 is the one exception, 7:00 pm). The first two weeks are free: delete the `[PAYWALL]` line. From September 28, insert Substack's paywall divider where the line is.
 
-The announcement post that used to be Post A is superseded; do not create or send it.
+Every post's body begins with two short lines, `**In English:** …` and `**In Hebrew:** …`, before the Word card. They are part of the copy; paste them exactly.
+
+The announcement post that used to be Post A is superseded; do not create or send it. Launch day's two-post brief is archived in `one-word-wiser/archive/launch-2026-09-12/`.
 
 ## PART 3 — Report back
 

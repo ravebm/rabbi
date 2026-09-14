@@ -26,6 +26,26 @@ A root picture (hope is a rope, the soul is a throat) is a device, not a test. U
 
 **The Shabbat word.** Chosen by the sermon: the word Evan is preaching on that morning. It is never one of the week's five. When the portion's own name is a great word (*lech lecha*, *vayera*, *shemot*, *bo*), it is usually the Shabbat word. On a festival Shabbat the word comes from the festival reading.
 
+## The fixed openings (weeks 1–2)
+
+Every post opens with two lines, per `02-daily-format.md`: the word as the translation gives it, then the Hebrew as a correction with stakes. These are the first two weeks; after that the writer makes one for each word the same way.
+
+| Word | In English | In Hebrew |
+|---|---|---|
+| shanah | *year.* | *shanah* — what repeats, and what changes. |
+| teshuvah | *repent.* | *teshuvah* — come home. |
+| shema | *hear, O Israel.* | *shema* — hear so that you do. There's no separate word for obey. |
+| selichah | *forgiveness.* | *selichah* — a word the Bible uses only of God. |
+| chesed | *kindness.* | *chesed* — love that keeps showing up. |
+| chayim | *life.* | *chayim* — plural. Life can't be counted, only poured. |
+| ha'azinu (Shabbat) | *listen.* | *ha'azinu* — give me your ear. Moses says it to the sky. |
+| tikvah (Sunday, Jer 29:11) | *hope.* | *tikvah* — a rope. Something you hold, not something you feel. |
+| kippur | *atonement.* | *kippur* — a cover placed over, not an erasing. |
+| vidui | *confession.* | *vidui* — the same root as *thank you.* |
+| tzom | *fast.* | *tzom* — a mouth closed so something else can open. |
+| yonah | *Jonah.* | *yonah* — a dove. The prophet who flew the wrong way. |
+| nefesh | *soul.* | *nefesh* — throat. The part of you that gets thirsty. |
+
 ## Calendar 5787 (diaspora), the assumptions every date below rests on
 
 5787 is a leap year of 385 days, so the spring portions are read separately and only three doublings occur. Verified against the fixed-calendar rules; **check Hebcal once before scheduling any week** (hebcal.com/holidays/2026 and /2027).
@@ -54,7 +74,7 @@ A root picture (hope is a rope, the soul is a throat) is a device, not a test. U
 ---
 
 ## Week 0 · Sat Sep 12 – Sun Sep 13 · THE LAUNCH — Rosh Hashanah
-*Two posts on Saturday, the launch-day exception. Sunday: Your Verse. Then one a day.*
+*Launch day, Saturday September 12, ran two posts, the one exception. From Sunday September 13: one a day.*
 
 | Day | Hebrew | Translit | Gloss | Device | Verse | The secret | Gospel echo |
 |---|---|---|---|---|---|---|---|

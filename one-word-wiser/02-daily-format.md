@@ -22,9 +22,21 @@ Seven posts a week. The old plan ran twelve, in five shapes, at two times of day
 **Length:** 400–600 words in all. Free half 250–350, paid half 150–250. Under two minutes. Shorter is better.
 **Subject line:** `☀️ תְּשׁוּבָה · teshuvah · return`. Hebrew script, transliteration, one-word gloss. The Hebrew in the subject line is the brand.
 
-### Anatomy (in order)
+### The fixed opening (every weekday post, first thing)
+
+Two lines, same shape every day, before anything else — the newsletter's promise in a form readers come to expect the way *Already Home* readers expect the quote:
+
+> **In English:** *repent.*
+> **In Hebrew:** *teshuvah* — come home.
+
+Rules: the English line is the word as the reader knows it from translation (one word, occasionally a short phrase); the Hebrew line is the transliterated word, an em-dash, and the picture in five to ten words. No "your Bible," no "the Christian Bible" — a translation versus the original, never them versus us. It must work for every word; if a day's Hebrew line takes more than ten words, the word isn't ready. Shabbat and Sunday carry the same two lines, keyed to the portion's word or the verse's word: on Shabbat they follow the one-line portion opener; on Sunday they follow the reader's verse, right before the Word card.
+
+**The standard:** the reader should feel it was *essential* to know — that the verse they've read a hundred times can't be understood without this. "Here's what you think it means; here's what it actually says." Not a definition, a correction with stakes. "*teshuvah* — return" is a definition; "*teshuvah* — come home" is the correction. Every day, the second kind. The bank names an opening for every word in weeks 1–2; after that the writer makes one the same way.
+
+### Anatomy (in order) — word, meaning, application
 
 **Word**
+0. **The fixed opening** (above). Then the Word card.
 1. **The word, alone.** Hebrew script, large, centered. Under it: transliteration with the stress marked, and the plain gloss.
    > תְּשׁוּבָה
    > *teshuvah* (teh-shoo-VAH) — return

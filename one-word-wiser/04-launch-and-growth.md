@@ -30,7 +30,7 @@ You have the creative that works. The funnel has to be ready to receive it:
 Facebook ad
   → rabbi.substack.com (Substack's subscribe page, with the About text from 01)
     → immediate welcome email (samples/welcome-email.md) with the Seven Words PDF
-      → the next morning post arrives at 6 am — habit begins
+      → the next post arrives at 6 am — habit begins
         → Day 7: the Shabbat post ("tell one person")
           → Day 14–21: first gate exposure, below a question that already hooked them
 ```
@@ -40,7 +40,7 @@ Facebook ad
 **Ad copy variants** (headline / body) to test against the one you know works:
 
 1. *"Hope, in Hebrew, is a rope."* / "The Bible wasn't written in English. A rabbi teaches you one Hebrew word a day — and the verse you've read your whole life opens up. Free."
-2. *"When Jesus said 'repent,' his listeners heard 'come home.'"* / "One Hebrew word every morning, from Rabbi Evan Moffic, bestselling author of *What Every Christian Needs to Know About the Jewishness of Jesus*. Free, twice a day."
+2. *"When Jesus said 'repent,' his listeners heard 'come home.'"* / "One Hebrew word every morning, from Rabbi Evan Moffic, bestselling author of *What Every Christian Needs to Know About the Jewishness of Jesus*. Free."
 3. *"Read the Bible in the language it was written in."* / "No grammar, no drills. One word, one verse, one rabbi. Two minutes a morning."
 
 Target: interests in Bible study, Christian books, *The Chosen*, Max Lucado / Beth Moore / Tim Keller readers, Israel travel, Messianic Judaism. Women 45–70 are HfC's visible core; your books sell to the same shelf.
@@ -77,6 +77,6 @@ Three mechanisms, all quiet:
 | Unsubscribes / week (existing list) | < 0.7% | > 1.2% → send at 7 am instead of 6; consider six a week (drop Sunday until verses arrive) |
 | Open rate, 7-day average | > 40% | < 30% → subject-line problem; test dropping Hebrew script |
 | Read-to-end on weekday posts (Substack's post stats) | > 50% | < 35% → the post is too long; cut the secret to 150 words |
-| Replies with verses | > 20/week | < 5 → the Sunday ask isn't landing; move it into the morning post once |
+| Replies with verses | > 20/week | < 5 → the Sunday ask isn't landing; move it into a weekday post once |
 | Paid conversions / week (after Week 3) | > 12 | < 6 → the practice section isn't distinct enough from the teaching; audit the gate |
 | Ad CPA | < $2.50 | > $4 → pause and swap creative |

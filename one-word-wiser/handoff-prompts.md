@@ -15,7 +15,7 @@ Every Sunday, once you say **approved**, the Sunday session hands you this promp
 > For each file:
 > 1. **Title** = the `**Subject:**` line of the file, without the word "Subject". Leave the subtitle empty unless the file has a `**Subtitle:**` line.
 > 2. **Body** = everything below the `---` line, ending at `— Rabbi Evan`. Do not paste the header block (Subject, Audience, Cards, Notes) and do not paste any "Notes for Evan" or "Audio" block at the end. Keep every bold, italic, blockquote and line break. Paste Hebrew script exactly, with its vowel marks.
-> 3. If the body starts with a large Hebrew word and a transliteration line inside `<div align="center">`, delete those lines; the Word card carries them. Center nothing else.
+> 3. The body begins with two short lines, `**In English:** …` and `**In Hebrew:** …` (on Shabbat they follow the portion line; on Sunday, the verse). Keep them exactly, bold labels and italics included; they are the first text under the title. If the next block is a large Hebrew word and a transliteration line inside `<div align="center">`, delete those lines; the Word card carries them. Center nothing else.
 > 4. **Images:** upload the PNGs named in the file's `**Cards:**` line from `one-word-wiser/posts/cards/`. The `word-day` card goes at the very top of the body. The `line-day` card replaces the italic sentence marked as the line to carry (delete that text line and put the image where it was). The `line-night` card replaces the italic line to sleep on, the same way. If a card file is missing, leave the italic line as text and note it in your report.
 > 5. **Paywall:** where the body says `[PAYWALL]`, delete that line. (From September 28 onward, insert Substack's paywall divider at that spot instead of deleting it; the file's `**Paywall:**` line will say which.)
 > 6. **Settings:** audience Everyone. Do not assign a section. Send as email: yes. Publish to web: yes. Schedule for the date and time in the file's `**Send:**` line, America/Chicago, only if I say "schedule" below; otherwise save as an unscheduled draft.
@@ -29,27 +29,28 @@ Every Sunday, once you say **approved**, the Sunday session hands you this promp
 >
 > When done, reply with one line per post: title, draft URL, scheduled time (or "draft"), and whether every card was placed. If any screen didn't match these instructions, tell me which step rather than improvising.
 
-**This weekend, filled in** (the launch is the one two-post day; from Sunday it's one a day):
+**This week, filled in** (Monday's draft already exists on Substack; use the daily prompt below for it, and this one for Tuesday through Sunday):
 
-> - `one-word-wiser/samples/week-00-friday-shanah-morning.md` — Saturday, September 12, 6:00 am
-> - `one-word-wiser/samples/week-00-friday-shanah-evening.md` — Saturday, September 12, 7:00 pm
-> - `one-word-wiser/samples/week-01-monday.md` — Monday, September 14, 6:00 am
-> - `one-word-wiser/samples/week-01-shabbat-haazinu.md` — Saturday, September 19, 6:00 am
-> - `one-word-wiser/samples/week-01-sunday.md` — Sunday, September 20, 6:00 am
+> - `one-word-wiser/posts/2026-09-15.md` — Tuesday, September 15, 6:00 am
+> - `one-word-wiser/posts/2026-09-16.md` — Wednesday, September 16, 6:00 am
+> - `one-word-wiser/posts/2026-09-17.md` — Thursday, September 17, 6:00 am
+> - `one-word-wiser/posts/2026-09-18.md` — Friday, September 18, 6:00 am
+> - `one-word-wiser/posts/2026-09-19.md` — Saturday, September 19, 6:00 am
+> - `one-word-wiser/posts/2026-09-20.md` — Sunday, September 20, 6:00 am
 >
 > Schedule: yes
 
-Tuesday through Friday of week 1 are produced by the skill ("write the week") and saved in `one-word-wiser/posts/` once you approve them; add them to the list the same way.
+Every week after this, the Sunday session writes the seven files into `one-word-wiser/posts/` and hands you this list filled in.
 
 ## Codex — post one day (the daily one)
 
 For a single post. Codex needs a browser and you logged in at rabbi.substack.com. Filled in below for Monday, September 14, whose draft Codex already built and polished on September 13 (draft 215587061) but did not schedule; for another day, change the draft link (or say "create it from the file"), the file name, the title, the send time and the two card names. Prepared posts carry native H2 subheadings, the **Let It Change Your Life** section and centered Hebrew-letter dividers; Codex keeps them as native elements.
 
-> Open my repository `ravebm/rabbi`, check out the branch `claude/gifted-bohr-leaujh`, and pull the latest. Read `AGENTS.md` and `skills/one-word-wiser/references/substack-readability.md`. I am logged into Substack at rabbi.substack.com. Schedule ONE existing draft. Do not create a second post.
+> Open my repository `ravebm/rabbi`, pull the latest on `main`. Read `AGENTS.md` and `skills/one-word-wiser/references/substack-readability.md`. I am logged into Substack at rabbi.substack.com. Schedule ONE existing draft. Do not create a second post.
 >
 > The draft: https://rabbi.substack.com/publish/post/215587061, titled `☀️ תְּשׁוּבָה · teshuvah · return`. The file it must match: `one-word-wiser/posts/2026-09-14.md`. Send: Monday, September 14, 2026, 6:00 am, America/Chicago.
 >
-> 1. Open the draft. Check its body against the file (everything below the file's first `---` line, ending at `— Rabbi Evan`): the four H2 subheadings, the two centered — ת — dividers, the short paragraphs, the italic lines, the blockquoted verse with its Hebrew vowel marks. If the draft has newer edits by Evan, keep them; never restore wording he removed. Do not paste the header block or the "Notes for Evan" block.
+> 1. Open the draft. Check its body against the file (everything below the file's first `---` line, ending at `— Rabbi Evan`): the two opening lines `**In English:** *repent.*` and `**In Hebrew:** *teshuvah* — come home.` as the first text under the title (add them if the draft doesn't have them yet, above the Word card), the four H2 subheadings, the two centered — ת — dividers, the short paragraphs, the italic lines, the blockquoted verse with its Hebrew vowel marks. If the draft has newer edits by Evan, keep them; never restore wording he removed. Do not paste the header block or the "Notes for Evan" block.
 > 2. **Cards**, from `one-word-wiser/posts/cards/`: `2026-09-14-word-day.png` at the very top of the body; `2026-09-14-line-night.png` in place of the italic line *You don't have to walk the whole road today. You only have to turn.* No line-day card. If both are already in place, leave them.
 > 3. There is no paywall in this post. Make sure no paywall divider is in the body.
 > 4. **Settings:** audience **Everyone** (the publish dialog defaults to Paid; change it and confirm it stays after the dialog closes). No section. Send as email: yes. Publish to web: yes. Schedule for Monday, September 14, 2026, 6:00 am, America/Chicago.
@@ -61,9 +62,9 @@ For a single post. Codex needs a browser and you logged in at rabbi.substack.com
 
 > You have access to my repository `ravebm/rabbi` (pull the latest first). Read `AGENTS.md` at the root, then follow `one-word-wiser/operator-brief-substack-setup.md` exactly, start to finish. I am logged into Substack at rabbi.substack.com. Paste every piece of copy verbatim from the brief and the files it points to; do not rewrite anything. Do not publish, email, or change anything the brief does not list. When you finish, reply with the checklist at the end of the brief, and if anything in Substack's interface didn't match the brief, tell me which step rather than improvising. If you had to change anything in the repository (you shouldn't need to), commit it with a one-line message and push.
 
-## Codex or Claude in Chrome — LAUNCH DAY (the short one)
+## Launch day (done)
 
-> Open my repository `ravebm/rabbi` (pull the latest). Read `AGENTS.md`, then follow `one-word-wiser/operator-brief-launch-day.md` exactly, top to bottom. I am logged into Substack at rabbi.substack.com. Upload the logo, set the name and description, clear out the old benefits and welcome email and replace them with the new ones, replace the About page, and create the launch posts as drafts with their images. Do not publish or schedule anything until I say "go". Paste all copy verbatim. When done, send me the draft links and the report at the end of the brief.
+Launch day, Saturday, September 12, has run. The brief and the two posts it used are archived in `one-word-wiser/archive/launch-2026-09-12/`. There is no launch prompt to paste anymore.
 
 ## Claude — write, edit, or update the system
 

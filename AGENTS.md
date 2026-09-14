@@ -23,6 +23,8 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/05-production-workflow.md` | Weekly rhythm, who does what, metrics ledger | Everyone |
 | `one-word-wiser/word-bank.md` | The rubric and a full year of words: five a week plus a Shabbat word from the Torah portion, each with verse and secret; the ledger | Writers |
 | `one-word-wiser/samples/` | The voice standard. Read `week-01-monday.md` and `week-01-shabbat-haazinu.md` before writing anything | Writers |
+| `one-word-wiser/posts/` | The dated drafts, one file a day, cards in `posts/cards/` | Writers, Operators |
+| `one-word-wiser/archive/` | Retired files kept for the record (the two-post launch day). Never draft from these | — |
 | `one-word-wiser/operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline | Operators (Hermes/Codex/Claude driving Substack) |
 | `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent, including the Codex prompt that uploads drafts to Substack | Evan |
 | `one-word-wiser/book/README.md` | The free book, *Seven Hebrew Words*: the text, the script that builds the PDF, the download-post copy, and where it lives once it is on Substack | Codex (draft, build, upload); Evan approves |
@@ -43,6 +45,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 - One post a day, 6:00 am Central, seven days a week. The Shabbat word comes from the Torah portion.
 - The teaching is free, forever: the word, the verse, the meaning, the main body of the post. The second half is paid: the secret inside the word, told simply, and one line to sleep on. The door between them hints at both a real human need and a deeper understanding of what God asks; it never pitches. Never a fragment above the gate. Never gate Shabbat or Sunday.
 - Every post is **word → meaning → application**. Nothing else.
+- Every post opens with the two fixed lines, **In English:** / **In Hebrew:**, and the Hebrew line must be a correction with stakes, never a dictionary gloss (`02-daily-format.md`, "The fixed opening"). Never "your Bible" or "the Christian Bible."
 - The Hebrew Bible is the lane. Gospel echoes once or twice a week at most, only when the word walks in on its own.
 - Voice rules in `01-positioning.md` are not suggestions. Banned words are banned.
 - Verify every citation (book/chapter/verse, tractate/page). Never put an unverified source in Evan's mouth.

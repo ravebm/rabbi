@@ -33,7 +33,9 @@ reader-requested verses, a paid companion kit) and on what already works for Eva
 | `04-launch-and-growth.md` | 6-week transition plan for the existing list, Facebook ad funnel, welcome sequence, referral loop |
 | `05-production-workflow.md` | How we run seven posts a week without it eating Evan's life — the Sunday session, the skill, audio/images, metrics |
 | `word-bank.md` | The rubric, the 5787 calendar, and a full year of weeks: five weekday words and a Shabbat word each, with verse and secret |
-| `samples/` | Fully written examples: the launch pair, welcome email, the first Sunday preview, Monday (*teshuvah*) in the one-post shape, Shabbat Shuvah (*ha'azinu*) |
+| `samples/` | The voice standard: the welcome email, Monday (*teshuvah*) in the one-post shape, Shabbat Shuvah (*ha'azinu*), the first Sunday (*Your Verse*) |
+| `posts/` | The dated drafts, one file a day, with their cards in `posts/cards/` |
+| `archive/` | Retired files, kept for the record only: the two-post launch day (September 12) and the announcement that never ran |
 | `../skills/one-word-wiser/SKILL.md` | The skill: "write Tuesday's post for *chesed*" or "write the week" → complete posts in this format and voice |
 
 | `operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline, for any agent driving Substack |
@@ -44,7 +46,7 @@ All agents read `../AGENTS.md` first — that's what keeps Claude, Hermes, and C
 
 ## How to use this
 
-1. Read `01` → `03` once and decide the open questions flagged in each (they're marked **DECIDE**). Translation policy is set in `01`: Evan's own rendering from the Hebrew for the Hebrew Bible, NIV for the Gospels.
+1. Read `01` → `03` once and decide the open questions flagged in each (they're marked **DECIDE**). Translation policy is set in `01`: NIV for every verse, then the Hebrew named under the English.
 2. Approve or edit the samples in `samples/` — they set the voice for everything the skill generates after.
 3. Follow `04-launch-and-growth.md` week by week.
 4. Each Sunday, run the skill for the coming week's six words from `word-bank.md`, edit, hand the drafts to Codex to upload, schedule for 6:00 am.

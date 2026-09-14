@@ -67,7 +67,7 @@ Carried over from the pulpit voice, adapted for the inbox:
 - **Direct address.** "Say it with me." "Think about the last time you…"
 - **Hebrew always transliterated and italicized, glossed in the same breath.** *Teshuvah*, return. Show the Hebrew script once, at the top, large. Then transliteration only.
 - **One anchor per post.** Rashi, the Midrash, the Talmud, Heschel, Sacks, Maimonides. Told as a story, not cited as a footnote. Never a pile-up.
-- **Rhythm through repetition.** The word is the drumbeat. It should appear five to eight times in a morning post.
+- **Rhythm through repetition.** The word is the drumbeat. It should appear five to eight times above the gate.
 - **Warm, never cute. Respectful, never preachy.** You are not converting anyone in either direction. You are a rabbi handing a Christian a key to their own Bible.
 - **Hebrew Bible and New Testament.** Those are the two names, every time. Not "Old Testament," not "the Christian Bible," not "the Greek Bible," and never "your Bible": the reader and the writer share the book. Say "the English" or "the translation" when the point is the wording.
 - **The Hebrew Bible is home.** Most posts never leave it. When a Gospel echo earns its place, Jesus is quoted accurately and warmly. Never "the Christian Bible says." Say "Matthew," "Luke," "Jesus."
@@ -103,6 +103,6 @@ Carried over from the pulpit voice, adapted for the inbox:
 
 ## Open decisions — **DECIDE**
 
-1. **Bible translation:** set — Evan's own translation from the Hebrew for the Hebrew Bible, NIV for the Gospels. Open item: confirm which translation Evan's books used (copyright page) and switch the Gospel default to it if different.
+1. **Bible translation:** set — NIV for every verse, Hebrew Bible and New Testament alike, then the Hebrew named under the English (see the translation policy above). Open item: confirm which translation Evan's books used (copyright page) and switch the default to it if different.
 2. **How much Jewish audience to court in copy.** Recommendation: the parenthetical "(and curious Jews)" in the bio, nothing more. Christians are the growth engine; Jews will come anyway because it's you.
 3. **Byline:** "Rabbi Evan Moffic" everywhere, or "Evan" inside posts? (Recommendation: sign posts "— Rabbi Evan" — warm, but keeps the title doing its work.)
