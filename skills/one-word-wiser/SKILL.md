@@ -11,6 +11,8 @@ Everything you need is in `one-word-wiser/`: `01-positioning.md` (voice rules, A
 
 For drafting, revision, or Substack layout, read [the readability standard](references/substack-readability.md). Evan's latest draft edits override older sample wording. Use the recurring application heading **Let It Change Your Life**, short native subheadings, and restrained typographic dividers across all post types. A small centered Hebrew letter can be used in the divider. These presentation choices do not change the free/paid boundary or grant delivery permission.
 
+For titles, prioritize simplicity and clarity on the first reading. **You Can Still Come Home** is the approved benchmark: familiar words, immediate feeling, and a promise the teaching delivers. Follow the title guidance in the readability standard; do not replace a clear chosen title with a longer comparison or an abstract phrase in pursuit of a stronger hook.
+
 1. **Read the samples.** `samples/week-01-monday.md` is the voice source of truth for a weekday post; `samples/week-01-shabbat-haazinu.md` for a Shabbat post; `samples/week-01-sunday.md` for a Sunday post. Match their rhythm: short declaratives, fragments, direct address, one anchor, the word as drumbeat.
 2. **Find the week in `word-bank.md`.** Use its verse and secret as the starting point. If Evan gives a word not in the bank, run it through the five tests at the top of the bank (familiar, lost in English, teachable, a secret, sayable; four of five, and the secret is never the missing one), build the same row (Hebrew with niqqud, transliteration with stress, gloss, device, Hebrew Bible verse, the secret, optional Gospel echo), check the ledger at the bottom of the bank so the word hasn't run in the past year, and show the row to him above the draft.
 3. **Verify every citation.** Chapter and verse for the Hebrew Bible (note when English and Hebrew numbering differ, e.g. Hosea 14:1/14:2). Tractate and page for the Talmud; section for Midrash; the comment for Rashi. When a Gospel is used, exact reference and NIV wording. The bank marks which gematria, acronyms and letter-plays are classical and which are later; the post says so too.
@@ -24,6 +26,7 @@ Return each post as Substack-ready Markdown with this header block, then the bod
 ```
 # [Weekday, Month D] — [☀️ THE WORD | 🕯️ SHABBAT | 📖 YOUR VERSE] · *word*
 **Subject:** [per the subject-line system in 02]
+**Subtitle:** [when specified; Hebrew · transliteration · meaning, or empty]
 **Audience:** Everyone · **Paywall:** at the door (weekdays, from week 3) | none · **Send:** 6:00 am CT
 **Cards:** word-day at the top · line-day at the line to carry · line-night at the line to sleep on
 **Dividers:** [placement and treatment; a centered Hebrew letter or plain rule at a natural pause]
