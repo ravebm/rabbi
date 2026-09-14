@@ -4,6 +4,22 @@ All three agents work from the same repository: **github.com/ravebm/rabbi**. Giv
 
 ---
 
+## Codex — the first thing to paste in every session
+
+Codex reads `AGENTS.md` on its own when it opens the repository, but this line makes sure it starts from the current `main` and not from a stale clone:
+
+> Open my repository `ravebm/rabbi`, check out `main`, and pull the latest. Read `AGENTS.md` at the root before doing anything else; it is the single source of truth for this project, shared with Claude, and it tells you where every file is and the rules every agent follows. If anything I ask conflicts with it, tell me before acting. Then: [what you want done].
+
+## Codex — set the welcome email (now, before the book exists)
+
+The free book is not on Substack yet (`one-word-wiser/book/README.md` says *not yet*), so the welcome email goes up without the book paragraph. When the book is up, use the prompt further down to wire it in.
+
+> Open my repository `ravebm/rabbi`, check out `main`, and pull the latest. Read `AGENTS.md`. I am logged into Substack at rabbi.substack.com. Set the welcome email, and nothing else.
+>
+> Go to Settings → Emails → Welcome email. Subject: `Welcome`. Body: everything below the `---` in `one-word-wiser/samples/welcome-email.md`, with one change: delete the whole paragraph that begins "Start with this:", because the book is not published yet. Enter it as formatted text: bold and italics applied in the editor, no markdown symbols, paragraph breaks kept, the last italic line kept in italics, and `— Rabbi Evan` as the sign-off. Save it, open the preview, and confirm it reads cleanly on a phone.
+>
+> Do not send a test email to the list, do not change any other setting, do not touch any post. Reply with the subject as saved and the first and last lines of the body as saved.
+
 ## Codex — upload a week's drafts to Substack (the weekly one)
 
 Current presentation standard, added September 13, 2026: prepared posts include short native subheadings and restrained typographic dividers. Preserve the headings, including **Let It Change Your Life**, and the centered Hebrew-letter dividers or plain rules at their marked positions. Follow `skills/one-word-wiser/references/substack-readability.md` and confirm the saved layout on a phone. Do not add decorative illustrations by default. Preserve any newer edits Evan has made in the target draft. The single-post scheduling prompt below records an earlier authorization; for draft-only work, stop at the saved draft.
