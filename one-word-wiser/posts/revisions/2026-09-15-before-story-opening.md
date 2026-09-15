@@ -19,13 +19,11 @@
 
 </div>
 
-At dinner, a child tells you about her day. The class worked in groups. Her friends chose one another. She worked with the teacher.
+We don’t listen with our ears. We listen with our heart.
 
-You hear a report about school. Then you notice how quietly she is speaking. She is telling you what it felt like to be left out.
+You can hear every word someone says and miss what they are trying to tell you. A child tells you about her day. You hear the events. Do you hear the loneliness?
 
-The words have not changed. What you hear in them has.
-
-We don’t listen with our ears alone. We listen with our heart. When Solomon asked God for wisdom, the Hebrew gave that kind of attention a name.
+We say seeing is believing. But seeing someone’s face does not tell us what it feels like to be that person. For that, we have to listen.
 
 ## Inside the Word
 
@@ -109,5 +107,3 @@ We cover our eyes for prayer. We open them again to the person before us.
 **Layout note:** Substack’s automatic text direction treated the initial Hebrew heading as direction for the entire body. A leading invisible left-to-right mark (U+200E) in that heading keeps the English left-to-right while preserving the displayed Hebrew. No other text change is implied.
 
 **Hearken revision:** Evan requested the English word as a bridge into listening and surrender. [American Heritage, hearken](https://ahdictionary.com/word/search.html?q=hearken) traces the word through Middle English to Old English: the KJV did not coin it. [Deuteronomy 11:13 KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A13&version=KJV) uses “hearken diligently”; this task-specific KJV example is explicitly requested by Evan and is an exception to the usual NIV quotation convention. [Mishnah Berakhot 2:2](https://www.sefaria.org/Mishnah_Berakhot.2.2) Hebrew and English read directly September 14: Rabbi Yehoshua ben Korha explains the ordering as accepting heaven’s kingship before commandments. The body uses “early rabbis” without claiming the eye-covering practice was instituted during Jesus’s lifetime. “Surrender” and the optional personal prayer are Evan’s contemporary application, not translations or historical quotations. Previous version: `revisions/2026-09-15-before-hearken.md`.
-
-**Opening revision:** Evan requested a short human, literary or quotation opening, with slightly more scholarship than Already Home. The dinner scene is an illustrative scenario, not a personal memory or a report about an identifiable child. Leads into the already verified Solomon passage. Title stays “Listen With Your Heart”; “Before You Answer” is retired. All copy from “Inside the Word” onward is preserved in this revision. Previous copy: `revisions/2026-09-15-before-story-opening.md`.

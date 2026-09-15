@@ -61,3 +61,7 @@ Prepare one post, not separate morning/evening letters. Save as a draft unless t
 ## Inside the Word — September 15 pilot
 
 Evan requested more substantive free Hebrew teaching on September 14. Pilot a compact “Inside the Word” feature: a useful root or grammatical form, two or three brief biblical examples when they clarify it, then the implication for this reading. Keep one anchor passage. Explain forms in plain language; never force every word into three meanings or treat every meaning of a root as present in each occurrence. This is an original editorial format, not a PARDES method or a framework attributed to Daniel Lapin. Follow it with a short human application that is valuable on its own and a concrete, quiet description of the practice or story below the weekday paywall. Assess the pilot before making it a rigid template.
+
+## Human opening — September 14 direction
+
+Begin with a brief human scene, a literary moment, a personal example Evan actually supplied, or a verified quotation that leads into the Hebrew word and the meaning being developed. Let readers recognize the experience before explaining it. The warmth can resemble Already Home, with the Hebrew and textual scholarship giving One Word Wiser its character. Do not force a quotation every day, invent autobiographical or pastoral incidents, or use a decorative quotation unrelated to the teaching. Check attribution, wording and source context. Keep the Hebrew identification near the top and the opening short. Avoid indirect titles such as “Before You Answer”; use a clear human promise.
