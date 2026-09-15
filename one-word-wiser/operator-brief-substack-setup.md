@@ -17,7 +17,7 @@ Evan’s September 14 direction simplifies the product. One morning email, an ac
 | Free benefit | One Hebrew word and its meaning in Scripture, every morning. Free, always. |
 | Paid benefit | The full weekday reflections on Hebrew, Jewish wisdom, and everyday life. |
 | Founding benefit | A signed book, and my thanks by name. |
-| From name | Rabbi Evan | One Word Wiser |
+| From name | Rabbi Evan Moffic |
 | Introduction | One Word Wiser is a daily letter from Rabbi Evan Moffic about Hebrew, the Bible, and Jewish wisdom. Each morning, one Hebrew word opens a passage and a question about everyday life. For Christians, Jews, and anyone curious. No Hebrew required. |
 
 No book link belongs in the welcome until the book is approved and published. Its current status is in `book/README.md`. No weekly study sheet is promised yet. When the launch period ends, update dated launch copy only as part of an authorized delivery/product decision.
@@ -45,3 +45,7 @@ Replies are allowed from Everyone and route to the publication owner when the fo
 Reopen a saved setting or inspect its public result. A click or “Saving…” state alone is not proof. Check mobile layout for changed formatted copy. Preserve dynamic subscription/checkout links in system templates. Record what changed, what was verified, any remaining inconsistency, and any proposal not adopted. Commit and push the source update.
 
 The latest audit is `substack-audit-2026-09-14.md`.
+
+## Sender correction — September 15, 2026
+
+Evan confirmed the sender must be **Rabbi Evan Moffic**, without the publication name. The live Emails → Email sender name field still contained “Rabbi Evan | One Word Wiser”; corrected, explicitly saved, and verified after reload on September 15. This supersedes the old combined-name entry. Future operators must preserve the personal sender name. Editing the field alone is insufficient: click the inline Save button, then reload and verify. No test email sent and no post changed. Already delivered messages retain their original sender header.
