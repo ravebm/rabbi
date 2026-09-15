@@ -6,7 +6,7 @@
 
 **Paid:** The full weekday reflections on Hebrew, Jewish wisdom, and everyday life, in the same email. Paid readers also have access to the paid archive. Free articles remain free; there is no 30-day expiry for free readers.
 
-All launch letters are free in full through September 27, 2026. The existing plan places weekday gates from September 28. Evan is rethinking the product; do not silently announce a replacement benefit, change the date, or schedule the switch without the current task’s authority.
+Evan’s explicit September 14, 2026 decision starts paid weekday continuations on September 15, replacing the earlier September 27 free-launch ending and September 28 gate date. The free section still contains the word and a complete useful teaching. The paid section develops the teaching through Jewish wisdom, a practice and a relevant story when appropriate. This is the editorial plan; individual scheduling, sending and account changes still require current task authority.
 
 The free teaching may include a rabbinic source and a useful application. The paid continuation gives greater depth; it does not withhold every trace of Evan’s distinctive voice. Retire the “secret” label and forced hidden-meaning requirement.
 

@@ -37,7 +37,7 @@ Follow **word → meaning → reflection**, normally about 400–600 words, shor
 
 Teach one passage clearly. Give free readers a complete useful reading and some of Evan’s rabbinic voice. Then let the same word lead naturally into a fuller reflection on a real human need. One main source or story usually suffices. Application can be a short paragraph, a question, or a quiet ending; do not force it into one sentence.
 
-The current paid benefit is the full weekday reflection. All launch letters are free through September 27, 2026. Saturday and Sunday remain free in full. Follow the current task for any later paywall or delivery decision. The study companion is a proposal under review, not an automatic addition or a promised benefit.
+The current paid benefit is the full weekday reflection. Evan’s September 14 decision starts paid weekday continuations on September 15, 2026; the word and a complete teaching remain free. Saturday and Sunday remain free in full. Follow the current task for any later paywall or delivery decision. The study companion is a proposal under review, not an automatic addition or a promised benefit.
 
 No “secret” product label, compulsory mystical interpretation, or “Let It Change Your Life” heading. Use short content-specific subheadings and restrained dividers. The conclusion should vary with the teaching. A hidden meaning, a puzzle, and a rhetorical question are optional, not production requirements.
 

@@ -15,7 +15,7 @@ A daily letter about Hebrew, the Bible, and Jewish wisdom. Christians are the ma
 | Saturday | A word from the week’s Torah reading; the whole letter is free |
 | Sunday | A reader’s verse; the whole letter is free |
 | Paid | Full weekday reflections. Existing prices: $7/month, $60/year, $180 founding |
-| Launch | All letters free in full through September 27, 2026; existing plan places weekday gates from September 28, subject to Evan’s decision during this rethink |
+| Launch | Paid weekday continuations start September 15, 2026 by Evan’s September 14 decision; complete word teaching and weekends remain free |
 | Presentation | Clear human title, visible Hebrew, short paragraphs, a few useful subheadings, restrained dividers |
 | Word selection | Familiar passage, accurate Hebrew, a useful teaching, a grounded rabbinic reading, pronounceable word |
 

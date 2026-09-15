@@ -4,7 +4,7 @@ One post each morning at 6:00 America/Chicago. The reader recognizes the experie
 
 ## Weekday letter
 
-Aim for roughly 400–600 words when the material needs it. Do not pad a short teaching. Give free readers a complete explanation, usually 250–350 words. The fuller reflection can continue below a weekday paywall once the launch period ends.
+Aim for roughly 400–600 words when the material needs it. Do not pad a short teaching. Give free readers a complete explanation, usually 250–350 words. Paid weekday continuations begin September 15, 2026, by Evan’s September 14 decision.
 
 1. **A clear title.** Start with the reader’s actual question or hope. “You Can Still Come Home” is Evan’s chosen example. The body must fulfill the title plainly.
 2. **The word.** Hebrew with vowel marks, transliteration, pronunciation, and a simple gloss. Keep the familiar In English / In Hebrew opening when useful. The Hebrew should add something accurate, not imply every English translation is wrong. A root’s meaning, a contextual meaning, and a later rabbinic interpretation are different things.
@@ -23,13 +23,13 @@ Evan’s September 14 direction: use his rabbinic authority and the existing int
 - **Rabbinic judgment the reader can feel.** Evan’s authority should appear in the choice of source, the interpretation, and the useful distinction he draws. Explain why the reading matters in plain language. Do not rely on a credential paragraph, stack quotations, or invent a personal or pastoral story.
 - **One recognizable human concern.** Let the passage lead to an actual question, relationship, decision, or experience. Wonder, gratitude, joy, and belonging are as welcome as grief, regret, or fear. Do not attach the same reassuring moral to every word or manufacture pain to sell a continuation.
 - **Every paragraph earns its place.** Keep the letter short enough to finish comfortably on a phone. Cut repeated explanations, throat-clearing, and decorative material. The existing word ranges are guides, never quotas. A strong short letter is complete; it does not feel like homework or require catching up.
-- **A complete free gift and a distinct fuller reflection.** A free reader leaves with a useful teaching and a sense of Evan’s voice. When a weekday gate is authorized, the continuation must develop the question with a further interpretation or concrete application, rather than repeat the free section at greater length. During launch, deliver both freely.
+- **A complete free gift and a distinct fuller reflection.** A free reader leaves with a useful teaching and a sense of Evan’s voice. When a weekday gate is authorized, the continuation must develop the question with a further interpretation or concrete application, rather than repeat the free section at greater length. From September 15, 2026, use the approved paid boundary on weekdays.
 
 Before review, state the takeaway in one plain sentence in the internal notes. Identify the line or insight someone could share with a friend without an explanation. Compare the last seven prepared or published letters for repeated title syntax, passages, stories, emotional promises, and endings. Preserve the familiar structure while varying the substance. Rewrite a weak draft before handoff; the daily cadence does not make an unfinished teaching ready.
 
 ## The paid boundary
 
-All launch letters are free in full through September 27, 2026. Delete `[PAYWALL]` during that period. The existing plan places a weekday divider from September 28; confirm the current task and any newer product decision before scheduling. On paid weekdays, place the divider after a complete free teaching and before the fuller reflection. Never gate Saturday or Sunday. A heading does not dictate the gate position.
+Evan’s September 14 decision starts paid weekday continuations on September 15, 2026, superseding the old September 27/28 launch dates. Mark the draft with `[PAYWALL]` and replace it with a native Substack boundary during an authorized upload. Never display the literal marker to readers. On paid weekdays, place the divider after a complete free teaching and before the fuller reflection. Never gate Saturday or Sunday. A heading does not dictate the gate position.
 
 A weekly study companion is under review, described in `study-companion/README.md`. Do not advertise or automatically attach it as a subscription benefit yet.
 

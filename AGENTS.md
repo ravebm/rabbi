@@ -49,7 +49,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 ## Non-negotiables (all agents)
 
 - One post a day, 6:00 am Central, seven days a week. The Shabbat word comes from the Torah portion.
-- The daily word and its meaning in Scripture are free, forever. The current paid benefit is the full weekday reflection on Hebrew, Jewish wisdom, and everyday life, in the same email. All launch letters are free through September 27. Never gate Shabbat or Sunday. A weekly study companion is a proposal for Evan to assess, not a live subscriber promise.
+- The daily word and its meaning in Scripture are free, forever. The current paid benefit is the full weekday reflection on Hebrew, Jewish wisdom, and everyday life, in the same email. Evan’s September 14 decision starts paid weekday continuations on September 15, 2026, after a complete free teaching. This supersedes the prior September 27 launch end. Never gate Shabbat or Sunday. A weekly study companion is a proposal for Evan to assess, not a live subscriber promise.
 - Every post moves from **word → meaning → reflection**. Keep the experience familiar while letting the word, question, story, and ending vary. A complete free teaching may include rabbinic wisdom and a useful application.
 - Use the familiar **In English:** / **In Hebrew:** opening where it serves the word. Make the linguistic point accurate; never invent a mistranslation or force a dramatic correction. Human titles are welcome; Hebrew remains prominent in the body. Never "your Bible" or "the Christian Bible."
 - The Hebrew Bible is the lane. Gospel echoes once or twice a week at most, only when the word walks in on its own.
