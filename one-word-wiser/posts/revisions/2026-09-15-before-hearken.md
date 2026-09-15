@@ -41,17 +41,15 @@ We say seeing is believing. But seeing someone’s face does not tell us what it
 
 One root, different contexts. English uses *hear*, *discern*, and *obey* to bring out what each passage means. The Hebrew lets us notice a connection: listening can ask something of us.
 
-## Hearken
+## A Listening Heart
 
-The King James Bible gives us an old English word worth recovering: **hearken**. In [Deuteronomy 11:13](https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A13&version=KJV), it uses “hearken diligently” for a phrase built from this same Hebrew root. To hearken is to listen attentively, to heed.
+That is what I hear in Solomon’s prayer. Wisdom begins with the willingness to receive what another person is saying.
 
-Long before that English translation, the early rabbis understood the Shema as an act of yielding to God. The Mishnah calls it accepting “the yoke of the kingdom of Heaven.” First we accept God’s authority; then we take on the commandments.
+The child telling you about her day may not need advice. She may need you to notice what hurt. Before offering an answer, ask one more question.
 
-I think of this as a moment of surrender: I am ready to be guided, even when what I hear is not what I expected.
+Hearing often requires more of the heart than of the eardrum.
 
-Jewish tradition gives that inward movement a physical form. A small gesture helps us set aside what competes for our attention and listen with the heart.
-
-*The story behind that gesture, and a way to practice it, follow below.*
+*Below, a small gesture from Jewish prayer, the Talmudic story behind it, and a way to practice this attention in your own life.*
 
 [PAYWALL]
 
@@ -71,8 +69,6 @@ Try it with the verse above. Sit quietly. Cover your eyes gently and say the wor
 
 You do not have to produce a special feeling. You are making room to be present.
 
-Let this be a moment of surrender. You might silently add, “God, help me receive what You are asking of me.” Then return to the words of the prayer.
-
 Then carry something of that attention into a conversation. Put down the phone. Let the other person finish. Listen for what matters enough that they needed to tell you.
 
 You can ask, “What was that like for you?” And leave enough silence for an answer you did not expect.
@@ -89,7 +85,7 @@ We cover our eyes for prayer. We open them again to the person before us.
 
 **Takeaway:** Listening asks for the heart's attention; the custom of covering the eyes for Shema gives this attention a practical form.
 
-**Editorial source:** Evan's Evernote sermon [Hearing is Believing](https://www.evernote.com/client/web#/note/617c7f87-0e4a-4018-aa12-b9268735448c), retrieved September 14, 2026. Retains his hearing/seeing distinction; the earlier explicit heart/eardrum sentence is preserved in the pre-hearken revision. The child illustration is a general reader scenario, adapted from the sermon’s concern with hearing a child's need, not an autobiographical anecdote. No raw sermon archive copied into Git. The sermon’s unsourced burning-bush midrash and compressed shofar account are not reused.
+**Editorial source:** Evan's Evernote sermon [Hearing is Believing](https://www.evernote.com/client/web#/note/617c7f87-0e4a-4018-aa12-b9268735448c), retrieved September 14, 2026. Retains his hearing/seeing distinction and exact sentence “Hearing often requires more of the heart than of the eardrum.” The child illustration is a general reader scenario, adapted from the sermon’s concern with hearing a child's need, not an autobiographical anecdote. No raw sermon archive copied into Git. The sermon’s unsourced burning-bush midrash and compressed shofar account are not reused.
 
 **Source verification:**
 - Deuteronomy 6:4 NIV: reuses this session's Bible Gateway verification. Hebrew/transliteration reuse the earlier September 14 review. Heart-language opening is a pastoral metaphor, not a physiological claim or the lexical definition of shema.
@@ -105,5 +101,3 @@ We cover our eyes for prayer. We open them again to the person before us.
 **Word-study sources:** September 14: Hebrew read directly from Sefaria for Genesis 3:8, I Kings 3:9 and Exodus 19:5; NIV checked at the linked Bible Gateway passages. BDB entry for שמע confirms Qal imperative שְׁמַע and the range hear, attend, heed/obey. Genesis uses וַיִּשְׁמְעוּ, Kings uses the participle שֹׁמֵעַ, and Exodus uses שָׁמוֹעַ תִּשְׁמְעוּ. These are related forms, not identical words. “Discern” summarizes the English phrase “a discerning heart,” not a claim that שֹׁמֵעַ alone literally means discern. The pastoral connection is identified as Evan’s reading. “Inside the Word” is our editorial pilot, not attributed to PARDES or Daniel Lapin.
 
 **Layout note:** Substack’s automatic text direction treated the initial Hebrew heading as direction for the entire body. A leading invisible left-to-right mark (U+200E) in that heading keeps the English left-to-right while preserving the displayed Hebrew. No other text change is implied.
-
-**Hearken revision:** Evan requested the English word as a bridge into listening and surrender. [American Heritage, hearken](https://ahdictionary.com/word/search.html?q=hearken) traces the word through Middle English to Old English: the KJV did not coin it. [Deuteronomy 11:13 KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+11%3A13&version=KJV) uses “hearken diligently”; this task-specific KJV example is explicitly requested by Evan and is an exception to the usual NIV quotation convention. [Mishnah Berakhot 2:2](https://www.sefaria.org/Mishnah_Berakhot.2.2) Hebrew and English read directly September 14: Rabbi Yehoshua ben Korha explains the ordering as accepting heaven’s kingship before commandments. The body uses “early rabbis” without claiming the eye-covering practice was instituted during Jesus’s lifetime. “Surrender” and the optional personal prayer are Evan’s contemporary application, not translations or historical quotations. Previous version: `revisions/2026-09-15-before-hearken.md`.
