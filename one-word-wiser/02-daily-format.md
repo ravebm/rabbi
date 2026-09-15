@@ -57,3 +57,7 @@ Check the Hebrew, the citation, and what the source actually claims. Attribute d
 ## Delivery
 
 Prepare one post, not separate morning/evening letters. Save as a draft unless the current task authorizes delivery. Posting Notes, emailing, scheduling, and publishing each require the current task’s authority. A production plan is not a scheduler.
+
+## Inside the Word — September 15 pilot
+
+Evan requested more substantive free Hebrew teaching on September 14. Pilot a compact “Inside the Word” feature: a useful root or grammatical form, two or three brief biblical examples when they clarify it, then the implication for this reading. Keep one anchor passage. Explain forms in plain language; never force every word into three meanings or treat every meaning of a root as present in each occurrence. This is an original editorial format, not a PARDES method or a framework attributed to Daniel Lapin. Follow it with a short human application that is valuable on its own and a concrete, quiet description of the practice or story below the weekday paywall. Assess the pilot before making it a rigid template.

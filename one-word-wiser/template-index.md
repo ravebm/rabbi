@@ -7,7 +7,7 @@ Checked September 14, 2026. Read AGENTS.md and pull first. This index distinguis
 | Whole-publication operating loop | `operations/README.md`; `operations/cycle-template.md` | Implemented instructions and reusable record; first draft review recorded; no unattended jobs activated |
 | Draft evaluation and lessons | `../skills/one-word-wiser/references/evals.md`; `../skills/one-word-wiser/references/learning.md` | Shared pass/fail/pending checks; evidence-based lessons |
 | Daily letter structure | `02-daily-format.md`; `../skills/one-word-wiser/SKILL.md` | Current: word, meaning, reflection; clear human title; source checks; restrained dividers |
-| Current weekday working example | `posts/2026-09-15.md` | Listen With Your Heart: based on Evan’s sermon; paid practice and Talmudic story; Evan review and actual Substack paywall/phone preview pending |
+| Current weekday working example | `posts/2026-09-15.md` | Listen With Your Heart: expanded free Hebrew word study, paid practice and Talmudic story; saved draft 215764876 with native paywall and mobile/email preview checked; Evan review pending |
 | Saturday and Sunday structures | `02-daily-format.md`, Saturday/Sunday sections | Current; older full samples are reference drafts, not approved templates |
 | Rabbi’s Notes | `study-companion/sample-return.json`; `study-companion/build.py` | One-page PDF builder verified; one further-reading resource required; still a product prototype |
 | About and welcome emails | `samples/about-page.md`; `samples/welcome-email.md`; `samples/welcome-paid-email.md` | Current source copy from the September 14 consistency pass; live state must be reopened before a new edit |

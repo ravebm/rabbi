@@ -8,7 +8,7 @@ These are templates for Evan to use, not standing authorizations. Always begin w
 
 ## Upload approved copy as a draft
 
-> On rabbi.substack.com, inspect Drafts and Scheduled for the same title or date first. Update the matching post rather than making a duplicate. Use [file], preserving any newer edits I made in Substack. Title and subtitle come from the header. Paste only the reader-facing body below the first separator; retain all formatting and Hebrew vowel marks. Place only the specified cards and dividers. All launch letters through September 27 are free. Save as a draft, open the preview, and check it on a phone. Do not publish, schedule, or send a test email. Reply with the draft URL and anything that did not match.
+> On rabbi.substack.com, inspect Drafts and Scheduled for the same title or date first. Update the matching post rather than making a duplicate. Use [file], preserving any newer edits I made in Substack. Title and subtitle come from the header. Paste only the reader-facing body below the first separator; retain all formatting and Hebrew vowel marks. Place only the specified cards and dividers. Paid weekday continuations begin September 15, 2026; replace the approved [PAYWALL] marker with a native Substack boundary. Saturday and Sunday remain free. Save as a draft, open the preview, and check it on a phone. Do not publish, schedule, or send a test email. Reply with the draft URL and anything that did not match.
 
 ## Schedule an approved draft
 

@@ -35,7 +35,7 @@ Replies are allowed from Everyone and route to the publication owner when the fo
 - Read the exact target draft or post first. Preserve Evan’s newer edits. Search for an existing matching post before creating anything.
 - Keep native formatting, paragraphs, Hebrew vowel marks, approved title/subtitle, and only specified images. Read `skills/one-word-wiser/references/substack-readability.md`.
 - Do not paste metadata, source notes, internal instructions, or draft review flags into the body.
-- All launch letters are free through September 27, 2026. Remove the `[PAYWALL]` marker during launch. Future paywalls follow the approved current task, never an automatic date assumption during the rethink.
+- Paid weekday continuations begin September 15, 2026, by Evan’s September 14 decision. Replace an approved `[PAYWALL]` marker with a native Substack boundary after the complete free teaching. Saturday and Sunday stay free in full. Follow the current task for later changes.
 - Save draft-only unless the task explicitly authorizes scheduling or publishing. When scheduling, verify America/Chicago and the exact date/time on screen, plus audience, email/web delivery, and no section. Report any UI mismatch.
 - A narrow correction to an already published web post must preserve its existing delivery settings and must not resend it. The September 14 consistency task authorized only the current heading and launch-promise corrections; it does not authorize future archive rewrites.
 - Never send a test email to the list. Never change prices, billing, security, or account access while fixing editorial copy.

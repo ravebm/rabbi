@@ -28,3 +28,7 @@ Evan’s September 14, 2026 correction: use an elegant, familiar format with sho
 6. Synchronize the finished copy, assets, and reusable instructions to git and push the task branch. Nothing in this standard authorizes modifying other existing posts or scheduling a draft.
 
 Full worked example: `one-word-wiser/posts/2026-09-14.md`. Its preserved user edit is in `one-word-wiser/posts/revisions/2026-09-14-evan-substack-notes.md`.
+
+## Hebrew-first direction check
+
+In the September 15 draft, Substack’s `dir=auto` made the entire English body right-to-left because the first heading was Hebrew. A leading invisible left-to-right mark (U+200E) in the Hebrew heading corrected the surrounding English direction. Keep the Hebrew word and transliteration centered; verify the English and punctuation in actual mobile/email preview. Use this only when the direction issue is observed, and record it in the post’s internal layout notes.
