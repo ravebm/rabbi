@@ -1,8 +1,8 @@
 {
   "review_date": "2026-09-15",
-  "post_sha256": "313894f8a74779e253a813e9fb2ec692bbd89b37fb4b66d96556784913041d4f",
+  "post_sha256": "66747ee1b8b402ad28d935cea171e66ebff31adef1ac15eafcc918a80bbd5f41",
   "sheet_sha256": "35b689e2b68701b95a2882979fd3846aed56e05aefa86151647a12a6fef2ef87",
-  "status": "Local draft package. Evan approval and Substack upload pending.",
+  "status": "Article saved as Substack draft 215923540 for Evan review. Study-sheet upload and final offer/delivery remain pending.",
   "checks": {
     "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
     "hebrew": "Pass: selichah noun, definite article ha-, related salach verb; nasa is a separate root. Sefaria and lexical sources checked as listed in post notes.",
@@ -10,10 +10,10 @@
     "free_teaching": "Pass for proposed pilot: complete letter including reflection and sign-off; no offer promised in body.",
     "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
     "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
-    "reading": "Pass for local preview: desktop and 390px column visually reviewed; final 27 paragraphs, no overflowing blocks, full sign-off. Substack saved phone/email preview pending.",
+    "reading": "Pass: saved Substack editor reopened; body matches prepared formatted copy. Full Mobile preview opening, Hebrew lesson, and ending visually inspected; Email preview inspected. English direction corrected with leading U+200E. Full Desktop preview left open. Free audience selection reverted on reload and remains unresolved for delivery.",
     "pdf": "Pass: two Letter pages, designed for one double-sided sheet. Four translated source excerpts surround one central verse; explanation, a Sefat Emet teaching, three questions and two further readings on the reverse. All eight intended source links present; both final rendered pages visually inspected for Hebrew, clipping, overlap, spacing, page numbers, and footer.",
     "packaging": "Pass: title/subtitle/header/source notes separated, original draft preserved, companion and offer separate.",
-    "approval": "Pending: proposed free/paid offer not adopted; no publishing or email performed."
+    "approval": "Pending: article remains draft-only; proposed paid-sheet offer not configured. No publishing, scheduling, or email performed."
   },
   "sheet_review": {
     "layout": "commentary-study",
@@ -24,5 +24,21 @@
     "scope": "Sheet and reusable template revised for Evan’s requested depth. Article unchanged. No Substack action.",
     "source_note_sha256": "fe525b835483691f997ba3b5b13d93d0fa2fe81ede615c650fa121b446369ac7",
     "link_check": "All eight intended URLs embedded. BibleGateway, coauthor book page and Sacks essay returned HTTP 200. Sefaria HTML pages returned an automated-request 403; corresponding original text API endpoints were accessible and source texts verified."
+  },
+  "substack_draft": {
+    "id": 215923540,
+    "url": "https://rabbi.substack.com/publish/post/215923540",
+    "created_on": "2026-09-15",
+    "existing_match": "None among 22 Drafts; Scheduled empty.",
+    "saved_after_reload": true,
+    "section": "None",
+    "native_paywall_in_body": false,
+    "audience": "Paid-only default; Everyone selection did not persist after reload. Recheck during authorized delivery.",
+    "full_preview_mode": "Paid subscriber view",
+    "preview_sender": "Rabbi Evan Moffic <rabbi@substack.com>",
+    "study_sheet_attached": false,
+    "published": false,
+    "scheduled": false,
+    "test_email_sent": false
   }
 }
