@@ -4,13 +4,17 @@
 
 One email each morning at 6:00 Central. The live launch post is dated September 11, 2026, and the current teshuvah post is dated September 14. The earlier two-post September 12 brief in `archive/` is historical planning, not proof of what ran.
 
-All launch letters are free through September 27. The existing plan places weekday paywalls from September 28. Evan is rethinking the paid product; review the final offer before implementing that transition. A dated plan does not authorize scheduling, spending, or emailing.
+The September 27 launch cutoff is obsolete. The September 15 shema post uses a paid continuation. The September 16 pilot offers a complete free letter with a paid study-sheet download and immediate paid/founding welcome delivery; it is now published. See `study-companion/delivery-2026-09-16.md` for delivery setup and `growth/2026-09-16-substack-discovery-plan.md` for the latest read-only growth review. No daily or weekly study-sheet cadence is promised. A dated plan does not authorize scheduling, spending, or emailing.
 
 ## Keep the path simple
 
 A clear Hebrew/Bible promise leads to a free subscription, the `samples/welcome-email.md` welcome, and one useful daily letter. A natural paid invitation offers the full weekday reflection. Saturday and Sunday remain free in full.
 
-The Seven Words book is drafted but not published. Do not include it as an available welcome gift or ad promise until its URL is verified. The proposed weekly study companion has not been adopted either.
+The Seven Words book is drafted but not published. Do not include it as an available welcome gift or ad promise until its URL is verified. The first Rabbi’s Notes sheet is available to paid members; do not imply that a recurring weekly schedule has been adopted.
+
+## Current Substack discovery proposal
+
+Evan’s September 16 visual feedback favors the earlier Hebrew-word cards over the newer plain text cards in the Notes feed. The [dated discovery plan](growth/2026-09-16-substack-discovery-plan.md) records the actual feed comparison, subscriber-source baseline, and a proposed 14-day word-card/short-teaching experiment with carefully chosen writer relationships. It is not an active posting routine or evidence that graphics improve conversion. Keep article layout and social-preview artwork separate.
 
 ## Growth experiments, not commitments
 
