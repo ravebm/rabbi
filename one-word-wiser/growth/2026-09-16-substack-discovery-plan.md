@@ -2,6 +2,8 @@
 
 Status: research and proposed 14-day experiment. Evan asked how to grow within Substack and said the earlier Hebrew-word graphics looked better in Notes. No Note, recommendation, comment, outreach, new automation, or public post edit was made for this review.
 
+Subsequent approved action: Evan confirmed the Hebrew cards should return. The September 15 and 16 published social-preview images are now restored and visually verified in the feed. See [restoration record](2026-09-16-word-card-restoration.md). The broader experiment below remains proposed.
+
 ## What was checked
 
 - Profile/activity feed: https://substack.com/@rabbi. September 14 **You Can Still Come Home** displays the cream/navy Hebrew teshuvah word card. September 15 **What You Hear When You Really Listen** and September 16 **There Is No Secret to Forgiveness** display green text cards with small Hebrew. Visually inspected both treatments. This verifies the presentation difference, not a difference in subscriber conversion.

@@ -18,6 +18,14 @@ Evan’s September 14, 2026 correction: use an elegant, familiar format with sho
 - Use native text and paragraph alignment so the divider remains light and readable in email and on a phone. Leave normal paragraph space above and below. Avoid a large image, oversized letter, extra caption, or an invented connection between an object and a Hebrew word.
 - A plain native horizontal rule is also appropriate. If a later task explicitly requests illustrations, follow that request, but do not revive the rejected needle/teshuvah image association or add image generation to the standing workflow.
 
+## Hebrew-word social previews
+
+Evan's September 16 direction restores the prominent Hebrew-word cards for Substack feed and post previews. Keep the cream, navy, and gold treatment recognizable: large Hebrew with accurate vowel marks, a readable transliteration, and one English meaning. The human article title remains the title below the card. This is a social-preview standard, separate from the restrained article-body layout above; it does not restore decorative illustrations inside the letter.
+
+Use the post's Social preview image setting, preserve its title and description, and check the resulting card in the actual Substack profile/activity feed. For new cards, omit the old Morning/Evening label and date unless specifically useful. The September 15 and 16 previews were restored using their existing approved word-day assets, with those original labels retained. Do not overwrite Evan's live article edits from an older repository draft when updating artwork. Updating another existing published post still requires task authorization.
+
+Implementation and verification: `one-word-wiser/growth/2026-09-16-word-card-restoration.md`.
+
 ## Operator check
 
 1. Reopen the current draft and read Evan's latest text and inline notes before editing. Preserve a dated source revision in git when it carries material changes. Modify that same post, avoiding a duplicate.
