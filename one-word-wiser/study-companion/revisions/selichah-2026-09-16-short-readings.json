@@ -1,0 +1,71 @@
+{
+  "layout": "verse-and-four-readings",
+  "series": "THE RABBI’S NOTES",
+  "title": "Forgiveness",
+  "hebrew": "סְלִיחָה",
+  "pronunciation": "selichah · seh-lee-CHAH · forgiveness",
+  "verse": {
+    "hebrew_lines": ["כִּי־עִמְּךָ הַסְּלִיחָה", "לְמַעַן תִּוָּרֵא"],
+    "english": "But with you there is forgiveness, so that we can, with reverence, serve you.",
+    "reference": "Psalm 130:4",
+    "translation": "NIV",
+    "url": "https://www.biblegateway.com/passage/?search=Psalm+130%3A4&version=NIV"
+  },
+  "readings": [
+    {
+      "position": "upper-left",
+      "author": "Rashi",
+      "heading": "Turn toward God",
+      "text": "Rashi reads this as forgiveness that God has not delegated to an angel. The prayer directs us toward God, where divine pardon is sought.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Rashi_on_Psalms.130.4?lang=bi"
+    },
+    {
+      "position": "upper-right",
+      "author": "Ibn Ezra",
+      "heading": "Hope can spread",
+      "text": "When others hear that a sin has been forgiven, they may turn back too. One person’s forgiveness can encourage another person to change.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Ibn_Ezra_on_Psalms.130.4?lang=bi"
+    },
+    {
+      "position": "lower-left",
+      "author": "Meiri",
+      "heading": "A reason to try",
+      "text": "If repentance could never help, a person might give up after doing wrong. The promise of forgiveness keeps failure from becoming a reason for despair.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Meiri_on_Psalms.130.4?lang=bi"
+    },
+    {
+      "position": "lower-right",
+      "author": "Malbim",
+      "heading": "Mercy inspires awe",
+      "text": "A ruler may use punishment to make people afraid. Malbim sees God’s greatness revealed in forgiveness itself. Mercy can awaken reverence.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Malbim_on_Psalms.130.4?lang=bi"
+    }
+  ],
+  "questions": [
+    "Why might being forgiven deepen reverence?",
+    "Whose example has helped you believe that change is possible?",
+    "Does forgiveness make you more accountable, or less? Why?"
+  ],
+  "further_reading": [
+    {
+      "author": "Rabbi Jonathan Sacks",
+      "title": "The Birth of Forgiveness",
+      "url": "https://rabbisacks.org/covenant-conversation/vayigash/the-birth-of-forgiveness/",
+      "note": "Joseph, Judah, and the possibility of change.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "author": "Psalm 130",
+      "title": "Read the whole prayer",
+      "url": "https://www.biblegateway.com/passage/?search=Psalm+130&version=NIV",
+      "note": "From the depths toward hope.",
+      "verified_on": "2026-09-15"
+    }
+  ],
+  "footer": "Commentaries paraphrased from the source texts. Bible quotation: NIV.",
+  "status": "REVIEW COPY · SEPTEMBER 16, 2026"
+}

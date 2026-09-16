@@ -4,11 +4,11 @@
 
 ## The offer
 
-A complete daily letter for everyone. A printable page for readers who want to study the word more closely, included with a paid subscription.
+A complete daily letter for everyone. A printable study sheet for readers who want to study the word more closely, included with a paid subscription.
 
 “Customized” means specific to that word and teaching. Do not promise an individually written lesson for every subscriber. Existing paid members receive the same resource as new paid members.
 
-For the first test, use the September 16 selichah letter and its one-page sheet. Evan’s September 15 follow-up proposes making the end of free posts a recurring opportunity to invite further study. The reusable pattern below extends the proposal beyond a one-time subscriber gift; it does not activate a publication-wide offer or commit to a daily or weekly production cadence. A single download may encourage an initial upgrade; recurring membership needs continuing value. One day of encouraging feedback does not establish conversion or retention.
+For the first test, use the September 16 selichah letter and its double-sided study sheet. Evan’s September 15 follow-up proposes making the end of free posts a recurring opportunity to invite further study. The reusable pattern below extends the proposal beyond a one-time subscriber gift; it does not activate a publication-wide offer or commit to a daily or weekly production cadence. A single download may encourage an initial upgrade; recurring membership needs continuing value. One day of encouraging feedback does not establish conversion or retention.
 
 ## Recurring end-of-post pattern
 
@@ -25,7 +25,7 @@ Proposed short copy for the first companion:
 
 > **The Rabbi’s Notes**
 >
-> How can forgiveness deepen reverence? Explore one verse with four Jewish interpretations in a printable study sheet, with questions for reflection or discussion.
+> How can forgiveness deepen reverence? Study one verse with four Jewish commentaries, a Hasidic teaching, and questions for reflection or discussion in a printable sheet.
 >
 > Included with a paid subscription.
 
@@ -37,17 +37,17 @@ Editorial hypothesis: the complete free letter can earn trust and reach, while a
 
 - Article: `../posts/2026-09-16.md`, **Forgiveness Doesn’t Erase What Happened**. Full article is free in the review candidate.
 - Sheet source: `selichah-2026-09-16.json`.
-- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness**. Review footer identifies it as a proposed paid sheet.
+- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness**. Review footer identifies it as a review copy.
 - Preview: `../../output/previews/2026-09-16.html`. Local layout approximation, not an actual saved Substack mobile preview.
 - Preserved prior draft: `../posts/revisions/2026-09-16-before-free-study-pilot.md`.
 
-The current sheet places Psalm 130:4 in Hebrew and English at the center, surrounded by short readings from Rashi, Ibn Ezra, Meiri, and Malbim. Three questions and two further-reading links follow, including a verified Jonathan Sacks essay. It extends the letter with interpretation and discussion. The revised layout follows Evan’s September 15 request for more white space and a page inspired by the Talmud.
+The current two-page sheet places Psalm 130:4 in Hebrew and English at the center of the front, surrounded by actual commentary excerpts from Rashi, Ibn Ezra, Meiri, and Malbim. The reverse explains their arguments, adds a Sefat Emet teaching on repentance from love, and offers three questions and two further readings: Kushner and Olitzky’s book and a verified Jonathan Sacks essay. It follows Evan’s request for the depth of the Kushner book, with space for both the sources and an accessible explanation.
 
 ## Proposed invitation, after the complete letter
 
 Use only once the resource is actually attached and its paid access is verified:
 
-> For a closer look, I’ve made a one-page study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness** is included with a paid subscription.
+> For a closer look, I’ve made a double-sided study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness** is included with a paid subscription.
 
 Native upgrade/subscribe button follows. Do not promise an immediate emailed attachment to someone who has already paid; the sheet is available in the post.
 
@@ -70,7 +70,7 @@ This is capability verification, not proof that the pilot is configured. Actual 
 
 Add only after the post/resource destination exists; replace the bracketed phrase with its verified link. This is an insertion for review, not a replacement for the whole welcome email:
 
-> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness], a one-page study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
+> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness], a double-sided study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
 
 No claim of subscriber-specific automated routing. A new member coming from an older article should still be able to reach that article’s sheet after signing in; verify the upgrade-return flow before describing it as automatic delivery.
 

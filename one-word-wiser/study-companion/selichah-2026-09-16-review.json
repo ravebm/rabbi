@@ -1,7 +1,7 @@
 {
   "review_date": "2026-09-15",
   "post_sha256": "313894f8a74779e253a813e9fb2ec692bbd89b37fb4b66d96556784913041d4f",
-  "sheet_sha256": "d76df7dea72ed89bd492ef5880f867f8261febb756f17e67d53d68a3278f5fb8",
+  "sheet_sha256": "35b689e2b68701b95a2882979fd3846aed56e05aefa86151647a12a6fef2ef87",
   "status": "Local draft package. Evan approval and Substack upload pending.",
   "checks": {
     "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
@@ -11,16 +11,18 @@
     "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
     "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
     "reading": "Pass for local preview: desktop and 390px column visually reviewed; final 27 paragraphs, no overflowing blocks, full sign-off. Substack saved phone/email preview pending.",
-    "pdf": "Pass: redesigned as one central verse with four surrounding readings, three questions and two further-reading links. Single Letter page, seven source links; final rendered page inspected for clear Hebrew, clipping, overlap, and white space.",
+    "pdf": "Pass: two Letter pages, designed for one double-sided sheet. Four translated source excerpts surround one central verse; explanation, a Sefat Emet teaching, three questions and two further readings on the reverse. All eight intended source links present; both final rendered pages visually inspected for Hebrew, clipping, overlap, spacing, page numbers, and footer.",
     "packaging": "Pass: title/subtitle/header/source notes separated, original draft preserved, companion and offer separate.",
     "approval": "Pending: proposed free/paid offer not adopted; no publishing or email performed."
   },
   "sheet_review": {
-    "layout": "verse-and-four-readings",
+    "layout": "commentary-study",
     "source_note": "selichah-2026-09-16-sources.md",
-    "source_json_sha256": "08d5782056f0e3af0eb25908e28e5ae91a205d968d6598e3c9168d38ac5f3544",
-    "interpretations": "Rashi, Ibn Ezra, Meiri and Malbim on Psalm 130:4; all actual commentary texts read September 15, 2026. Concise English paraphrases, not quotation.",
-    "further_reading": "Sacks essay and full Psalm 130; same-day source verification reused.",
-    "scope": "Layout and companion text revised at Evan’s request. Article unchanged. No Substack action."
+    "source_json_sha256": "09809ab081f8fadcb55af5708fd35498e0c06b0a13e07bc6972061457eb1a5d6",
+    "interpretations": "Rashi, Ibn Ezra, Meiri and Malbim on Psalm 130:4: original Hebrew read in full, excerpts translated and omissions marked. Sefat Emet, Genesis, Vayigash 24:4 also read in the original. Working translations; final editorial approval pending.",
+    "further_reading": "Kushner and Olitzky, Sparks Beneath the Surface, printed pp. 55-56, supplied chapter read and coauthor book page verified; Sacks essay, same-day full-text review reused.",
+    "scope": "Sheet and reusable template revised for Evan’s requested depth. Article unchanged. No Substack action.",
+    "source_note_sha256": "fe525b835483691f997ba3b5b13d93d0fa2fe81ede615c650fa121b446369ac7",
+    "link_check": "All eight intended URLs embedded. BibleGateway, coauthor book page and Sacks essay returned HTTP 200. Sefaria HTML pages returned an automated-request 403; corresponding original text API endpoints were accessible and source texts verified."
   }
 }

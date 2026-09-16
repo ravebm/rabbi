@@ -1,5 +1,5 @@
 {
-  "layout": "verse-and-four-readings",
+  "layout": "commentary-study",
   "series": "THE RABBI’S NOTES",
   "title": "",
   "hebrew": "",
@@ -21,7 +21,9 @@
       "heading": "",
       "text": "",
       "reference": "",
-      "url": ""
+      "url": "",
+      "selection": "",
+      "verified_on": ""
     },
     {
       "position": "upper-right",
@@ -29,7 +31,9 @@
       "heading": "",
       "text": "",
       "reference": "",
-      "url": ""
+      "url": "",
+      "selection": "",
+      "verified_on": ""
     },
     {
       "position": "lower-left",
@@ -37,7 +41,9 @@
       "heading": "",
       "text": "",
       "reference": "",
-      "url": ""
+      "url": "",
+      "selection": "",
+      "verified_on": ""
     },
     {
       "position": "lower-right",
@@ -45,7 +51,9 @@
       "heading": "",
       "text": "",
       "reference": "",
-      "url": ""
+      "url": "",
+      "selection": "",
+      "verified_on": ""
     }
   ],
   "questions": [
@@ -59,9 +67,32 @@
       "title": "",
       "url": "",
       "note": "",
+      "display_note": "",
       "verified_on": ""
     }
   ],
-  "footer": "Commentaries paraphrased from the source texts. Bible quotation: NIV.",
-  "status": "REVIEW COPY"
+  "footer": "Commentary excerpts: working translations from Hebrew. Ellipses mark omissions. Bible verse: NIV.",
+  "status": "REVIEW COPY",
+  "guiding_question": "",
+  "commentary": {
+    "title": "",
+    "label": "EXPLAINING THE READINGS",
+    "paragraphs": [
+      "",
+      ""
+    ]
+  },
+  "related_teaching": {
+    "label": "A RELATED TEACHING",
+    "title": "",
+    "author": "",
+    "excerpt": "",
+    "reference": "",
+    "url": "",
+    "verified_on": "",
+    "paragraphs": [
+      "",
+      ""
+    ]
+  }
 }

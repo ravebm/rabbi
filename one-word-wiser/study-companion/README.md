@@ -1,39 +1,50 @@
 # The Rabbi’s Notes
 
-**Current layout: one verse with four surrounding readings. Updated September 15, 2026 at Evan’s request.**
+**Current format: a verse surrounded by real commentary, with explanation and discussion on the reverse. Updated September 15, 2026 after Evan supplied the Kushner book.**
 
-The paid subscriber offer remains a proposal. The [free-letter pilot](free-letter-pilot-2026-09-16.md) describes placement and delivery; this document defines the reusable page.
+The paid subscriber offer remains a proposal. The [free-letter pilot](free-letter-pilot-2026-09-16.md) describes proposed placement and delivery; this document defines the reusable study format.
 
-## The simple template
+## Editorial standard
 
-A single portrait page inspired by a Talmud page: the primary text is central and commentary surrounds it. Use four readings total, two on the left and two on the right. This is a contemporary study-page design, not a reproduction of a Talmud folio.
+Evan corrected the earlier prototype: four miniature summaries were too shallow. The aim is a page readers can actually study. Use complete short commentaries or substantial, faithful excerpts that retain the teacher’s reasoning. Do not turn each source into a slogan or force all sources into equal word counts.
 
-- Small series name and a clear title at the top; Hebrew word, pronunciation, and meaning beside it.
-- One verse in the middle, in Hebrew and English, with its reference. The main text is visibly larger than the commentary.
-- Four short, attributed interpretations around that same verse. Aim for 20–30 words each; 35 is the maximum. Explain a real difference in emphasis without manufacturing disagreement. Do not fill space with four versions of the same observation.
-- Two or three short questions below the readings.
-- One or two further-reading links at the bottom, including a verified piece by Rabbi Evan Moffic or Rabbi Jonathan Sacks.
+The reference is Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Its “How to Use This Book” describes a primary biblical text, a traditional teaching, explanation, context, and related tradition. The chapter “Teshuvah as Rewriting the Past” (printed pp. 55–56) is a useful example of depth across two pages. Borrow this structural principle, not the authors’ prose or page images. The user’s book PDF remains outside the repository.
 
-Keep generous margins and gaps between readings. Use navy text on white, serif body type, and light rules. No illustrations, colored panels, dense paragraphs, or supplementary essay on the page. Shorten the copy when it does not fit; never shrink the type to force it in. Source notes for Evan belong in a separate file.
+## A simple, substantial template
 
-## Sources and further reading
+One double-sided Letter sheet, two PDF pages:
 
-Read each actual source in context. Name the author, link directly to the relevant passage, and make clear when the wording is a paraphrase. Distinguish a commentator’s interpretation from a lexical definition. If a contemporary reflection is included, label it as such; do not attribute it to an ancient source.
+**Front: the text and its commentators.** Put one verse in Hebrew and English in the center, with four actual commentaries around it: two on each side. Name each commentator, preserve the argument, and link to the exact source. Short editorial headings help readers navigate. Commentaries may differ in length. A clear question draws attention to the interpretive difficulty in the verse. The Hebrew word, pronunciation, and meaning remain prominent at the top.
 
-Each page includes one relevant piece of writing by Evan or Jonathan Sacks. Prefer a freely readable essay or excerpt. Verify title, author, destination, and relevance; label any purchase/subscription requirement. Do not link an unpublished draft as a reader resource.
+**Back: understanding the conversation.** Explain what the commentators notice and how their readings relate. Do not manufacture disagreement where two readings overlap. Add one relevant traditional teaching with its own excerpt, source, and explanation when it adds depth. Finish with two or three useful questions and one or two further readings.
 
-Store `author`, `title`, `url`, `note`, and `verified_on` in the `further_reading` list. The compact page prints the author and linked title; the note records the reason for choosing it in the editable source. A second optional link can point to the full biblical passage or another useful reading.
+Keep generous margins, clear gaps, navy text on white, serif body type, and light rules. The main verse is visibly larger than the commentary. No illustrations or decorative panels. The current format is designed for print; narrow commentary columns need zooming on a phone. Do not describe it as a verified Substack mobile layout.
+
+Depth and white space matter together. The rejected 35-word maximum is retired. Preserve enough source text to make the argument intelligible. If a source does not fit, select a coherent passage, mark omissions, or adapt the layout deliberately. Never make the body type smaller to squeeze it in, and never simplify away the substance.
+
+## Source discipline
+
+Read each original source in context. Distinguish three kinds of writing visibly:
+
+1. **Source excerpt:** a quotation from a named translation or a clearly labeled working translation from the original. Mark omitted material with ellipses; never put a paraphrase in quotation marks.
+2. **Explanation:** newly drafted prose that guides the reader through the argument. It is not another quotation from the commentator or a claim that Evan has previously published it.
+3. **Application:** a present-day interpretation, with care about what the source does and does not establish.
+
+Do not treat a commentator’s theological interpretation as a dictionary definition. Verify every location and link. Preserve textual differences where they matter. Label a working translation as such and leave the review status until Evan approves it.
+
+Each sheet includes a relevant resource by Evan or Jonathan Sacks. Prefer a free essay or excerpt, verify its content, and label a book or paid resource accurately. A second reading can be another source or a book chapter. Do not link unpublished drafts as reader resources. Store verification dates and selection notes in the JSON and a separate source-review file.
 
 ## Files
 
-- `template.json`: blank reusable content structure. Its empty fields deliberately prevent building until a writer supplies verified content.
-- `selichah-2026-09-16.json`: filled working example, **Forgiveness**, centered on Psalm 130:4.
-- `build.py`: entry point; chooses the layout from the source JSON.
-- `verse_page.py`: renderer and fit checks for this format.
-- `selichah-2026-09-16-sources.md`: interpretation and source review for the example.
-- `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`: current one-page review PDF.
-- `revisions/selichah-2026-09-16-linear.json`: preserved earlier text and layout source.
-- `sample-return.json`: the original linear prototype. Still builds when explicitly selected; it is not the current layout template.
+- `template.json`: blank reusable structure; incomplete fields deliberately prevent a build.
+- `selichah-2026-09-16.json`: current example, **Forgiveness**, centered on Psalm 130:4.
+- `build.py`: entry point; selects the renderer from the JSON layout.
+- `commentary_page.py`: current two-page renderer and overflow checks.
+- `selichah-2026-09-16-sources.md`: source and interpretation review.
+- `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`: current two-page review PDF.
+- `revisions/selichah-2026-09-16-short-readings.json`: preserved miniature-summary version, rejected as too shallow.
+- `revisions/selichah-2026-09-16-linear.json`: earlier linear version.
+- `verse_page.py` and `sample-return.json`: legacy layouts retained for rebuilding earlier versions; they do not define the current editorial standard.
 
 ## Build and review
 
@@ -45,12 +56,12 @@ python3 one-word-wiser/study-companion/build.py \
   --output output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf
 ```
 
-Dependencies: ReportLab and `uharfbuzz`. Fonts: existing Garamond and Frank Ruhl Libre files in `one-word-wiser/brand/fonts/`. The renderer performs no network, upload, or scheduling action.
+Dependencies: ReportLab and `uharfbuzz`; existing Garamond and Frank Ruhl Libre fonts in `one-word-wiser/brand/fonts/`. The renderer performs no upload, email, or scheduling action.
 
-For another word, copy the blank JSON, fill its verse/readings/questions/resources, and pass its paths explicitly. The builder checks four unique reading positions, short commentary, direct links, a verified further reading by Evan or Sacks, and text fit. It cannot verify the truth of an interpretation: that requires reading the sources.
+For another word, fill the blank template with verified content and pass its source and output paths explicitly. The builder checks required sources, four distinct reading positions, resource links, a verified reading by Evan or Sacks, and text fit. It cannot judge the truth of an interpretation or the accuracy of a translation.
 
-After building, render the PDF to an image and inspect the Hebrew, vowel marks, all four commentaries, links, spacing, and footer. Confirm one page. Keep the review status until Evan approves the artifact for readers. A saved PDF is not proof of a saved Substack attachment or paid access.
+Render and visually inspect **both** pages after the final edit. Check Hebrew and vowel marks, all source excerpts, explanation, links, spacing, page numbers, and footer. Confirm two pages and no clipped text. Keep the review label until Evan approves the artifact for readers. A saved PDF does not establish a saved Substack attachment or working paid access.
 
-## Editorial purpose
+## Publication scope
 
-The daily letter can offer a complete teaching. This page gives interested readers a small, usable conversation around a biblical text. The paid invitation and its cadence remain subject to the current publication decision; the layout itself makes no new subscriber promise.
+This template does not activate a new membership offer or cadence. The daily letter can deliver a complete teaching while the sheet offers close reading, several substantial Jewish voices, and questions for personal or group study. The proposed free-letter/paid-sheet arrangement still needs Evan’s publication decision and a separately verified delivery setup.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a one-page study companion from approved local copy. No delivery."""
+"""Build a study companion from local review copy. No delivery."""
 import argparse
 import json
 from pathlib import Path
@@ -23,6 +23,9 @@ RULE = HexColor('#D5D9DC')
 
 def build(source, output):
     data = json.loads(source.read_text())
+    if data.get('layout') == 'commentary-study':
+        from commentary_page import build_commentary_study
+        return build_commentary_study(data, output)
     if data.get('layout') == 'verse-and-four-readings':
         from verse_page import build_verse_page
         return build_verse_page(data, output)
