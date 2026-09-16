@@ -1,0 +1,18 @@
+{
+  "review_date": "2026-09-15",
+  "post_sha256": "313894f8a74779e253a813e9fb2ec692bbd89b37fb4b66d96556784913041d4f",
+  "sheet_sha256": "94bf78d465f3330f85035c2d51337073a4a35b83587fa54f80697212fb3b7885",
+  "status": "Local draft package. Evan approval and Substack upload pending.",
+  "checks": {
+    "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
+    "hebrew": "Pass: selichah noun, definite article ha-, related salach verb; nasa is a separate root. Sefaria and lexical sources checked as listed in post notes.",
+    "source_fidelity": "Pass: NIV quotations and Hebrew texts freshly checked; Maimonides and Sacks claims paraphrased with sources. No invented personal story.",
+    "free_teaching": "Pass for proposed pilot: complete letter including reflection and sign-off; no offer promised in body.",
+    "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
+    "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
+    "reading": "Pass for local preview: desktop and 390px column visually reviewed; final 27 paragraphs, no overflowing blocks, full sign-off. Substack saved phone/email preview pending.",
+    "pdf": "Pass: one page, five live link annotations, embedded Hebrew inspected in rendered PNG; no overlap or clipping.",
+    "packaging": "Pass: title/subtitle/header/source notes separated, original draft preserved, companion and offer separate.",
+    "approval": "Pending: proposed free/paid offer not adopted; no publishing or email performed."
+  }
+}

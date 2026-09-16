@@ -56,3 +56,7 @@ Dependencies: ReportLab with `uharfbuzz` for the Hebrew vowel marks. Uses the ex
 The sample uses Hosea 14:1 NIV (Hebrew 14:2), Berakhot 34b:22–23, and Maimonides’ Mishneh Torah, Repentance 2:9. The rabbinic material is paraphrased. Rabbi Abbahu’s statement is presented as one side of a Talmudic disagreement. The Hosea verb is distinguished from the later noun teshuvah; “coming home” is identified as interpretation. Maimonides’ text was checked in the bilingual Moznaim/Chayenu excerpt hosted by TheYeshiva.net, page 6. The source links are embedded in the PDF.
 
 Further reading: Rabbi Jonathan Sacks, [Transforming the Story](https://rabbisacks.org/covenant-conversation/vayechi/transforming-the-story/). The full essay on the official Rabbi Sacks Legacy site was read and its access checked September 14, 2026. It discusses Joseph, his brothers, and repentance as a change in the meaning of the past through changed choices. The PDF’s brief description is a paraphrase, not a quotation.
+
+## September 16 review candidate
+
+Evan’s September 15 suggestion led to a [free-letter pilot proposal](free-letter-pilot-2026-09-16.md), with a completed selichah letter and one-page **Forgiveness and Repair** sheet. It is not yet an adopted paid benefit or a configured welcome-email offer.

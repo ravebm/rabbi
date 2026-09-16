@@ -1,0 +1,58 @@
+# Free letter + The Rabbi’s Notes: proposed September 16 pilot
+
+**Status:** Review package only. Evan suggested this on September 15 after publishing the shema letter. No offer, price, email, live post, or delivery setting has been changed. The existing weekday paid-continuation policy remains the default outside this proposed pilot.
+
+## The offer
+
+A complete daily letter for everyone. A printable page for readers who want to study the word more closely, included with a paid subscription.
+
+“Customized” means specific to that word and teaching. Do not promise an individually written lesson for every subscriber. Existing paid members receive the same resource as new paid members.
+
+For the first test, use only the September 16 selichah letter and its one-page sheet. Do not announce a daily or weekly sheet cadence until Evan chooses it and we demonstrate we can sustain it. A single download may encourage an initial upgrade; recurring membership needs continuing value. One day of encouraging feedback does not establish conversion or retention.
+
+## Prepared package
+
+- Article: `../posts/2026-09-16.md`, **Forgiveness Doesn’t Erase What Happened**. Full article is free in the review candidate.
+- Sheet source: `selichah-2026-09-16.json`.
+- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness and Repair**. Review footer identifies it as a proposed paid sheet.
+- Preview: `../../output/previews/2026-09-16.html`. Local layout approximation, not an actual saved Substack mobile preview.
+- Preserved prior draft: `../posts/revisions/2026-09-16-before-free-study-pilot.md`.
+
+The sheet adds Judah’s changed choices (Genesis 37:26-27 and 44:33), Maimonides’ account of repentance and restitution, two discussion questions, a practical reflection, and one verified further-reading essay by Rabbi Jonathan Sacks. This is useful for personal study or a Bible study group. It extends the letter rather than withholding its conclusion.
+
+## Proposed invitation, after the complete letter
+
+Use only once the resource is actually attached and its paid access is verified:
+
+> For a closer look, I’ve made a one-page study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness and Repair** is included with a paid subscription.
+
+Native upgrade/subscribe button follows. Do not promise an immediate emailed attachment to someone who has already paid; the sheet is available in the post.
+
+## Simplest delivery
+
+1. Keep the full article, including its ending and sign-off, above the paywall. Put the invitation after the sign-off, then the paywall, then the PDF attachment. This changes what is paid: the resource, rather than the end of the article. The post may still carry a paid designation in Substack even though the complete letter is free; verify this before promising an entirely free post label.
+2. Paid readers can download the sheet from the same post. Avoid a second email or a second post for the same day.
+3. A paid welcome email can link to this post during the initial pilot, making the sheet easy for new subscribers to find. A stable resource index would make sense if Evan adopts a continuing series. Direct file embeds are also supported in welcome emails, but updating one attachment every day would add maintenance; a permanent resource link is simpler over time.
+4. Founding subscribers have a separate welcome template. If this offer is adopted, review both paid and founding paths so either paid tier can find it. Do not edit the free welcome email, subscriber list, or unrelated settings.
+5. Keep the PDF link within the member experience. A downloadable file can be forwarded; this is a membership benefit, not a promise of copy protection.
+
+Official capabilities verified September 15, 2026:
+
+- [File attachments, including PDFs, in posts and automated welcome emails](https://support.substack.com/hc/en-us/articles/4408381643156-How-can-I-attach-a-file-to-my-Substack-post).
+- [Separate welcome templates for paid, free, imported, and founding subscribers](https://support.substack.com/hc/en-us/articles/24034796625428-How-do-I-set-up-welcome-emails-on-Substack).
+
+This is capability verification, not proof that the pilot is configured. Actual placement, free/paid access, and saved phone/email previews remain to be checked in Substack after Evan approves the draft and chooses the offer.
+
+## Prepared paid-welcome insertion
+
+Add only after the post/resource destination exists; replace the bracketed phrase with its verified link. This is an insertion for review, not a replacement for the whole welcome email:
+
+> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness and Repair], a one-page study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
+
+No claim of subscriber-specific automated routing. A new member coming from an older article should still be able to reach that article’s sheet after signing in; verify the upgrade-return flow before describing it as automatic delivery.
+
+## Review and learning
+
+Before delivery: approve the exact article and offer; remove the review-only PDF footer; check for an existing September 16 draft; save the approved copy there; place the attachment after the complete letter; inspect free and paid previews on desktop and phone; verify the attachment opens. Publishing and emailing require Evan’s separate delivery instruction.
+
+After any authorized send: record paid upgrades attributed to this post if Substack supplies them, article readership, unsubscribes, and replies mentioning use of the sheet. Record unavailable measures as unavailable. Compare over several comparable posts, including the cost of preparing and checking the sheets. Do not claim a causal conversion lift from one post or assume file-download counts are available.

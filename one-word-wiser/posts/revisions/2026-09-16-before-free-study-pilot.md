@@ -1,0 +1,68 @@
+# Wednesday, September 16 — ☀️ THE WORD · *selichah*
+
+**Subject:** ☀️ סְלִיחָה · selichah · forgiveness
+**Audience:** Everyone · **Paywall:** at the door (deleted in weeks 1–2) · **Send:** 6:00 am CT
+**Opening:** the two fixed lines (In English / In Hebrew) stay as the first lines of text, before the Word card
+**Cards:** word-day at the top · line-night at the line to sleep on (no line-day card: the line to carry is cut)
+**Dividers:** centered — ס — after "It says \"I'll carry it.\"" and before "Notice what he doesn't say." · native text, with samekh bold · no added illustrations
+**Notes:** (1) Only God erases. People carry. for 9 am  (2) Be the kind of person who answers the door on the third knock. for 9 pm
+
+---
+
+**In English:** *forgiveness.*
+**In Hebrew:** *selichah* — a word the Bible uses only of God.
+
+<div align="center">
+
+# סְלִיחָה
+
+*selichah* (seh-lee-CHAH) — forgiveness
+
+</div>
+
+Say it once. *Selichah.* The *ch* at the end comes from the back of the throat. In Israel today it's also the word for "excuse me," said a hundred times a day on a crowded bus.
+
+## One Key Verse
+
+But in the Hebrew Bible the word is rarer than that, and stranger. Because of who gets to use it.
+
+> **"But with you there is forgiveness, so that we can, with reverence, serve you."** — Psalm 130:4 (NIV)
+> *Ki imcha ha**selichah**, l'ma'an tivarei.*
+
+The word under "forgiveness" is *selichah*. Its verb, *salach*, has only one subject in the whole Hebrew Bible: God. Every single time. Moses asks God to *salach*. Solomon asks God to *salach*. No person in the Bible ever does it for another person.
+
+## A Different Word for People
+
+So what do people do when they forgive each other? They use a different word. *Nasa.* To lift. To carry. When Joseph's brothers beg him, the verb is *nasa*: carry our wrong. When Abigail asks David, *nasa*. When Pharaoh asks Moses, *nasa*.
+
+That is the whole difference, and it's a relief once you see it. Human forgiveness is not erasing. Only God erases. Human forgiveness is picking something up and carrying it, so the other person doesn't have to carry it alone. It doesn't pretend the weight isn't there. It changes who is holding it.
+
+"I forgive you," in Hebrew, doesn't say "it never happened." It says "I'll carry it."
+
+<p style="text-align: center">— <strong>ס</strong> —</p>
+
+## Asking for Forgiveness
+
+*But the Jewish sages went further. They made forgiveness a rule, with a number in it. The person who did wrong has to ask, and the person who was wronged has to answer. How many times does the wrongdoer have to ask? And what happens if you still say no?*
+
+`[PAYWALL]`
+
+The rule is written down by Maimonides, the great twelfth-century rabbi, in his Laws of Repentance. It surprises people who think forgiveness is a feeling.
+
+First he describes what the wrongdoer must do: go to the person and ask. If refused, come back with three friends and ask again. And again. Three times. After that, the wrongdoer has done their part, and the one who keeps refusing becomes the one at fault.
+
+Then he turns to the one who was wronged. It is forbidden to be cruel and refuse to be appeased. Be easy to pacify and slow to anger, and when the one who hurt you asks, forgive with a whole heart and a willing spirit.
+
+<p style="text-align: center">— <strong>ס</strong> —</p>
+
+Notice what he doesn't say. He doesn't say feel better. He doesn't say trust them again. He doesn't say the ledger is wiped, because it isn't; that word belongs to God. He says: be the kind of person who can be reached.
+
+*Be the kind of person who answers the door on the third knock.*
+
+Tomorrow: *chesed*, loyal love.
+
+— Rabbi Evan
+
+---
+
+*Notes for Evan — sources:* salach *with God as its only subject is a standard observation (Numbers 14:19–20; 1 Kings 8:30–39; Psalm 103:3);* nasa *for human forgiveness: Genesis 50:17, 1 Samuel 25:28, Exodus 10:17. Maimonides, Mishneh Torah, Laws of Repentance 2:9 (the three requests, and the refuser becomes the sinner) and 2:10 (forbidden to be cruel; forgive with a whole heart). I left the Matthew 6:12 "debts" echo out; Tuesday and Thursday carry the week's two.*
