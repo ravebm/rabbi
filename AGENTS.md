@@ -28,7 +28,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/posts/` | The dated drafts, one file a day, cards in `posts/cards/` | Writers, Operators |
 | `one-word-wiser/archive/` | Retired plans kept for the record (including the two-post launch brief). Never draft from these | — |
 | `one-word-wiser/operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline | Operators (Hermes/Codex/Claude driving Substack) |
-| `one-word-wiser/study-companion/README.md` | Verse-centered study-sheet template and proposed paid offer; not a live subscriber promise | Everyone |
+| `one-word-wiser/study-companion/README.md` | Study-sheet standard: Kushner/Olitzky chapters are the approved editorial model; paid offer remains proposed | Everyone |
 | `one-word-wiser/substack-audit-2026-09-14.md` | Latest consistency corrections and remaining product decisions | Everyone |
 | `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent, including the Codex prompt that uploads drafts to Substack | Evan |
 | `one-word-wiser/template-index.md` | Template readiness, current sources, and remaining checks | Everyone |
@@ -44,6 +44,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 - **Writer** (any agent asked for posts): follow `skills/one-word-wiser/SKILL.md` exactly. Output Substack-ready Markdown. Never publish — Evan approves every post.
 - **Operator** (any agent driving Substack's UI): follow `one-word-wiser/operator-brief-substack-setup.md` exactly. Paste copy verbatim. Change nothing not listed. Report back with the checklist at the end of the brief.
 - **Readable posts:** writers and operators also read `skills/one-word-wiser/references/substack-readability.md`. Evan's September 14 direction calls for a familiar, elegant format, short content-specific subheadings, and restrained typographic dividers. He retired the product label “secret” and the recurring application heading “Let It Change Your Life.” Do not restore them. Apply the current task's scope: editorial polish when authorized; prepared copy preserved during upload; draft-only unless delivery is explicitly authorized.
+- **Study-sheet writers:** read `one-word-wiser/study-companion/README.md`. Evan’s September 15 direction makes the chapters of Kushner and Olitzky’s *Sparks Beneath the Surface* the model for the whole series: a central biblical text, substantial traditional commentary, accessible explanation, context, and related teachings. Preserve the reasoning of real sources; do not reduce the format to miniature inspirational summaries. The paid offer and delivery remain separate decisions.
 - **Evan** decides everything marked **DECIDE** in the docs. Agents do not resolve those on their own; they use the stated defaults and flag it.
 
 ## Non-negotiables (all agents)

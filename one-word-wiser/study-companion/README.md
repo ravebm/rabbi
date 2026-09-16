@@ -1,6 +1,6 @@
 # The Rabbi’s Notes
 
-**Current format: a verse surrounded by real commentary, with explanation and discussion on the reverse. Updated September 15, 2026 after Evan supplied the Kushner book.**
+**Approved editorial model: the chapters of Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Evan confirmed September 15, 2026: “each chapter here should be a model for our study sheets.”**
 
 The paid subscriber offer remains a proposal. The [free-letter pilot](free-letter-pilot-2026-09-16.md) describes proposed placement and delivery; this document defines the reusable study format.
 
@@ -8,7 +8,25 @@ The paid subscriber offer remains a proposal. The [free-letter pilot](free-lette
 
 Evan corrected the earlier prototype: four miniature summaries were too shallow. The aim is a page readers can actually study. Use complete short commentaries or substantial, faithful excerpts that retain the teacher’s reasoning. Do not turn each source into a slogan or force all sources into equal word counts.
 
-The reference is Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Its “How to Use This Book” describes a primary biblical text, a traditional teaching, explanation, context, and related tradition. The chapter “Teshuvah as Rewriting the Past” (printed pp. 55–56) is a useful example of depth across two pages. Borrow this structural principle, not the authors’ prose or page images. The user’s book PDF remains outside the repository.
+The reference is Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Its “How to Use This Book” describes a primary biblical text, a traditional teaching, explanation, context, and related tradition. The chapter “Teshuvah as Rewriting the Past” (printed pp. 55–56) informed the first revised sheet. Evan’s approval applies to the book’s chapters as the recurring model across the series, beyond this one example. Borrow the structure, depth, and way of guiding a reader through a teaching; write original explanations and verify the traditional sources independently. The user’s book PDF remains outside the repository.
+
+## A chapter as the model for each sheet
+
+Give each sheet the coherence of a short chapter: one biblical passage, one substantial interpretive question, and a developed conversation around it. The central verse is the focus of the argument, not a decorative centerpiece. A reader should finish understanding both what a teacher says and how the teacher reaches that reading.
+
+Use these recurring elements, letting the chosen text determine their emphasis:
+
+- **The verse and its setting:** Hebrew, English, and just enough biblical context to understand what is at stake. Explain the word or grammatical detail that opens the reading.
+- **The traditional teaching:** a real commentary with its reasoning intact. Select the strongest relevant voices rather than repeatedly filling the same four author slots. The current four-commentary layout remains available; the authors and interpretive approaches vary with the passage.
+- **The explanation:** Evan’s accessible rabbinic guidance through the teaching. Define unfamiliar terms, show the interpretive steps, and explain meaningful differences among the sources. Keep newly drafted explanation distinct from source quotations.
+- **The wider conversation:** a related teaching, story, historical detail, or practice that develops the central question. Include background when it helps readers understand the teacher, not to fill a recurring box.
+- **The invitation to study:** a few questions that require returning to the text, followed by relevant further reading. Application should grow from the interpretation.
+
+Before drafting a sheet, read a relevant chapter in full as a model and record its title and printed pages in the source notes. It may supply a teaching to investigate or demonstrate how to explain a difficult text. The sheet need not cover the same passage as its model chapter; make that relationship clear. Find and read the original traditional sources wherever possible. If a source is available only through the book, attribute it through the book rather than claiming independent verification. Do not claim to have read chapters that have not been inspected.
+
+The supplied local reference is `/Users/evan/Downloads/kushner.pdf`; this is a machine-local location, not a shared repository dependency. Agents elsewhere should use an authorized available copy or request access when the relevant chapter is needed. Store bibliographic references and original working notes in Git, not the book PDF or page scans.
+
+The quality check is simple: **Does the sheet preserve a worthwhile teaching, make its reasoning understandable, and leave the reader with a deeper encounter with the biblical text?** A visually attractive page of short summaries does not meet this standard. Keep the experience elegant and spacious while giving the substance enough room.
 
 ## A simple, substantial template
 
