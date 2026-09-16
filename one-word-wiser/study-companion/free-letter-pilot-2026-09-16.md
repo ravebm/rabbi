@@ -8,7 +8,30 @@ A complete daily letter for everyone. A printable page for readers who want to s
 
 “Customized” means specific to that word and teaching. Do not promise an individually written lesson for every subscriber. Existing paid members receive the same resource as new paid members.
 
-For the first test, use only the September 16 selichah letter and its one-page sheet. Do not announce a daily or weekly sheet cadence until Evan chooses it and we demonstrate we can sustain it. A single download may encourage an initial upgrade; recurring membership needs continuing value. One day of encouraging feedback does not establish conversion or retention.
+For the first test, use the September 16 selichah letter and its one-page sheet. Evan’s September 15 follow-up proposes making the end of free posts a recurring opportunity to invite further study. The reusable pattern below extends the proposal beyond a one-time subscriber gift; it does not activate a publication-wide offer or commit to a daily or weekly production cadence. A single download may encourage an initial upgrade; recurring membership needs continuing value. One day of encouraging feedback does not establish conversion or retention.
+
+## Recurring end-of-post pattern
+
+Evan’s proposed direction: a free post can end with an opportunity to get a paid study sheet for readers who want more.
+
+1. Finish the teaching and its human application, including the sign-off. Readers should feel the letter has delivered its promise.
+2. Add a short, visually separate **The Rabbi’s Notes** invitation. Name one specific question the companion explores, followed by the useful format: a printable sheet with Hebrew notes, selected Jewish sources, and questions for reflection or discussion.
+3. State that it is included with a paid subscription. Give one clear action leading to the member resource or the native upgrade flow. Existing paid members should receive direct access to the same sheet.
+4. Keep the position and label familiar. Vary the question and sources to match the word. Avoid a second sales pitch or a generic appeal to support the publication.
+
+The standard is a relevant invitation wherever a verified companion is ready. A recurring invitation does not require inventing a new worksheet merely to fill a slot. If a post connects to an existing sheet, describe that connection and link to that sheet accurately. Do not advertise a resource that has not been prepared, reviewed, and made accessible to paid readers.
+
+Proposed short copy for the first companion:
+
+> **The Rabbi’s Notes**
+>
+> How do we know when someone has really changed? Explore Judah’s story and Maimonides’ teaching in a printable study sheet, with Hebrew notes and questions for reflection or discussion.
+>
+> Included with a paid subscription.
+
+Proposed action label: **Get the study sheet**. Verify the actual destination and signed-in free/paid reader behavior during implementation.
+
+Editorial hypothesis: the complete free letter can earn trust and reach, while a useful companion gives motivated readers a concrete reason to pay. Assess subscriber response and use of the sheets before describing this as a proven conversion strategy.
 
 ## Prepared package
 
