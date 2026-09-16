@@ -2,7 +2,7 @@
 
 **Approved editorial model: the chapters of Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Evan confirmed September 15, 2026: “each chapter here should be a model for our study sheets.”**
 
-The paid subscriber offer remains a proposal. The [free-letter pilot](free-letter-pilot-2026-09-16.md) describes proposed placement and delivery; this document defines the reusable study format.
+The September 16 paid-sheet pilot is approved and configured. See the [verified delivery record](delivery-2026-09-16.md) and [pilot rationale](free-letter-pilot-2026-09-16.md). This document defines the reusable study format; no daily or weekly production cadence is promised.
 
 ## Editorial standard
 
@@ -87,4 +87,4 @@ Render and visually inspect **both** pages after the final edit. Check Hebrew an
 
 ## Publication scope
 
-This template does not activate a new membership offer or cadence. The daily letter can deliver a complete teaching while the sheet offers close reading, several substantial Jewish voices, and questions for personal or group study. The proposed free-letter/paid-sheet arrangement still needs Evan’s publication decision and a separately verified delivery setup.
+This template does not activate a new membership offer or cadence. The daily letter can deliver a complete teaching while the sheet offers close reading, several substantial Jewish voices, and questions for personal or group study. The September 16 free-letter/paid-sheet draft and automatic welcome delivery are configured and verified in the dated delivery record. The article remains unpublished. Future sheets need their own approved content and verified delivery placement.

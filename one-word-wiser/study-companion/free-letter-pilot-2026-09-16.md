@@ -1,6 +1,8 @@
-# Free letter + The Rabbi’s Notes: proposed September 16 pilot
+# Free letter + The Rabbi’s Notes: September 16 pilot
 
-**Status:** Review package only. Evan suggested this on September 15 after publishing the shema letter. No offer, price, email, live post, or delivery setting has been changed. The existing weekday paid-continuation policy remains the default outside this proposed pilot.
+**Status: delivery configured September 16, 2026, at Evan’s explicit request.** Article remains a draft. The complete letter is free; the study-sheet button is below a native paywall. Paid and founding welcome emails include a verified direct PDF download. See [the current delivery record](delivery-2026-09-16.md) for actual saved settings, checks, and the reusable process. No recurring production cadence or publication-wide archive change has been promised.
+
+The design rationale below was prepared September 15. The delivery record supersedes its proposed implementation details; the welcome now links directly to the released PDF, so it works before the article is published.
 
 ## The offer
 
@@ -37,7 +39,7 @@ Editorial hypothesis: the complete free letter can earn trust and reach, while a
 
 - Article: `../posts/2026-09-16.md`, **Forgiveness Doesn’t Erase What Happened**. Full article is free in the review candidate.
 - Sheet source: `selichah-2026-09-16.json`.
-- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Why Does It Still Hurt?** Subtitle: *Forgiveness and the slow return of trust.* Review footer identifies it as a review copy.
+- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Why Does It Still Hurt?** Subtitle: *Forgiveness and the slow return of trust.* Reader release has no review-copy footer.
 - Preview: `../../output/previews/2026-09-16.html`. Local layout approximation, not an actual saved Substack mobile preview.
 - Preserved prior draft: `../posts/revisions/2026-09-16-before-free-study-pilot.md`.
 
@@ -51,7 +53,7 @@ Use only once the resource is actually attached and its paid access is verified:
 
 Native upgrade/subscribe button follows. Do not promise an immediate emailed attachment to someone who has already paid; the sheet is available in the post.
 
-## Simplest delivery
+## Original delivery design (superseded by verified September 16 record)
 
 1. Keep the full article, including its ending and sign-off, above the paywall. Put the invitation after the sign-off, then the paywall, then the PDF attachment. This changes what is paid: the resource, rather than the end of the article. The post may still carry a paid designation in Substack even though the complete letter is free; verify this before promising an entirely free post label.
 2. Paid readers can download the sheet from the same post. Avoid a second email or a second post for the same day.
@@ -64,7 +66,7 @@ Official capabilities verified September 15, 2026:
 - [File attachments, including PDFs, in posts and automated welcome emails](https://support.substack.com/hc/en-us/articles/4408381643156-How-can-I-attach-a-file-to-my-Substack-post).
 - [Separate welcome templates for paid, free, imported, and founding subscribers](https://support.substack.com/hc/en-us/articles/24034796625428-How-do-I-set-up-welcome-emails-on-Substack).
 
-This is capability verification, not proof that the pilot is configured. Actual placement, free/paid access, and saved phone/email previews remain to be checked in Substack after Evan approves the draft and chooses the offer.
+The support links establish capabilities. Configuration and preview evidence are recorded separately in `delivery-2026-09-16.md`.
 
 ## Prepared paid-welcome insertion
 

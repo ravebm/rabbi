@@ -1,27 +1,27 @@
 {
-  "review_date": "2026-09-15",
-  "post_sha256": "66747ee1b8b402ad28d935cea171e66ebff31adef1ac15eafcc918a80bbd5f41",
-  "sheet_sha256": "bcb11268fdf966f4b2da5293eabca32f6640f5eaafdf6377aeb57856572b9f7b",
-  "status": "Article saved as Substack draft 215923540 for Evan review. Study-sheet upload and final offer/delivery remain pending.",
+  "review_date": "2026-09-16",
+  "post_sha256": "cd5d8d3dacb3cf44956c748bdbd1e0d85dbbee47f2d31d6ec1c4bfa04304bd5f",
+  "sheet_sha256": "f4f2e23b64ab2a599a2cb1b49b3e33dc983786208b9e3b855112995ab55da4ec",
+  "status": "Delivery configured and verified. Article remains draft 215923540; full letter free and member PDF download below native paywall. Paid/founding automatic welcomes contain the download.",
   "checks": {
     "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
     "hebrew": "Pass: selichah noun, definite article ha-, related salach verb; nasa is a separate root. Sefaria and lexical sources checked as listed in post notes.",
     "source_fidelity": "Pass: NIV quotations and Hebrew texts freshly checked; Maimonides and Sacks claims paraphrased with sources. No invented personal story.",
-    "free_teaching": "Pass for proposed pilot: complete letter including reflection and sign-off; no offer promised in body.",
+    "free_teaching": "Pass: complete unchanged letter, human application and sign-off visible in free mobile and email previews; offer follows.",
     "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
     "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
-    "reading": "Pass: saved Substack editor reopened; body matches prepared formatted copy. Full Mobile preview opening, Hebrew lesson, and ending visually inspected; Email preview inspected. English direction corrected with leading U+200E. Full Desktop preview left open. Free audience selection reverted on reload and remains unresolved for delivery.",
+    "reading": "Pass: saved draft reopened; free mobile/email preview contains full letter and offer but no download; paid mobile/email and founding email preview contain correct download. Member mobile layout visually inspected.",
     "pdf": "Pass: two Letter pages, designed for one double-sided sheet. Four primary excerpts surround Genesis 50:17; human opening, explanation of disagreement, a Maimonides practice, three questions and two readings on reverse. All eight intended links present. Both final rendered pages inspected for Hebrew, clipping, overlap, spacing, page numbers, and footer. Source and explanation body text remain 12 pt.",
     "packaging": "Pass: title/subtitle/header/source notes separated, original draft preserved, companion and offer separate.",
-    "approval": "Pending: article remains draft-only; proposed paid-sheet offer not configured. No publishing, scheduling, or email performed."
+    "approval": "Evan explicitly authorized finishing delivery. Paid welcome saved; founding inheritance verified. Article not published/scheduled. No test or manual email sent."
   },
   "sheet_review": {
     "layout": "commentary-study",
     "source_note": "selichah-2026-09-16-sources.md",
-    "source_json_sha256": "05b5c9a493cc22be84e6dec9a5e2caed8914982ff2a578d397c7929ed37a57be",
+    "source_json_sha256": "eefc403b735d0b3a9a8635d77b0c17daf67f87e720778ec8d11cf3fc1211bae8",
     "interpretations": "Sforno, Bereshit Rabbah 100:8 and Rabbeinu Bahya on Genesis 50:17 read in Hebrew; Sacks, The Last Tears, read in full in English. Maimonides, Human Dispositions 6:6 read in full. Midrash identified as interpretation; Bahya’s conclusion differs from Sacks. Hebrew excerpts are working translations, Sacks is published English. Final editorial approval pending.",
     "further_reading": "Sacks, The Last Tears, freshly verified full essay; Kushner and Olitzky, Sparks Beneath the Surface, printed pp. 55-56 reread. Additional full model chapters: Two Kinds of Horror pp. 17-18, What Are You Looking For? pp. 44-45, Sorrow Not Impurity p. 144. No claim to have read the entire book.",
-    "scope": "Refocused sheet and shared guidance around a compelling human concern: Why Does It Still Hurt? Prior reverence version preserved. Article hash unchanged; no Substack action.",
+    "scope": "Reader release approved through delivery instruction; removed REVIEW COPY label and inspected both pages. Original article body preserved; only offer/native boundary/download appended.",
     "source_note_sha256": "8e7ffe61563d70c32c757bec5bc7bfce209a8f98f7b8d5ccc1e21b9818605328",
     "link_check": "Eight intended link annotations match the source JSON exactly, including two uses of the Sacks essay URL. BibleGateway NIV and Sacks full essay were accessible this turn; coauthor book page verification reused from earlier the same day. Sefaria original texts retrieved from its API; reader-facing HTML can return automated-request 403.",
     "reader_question": "Can you forgive someone and still feel the hurt?",
@@ -35,13 +35,28 @@
     "existing_match": "None among 22 Drafts; Scheduled empty.",
     "saved_after_reload": true,
     "section": "None",
-    "native_paywall_in_body": false,
-    "audience": "Paid-only default; Everyone selection did not persist after reload. Recheck during authorized delivery.",
+    "native_paywall_in_body": true,
+    "audience": "Paid subscribers only; Send free preview to Free subscribers checked. Full article above boundary, download below.",
     "full_preview_mode": "Paid subscriber view",
     "preview_sender": "Rabbi Evan Moffic <rabbi@substack.com>",
     "study_sheet_attached": false,
     "published": false,
     "scheduled": false,
-    "test_email_sent": false
+    "test_email_sent": false,
+    "study_sheet_delivery": "Native custom button linking directly to released PDF; not a native file attachment.",
+    "study_sheet_url": "https://raw.githubusercontent.com/ravebm/rabbi/31d96d160cb75c4f58a6605eb268720806695fce/output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf",
+    "free_email_preview_verified": true,
+    "paid_email_preview_verified": true,
+    "founding_email_preview_verified": true
+  },
+  "welcome_delivery": {
+    "subject": "Welcome",
+    "paid_saved_and_reopened": true,
+    "founding_inherits_verified": true,
+    "download_url": "https://raw.githubusercontent.com/ravebm/rabbi/31d96d160cb75c4f58a6605eb268720806695fce/output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf",
+    "welcome_layout_checked_at_width": 390,
+    "real_signup_tested": false,
+    "test_email_sent": false,
+    "routing": "Same starter sheet for all new paid/founding members; no per-article attribution routing."
   }
 }

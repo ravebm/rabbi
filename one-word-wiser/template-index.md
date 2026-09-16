@@ -1,6 +1,6 @@
 # One Word Wiser template index
 
-Checked September 14, 2026. Read AGENTS.md and pull first. This index distinguishes usable source templates from drafts and unverified external projects.
+Study-sheet delivery and paid welcome updated September 16, 2026; other rows retain their earlier verification scope. Read AGENTS.md and pull first. This index distinguishes usable source templates from drafts and unverified external projects.
 
 | Item | Canonical source | Status |
 |---|---|---|
@@ -9,8 +9,8 @@ Checked September 14, 2026. Read AGENTS.md and pull first. This index distinguis
 | Daily letter structure | `02-daily-format.md`; `../skills/one-word-wiser/SKILL.md` | Current: word, meaning, reflection; clear human title; source checks; restrained dividers |
 | Current weekday working example | `posts/2026-09-15.md` | Listen With Your Heart: expanded free Hebrew word study, paid practice and Talmudic story; saved draft 215764876 with native paywall and mobile/email preview checked; Evan review pending |
 | Saturday and Sunday structures | `02-daily-format.md`, Saturday/Sunday sections | Current; older full samples are reference drafts, not approved templates |
-| Rabbi’s Notes | `study-companion/README.md`; `study-companion/template.json`; `study-companion/selichah-2026-09-16.json`; `study-companion/build.py` | Kushner/Olitzky chapter model: intriguing human concern, biblical text, substantial commentary, explanation and practice. Current two-page example: Why Does It Still Hurt? Joseph’s tears and restored trust. Paid offer remains a proposal |
-| About and welcome emails | `samples/about-page.md`; `samples/welcome-email.md`; `samples/welcome-paid-email.md` | Current source copy from the September 14 consistency pass; live state must be reopened before a new edit |
+| Rabbi’s Notes | `study-companion/README.md`; `study-companion/template.json`; `study-companion/selichah-2026-09-16.json`; `study-companion/build.py` | Kushner/Olitzky chapter model: intriguing human concern, biblical text, substantial commentary, explanation and practice. Current two-page example: Why Does It Still Hurt? Joseph’s tears and restored trust. September 16 delivery configured: complete free article, member download, immediate paid/founding welcome link; article remains draft |
+| About and welcome emails | `samples/about-page.md`; `samples/welcome-email.md`; `samples/welcome-paid-email.md` | Paid/founding welcome verified September 16 with immediate study-sheet download; free welcome/About retained from September 14. Reopen live state before editing |
 | Draft upload and scheduling handoffs | `handoff-prompts.md`; `operator-brief-substack-setup.md` | Current instructions; delivery needs current task authority |
 | Brand fonts and colors | `01-positioning.md`; `brand/fonts/` | Source fonts present; original final logos are not in the repository, only stand-ins |
 | Optional Word and Line cards | `brand/cards/` | Existing HTML sources and renderer; legacy card set, not a daily requirement; not re-rendered in this audit |

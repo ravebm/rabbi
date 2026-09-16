@@ -2,7 +2,7 @@
 
 **Subject:** Welcome
 
-Saved September 14, 2026. The founding welcome currently inherits this message. Do not promise a new study product before Evan adopts it.
+Saved and reopened September 16, 2026. Founding welcome verified to inherit this updated message. The download is a native Substack custom button. No test or broadcast email sent.
 
 ---
 
@@ -10,7 +10,13 @@ Welcome. I’m glad you’re here.
 
 Thank you for supporting One Word Wiser. Your subscription helps keep the daily Hebrew teaching free for everyone.
 
-Each morning at 6:00 Central, one Hebrew word arrives with a verse and a clear explanation. Your paid subscription includes the full weekday reflections on Hebrew, Jewish wisdom, and everyday life, in the same email.
+Each morning at 6:00 Central, one Hebrew word arrives with a verse and a clear explanation.
+
+Your subscription includes **The Rabbi’s Notes**: printable studies with Hebrew, Jewish commentary, and questions for reflection or discussion.
+
+Start with **Why Does It Still Hurt?**, a two-page study of forgiveness and the slow return of trust.
+
+[Download the study sheet](https://raw.githubusercontent.com/ravebm/rabbi/31d96d160cb75c4f58a6605eb268720806695fce/output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf)
 
 On Saturday the word comes from the week’s Torah reading. On Sunday I take a verse a reader sent and show the Hebrew underneath it. Both weekend letters are free in full.
 
@@ -20,4 +26,4 @@ One word a day. I’m glad we’re reading together.
 
 — Rabbi Evan
 
-*All launch letters are free in full through September 27, 2026. You can [manage your subscription here](https://rabbi.substack.com/account).*
+*You can [manage your subscription here](https://rabbi.substack.com/account).*

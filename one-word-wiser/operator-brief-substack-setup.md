@@ -2,7 +2,7 @@
 
 Read `AGENTS.md` first and pull the latest. Operate rabbi.substack.com only within the current task. This file describes the current copy and intended editorial experience; it is not standing authorization to change all settings or send content.
 
-Evan’s September 14 direction simplifies the product. One morning email, an accurate Hebrew teaching, and a fuller rabbinic reflection. No “secret” offer or fixed “Let It Change Your Life” heading. The study companion remains a proposal.
+Evan’s September 14 direction simplifies the product. One morning email, an accurate Hebrew teaching, and a fuller rabbinic reflection. No “secret” offer or fixed “Let It Change Your Life” heading. September 16: the free-letter/paid-study-sheet pilot is configured. Read `study-companion/delivery-2026-09-16.md` before touching that draft or welcome delivery.
 
 ## Current copy
 
@@ -13,7 +13,7 @@ Evan’s September 14 direction simplifies the product. One morning email, an ac
 | About page | `samples/about-page.md`, all of it, formatted |
 | Free/imported welcome | Subject **Welcome**; body below `---` in `samples/welcome-email.md` |
 | Paid welcome | Subject **Welcome**; body below `---` in `samples/welcome-paid-email.md` |
-| Founding welcome | Currently inherits the paid welcome; verify before assuming |
+| Founding welcome | Inheritance verified September 16 after paid welcome save; same subject and study-sheet download. Recheck before future edits |
 | Free benefit | One Hebrew word and its meaning in Scripture, every morning. Free, always. |
 | Paid benefit | The full weekday reflections on Hebrew, Jewish wisdom, and everyday life. |
 | Founding benefit | A signed book, and my thanks by name. |
@@ -44,7 +44,7 @@ Replies are allowed from Everyone and route to the publication owner when the fo
 
 Reopen a saved setting or inspect its public result. A click or “Saving…” state alone is not proof. Check mobile layout for changed formatted copy. Preserve dynamic subscription/checkout links in system templates. Record what changed, what was verified, any remaining inconsistency, and any proposal not adopted. Commit and push the source update.
 
-The latest audit is `substack-audit-2026-09-14.md`.
+The general consistency audit is `substack-audit-2026-09-14.md`. The current study-sheet delivery audit is `study-companion/delivery-2026-09-16.md`; paid/founding welcome source copy was updated September 16.
 
 ## Sender correction — September 15, 2026
 
