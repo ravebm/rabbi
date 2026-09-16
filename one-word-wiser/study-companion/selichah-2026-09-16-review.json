@@ -1,7 +1,7 @@
 {
   "review_date": "2026-09-15",
   "post_sha256": "66747ee1b8b402ad28d935cea171e66ebff31adef1ac15eafcc918a80bbd5f41",
-  "sheet_sha256": "35b689e2b68701b95a2882979fd3846aed56e05aefa86151647a12a6fef2ef87",
+  "sheet_sha256": "bcb11268fdf966f4b2da5293eabca32f6640f5eaafdf6377aeb57856572b9f7b",
   "status": "Article saved as Substack draft 215923540 for Evan review. Study-sheet upload and final offer/delivery remain pending.",
   "checks": {
     "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
@@ -11,19 +11,22 @@
     "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
     "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
     "reading": "Pass: saved Substack editor reopened; body matches prepared formatted copy. Full Mobile preview opening, Hebrew lesson, and ending visually inspected; Email preview inspected. English direction corrected with leading U+200E. Full Desktop preview left open. Free audience selection reverted on reload and remains unresolved for delivery.",
-    "pdf": "Pass: two Letter pages, designed for one double-sided sheet. Four translated source excerpts surround one central verse; explanation, a Sefat Emet teaching, three questions and two further readings on the reverse. All eight intended source links present; both final rendered pages visually inspected for Hebrew, clipping, overlap, spacing, page numbers, and footer.",
+    "pdf": "Pass: two Letter pages, designed for one double-sided sheet. Four primary excerpts surround Genesis 50:17; human opening, explanation of disagreement, a Maimonides practice, three questions and two readings on reverse. All eight intended links present. Both final rendered pages inspected for Hebrew, clipping, overlap, spacing, page numbers, and footer. Source and explanation body text remain 12 pt.",
     "packaging": "Pass: title/subtitle/header/source notes separated, original draft preserved, companion and offer separate.",
     "approval": "Pending: article remains draft-only; proposed paid-sheet offer not configured. No publishing, scheduling, or email performed."
   },
   "sheet_review": {
     "layout": "commentary-study",
     "source_note": "selichah-2026-09-16-sources.md",
-    "source_json_sha256": "09809ab081f8fadcb55af5708fd35498e0c06b0a13e07bc6972061457eb1a5d6",
-    "interpretations": "Rashi, Ibn Ezra, Meiri and Malbim on Psalm 130:4: original Hebrew read in full, excerpts translated and omissions marked. Sefat Emet, Genesis, Vayigash 24:4 also read in the original. Working translations; final editorial approval pending.",
-    "further_reading": "Kushner and Olitzky, Sparks Beneath the Surface, printed pp. 55-56, supplied chapter read and coauthor book page verified; Sacks essay, same-day full-text review reused.",
-    "scope": "Sheet and reusable template revised for Evan’s requested depth. Article unchanged. No Substack action.",
-    "source_note_sha256": "fe525b835483691f997ba3b5b13d93d0fa2fe81ede615c650fa121b446369ac7",
-    "link_check": "All eight intended URLs embedded. BibleGateway, coauthor book page and Sacks essay returned HTTP 200. Sefaria HTML pages returned an automated-request 403; corresponding original text API endpoints were accessible and source texts verified."
+    "source_json_sha256": "05b5c9a493cc22be84e6dec9a5e2caed8914982ff2a578d397c7929ed37a57be",
+    "interpretations": "Sforno, Bereshit Rabbah 100:8 and Rabbeinu Bahya on Genesis 50:17 read in Hebrew; Sacks, The Last Tears, read in full in English. Maimonides, Human Dispositions 6:6 read in full. Midrash identified as interpretation; Bahya’s conclusion differs from Sacks. Hebrew excerpts are working translations, Sacks is published English. Final editorial approval pending.",
+    "further_reading": "Sacks, The Last Tears, freshly verified full essay; Kushner and Olitzky, Sparks Beneath the Surface, printed pp. 55-56 reread. Additional full model chapters: Two Kinds of Horror pp. 17-18, What Are You Looking For? pp. 44-45, Sorrow Not Impurity p. 144. No claim to have read the entire book.",
+    "scope": "Refocused sheet and shared guidance around a compelling human concern: Why Does It Still Hurt? Prior reverence version preserved. Article hash unchanged; no Substack action.",
+    "source_note_sha256": "8e7ffe61563d70c32c757bec5bc7bfce209a8f98f7b8d5ccc1e21b9818605328",
+    "link_check": "Eight intended link annotations match the source JSON exactly, including two uses of the Sacks essay URL. BibleGateway NIV and Sacks full essay were accessible this turn; coauthor book page verification reused from earlier the same day. Sefaria original texts retrieved from its API; reader-facing HTML can return automated-request 403.",
+    "reader_question": "Can you forgive someone and still feel the hurt?",
+    "title": "Why Does It Still Hurt?",
+    "conversion_evidence": "Unmeasured editorial revision; no claim of demonstrated conversion lift."
   },
   "substack_draft": {
     "id": 215923540,

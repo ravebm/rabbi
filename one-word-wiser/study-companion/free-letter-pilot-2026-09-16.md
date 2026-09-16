@@ -25,7 +25,7 @@ Proposed short copy for the first companion:
 
 > **The Rabbi’s Notes**
 >
-> How can forgiveness deepen reverence? Study one verse with four Jewish commentaries, a Hasidic teaching, and questions for reflection or discussion in a printable sheet.
+> Can you forgive someone and still feel the hurt? **Why Does It Still Hurt?** explores Joseph’s tears through four Jewish readings, with a practice for naming what remains unresolved and questions for reflection or discussion.
 >
 > Included with a paid subscription.
 
@@ -37,17 +37,17 @@ Editorial hypothesis: the complete free letter can earn trust and reach, while a
 
 - Article: `../posts/2026-09-16.md`, **Forgiveness Doesn’t Erase What Happened**. Full article is free in the review candidate.
 - Sheet source: `selichah-2026-09-16.json`.
-- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness**. Review footer identifies it as a review copy.
+- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Why Does It Still Hurt?** Subtitle: *Forgiveness and the slow return of trust.* Review footer identifies it as a review copy.
 - Preview: `../../output/previews/2026-09-16.html`. Local layout approximation, not an actual saved Substack mobile preview.
 - Preserved prior draft: `../posts/revisions/2026-09-16-before-free-study-pilot.md`.
 
-The current two-page sheet places Psalm 130:4 in Hebrew and English at the center of the front, surrounded by actual commentary excerpts from Rashi, Ibn Ezra, Meiri, and Malbim. The reverse explains their arguments, adds a Sefat Emet teaching on repentance from love, and offers three questions and two further readings: Kushner and Olitzky’s book and a verified Jonathan Sacks essay. It follows Evan’s request for the depth of the Kushner book, with space for both the sources and an accessible explanation.
+The current two-page sheet places Joseph’s tears in Genesis 50:17 at the center, with actual excerpts from Sforno, Bereshit Rabbah, Rabbeinu Bahya, and Jonathan Sacks. The reverse begins with the experience of accepting an apology and still feeling hurt. It explains the sources’ differences, adds a Maimonides teaching about telling someone how they hurt you, and offers three questions and two further readings. The question is human and immediately understandable; the depth comes from reading the sources carefully. This supersedes the abstract forgiveness/reverence focus, preserved in the revisions folder.
 
 ## Proposed invitation, after the complete letter
 
 Use only once the resource is actually attached and its paid access is verified:
 
-> For a closer look, I’ve made a double-sided study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness** is included with a paid subscription.
+> Can you forgive someone and still feel the hurt? **The Rabbi’s Notes: Why Does It Still Hurt?** explores that question through Joseph’s story, four Jewish readings, and a practice for rebuilding trust. This printable study sheet is included with a paid subscription.
 
 Native upgrade/subscribe button follows. Do not promise an immediate emailed attachment to someone who has already paid; the sheet is available in the post.
 
@@ -70,7 +70,7 @@ This is capability verification, not proof that the pilot is configured. Actual 
 
 Add only after the post/resource destination exists; replace the bracketed phrase with its verified link. This is an insertion for review, not a replacement for the whole welcome email:
 
-> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness], a double-sided study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
+> Your subscription includes The Rabbi’s Notes. Start with [Why Does It Still Hurt?], a double-sided study of forgiveness and trust, with Jewish sources and questions you can use on your own or with a group.
 
 No claim of subscriber-specific automated routing. A new member coming from an older article should still be able to reach that article’s sheet after signing in; verify the upgrade-return flow before describing it as automatic delivery.
 

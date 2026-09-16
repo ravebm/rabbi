@@ -1,58 +1,82 @@
-# Forgiveness: source review for the commentary study sheet
+# Why Does It Still Hurt? Source and editorial review
 
-Checked September 15, 2026. This replaces the rejected short-reading version, preserved in `revisions/selichah-2026-09-16-short-readings.json`. The dated letter itself is unchanged.
+Checked September 15, 2026. This replaces the abstract forgiveness/reverence focus, preserved with its source review in `revisions/selichah-2026-09-16-reverence.json` and `-reverence-sources.md`. The September 16 article and saved Substack draft are unchanged.
 
-## The supplied book and the design decision
+## Human question and chapter model
 
-Evan supplied *Sparks Beneath the Surface: A Spiritual Commentary on the Torah*, by Lawrence Kushner and Kerry M. Olitzky. The supplied PDF was inspected locally: its introduction and “How to Use This Book,” representative chapters, and especially “Teshuvah as Rewriting the Past,” printed pages 55–56 (PDF pages 66–67). Both pages of that chapter were visually inspected. This is not a claim to have read the entire book.
+Evan asked for a sheet that is human, real, simple to understand, and deep, with the appeal of Kushner and Olitzky’s chapter titles. The organizing question is now: **Can you forgive someone and still feel the hurt?** Joseph’s tears make that question concrete without requiring the sources to agree on whether forgiveness has occurred.
 
-The book’s usage guide explicitly names Mikraot Gedolot as its model: a biblical text, a traditional teaching, explanation, context, and related tradition. Olitzky’s public book page also describes the arrangement as resembling a Talmud page. The reusable lesson is a central text with substantial commentary and enough explanation to follow the teacher’s argument. No scans or copied book pages are included in the repository or the delivered sheet.
+The supplied reference is Lawrence Kushner and Kerry M. Olitzky, *Sparks Beneath the Surface: A Spiritual Commentary on the Torah*. Relevant chapters read in full this turn:
 
-Book title, coauthorship, and a legitimate further-reading destination were verified on the coauthor’s website: https://kerryolitzky.com/sacred-texts . This is a book-description page with a purchase link, not a free copy of the book. The sheet labels it “Book.”
+- **“Two Kinds of Horror,” printed pp. 17-18 (PDF pp. 28-29):** a grammatical question in Genesis 15:12 leads through traditional interpretation to two kinds of moral danger. Both pages were also rendered and visually inspected. It models an intriguing human title supported by close textual reasoning.
+- **“What Are You Looking For?,” printed pp. 44-45 (PDF pp. 55-56):** a question addressed to Joseph becomes a reflection on understanding what one seeks. It models a familiar human question developed through a difficult passage.
+- **“Sorrow Not Impurity,” printed p. 144 (PDF p. 155):** a ritual interpretation becomes a caution about judging someone in distress. It models the movement from a technical source to a recognizable human experience.
+- **“Teshuvah as Rewriting the Past,” printed pp. 55-56 (PDF pp. 66-67):** reread as related background and retained as further reading. This chapter informed the preceding sheet, but the current sheet does not reproduce its argument or quotation.
 
-## Central verse
+These are models for editorial method, not sources for the new sheet’s Joseph quotations. No claim to have read the entire book. The user’s PDF, extracted text, and page scans remain outside Git and are not included in the delivered resource. Book and coauthor details and the book-description destination were verified earlier the same day: https://kerryolitzky.com/sacred-texts . This is a book page, not a free online chapter.
 
-Psalm 130:4 NIV, unchanged from the same-day BibleGateway verification. The quotation contains 14 English words. Hebrew checked against Sefaria’s Masoretic text: cantillation and the final sof pasuq omitted for display, vowel marks retained. The standalone headword *selichah* is a noun; the verse has *ha-selichah*, with the definite article. The explanation identifies *lema’an* as “so that,” the question all four readings address in different ways.
+## Central verse and word distinction
 
-- https://www.biblegateway.com/passage/?search=Psalm+130%3A4&version=NIV
-- https://www.sefaria.org/Psalms.130.4?lang=bi
+The English is the final sentence of Genesis 50:17 NIV: “When their message came to him, Joseph wept.” It is explicitly labeled an excerpt. Genesis 50:15-21 was read in context: after Jacob’s death the brothers fear retaliation, convey a request for forgiveness, and receive Joseph’s reassurance and promise of care. The tears do not have an explicit narrative explanation; the commentaries supply differing readings.
 
-## Four actual commentaries
+- NIV: https://www.biblegateway.com/passage/?search=Genesis+50%3A15-21&version=NIV
+- Masoretic Hebrew: https://www.sefaria.org/Genesis.50.17?lang=bi
 
-All four original Hebrew commentaries were read in full through Sefaria’s text API. The sheet uses fresh working English translations, not purported quotations from a published English edition. The footer identifies their status; ellipses mark internal omissions. Section headings are editorial. Source excerpts and explanatory prose are visibly separate.
+Hebrew matches the final clause, with vowel marks and dagesh preserved and cantillation and terminal punctuation removed for display: `וַיֵּבְךְּ יוֹסֵף בְּדַבְּרָם אֵלָיו`.
 
-1. **Rashi, Psalm 130:4, both glosses.** The first gloss says God did not give an agent authority to forgive and cites Exodus 23:21. The second connects reverence with not relying on another’s forgiveness. The sheet translates both glosses while marking the omitted biblical proof text with an ellipsis. This is about divine pardon, not a claim that humans cannot forgive each other.
-   https://www.sefaria.org/Rashi_on_Psalms.130.4?lang=bi
-2. **Ibn Ezra, Psalm 130:4.** Complete short commentary, apart from its opening lemma. Other sinners hear of forgiveness, return, and leave their sin; without forgiveness they will not fear God and will follow their desires. The excerpt retains both sides of the argument. It is no longer a miniature positive summary.
-   https://www.sefaria.org/Ibn_Ezra_on_Psalms.130.4?lang=bi
-3. **Meiri, Psalm 130:4, first interpretation.** The source argues that human sin is unavoidable, and without a promise of forgiveness a sinner would despair, conclude repentance is ineffective, and follow their desires. The complete causal argument is retained; its allusion to the evil inclination is omitted with an ellipsis. Meiri’s alternative reading concerning divine authority is not included. The explanation acknowledges his overlap with Ibn Ezra instead of inventing a dispute.
-   https://www.sefaria.org/Meiri_on_Psalms.130.4?lang=bi
-4. **Malbim, Psalm 130:4, concluding argument.** Human fear may rest on punishment, while reverence for God rests on greatness and exaltation, revealed through forgiveness. The selected passage preserves the contrast and conclusion; two omissions are marked. Malbim’s earlier theological account of *selichah* is not repackaged as a dictionary definition. The phrase about God not needing revenge on page two is our explanatory application of his argument, not a quotation from him.
-   https://www.sefaria.org/Malbim_on_Psalms.130.4?lang=bi
+The series headword **selichah** does not occur in this verse. The brothers use `שָׂא נָא`, *sa na*, a request employing **nasa**, a different root with senses including lift, carry, and forgive. The back explicitly distinguishes this from *selichah*. Do not infer that forgiveness literally erases harm or turn a root’s range into a mandatory meaning in every context.
 
-## The related Hasidic teaching
+## Four primary readings
 
-**Sefat Emet, Genesis, Vayigash 24:4.** The original Hebrew was located and read in full after reading the teaching in the supplied Kushner/Olitzky chapter. It is the matching passage, beginning “בפסוק ועתה אל תעצבו.” A nearby passage, Vayigash 6:5, was also inspected but is not the source of the selected fear/love argument.
+Original Hebrew was read through Sefaria’s text API with context disabled to identify each exact passage. Links below are reader-facing source pages. Hebrew excerpts are fresh working translations; the Sacks sentence is his published English. The footer makes the distinction. Headings are editorial, not the sources’ own headings.
 
-https://www.sefaria.org/Sefat_Emet%2C_Genesis%2C_Vayigash.24.4?lang=bi
+### 1. Sforno, Genesis 50:17
 
-The sheet’s working translation selects a contiguous portion:
+https://www.sefaria.org/Sforno_on_Genesis.50.17?lang=bi
 
-> כי גם מקודם שבו השבטים בתשובה כדכ׳ אבל אשמים אנחנו והי׳ תשובה מיראה. אבל עתה עשו תשובה מאהבה ונהפך כל החטא לזכות.
+Complete short comment read in Hebrew, apart from the biblical lemma: `בהזכירם את אביו ואת חבתו שלא חשדו`. The sheet translates the whole comment and supplies “[his father]” to clarify the pronoun. Rashi on Genesis 50:16 was also read for context: Jacob had not suspected Joseph of taking revenge. The sheet’s explanation connects Joseph’s grief with his father’s love and trust; this is an explanation of Sforno, not a new verbatim quotation.
 
-The biblical allusion is Genesis 42:21. The quoted English inside the commentary is part of our translation of that commentary, not an additional NIV quotation. The omitted beginning and remainder lie outside the selected passage, not inside it. The full source goes on to interpret Joseph’s words in Genesis 45:5 and 45:8 through divine providence while retaining the wrongdoer’s responsibility.
+### 2. Jonathan Sacks, “The Last Tears”
 
-Kushner and Olitzky develop this teaching on printed pages 55–56. The back-page explanation is freshly drafted and clearly outside the quotation. It does not imply that harm was good or that the injured person owes forgiveness or gratitude. The interpretive application concerns the repentance of the person who caused harm.
+https://rabbisacks.org/covenant-conversation/vayechi/the-last-tears/
+
+Full essay read, including its attribution of an interpretation to Rabbi Aharon Lichtenstein. The selected sentence beginning “Yet still, all these years later” is one complete 21-word sentence from Sacks’s own narration. It follows his explanation that Joseph has reassured the brothers and does not harbor a grudge. Sacks explores Joseph’s inability to secure their trust and the limits of power within a family. The sheet does not present Lichtenstein’s interpretation as an independently verified direct quotation from Lichtenstein.
+
+### 3. Bereshit Rabbah 100:8
+
+https://www.sefaria.org/Bereshit_Rabbah.100.8?lang=bi
+
+Entire passage read. The selected first interpretation runs from Rabbi Levi’s observation that Joseph did not invite them to a meal through the brothers’ suspicion that Joseph hates them. Rabbi Tanchuma explains Joseph’s intention: after Jacob’s death he no longer wants to sit above Judah, a king, and Reuben, the firstborn. The brothers interpret the change differently. The reasoning and opposing perceptions are retained. The opening verse lemma and subsequent alternative story about Joseph revisiting the pit fall outside this selection.
+
+This is **midrashic reconstruction**. Genesis does not narrate the missed family meal. The back explicitly tells readers this. “Old fear makes an innocent gesture frightening” is our explanation of the reading, not a statement from the biblical narrator or a psychological diagnosis.
+
+### 4. Rabbeinu Bahya, Genesis 50:17
+
+https://www.sefaria.org/Rabbeinu_Bahya%2C_Bereshit.50.17?lang=bi
+
+Full commentary read. The selected argument comes from its first paragraph: the brothers ask forgiveness, yet the text never explicitly says Joseph grants it, even though he comforts them and speaks to their hearts. An ellipsis marks the omitted rabbinic rule concerning appeasing the person harmed.
+
+**Bahya goes beyond noticing ambiguity: he concludes that the brothers died without Joseph’s forgiveness.** The back states his conclusion clearly and preserves its disagreement with Sacks’s reading. The later exposition connecting their offense to the ten martyrs is outside the selection. The sheet does not adopt that punishment theology or use it as advice to injured readers. The biblical words inside this excerpt are translated as part of Bahya’s Hebrew, not presented as another NIV quotation.
+
+## Related practice: Maimonides
+
+https://www.sefaria.org/Mishneh_Torah%2C_Human_Dispositions.6.6?lang=bi
+
+**Mishneh Torah, Human Dispositions (Hilchot Deot) 6:6** was read in full in Hebrew and English. The sheet uses a working translation of the opening directive against nursing hatred in silence and the instruction to tell the other person what they did. The ellipsis marks the omitted Absalom/Amnon proof text. The selected quotation ends before the continuation of the example and the Leviticus proof text.
+
+The full ruling also instructs forgiveness when the offender returns and asks; the sheet’s selected passage is not a summary of the entire law. Its exercise, beginning “What I still need you to understand is…,” is our contemporary application, visibly outside the source quotation. It is bounded to an ordinary strain in a relationship the reader wants to repair, not a demand for reconciliation or a claim that Maimonides supplied this modern script.
+
+The supplied Kushner/Olitzky book refers to Maimonides in its repentance chapter, but the precise source used here was checked independently. Use **Human Dispositions 6:6**, not Laws of Repentance, for this quotation.
 
 ## Further reading
 
-1. **Lawrence Kushner and Kerry M. Olitzky, *Sparks Beneath the Surface*, “Teshuvah as Rewriting the Past,” pp. 55–56.** Supplied chapter read; coauthor and book page verified. Book, not a free online essay. The user’s PDF is not uploaded or offered to readers.
-   https://kerryolitzky.com/sacred-texts
-2. **Rabbi Jonathan Sacks, “The Birth of Forgiveness.”** Same-day full-essay review reused. It connects Joseph’s forgiveness to Judah’s changed behavior and Maimonides’ account of repentance. The site’s verse near the Judah example is misnumbered Genesis 42:33; the correct verse is Genesis 44:33. The sheet does not reproduce that typo or the historical first-ever claim. Free essay.
-   https://rabbisacks.org/covenant-conversation/vayigash/the-birth-of-forgiveness/
+- Sacks, **“The Last Tears,”** free essay verified in full this turn. The same source appears on the front, allowing a reader to follow the short excerpt into its full argument.
+- Kushner and Olitzky, **“Teshuvah as Rewriting the Past,”** pp. 55-56 of *Sparks Beneath the Surface*. Book chapter, related but distinct approach to repentance and the past. Link leads to the coauthor’s book-description page; the private PDF is not offered to readers.
 
-## Layout and scope
+## Editorial and layout review
 
-Two Letter pages, suitable for one double-sided printed sheet. Four source excerpts surround the Hebrew/English verse on the front. The reverse contains explanation, one related teaching, three questions, and two further readings. Navy on white, Garamond and Frank Ruhl Libre; source body text 12 pt. The format is for print, not a claim of native mobile responsiveness. No font reduction to force a source into a slot.
+The opening is a hypothetical everyday situation, not an invented anecdote from Evan’s life. The explanation does not claim that the biblical story proves a universal psychological rule. It marks the pastoral reading with “I hear.” Forgiveness, care, and restored trust remain related but distinguishable; the sheet does not shame the injured reader for continuing to feel hurt.
 
-The PDF remains a review copy. No Substack post, attachment, offer, price, email, or publication setting was changed. The paid-sheet offer remains proposed.
+Two Letter pages, suitable for one double-sided sheet. Page one contains four actual source excerpts around a verse; page two develops their argument and disagreement, one practice, three questions, and two further readings. Main source and explanatory text remain 12 pt; no font reduction to fit the revision. Both final rendered pages must pass visual review, including Hebrew marks, spacing, page numbering, footer, and links.
+
+The earlier version and its source notes are preserved. The PDF remains a review copy. No post, attachment, offer, price, email, schedule, or Substack setting is changed by this revision. The proposed paid invitation is updated locally to name the new question; conversion impact is unmeasured.

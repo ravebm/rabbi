@@ -112,12 +112,15 @@ def build_commentary_study(data, output):
         c.drawRightString(568, 26, data['status'])
 
     header(1)
-    para(escape(data['title']), 44, 724, 305, 29, 33)
+    para(escape(data['title']), 44, 724, 305, 29, 33, bottom=690)
+    if data.get('subtitle'):
+        para(escape(data['subtitle']), 44, 685, 305,
+             11.5, 14, 'GaramondItalic', GRAY, bottom=670)
     hebrew(data['hebrew'], 494, 706, 31, 148)
     para(escape(data['pronunciation']), 345, 691, 223, 10.5, 13,
          'GaramondItalic', GRAY, TA_CENTER)
-    rule(670)
-    para('FOUR COMMENTARIES ON ONE VERSE', 44, 654, 524, 8, 10, 'Helvetica', GRAY)
+    rule(661)
+    para('FOUR COMMENTARIES ON ONE VERSE', 44, 647, 524, 8, 10, 'Helvetica', GRAY)
 
     for x in (199, 413):
         c.line(x, 622, x, 105)

@@ -22,7 +22,7 @@ The September 14 teshuvah post is already published as **You Can Still Come Home
 
 ## Review the study-companion proposal
 
-> Read `one-word-wiser/study-companion/README.md` and the sample. Develop [specific feedback] into a revised local sample. Verify source context and keep it one useful page. Do not advertise it as a paid benefit or set up a recurring workflow until I adopt it.
+> Read `one-word-wiser/study-companion/README.md` and the sample. Develop [specific feedback] into a revised local sample. Begin with a compelling human concern and an immediately understandable title. Verify substantial source excerpts and preserve their reasoning. Use the current two-page, double-sided format with generous white space. Do not advertise it as a paid benefit or set up a recurring workflow until I adopt it.
 
 ## Work with Claude Design and Magnific
 

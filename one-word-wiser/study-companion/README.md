@@ -6,13 +6,17 @@ The paid subscriber offer remains a proposal. The [free-letter pilot](free-lette
 
 ## Editorial standard
 
+**Start with a human question someone already cares about.** Evan’s September 15 correction rejected “forgiveness leading to reverence” as the organizing focus. The sheet should be human, real, simple to understand, and deep. A reader should understand the title before knowing any Hebrew or rabbinic terminology. Choose a recognizable hurt, desire, fear, relationship, or mystery; then find the textual difficulty and substantial commentaries that help the reader explore it.
+
+Kushner and Olitzky’s titles show how this can work: “Two Kinds of Horror,” “What Are You Looking For?,” and “Sorrow Not Impurity.” Their appeal comes from a real interpretive question developed in the chapter. Write an equally clear, intriguing title whose promise the sheet fulfills. Do not imitate the titles mechanically, make every title a question, or add dramatic language to an abstract lesson. The familiar format can support a different human concern each time.
+
 Evan corrected the earlier prototype: four miniature summaries were too shallow. The aim is a page readers can actually study. Use complete short commentaries or substantial, faithful excerpts that retain the teacher’s reasoning. Do not turn each source into a slogan or force all sources into equal word counts.
 
 The reference is Lawrence Kushner and Kerry M. Olitzky’s *Sparks Beneath the Surface*. Its “How to Use This Book” describes a primary biblical text, a traditional teaching, explanation, context, and related tradition. The chapter “Teshuvah as Rewriting the Past” (printed pp. 55–56) informed the first revised sheet. Evan’s approval applies to the book’s chapters as the recurring model across the series, beyond this one example. Borrow the structure, depth, and way of guiding a reader through a teaching; write original explanations and verify the traditional sources independently. The user’s book PDF remains outside the repository.
 
 ## A chapter as the model for each sheet
 
-Give each sheet the coherence of a short chapter: one biblical passage, one substantial interpretive question, and a developed conversation around it. The central verse is the focus of the argument, not a decorative centerpiece. A reader should finish understanding both what a teacher says and how the teacher reaches that reading.
+Give each sheet the coherence of a short chapter: one recognizable human concern, one biblical passage, one substantial interpretive question, and a developed conversation around it. Begin the explanation with a concrete situation or a striking detail in the story. Let the sources complicate and deepen it; do not force agreement or use them only to endorse advice decided in advance. The central verse is the focus of the argument, not a decorative centerpiece. A reader should finish understanding both what a teacher says and how the teacher reaches that reading.
 
 Use these recurring elements, letting the chosen text determine their emphasis:
 
@@ -26,7 +30,7 @@ Before drafting a sheet, read a relevant chapter in full as a model and record i
 
 The supplied local reference is `/Users/evan/Downloads/kushner.pdf`; this is a machine-local location, not a shared repository dependency. Agents elsewhere should use an authorized available copy or request access when the relevant chapter is needed. Store bibliographic references and original working notes in Git, not the book PDF or page scans.
 
-The quality check is simple: **Does the sheet preserve a worthwhile teaching, make its reasoning understandable, and leave the reader with a deeper encounter with the biblical text?** A visually attractive page of short summaries does not meet this standard. Keep the experience elegant and spacious while giving the substance enough room.
+The quality check is simple: **Would someone recognize why this matters from the title? Does the sheet preserve a worthwhile teaching, make its reasoning understandable, and leave the reader with a deeper encounter with the biblical text?** A visually attractive page of short summaries does not meet this standard. Keep the experience elegant and spacious while giving the substance enough room. A compelling title is an editorial judgment, not evidence of paid conversions; learn from actual reader response after an authorized release.
 
 ## A simple, substantial template
 
@@ -55,13 +59,14 @@ Each sheet includes a relevant resource by Evan or Jonathan Sacks. Prefer a free
 ## Files
 
 - `template.json`: blank reusable structure; incomplete fields deliberately prevent a build.
-- `selichah-2026-09-16.json`: current example, **Forgiveness**, centered on Psalm 130:4.
+- `selichah-2026-09-16.json`: current example, **Why Does It Still Hurt?**, centered on Joseph’s tears in Genesis 50:17 and the slow return of trust.
 - `build.py`: entry point; selects the renderer from the JSON layout.
 - `commentary_page.py`: current two-page renderer and overflow checks.
 - `selichah-2026-09-16-sources.md`: source and interpretation review.
 - `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`: current two-page review PDF.
 - `revisions/selichah-2026-09-16-short-readings.json`: preserved miniature-summary version, rejected as too shallow.
 - `revisions/selichah-2026-09-16-linear.json`: earlier linear version.
+- `revisions/selichah-2026-09-16-reverence.json` and `-reverence-sources.md`: preserved Psalm 130 version, rejected for its abstract organizing focus.
 - `verse_page.py` and `sample-return.json`: legacy layouts retained for rebuilding earlier versions; they do not define the current editorial standard.
 
 ## Build and review

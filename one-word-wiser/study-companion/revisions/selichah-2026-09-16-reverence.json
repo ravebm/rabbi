@@ -1,0 +1,108 @@
+{
+  "layout": "commentary-study",
+  "series": "THE RABBI’S NOTES",
+  "title": "Forgiveness",
+  "hebrew": "סְלִיחָה",
+  "pronunciation": "selichah · seh-lee-CHAH · forgiveness",
+  "verse": {
+    "hebrew_lines": [
+      "כִּי־עִמְּךָ הַסְּלִיחָה",
+      "לְמַעַן תִּוָּרֵא"
+    ],
+    "english": "But with you there is forgiveness, so that we can, with reverence, serve you.",
+    "reference": "Psalm 130:4",
+    "translation": "NIV",
+    "url": "https://www.biblegateway.com/passage/?search=Psalm+130%3A4&version=NIV"
+  },
+  "readings": [
+    {
+      "position": "upper-left",
+      "author": "Rashi",
+      "heading": "Forgiveness is with You",
+      "text": "“For forgiveness is with You”: You did not give an agent authority to forgive. … “So that You may be feared”: so that a person will not rely on another’s forgiveness.",
+      "reference": "Psalm 130:4, two glosses",
+      "url": "https://www.sefaria.org/Rashi_on_Psalms.130.4?lang=bi",
+      "selection": "Excerpts from both glosses; biblical proof text omitted.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "position": "upper-right",
+      "author": "Ibn Ezra",
+      "heading": "Others will hear and return",
+      "text": "When You forgive my sin, sinners will hear, and they too will return and abandon their sin. If You do not forgive, they will not fear You and will do whatever their hearts desire.",
+      "reference": "Psalm 130:4, full comment",
+      "url": "https://www.sefaria.org/Ibn_Ezra_on_Psalms.130.4?lang=bi",
+      "selection": "Complete commentary, excluding the opening verse lemma.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "position": "lower-left",
+      "author": "Meiri",
+      "heading": "Without hope of forgiveness",
+      "text": "Human beings cannot avoid sinning. … Had You not promised forgiveness, You would not be feared. Once a person had sinned, he would despair of forgiveness and think: since repentance will not help, it is better to fulfill my desires. Thus Your promise of forgiveness is a reason that You are feared.",
+      "reference": "Psalm 130:4, first reading",
+      "url": "https://www.sefaria.org/Meiri_on_Psalms.130.4?lang=bi",
+      "selection": "First interpretation; brief biblical allusion omitted. Alternative reading not included.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "position": "lower-right",
+      "author": "Malbim",
+      "heading": "A different kind of greatness",
+      "text": "A human being who wants to be feared will not pardon wrongdoing: if he pardons, people will not fear him, because their fear rests only on his punishment. … But with You, the cause of fear is Your greatness and exaltation. This is revealed through forgiveness, for people see that You are too exalted for them to diminish Your honor. … Thus forgiveness itself becomes the reason that You are feared.",
+      "reference": "Psalm 130:4, final argument",
+      "url": "https://www.sefaria.org/Malbim_on_Psalms.130.4?lang=bi",
+      "selection": "Excerpts from concluding paragraph. Earlier discussion of selichah not included.",
+      "verified_on": "2026-09-15"
+    }
+  ],
+  "questions": [
+    "Where do Ibn Ezra and Meiri agree? What does Malbim add to their answer?",
+    "What changes when we seek forgiveness out of love rather than fear of consequences?",
+    "What would returning after a failure require of you in practice?"
+  ],
+  "further_reading": [
+    {
+      "author": "Lawrence Kushner and Kerry M. Olitzky",
+      "title": "Sparks Beneath the Surface",
+      "url": "https://kerryolitzky.com/sacred-texts",
+      "note": "Book · “Teshuvah as Rewriting the Past,” pp. 55-56. Link opens the coauthor’s book page.",
+      "display_note": "Book · “Teshuvah as Rewriting the Past,” pp. 55-56.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "author": "Rabbi Jonathan Sacks",
+      "title": "The Birth of Forgiveness",
+      "url": "https://rabbisacks.org/covenant-conversation/vayigash/the-birth-of-forgiveness/",
+      "note": "Free essay. Joseph, Judah, and the possibility of change.",
+      "display_note": "Free essay · Joseph, Judah, and the possibility of change.",
+      "verified_on": "2026-09-15"
+    }
+  ],
+  "footer": "Commentary excerpts: working translations from Hebrew. Ellipses mark omissions. Bible verse: NIV.",
+  "status": "REVIEW COPY · SEPTEMBER 16, 2026",
+  "guiding_question": "Why does forgiveness deepen reverence?",
+  "commentary": {
+    "title": "Why forgiveness leads to reverence",
+    "label": "EXPLAINING THE READINGS",
+    "paragraphs": [
+      "The preceding verse asks who could stand if God kept a record of sins. Verse four answers with forgiveness. Then comes the surprise: <i>lema’an</i>, “so that.” Forgiveness makes reverence possible. How?",
+      "Ibn Ezra sees forgiveness encouraging others to return. Meiri follows the thought inside a person’s heart. If one failure closes the way back forever, why struggle to change? The promise of forgiveness gives repentance a purpose. Mercy can make responsibility possible because the person still has a future.",
+      "Malbim asks what kind of greatness deserves our reverence. Human authority may depend on the threat of punishment. God’s greatness can be revealed in the freedom to forgive. In this reading, mercy awakens awe: God does not need revenge to remain God.",
+      "Rashi directs the prayer toward God, who alone grants divine pardon. He does not deny that people can forgive one another. Together, these readings ask whether our understanding of God helps us return after failure."
+    ]
+  },
+  "related_teaching": {
+    "label": "A HASIDIC TEACHING",
+    "title": "Returning from love",
+    "author": "Sefat Emet",
+    "excerpt": "The brothers had already repented before, as it is written, “But we are guilty.” That was repentance from fear. But now they repented from love, and the entire sin was transformed into merit.",
+    "reference": "Genesis, Vayigash 24:4",
+    "url": "https://www.sefaria.org/Sefat_Emet%2C_Genesis%2C_Vayigash.24.4?lang=bi",
+    "verified_on": "2026-09-15",
+    "paragraphs": [
+      "The Sefat Emet reads Joseph’s reunion with his brothers as a change in the reason for their return. Earlier, they feared what their wrongdoing would bring upon them. Now love draws them toward repair. Kushner and Olitzky explore this teaching in <i>Sparks Beneath the Surface</i>, pages 55-56.",
+      "This teaching addresses the person who caused harm. It does not ask the injured person to call the harm good. What happened remains true. Repentance asks what we will do with that truth now."
+    ]
+  }
+}
