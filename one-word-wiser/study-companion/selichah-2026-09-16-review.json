@@ -1,12 +1,12 @@
 {
   "review_date": "2026-09-16",
-  "post_sha256": "cd5d8d3dacb3cf44956c748bdbd1e0d85dbbee47f2d31d6ec1c4bfa04304bd5f",
+  "post_sha256": "62594d8afa55600d2104a818240d9d3243e020bd72ada92652430ff1f9f36676",
   "sheet_sha256": "f4f2e23b64ab2a599a2cb1b49b3e33dc983786208b9e3b855112995ab55da4ec",
-  "status": "Delivery configured and verified. Article remains draft 215923540; full letter free and member PDF download below native paywall. Paid/founding automatic welcomes contain the download.",
+  "status": "Saved draft 215923540 now titled There Is No Secret to Forgiveness after Evan’s edits. Traditional-study invitation revised and trial verified; delivery configuration preserved. Earlier whole-article source checks do not verify the newer author wording.",
   "checks": {
     "title_payoff": "Pass: Joseph names harm while choosing care; conclusion returns to his response.",
     "hebrew": "Pass: selichah noun, definite article ha-, related salach verb; nasa is a separate root. Sefaria and lexical sources checked as listed in post notes.",
-    "source_fidelity": "Pass: NIV quotations and Hebrew texts freshly checked; Maimonides and Sacks claims paraphrased with sources. No invented personal story.",
+    "source_fidelity": "Pending for newer author revision: Psalm quotation and divine/human forgiveness wording changed by Evan before the invitation edit. Earlier source review remains historical; current turn preserved these edits and changed only the invitation.",
     "free_teaching": "Pass: complete unchanged letter, human application and sign-off visible in free mobile and email previews; offer follows.",
     "human_reflection": "Pass: concrete apology and repair, room for harmed person to respond; no compelled reconciliation.",
     "voice": "Pass: short paragraphs, one rabbinic anchor in letter, no Gospel echo or banned promotional language.",
@@ -58,5 +58,14 @@
     "real_signup_tested": false,
     "test_email_sent": false,
     "routing": "Same starter sheet for all new paid/founding members; no per-article attribution routing."
+  },
+  "invitation_revision": {
+    "date": "2026-09-16",
+    "author_title": "There Is No Secret to Forgiveness",
+    "scope": "Only invitation modified in Substack; newer author text and native member section preserved via exact before/after DOM comparison.",
+    "trial": "Existing seven-day free trial verified in free-subscriber preview; settings unchanged.",
+    "saved_after_reload": true,
+    "mobile_preview_checked": true,
+    "latest_preview_wording": "Final live preview showed: forgiving someone when you can’t accept what happened. Synchronized this newer wording without overwriting it in the editor."
   }
 }
