@@ -28,7 +28,7 @@ This repository is the single source of truth for Rabbi Evan Moffic's Substack p
 | `one-word-wiser/posts/` | The dated drafts, one file a day, cards in `posts/cards/` | Writers, Operators |
 | `one-word-wiser/archive/` | Retired plans kept for the record (including the two-post launch brief). Never draft from these | — |
 | `one-word-wiser/operator-brief-substack-setup.md` | Step-by-step Substack configuration with all copy inline | Operators (Hermes/Codex/Claude driving Substack) |
-| `one-word-wiser/study-companion/README.md` | Proposed weekly study page; local prototype, not an adopted paid benefit | Everyone |
+| `one-word-wiser/study-companion/README.md` | Verse-centered study-sheet template and proposed paid offer; not a live subscriber promise | Everyone |
 | `one-word-wiser/substack-audit-2026-09-14.md` | Latest consistency corrections and remaining product decisions | Everyone |
 | `one-word-wiser/handoff-prompts.md` | The exact prompt to paste into each agent, including the Codex prompt that uploads drafts to Substack | Evan |
 | `one-word-wiser/template-index.md` | Template readiness, current sources, and remaining checks | Everyone |

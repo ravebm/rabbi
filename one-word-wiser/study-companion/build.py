@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the local one-page study-companion prototype. No upload or delivery."""
+"""Build a one-page study companion from approved local copy. No delivery."""
 import argparse
 import json
 from pathlib import Path
@@ -23,6 +23,9 @@ RULE = HexColor('#D5D9DC')
 
 def build(source, output):
     data = json.loads(source.read_text())
+    if data.get('layout') == 'verse-and-four-readings':
+        from verse_page import build_verse_page
+        return build_verse_page(data, output)
     resource = data.get('further_reading')
     required = ('author', 'title', 'url', 'note', 'verified_on')
     if not isinstance(resource, dict) or any(
@@ -115,7 +118,7 @@ def build(source, output):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--source', type=Path, default=HERE/'sample-return.json')
-    parser.add_argument('--output', type=Path, default=ROOT/'output/pdf/rabbis-notes-return-prototype.pdf')
+    parser.add_argument('--source', type=Path, default=HERE/'selichah-2026-09-16.json')
+    parser.add_argument('--output', type=Path, default=ROOT/'output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf')
     args = parser.parse_args()
     build(args.source, args.output)

@@ -9,7 +9,7 @@ Checked September 14, 2026. Read AGENTS.md and pull first. This index distinguis
 | Daily letter structure | `02-daily-format.md`; `../skills/one-word-wiser/SKILL.md` | Current: word, meaning, reflection; clear human title; source checks; restrained dividers |
 | Current weekday working example | `posts/2026-09-15.md` | Listen With Your Heart: expanded free Hebrew word study, paid practice and Talmudic story; saved draft 215764876 with native paywall and mobile/email preview checked; Evan review pending |
 | Saturday and Sunday structures | `02-daily-format.md`, Saturday/Sunday sections | Current; older full samples are reference drafts, not approved templates |
-| Rabbi’s Notes | `study-companion/sample-return.json`; `study-companion/build.py` | One-page PDF builder verified; one further-reading resource required; still a product prototype |
+| Rabbi’s Notes | `study-companion/template.json`; `study-companion/selichah-2026-09-16.json`; `study-companion/build.py` | September 15 layout: one central verse, four surrounding readings, questions and further reading. One-page PDF visually verified; paid offer remains a proposal |
 | About and welcome emails | `samples/about-page.md`; `samples/welcome-email.md`; `samples/welcome-paid-email.md` | Current source copy from the September 14 consistency pass; live state must be reopened before a new edit |
 | Draft upload and scheduling handoffs | `handoff-prompts.md`; `operator-brief-substack-setup.md` | Current instructions; delivery needs current task authority |
 | Brand fonts and colors | `01-positioning.md`; `brand/fonts/` | Source fonts present; original final logos are not in the repository, only stand-ins |

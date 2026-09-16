@@ -25,7 +25,7 @@ Proposed short copy for the first companion:
 
 > **The Rabbi’s Notes**
 >
-> How do we know when someone has really changed? Explore Judah’s story and Maimonides’ teaching in a printable study sheet, with Hebrew notes and questions for reflection or discussion.
+> How can forgiveness deepen reverence? Explore one verse with four Jewish interpretations in a printable study sheet, with questions for reflection or discussion.
 >
 > Included with a paid subscription.
 
@@ -37,17 +37,17 @@ Editorial hypothesis: the complete free letter can earn trust and reach, while a
 
 - Article: `../posts/2026-09-16.md`, **Forgiveness Doesn’t Erase What Happened**. Full article is free in the review candidate.
 - Sheet source: `selichah-2026-09-16.json`.
-- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness and Repair**. Review footer identifies it as a proposed paid sheet.
+- Sheet: `../../output/pdf/rabbis-notes-forgiveness-2026-09-16.pdf`, **Forgiveness**. Review footer identifies it as a proposed paid sheet.
 - Preview: `../../output/previews/2026-09-16.html`. Local layout approximation, not an actual saved Substack mobile preview.
 - Preserved prior draft: `../posts/revisions/2026-09-16-before-free-study-pilot.md`.
 
-The sheet adds Judah’s changed choices (Genesis 37:26-27 and 44:33), Maimonides’ account of repentance and restitution, two discussion questions, a practical reflection, and one verified further-reading essay by Rabbi Jonathan Sacks. This is useful for personal study or a Bible study group. It extends the letter rather than withholding its conclusion.
+The current sheet places Psalm 130:4 in Hebrew and English at the center, surrounded by short readings from Rashi, Ibn Ezra, Meiri, and Malbim. Three questions and two further-reading links follow, including a verified Jonathan Sacks essay. It extends the letter with interpretation and discussion. The revised layout follows Evan’s September 15 request for more white space and a page inspired by the Talmud.
 
 ## Proposed invitation, after the complete letter
 
 Use only once the resource is actually attached and its paid access is verified:
 
-> For a closer look, I’ve made a one-page study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness and Repair** is included with a paid subscription.
+> For a closer look, I’ve made a one-page study sheet with the Hebrew, Jewish sources, and questions for personal reflection or a Bible study group. **The Rabbi’s Notes: Forgiveness** is included with a paid subscription.
 
 Native upgrade/subscribe button follows. Do not promise an immediate emailed attachment to someone who has already paid; the sheet is available in the post.
 
@@ -70,7 +70,7 @@ This is capability verification, not proof that the pilot is configured. Actual 
 
 Add only after the post/resource destination exists; replace the bracketed phrase with its verified link. This is an insertion for review, not a replacement for the whole welcome email:
 
-> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness and Repair], a one-page study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
+> Your subscription includes The Rabbi’s Notes. Start with [Forgiveness], a one-page study with Hebrew notes, Jewish sources, and questions you can use on your own or with a group.
 
 No claim of subscriber-specific automated routing. A new member coming from an older article should still be able to reach that article’s sheet after signing in; verify the upgrade-return flow before describing it as automatic delivery.
 

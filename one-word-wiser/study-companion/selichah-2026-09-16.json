@@ -1,42 +1,71 @@
 {
+  "layout": "verse-and-four-readings",
   "series": "THE RABBI’S NOTES",
-  "title": "Forgiveness and Repair",
+  "title": "Forgiveness",
   "hebrew": "סְלִיחָה",
   "pronunciation": "selichah · seh-lee-CHAH · forgiveness",
-  "verse": "“But with you there is forgiveness, so that we can, with reverence, serve you.”",
-  "verse_reference": "Psalm 130:4, NIV",
-  "context": "Read Psalm 130:3-4 together. The prayer imagines the weight of a record of wrongdoing, then turns toward forgiveness and a renewed relationship with God.",
-  "word_heading": "Look closely at the Hebrew",
-  "word_note": "Selichah is a noun: forgiveness. In the verse, ha-selichah includes ha-, the definite article. Salach is the related verb: to forgive. Keep the grammar distinct from the interpretation: the word does not itself mean forgetting, erasing, or rebuilding trust.",
+  "verse": {
+    "hebrew_lines": ["כִּי־עִמְּךָ הַסְּלִיחָה", "לְמַעַן תִּוָּרֵא"],
+    "english": "But with you there is forgiveness, so that we can, with reverence, serve you.",
+    "reference": "Psalm 130:4",
+    "translation": "NIV",
+    "url": "https://www.biblegateway.com/passage/?search=Psalm+130%3A4&version=NIV"
+  },
   "readings": [
     {
-      "heading": "1. What has changed in Judah?",
-      "text": "Judah once proposed selling Joseph. Years later, he offers to become a slave so that Benjamin can go home. Compare the two choices. Rabbi Jonathan Sacks reads Judah’s reversal through Maimonides’ account of repentance: faced with the chance to repeat a wrong, a changed person acts differently.",
-      "reference": "Genesis 37:26-27; 44:33; Maimonides, Repentance 2:1"
+      "position": "upper-left",
+      "author": "Rashi",
+      "heading": "Turn toward God",
+      "text": "Rashi reads this as forgiveness that God has not delegated to an angel. The prayer directs us toward God, where divine pardon is sought.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Rashi_on_Psalms.130.4?lang=bi"
     },
     {
-      "heading": "2. Why is repayment not enough?",
-      "text": "Maimonides says that someone who has wronged another must restore what is owed and seek that person’s forgiveness. Even after repaying money, there is a person to approach. Repair has a practical part and a personal part.",
-      "reference": "Maimonides, Repentance 2:9"
+      "position": "upper-right",
+      "author": "Ibn Ezra",
+      "heading": "Hope can spread",
+      "text": "When others hear that a sin has been forgiven, they may turn back too. One person’s forgiveness can encourage another person to change.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Ibn_Ezra_on_Psalms.130.4?lang=bi"
+    },
+    {
+      "position": "lower-left",
+      "author": "Meiri",
+      "heading": "A reason to try",
+      "text": "If repentance could never help, a person might give up after doing wrong. The promise of forgiveness keeps failure from becoming a reason for despair.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Meiri_on_Psalms.130.4?lang=bi"
+    },
+    {
+      "position": "lower-right",
+      "author": "Malbim",
+      "heading": "Mercy inspires awe",
+      "text": "A ruler may use punishment to make people afraid. Malbim sees God’s greatness revealed in forgiveness itself. Mercy can awaken reverence.",
+      "reference": "Commentary on Psalm 130:4",
+      "url": "https://www.sefaria.org/Malbim_on_Psalms.130.4?lang=bi"
     }
   ],
   "questions": [
-    "What makes Judah’s later choice more persuasive than an apology alone? What would changed behavior look like in an ordinary disagreement?",
-    "Why might someone still need an apology after a debt is repaid? Name one thing an apology can acknowledge that money cannot."
+    "Why might being forgiven deepen reverence?",
+    "Whose example has helped you believe that change is possible?",
+    "Does forgiveness make you more accountable, or less? Why?"
   ],
-  "closing": "For reflection: What can I put right before I ask to be forgiven?",
-  "further_reading": {
-    "author": "Rabbi Jonathan Sacks",
-    "title": "The Birth of Forgiveness",
-    "url": "https://rabbisacks.org/covenant-conversation/vayigash/the-birth-of-forgiveness/",
-    "note": "A reading of Joseph, Judah, and the possibility of becoming a different person.",
-    "verified_on": "2026-09-15"
-  },
-  "sources": [
-    {"label":"Psalm 130:3-4","url":"https://www.biblegateway.com/passage/?search=Psalm+130%3A3-4&version=NIV"},
-    {"label":"Genesis 37:26-27; 44:33","url":"https://www.biblegateway.com/passage/?search=Genesis+37%3A26-27%3B44%3A33&version=NIV"},
-    {"label":"Repentance 2:1","url":"https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.1?lang=bi"},
-    {"label":"Repentance 2:9","url":"https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.9?lang=bi"}
+  "further_reading": [
+    {
+      "author": "Rabbi Jonathan Sacks",
+      "title": "The Birth of Forgiveness",
+      "url": "https://rabbisacks.org/covenant-conversation/vayigash/the-birth-of-forgiveness/",
+      "note": "Joseph, Judah, and the possibility of change.",
+      "verified_on": "2026-09-15"
+    },
+    {
+      "author": "Psalm 130",
+      "title": "Read the whole prayer",
+      "url": "https://www.biblegateway.com/passage/?search=Psalm+130&version=NIV",
+      "note": "From the depths toward hope.",
+      "verified_on": "2026-09-15"
+    }
   ],
-  "status": "REVIEW COPY FOR RABBI EVAN MOFFIC · SEPTEMBER 16, 2026 · PROPOSED PAID STUDY SHEET"
+  "footer": "Commentaries paraphrased from the source texts. Bible quotation: NIV.",
+  "status": "REVIEW COPY · SEPTEMBER 16, 2026"
 }
