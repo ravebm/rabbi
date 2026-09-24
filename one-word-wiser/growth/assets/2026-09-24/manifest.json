@@ -1,0 +1,30 @@
+{
+  "prepared_at": "2026-09-24T09:17:42.619419-05:00",
+  "publication": "One Word Wiser",
+  "public_domain": "rabbi.substack.com",
+  "channel": "Substack Notes",
+  "status": "prepared_for_review",
+  "source_post_url": "https://rabbi.substack.com/p/is-there-a-hebrew-word-for-amazing",
+  "source_post_title": "Is There a Hebrew Word for Amazing Grace?",
+  "source_post_date": "2026-09-17",
+  "source_verification": "Live post read September 24; latest displayed on publication home. Current title preserved. Free/paid boundary reuses September 17 checked free-preview record; source text above that boundary remains present in the live post.",
+  "note_file": "note.md",
+  "note_sha256": "18003af47c4d1e32285d924a4c1106559b552ccdbb0a360c912a02c1973d94b9",
+  "word_count_excluding_url": 69,
+  "card_file": "chesed-word-card.png",
+  "card_sha256": "8dbdecb96a34bd61d6cc77066312818a99f27bbcf8dbb8889de839befeecc7ff",
+  "card_dimensions": [
+    1200,
+    675
+  ],
+  "alt_text": "Cream and navy One Word Wiser card showing the Hebrew word חֶסֶד with vowel marks, the transliteration chesed, and the meaning lovingkindness.",
+  "asset_review": "Visually inspected final PNG: correct right-to-left letters, segol marks beneath chet and samekh, readable transliteration and gloss, no clipping, no date or morning/evening label.",
+  "publication_approval": null,
+  "published_at": null,
+  "public_note_url": null,
+  "x_account_confirmed": false,
+  "measurements": {
+    "72h": null,
+    "7d": null
+  }
+}
